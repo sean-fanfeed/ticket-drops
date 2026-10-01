@@ -1,0 +1,14 @@
+# Secrets - never commit
+.env
+*.key
+*.pem
+
+# Local-run output. CI publishes to docs/ instead, which IS committed.
+out/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

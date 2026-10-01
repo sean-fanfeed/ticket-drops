@@ -1,0 +1,44 @@
+name: Daily ticket drops
+
+on:
+  schedule:
+    # 12:40 UTC. In Denver that is 06:40 MDT / 05:40 MST.
+    # Deliberately ~20 min ahead of the Morning Brief routine (13:03 UTC):
+    # GitHub's scheduler is best-effort and routinely runs late under load, and
+    # the brief needs the digest to already be on the ntfy topic when it fetches.
+    - cron: "40 12 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-drops
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull, score and publish
+        env:
+          TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          SEATGEEK_CLIENT_ID: ${{ secrets.SEATGEEK_CLIENT_ID }}
+          EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
+        run: python3 ticketdrops.py --out-dir docs --page-name index.html
+
+      - name: Commit the day's page
+        run: |
+          git config user.name  "ticket-drops bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs state.json
+          git diff --staged --quiet && echo "nothing changed" && exit 0
+          git commit -m "drops $(date -u +%Y-%m-%d)"
+          git push

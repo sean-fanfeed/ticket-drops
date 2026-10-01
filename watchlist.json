@@ -1,0 +1,11 @@
+{
+  "_comment": "Artists that reliably resell well. Checked separately from the 14-day window, and given a scoring bonus wherever they appear. Aliases help when Ticketmaster spells a name differently.",
+  "artists": [
+    {
+      "name": "Omar Adam",
+      "aliases": ["Omer Adam"],
+      "added": "2026-10-01",
+      "why": "Seeded by Sean. Note: Ticketmaster most often lists this artist as 'Omer Adam' - both spellings are searched."
+    }
+  ]
+}
