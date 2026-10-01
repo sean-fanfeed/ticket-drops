@@ -352,8 +352,17 @@ def normalise(ev: dict) -> dict:
                       or ((ev.get("dates") or {}).get("start") or {}).get("localDate"),
         "onsale_start": public.get("startDateTime"),
         "onsale_end": public.get("endDateTime"),
+        # Only ~13% of presales carry a signup url; the rest explain access in
+        # description/shortDescription ("Live Nation All Access members..."), so
+        # keep both and let the page show whichever exists.
         "presales": [
-            {"name": p.get("name"), "start": p.get("startDateTime"), "end": p.get("endDateTime")}
+            {
+                "name": p.get("name"),
+                "start": p.get("startDateTime"),
+                "end": p.get("endDateTime"),
+                "url": p.get("url") or "",
+                "how": (p.get("shortDescription") or p.get("description") or "")[:180],
+            }
             for p in presales
         ],
         "price_min": pmin,
@@ -420,8 +429,10 @@ def score_event(e: dict, cfg: dict, watch_names: set, seatgeek: dict | None) -> 
     if not cap:
         confidence = "low" if confidence != "low" else "low"
 
+    who = e["artists"][0] if e["artists"] else e["name"]
     return {
         **e,
+        "seatgeek_url": "https://seatgeek.com/search?" + urllib.parse.urlencode({"search": who}),
         "score": int(round(max(0, min(100, total)))),
         "score_parts": parts,
         "confidence": confidence,
@@ -465,7 +476,7 @@ def estimate_resale_multiple(e: dict, cfg: dict, seatgeek: dict | None, on_watch
 # ----------------------------------------------------------------------------
 
 def ntfy_post(topic: str, title: str, body: str, tags: str = "", click: str = "",
-              priority: str = "default", dry: bool = False) -> bool:
+              priority: str = "default", dry: bool = False, actions: str = "") -> bool:
     if dry:
         log.info("[dry-run] ntfy %s | %s | %s", topic, title, body.replace("\n", " / ")[:120])
         return True
@@ -478,6 +489,8 @@ def ntfy_post(topic: str, title: str, body: str, tags: str = "", click: str = ""
         headers["Tags"] = tags
     if click:
         headers["Click"] = click
+    if actions:
+        headers["Actions"] = actions
     req = urllib.request.Request(
         f"{NTFY_BASE}/{topic}", data=body.encode("utf-8"), headers=headers, method="POST"
     )
@@ -572,6 +585,7 @@ def write_brief(events: list, meta: dict, tz: int) -> str:
         lines.append(f"  {e['score']} - {who}")
         lines.append(f"  {e['venue']}, {e['city']} {e['state']}".rstrip())
         lines.append(f"  On sale {local_str(e['onsale_start'], tz)} ({when_str(e['onsale_start'])})")
+        lines.append(f"  Event {local_str(e['event_date'], tz)}")
         lines.append(f"  Face {face_str(e)} - est. resale {resale_str(e)} ({e['confidence']} conf)")
     text = "\n".join(lines)
     OUT.mkdir(parents=True, exist_ok=True)
@@ -582,70 +596,132 @@ def write_brief(events: list, meta: dict, tz: int) -> str:
 PAGE_CSS = """
 *{box-sizing:border-box}
 :root{--bg:#F5F6F8;--card:#FFF;--ink:#14181F;--ink2:#515A68;--ink3:#8A94A2;
---rule:#E2E6EB;--hot:#B3341F;--warm:#9A6410;--cool:#2F6B8F;--chipbg:#EEF1F4}
+--rule:#E2E6EB;--hot:#B3341F;--warm:#9A6410;--cool:#2F6B8F;--chipbg:#EEF1F4;
+--btn:#FFF;--btnon:#14181F;--btnonink:#FFF}
 @media(prefers-color-scheme:dark){:root{--bg:#0F1216;--card:#181C22;--ink:#E8ECF1;
 --ink2:#A2ACB9;--ink3:#79838F;--rule:#272E37;--hot:#E4765E;--warm:#D2A054;
---cool:#6FA8CC;--chipbg:#20262E}}
+--cool:#6FA8CC;--chipbg:#20262E;--btn:#181C22;--btnon:#E8ECF1;--btnonink:#0F1216}}
 html,body{margin:0}
 body{background:var(--bg);color:var(--ink);font:15px/1.45 -apple-system,BlinkMacSystemFont,
 "Segoe UI",Roboto,sans-serif;-webkit-text-size-adjust:100%}
 .wrap{max-width:720px;margin:0 auto;padding:18px 16px 56px}
-header{margin-bottom:18px}
+header{margin-bottom:14px}
 h1{font-size:23px;margin:0 0 4px;letter-spacing:-.01em}
 .sub{color:var(--ink3);font-size:13px}
+.controls{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;
+background:var(--bg);padding:10px 0 12px;margin-bottom:4px;border-bottom:1px solid var(--rule)}
+.crow{display:flex;gap:6px;align-items:center;overflow-x:auto;padding-bottom:6px;
+-webkit-overflow-scrolling:touch;scrollbar-width:none}
+.crow::-webkit-scrollbar{display:none}
+.crow+.crow{padding-bottom:0}
+.lab{font-size:11px;color:var(--ink3);text-transform:uppercase;letter-spacing:.06em;
+flex:0 0 auto;margin-right:2px}
+.btn{flex:0 0 auto;font:inherit;font-size:13px;padding:6px 11px;border-radius:999px;
+border:1px solid var(--rule);background:var(--btn);color:var(--ink2);cursor:pointer;
+white-space:nowrap;-webkit-tap-highlight-color:transparent}
+.btn[aria-pressed="true"]{background:var(--btnon);color:var(--btnonink);border-color:var(--btnon);
+font-weight:600}
+.btn:focus-visible{outline:2px solid var(--cool);outline-offset:2px}
+.sep{flex:0 0 auto;width:1px;height:20px;background:var(--rule);margin:0 3px}
+.count{font-size:12.5px;color:var(--ink3);padding:8px 0 2px}
 .ev{background:var(--card);border:1px solid var(--rule);border-radius:12px;
 padding:14px;margin-bottom:12px;display:grid;grid-template-columns:46px 1fr;gap:12px}
 .sc{font-weight:700;font-size:19px;text-align:center;padding-top:1px;font-variant-numeric:tabular-nums}
-.s90{color:var(--hot)}.s75{color:var(--warm)}.s60{color:var(--cool)}
+.s75{color:var(--hot)}.s70{color:var(--warm)}.s60{color:var(--cool)}
 .ttl{font-weight:600;font-size:16px;line-height:1.25;margin:0 0 2px}
 .ttl a{color:inherit;text-decoration:none}
 .vn{color:var(--ink2);font-size:13.5px;margin-bottom:8px}
-.when{font-size:14px;font-weight:600;margin-bottom:2px}
+.when{font-size:14px;font-weight:600}
 .ago{color:var(--ink3);font-weight:400}
-.money{font-size:13.5px;color:var(--ink2);font-variant-numeric:tabular-nums}
-.chips{margin-top:9px;display:flex;flex-wrap:wrap;gap:5px}
+.ed{font-size:13.5px;color:var(--ink2);margin-top:1px}
+.money{font-size:13.5px;color:var(--ink2);font-variant-numeric:tabular-nums;margin-top:3px}
+.chips{margin-top:9px;display:flex;flex-wrap:wrap;gap:5px;align-items:center}
 .chip{background:var(--chipbg);color:var(--ink2);font-size:11px;padding:3px 7px;
 border-radius:5px;white-space:nowrap}
 .chip.w{background:var(--hot);color:#fff}
+.sg{margin-left:auto;font-size:12px;font-weight:600;text-decoration:none;color:var(--cool);
+border:1px solid var(--rule);padding:4px 9px;border-radius:999px;white-space:nowrap}
+.sg:hover{border-color:var(--cool)}
+.tabs{display:flex;gap:6px;margin-bottom:10px}
+.tab{flex:1 1 0;font:inherit;font-size:14px;font-weight:600;padding:9px 8px;border-radius:10px;
+border:1px solid var(--rule);background:var(--btn);color:var(--ink2);cursor:pointer;
+-webkit-tap-highlight-color:transparent}
+.tab[aria-selected="true"]{background:var(--btnon);color:var(--btnonink);border-color:var(--btnon)}
+.tab:focus-visible{outline:2px solid var(--cool);outline-offset:2px}
+.tab .n{font-weight:400;opacity:.65}
+.pre{margin-top:10px;padding-top:10px;border-top:1px solid var(--rule)}
+.pre h4{margin:0 0 6px;font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+color:var(--ink3);font-weight:600}
+.pre ul{margin:0;padding:0;list-style:none;display:flex;flex-direction:column;gap:7px}
+.pre li{font-size:13px;line-height:1.35}
+.pre .pn{font-weight:600;color:var(--ink)}
+.pre .pt{color:var(--ink3);font-variant-numeric:tabular-nums}
+.pre .pt.live{color:var(--hot);font-weight:600}
+.pre .how{color:var(--ink3);font-size:12px;display:block;margin-top:1px}
+.pre a.sig{color:var(--cool);font-weight:600;text-decoration:none;font-size:12.5px}
+.pre a.sig:hover{text-decoration:underline}
+.done{display:flex;align-items:center;gap:8px;margin-top:11px;padding-top:10px;
+border-top:1px solid var(--rule);font-size:13px;color:var(--ink2);cursor:pointer;user-select:none}
+.done input{width:18px;height:18px;accent-color:var(--cool);flex:0 0 auto}
+.ev.signed{opacity:.5}
+.ev.signed .ttl{text-decoration:line-through}
 footer{margin-top:28px;color:var(--ink3);font-size:12px;line-height:1.6}
 .empty{background:var(--card);border:1px dashed var(--rule);border-radius:12px;
 padding:28px 16px;text-align:center;color:var(--ink3)}
 """
 
 
-def write_page(events: list, meta: dict, tz: int) -> None:
+def live_presales(presales: list) -> list:
+    """Presales worth acting on: drop anything whose window has already closed,
+    and mark the ones open right now. A presale that started two days ago may
+    still be running - the end time is what decides, not the start."""
+    now = datetime.now(timezone.utc)
+    out = []
+    for pr in presales:
+        start, end = parse_dt(pr["start"]), parse_dt(pr["end"])
+        if end and end < now:
+            continue
+        if start and start <= now:
+            when = "live now" + (f" \u00b7 ends {local_str(pr['end'])}" if end else "")
+        else:
+            when = local_str(pr["start"])
+        out.append({"n": pr["name"], "t": when, "u": pr["url"], "how": pr["how"],
+                    "live": bool(start and start <= now)})
+    # soonest first, but anything already open floats to the top
+    out.sort(key=lambda x: (not x["live"],))
+    return out
+
+
+def write_page(events: list, meta: dict, tz=None) -> None:
+    """Interactive page: data is embedded and the rows are rendered client-side,
+    so sorting and filtering work from a static file with no server."""
     rows = []
     for e in events:
-        cls = "s90" if e["score"] >= 90 else ("s75" if e["score"] >= 75 else "s60")
-        who = html.escape(", ".join(e["artists"][:2]) or e["name"])
-        link = html.escape(e["url"] or "")
-        title = f'<a href="{link}" target="_blank" rel="noopener">{who}</a>' if link else who
-        where = html.escape(f"{e['venue']}, {e['city']} {e['state']}".strip().strip(","))
-        chips = []
-        if e["on_watchlist"]:
-            chips.append('<span class="chip w">watchlist</span>')
-        # the watchlist chip above already says this - don't say it twice
-        for r in [r for r in e["reasons"] if r != "on your watchlist"][:3]:
-            chips.append(f'<span class="chip">{html.escape(r)}</span>')
-        chips.append(f'<span class="chip">{html.escape(e["confidence"])} conf</span>')
-        rows.append(f"""
-      <article class="ev">
-        <div class="sc {cls}">{e['score']}</div>
-        <div>
-          <p class="ttl">{title}</p>
-          <div class="vn">{where}</div>
-          <div class="when">{html.escape(local_str(e['onsale_start'], tz))}
-            <span class="ago">· {html.escape(when_str(e['onsale_start']))}</span></div>
-          <div class="money">Face {html.escape(face_str(e))} &nbsp;·&nbsp;
-            est. resale {html.escape(resale_str(e))}</div>
-          <div class="chips">{''.join(chips)}</div>
-        </div>
-      </article>""")
+        rows.append({
+            "s": e["score"],
+            "who": ", ".join(e["artists"][:2]) or e["name"],
+            "where": f"{e['venue']}, {e['city']} {e['state']}".strip().strip(","),
+            "on": e["onsale_start"],
+            "onTxt": local_str(e["onsale_start"]),
+            "onAgo": when_str(e["onsale_start"]),
+            "onDay": (to_local(parse_dt(e["onsale_start"])).strftime("%Y-%m-%d")
+                      if parse_dt(e["onsale_start"]) else ""),
+            "ev": e["event_date"],
+            "evTxt": local_str(e["event_date"]),
+            "face": face_str(e),
+            "res": resale_str(e),
+            "seg": (e["segment"] or "").lower(),
+            "act": (e["artists"][0] if e["artists"] else e["name"]).lower(),
+            "id": e["id"],
+            "pre": live_presales(e["presales"])[:5],
+            "nPre": len(live_presales(e["presales"])),
+            "w": bool(e["on_watchlist"]),
+            "url": e["url"],
+            "sg": e["seatgeek_url"],
+            "tags": [r for r in e["reasons"] if r != "on your watchlist"][:2] + [f"{e['confidence']} conf"],
+        })
 
-    body = "\n".join(rows) if rows else (
-        f'<div class="empty">Nothing scored {meta["threshold"]}+ today.<br>'
-        f'Checked {meta["scanned"]} on-sales across the next {meta["days"]} days.</div>'
-    )
+    today_local = to_local(datetime.now(timezone.utc)).strftime("%Y-%m-%d")
 
     page = f"""<!doctype html>
 <html lang="en"><head>
@@ -661,17 +737,214 @@ def write_page(events: list, meta: dict, tz: int) -> None:
 </head><body><div class="wrap">
   <header>
     <h1>Ticket drops</h1>
-    <div class="sub">{meta['generated_local']} · {len(events)} scoring {meta['threshold']}+
-      of {meta['scanned']} on-sales · sorted by on-sale time</div>
+    <div class="sub">{meta['generated_local']} &middot; {len(events)} scoring
+      {meta['threshold']}+ of {meta['scanned']} on-sales</div>
   </header>
-{body}
+
+  <div class="tabs" role="tablist">
+    <button class="tab" role="tab" data-tab="today" aria-selected="true">
+      On sale today <span class="n" id="nToday"></span></button>
+    <button class="tab" role="tab" data-tab="later" aria-selected="false">
+      Upcoming &amp; presales <span class="n" id="nLater"></span></button>
+  </div>
+
+  <div class="controls">
+    <div class="crow" role="group" aria-label="Sort">
+      <span class="lab">Sort</span>
+      <button class="btn" data-sort="score" aria-pressed="true">Score</button>
+      <button class="btn" data-sort="onsale" aria-pressed="false">On sale</button>
+      <button class="btn" data-sort="event" aria-pressed="false">Concert date</button>
+    </div>
+    <div class="crow" role="group" aria-label="Filter">
+      <span class="lab">Show</span>
+      <button class="btn" data-min="60" aria-pressed="true">60+</button>
+      <button class="btn" data-min="70" aria-pressed="false">70+</button>
+      <button class="btn" data-min="75" aria-pressed="false">75+</button>
+      <span class="sep"></span>
+      <button class="btn" data-seg="all" aria-pressed="true">All</button>
+      <button class="btn" data-seg="music" aria-pressed="false">Music</button>
+      <button class="btn" data-seg="sports" aria-pressed="false">Sports</button>
+      <span class="sep"></span>
+      <button class="btn" data-watch="1" aria-pressed="false">&#9733; Watchlist</button>
+      <button class="btn" data-best="1" aria-pressed="true">Best per act</button>
+    </div>
+  </div>
+
+  <div class="count" id="count"></div>
+  <div id="list"></div>
+
   <footer>
-    Scores are research, not guarantees. Resale estimates come from a genre table,
-    not live listings &mdash; add a SeatGeek client id to <code>.env</code> to score
-    against real resale prices. Ticket-resale rules vary by state, venue and tour;
-    check transferability before buying.
+    Scores are research, not guarantees. Resale figures are genre-table estimates,
+    not live listings &mdash; tap <b>SeatGeek</b> on any row to see what it is actually
+    reselling for. Ticket-resale rules vary by state, venue and tour; check
+    transferability before buying.
   </footer>
-</div></body></html>
+</div>
+<script>
+const DATA = {json.dumps(rows)};
+const TODAY = "{today_local}";
+const S = {{tab:"today", sort:"score", min:60, seg:"all", watch:false, best:true}};
+try {{ Object.assign(S, JSON.parse(localStorage.getItem("drops:view") || "{{}}")); }} catch (e) {{}}
+
+// which shows you have already registered for, so the upcoming list can shrink
+let SIGNED = {{}};
+try {{ SIGNED = JSON.parse(localStorage.getItem("drops:signedup") || "{{}}"); }} catch (e) {{}}
+const saveSigned = () => {{
+  try {{ localStorage.setItem("drops:signedup", JSON.stringify(SIGNED)); }} catch (e) {{}}
+}};
+const onToday = d => d.onDay === TODAY;  // both are LOCAL calendar dates
+
+const esc = t => String(t == null ? "" : t).replace(/[&<>"]/g,
+  c => ({{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}})[c]);
+const FAR = "9999";
+
+function view() {{
+  let r = DATA.filter(d => d.s >= S.min
+    && (S.seg === "all" || d.seg === S.seg)
+    && (!S.watch || d.w)
+    && (S.tab === "today" ? onToday(d) : !onToday(d)));
+  if (S.best) {{
+    const keep = new Map();
+    for (const d of r) {{
+      const cur = keep.get(d.act);
+      if (!cur) keep.set(d.act, Object.assign({{}}, d, {{more: 0}}));
+      else {{
+        cur.more++;
+        if (d.s > cur.s) {{ const m = cur.more; keep.set(d.act, Object.assign({{}}, d, {{more: m}})); }}
+      }}
+    }}
+    r = [...keep.values()];
+  }}
+  // on the upcoming tab, anything already signed up for sinks to the bottom
+  if (S.tab === "later") r.sort((a, b) => (SIGNED[a.id] ? 1 : 0) - (SIGNED[b.id] ? 1 : 0));
+  r.sort((a, b) =>
+    (S.tab === "later" ? (SIGNED[a.id] ? 1 : 0) - (SIGNED[b.id] ? 1 : 0) : 0) ||
+    (S.sort === "score"  ? b.s - a.s || (a.on || FAR).localeCompare(b.on || FAR)
+  : S.sort === "onsale" ? (a.on || FAR).localeCompare(b.on || FAR) || b.s - a.s
+  :                       (a.ev || FAR).localeCompare(b.ev || FAR) || b.s - a.s));
+  return r;
+}}
+
+function counts() {{
+  const base = DATA.filter(d => d.s >= S.min
+    && (S.seg === "all" || d.seg === S.seg) && (!S.watch || d.w));
+  const t = base.filter(onToday).length;
+  document.getElementById("nToday").textContent = t;
+  document.getElementById("nLater").textContent = base.length - t;
+}}
+
+function presaleBlock(d) {{
+  if (S.tab !== "later" || !d.pre.length) return "";
+  const items = d.pre.map(p => {{
+    const link = p.u
+      ? ' <a class="sig" href="' + esc(p.u) + '" target="_blank" rel="noopener">Sign up \u2197</a>'
+      : "";
+    const how = (!p.u && p.how) ? '<span class="how">' + esc(p.how) + '</span>' : "";
+    const t = p.live
+      ? '<span class="pt live">\u00b7 ' + esc(p.t) + '</span>'
+      : '<span class="pt">\u00b7 ' + esc(p.t) + '</span>';
+    return '<li><span class="pn">' + esc(p.n) + '</span> ' + t + link + how + '</li>';
+  }}).join("");
+  const extra = d.nPre > d.pre.length
+    ? '<li class="pt">+' + (d.nPre - d.pre.length) + ' more presale(s)</li>' : "";
+  return '<div class="pre"><h4>Presales \u2014 register before the on-sale</h4><ul>'
+    + items + extra + '</ul></div>';
+}}
+
+function render() {{
+  counts();
+  const r = view();
+  const label = S.sort === "score" ? "highest score first"
+              : S.sort === "onsale" ? "soonest on-sale first" : "closest concert first";
+  document.getElementById("count").textContent =
+    r.length + (r.length === 1 ? " drop" : " drops") + " · " + label;
+
+  document.getElementById("list").innerHTML = r.length ? r.map(d => {{
+    const cls = d.s >= 75 ? "s75" : d.s >= 70 ? "s70" : "s60";
+    const signed = (S.tab === "later" && SIGNED[d.id]) ? " signed" : "";
+    const title = d.url
+      ? '<a href="' + esc(d.url) + '" target="_blank" rel="noopener">' + esc(d.who) + '</a>'
+      : esc(d.who);
+    const more = d.more ? '<span class="chip">+' + d.more + ' more date'
+      + (d.more > 1 ? 's' : '') + '</span>' : "";
+    const chips = (d.w ? '<span class="chip w">watchlist</span>' : "") + more
+      + d.tags.map(t => '<span class="chip">' + esc(t) + '</span>').join("");
+    return '<article class="ev' + signed + '">'
+      + '<div class="sc ' + cls + '">' + d.s + '</div><div>'
+      + '<p class="ttl">' + title + '</p>'
+      + '<div class="vn">' + esc(d.where) + '</div>'
+      + '<div class="when">On sale ' + esc(d.onTxt)
+      + ' <span class="ago">· ' + esc(d.onAgo) + '</span></div>'
+      + '<div class="ed">Concert ' + esc(d.evTxt) + '</div>'
+      + '<div class="money">Face ' + esc(d.face) + ' · est. resale ' + esc(d.res) + '</div>'
+      + '<div class="chips">' + chips
+      + '<a class="sg" href="' + esc(d.sg) + '" target="_blank" rel="noopener">SeatGeek ↗</a>'
+      + '</div>'
+      + presaleBlock(d)
+      + (S.tab === "later"
+          ? '<label class="done"><input type="checkbox" data-sign="' + esc(d.id) + '"'
+            + (SIGNED[d.id] ? " checked" : "") + '> Signed up</label>'
+          : "")
+      + '</div></article>';
+  }}).join("") : '<div class="empty">' + (S.tab === "today"
+      ? "Nothing goes on sale today at this filter."
+      : "Nothing upcoming matches that filter.") + '</div>';
+
+  document.querySelectorAll("[data-sign]").forEach(cb => {{
+    cb.addEventListener("change", () => {{
+      if (cb.checked) SIGNED[cb.dataset.sign] = true; else delete SIGNED[cb.dataset.sign];
+      saveSigned();
+      render();
+    }});
+  }});
+}}
+
+function wire(attr, apply) {{
+  document.querySelectorAll("[data-" + attr + "]").forEach(b => {{
+    b.addEventListener("click", () => {{
+      apply(b.dataset[attr]);
+      const toggle = (attr === "watch" || attr === "best");
+      if (toggle) b.setAttribute("aria-pressed", String(attr === "watch" ? S.watch : S.best));
+      else document.querySelectorAll("[data-" + attr + "]").forEach(o =>
+        o.setAttribute("aria-pressed", String(o === b)));
+      try {{ localStorage.setItem("drops:view", JSON.stringify(S)); }} catch (e) {{}}
+      render();
+    }});
+  }});
+}}
+wire("sort",  v => S.sort = v);
+wire("min",   v => S.min = +v);
+wire("seg",   v => S.seg = v);
+wire("watch", () => S.watch = !S.watch);
+wire("best",  () => S.best = !S.best);
+
+document.querySelectorAll("[data-tab]").forEach(b => {{
+  b.addEventListener("click", () => {{
+    S.tab = b.dataset.tab;
+    document.querySelectorAll("[data-tab]").forEach(o =>
+      o.setAttribute("aria-selected", String(o === b)));
+    try {{ localStorage.setItem("drops:view", JSON.stringify(S)); }} catch (e) {{}}
+    render();
+  }});
+}});
+document.querySelectorAll("[data-tab]").forEach(b =>
+  b.setAttribute("aria-selected", String(b.dataset.tab === S.tab)));
+
+// reflect restored state on the buttons
+document.querySelectorAll("[data-sort]").forEach(b =>
+  b.setAttribute("aria-pressed", String(b.dataset.sort === S.sort)));
+document.querySelectorAll("[data-min]").forEach(b =>
+  b.setAttribute("aria-pressed", String(+b.dataset.min === S.min)));
+document.querySelectorAll("[data-seg]").forEach(b =>
+  b.setAttribute("aria-pressed", String(b.dataset.seg === S.seg)));
+document.querySelectorAll("[data-watch]").forEach(b =>
+  b.setAttribute("aria-pressed", String(S.watch)));
+document.querySelectorAll("[data-best]").forEach(b =>
+  b.setAttribute("aria-pressed", String(S.best)));
+
+render();
+</script>
+</body></html>
 """
     OUT.mkdir(parents=True, exist_ok=True)
     (OUT / PAGE_NAME).write_text(page, encoding="utf-8")
@@ -833,6 +1106,7 @@ def main() -> int:
             body += f"\n+{n_extra} more date(s) for this act"
         tags = "ticket,fire" if e["score"] >= 75 else "ticket"
         ntfy_post(topic, title, body, tags=tags, click=e["url"],
+                  actions=f"view, SeatGeek, {e['seatgeek_url']}",
                   priority="high" if e["score"] >= 75 else "default", dry=args.dry_run)
         time.sleep(0.3)
 
