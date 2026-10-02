@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-02T18:01:26Z",
-    "generated_local": "Fri 2 Oct, 12:01 PM",
-    "scanned": 1081,
+    "generated_utc": "2026-10-02T18:33:04Z",
+    "generated_local": "Fri 2 Oct, 12:33 PM",
+    "scanned": 1082,
     "surfaced": 315,
-    "new": 54,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -22933,11 +22933,11 @@
       "onsale_end": "2027-07-31T23:00:00Z",
       "presales": [
         {
-          "name": "Amex Presale Tickets",
+          "name": "Amex Presale Tickets\u00ae",
           "start": "2026-10-07T14:00:00Z",
           "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for American Express Cardholders"
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Available for Card Members, while supplies last. Terms apply."
         },
         {
           "name": "AEG Presale",
@@ -22952,6 +22952,41 @@
           "end": "2026-10-09T02:00:00Z",
           "url": "",
           "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Verified Diehards Presale",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Verified Strays Presale",
+          "start": "2026-10-05T17:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "RCS App User Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-07-27T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -22977,7 +23012,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.8x face",
-        "3 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -24545,6 +24580,27 @@
       "onsale_end": "2027-01-30T01:00:00Z",
       "presales": [
         {
+          "name": "Verified Diehards Presale",
+          "start": "2026-10-05T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-05T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Verified Strays Presale",
+          "start": "2026-10-05T18:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
           "name": "RCS App Presale",
           "start": "2026-10-06T15:00:00Z",
           "end": "2026-10-09T03:00:00Z",
@@ -24571,6 +24627,13 @@
           "end": "2026-10-09T03:00:00Z",
           "url": "",
           "how": "EPC Insiders Presale Ticketmaster Presale Radio Presale"
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2027-01-25T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -24595,7 +24658,7 @@
         "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
-        "4 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
