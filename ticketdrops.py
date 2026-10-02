@@ -1120,14 +1120,16 @@ def main() -> int:
         log.error("config.json missing or unreadable")
         return 1
 
+    # Must come before the NTFY_TOPIC guard: the sync step runs as its own CI
+    # job and is only given WATCHLIST_TOPIC.
+    if args.sync_watchlist:
+        sync_watchlist(env)
+        return 0
+
     topic = env.get("NTFY_TOPIC", "").strip()
     if not topic:
         log.error("NTFY_TOPIC is not set in .env")
         return 1
-
-    if args.sync_watchlist:
-        sync_watchlist(env)
-        return 0
 
     if args.test_ping:
         ok = ntfy_post(
