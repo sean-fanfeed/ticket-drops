@@ -3,7 +3,9 @@
   "artists": [
     {
       "name": "Omar Adam",
-      "aliases": ["Omer Adam"],
+      "aliases": [
+        "Omer Adam"
+      ],
       "added": "2026-10-01",
       "why": "Seeded by Sean. Note: Ticketmaster most often lists this artist as 'Omer Adam' - both spellings are searched."
     }

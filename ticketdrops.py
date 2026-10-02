@@ -663,8 +663,14 @@ color:var(--ink3);font-weight:600}
 .done{display:flex;align-items:center;gap:8px;margin-top:11px;padding-top:10px;
 border-top:1px solid var(--rule);font-size:13px;color:var(--ink2);cursor:pointer;user-select:none}
 .done input{width:18px;height:18px;accent-color:var(--cool);flex:0 0 auto}
-.ev.signed{opacity:.5}
-.ev.signed .ttl{text-decoration:line-through}
+.ev.signed{opacity:.55}
+.acts{display:flex;gap:6px;flex-direction:column;align-items:center;padding-top:2px}
+.ico{width:30px;height:30px;border-radius:8px;border:1px solid var(--rule);background:var(--btn);
+color:var(--ink3);font-size:14px;line-height:1;cursor:pointer;display:flex;align-items:center;
+justify-content:center;padding:0;-webkit-tap-highlight-color:transparent}
+.ico:hover{border-color:var(--ink3);color:var(--ink)}
+.ico.on{background:var(--hot);border-color:var(--hot);color:#fff}
+.ico:focus-visible{outline:2px solid var(--cool);outline-offset:2px}
 footer{margin-top:28px;color:var(--ink3);font-size:12px;line-height:1.6}
 .empty{background:var(--card);border:1px dashed var(--rule);border-radius:12px;
 padding:28px 16px;text-align:center;color:var(--ink3)}
@@ -712,6 +718,7 @@ def write_page(events: list, meta: dict, tz=None) -> None:
             "res": resale_str(e),
             "seg": (e["segment"] or "").lower(),
             "act": (e["artists"][0] if e["artists"] else e["name"]).lower(),
+            "actName": e["artists"][0] if e["artists"] else e["name"],
             "id": e["id"],
             "pre": live_presales(e["presales"])[:5],
             "nPre": len(live_presales(e["presales"])),
@@ -722,6 +729,7 @@ def write_page(events: list, meta: dict, tz=None) -> None:
         })
 
     today_local = to_local(datetime.now(timezone.utc)).strftime("%Y-%m-%d")
+    watch_topic = os.environ.get("WATCHLIST_TOPIC", "") or load_env(HERE / ".env").get("WATCHLIST_TOPIC", "")
 
     page = f"""<!doctype html>
 <html lang="en"><head>
@@ -768,6 +776,12 @@ def write_page(events: list, meta: dict, tz=None) -> None:
       <button class="btn" data-watch="1" aria-pressed="false">&#9733; Watchlist</button>
       <button class="btn" data-best="1" aria-pressed="true">Best per act</button>
     </div>
+    <div class="crow" role="group" aria-label="Status">
+      <span class="lab">Status</span>
+      <button class="btn" data-st="active" aria-pressed="true">To do <span id="nA"></span></button>
+      <button class="btn" data-st="signed" aria-pressed="false">Signed up <span id="nS"></span></button>
+      <button class="btn" data-st="trash" aria-pressed="false">Trashed <span id="nT"></span></button>
+    </div>
   </div>
 
   <div class="count" id="count"></div>
@@ -783,15 +797,28 @@ def write_page(events: list, meta: dict, tz=None) -> None:
 <script>
 const DATA = {json.dumps(rows)};
 const TODAY = "{today_local}";
-const S = {{tab:"today", sort:"score", min:60, seg:"all", watch:false, best:true}};
+const WTOPIC = "{watch_topic}";
+const S = {{tab:"today", sort:"score", min:60, seg:"all", watch:false, best:true, st:"active"}};
 try {{ Object.assign(S, JSON.parse(localStorage.getItem("drops:view") || "{{}}")); }} catch (e) {{}}
 
 // which shows you have already registered for, so the upcoming list can shrink
-let SIGNED = {{}};
-try {{ SIGNED = JSON.parse(localStorage.getItem("drops:signedup") || "{{}}"); }} catch (e) {{}}
-const saveSigned = () => {{
-  try {{ localStorage.setItem("drops:signedup", JSON.stringify(SIGNED)); }} catch (e) {{}}
-}};
+let SIGNED = {{}}, HIDDEN = {{}}, WATCH = {{}};
+const read = (k, d) => {{ try {{ return JSON.parse(localStorage.getItem(k) || d); }} catch (e) {{ return JSON.parse(d); }} }};
+SIGNED = read("drops:signedup", "{{}}");
+HIDDEN = read("drops:hidden",   "{{}}");
+WATCH  = read("drops:watch",    "{{}}");
+const save = (k, v) => {{ try {{ localStorage.setItem(k, JSON.stringify(v)); }} catch (e) {{}} }};
+const saveSigned = () => save("drops:signedup", SIGNED);
+
+// Push watchlist edits back to the tracker. The daily job folds these into
+// watchlist.json, which is what makes the act actually get fetched and scored.
+function pushWatch(name, on) {{
+  if (!WTOPIC) return;
+  const body = JSON.stringify(on ? {{add: [name]}} : {{remove: [name]}});
+  try {{
+    fetch("https://ntfy.sh/" + WTOPIC, {{method: "POST", body: body}}).catch(() => {{}});
+  }} catch (e) {{}}
+}}
 const onToday = d => d.onDay === TODAY;  // both are LOCAL calendar dates
 
 const esc = t => String(t == null ? "" : t).replace(/[&<>"]/g,
@@ -802,7 +829,9 @@ function view() {{
   let r = DATA.filter(d => d.s >= S.min
     && (S.seg === "all" || d.seg === S.seg)
     && (!S.watch || d.w)
-    && (S.tab === "today" ? onToday(d) : !onToday(d)));
+    && (S.tab === "today" ? onToday(d) : !onToday(d))
+    && (S.st === "trash" ? !!HIDDEN[d.act]
+        : !HIDDEN[d.act] && (S.st === "signed" ? !!SIGNED[d.id] : !SIGNED[d.id])));
   if (S.best) {{
     const keep = new Map();
     for (const d of r) {{
@@ -815,10 +844,7 @@ function view() {{
     }}
     r = [...keep.values()];
   }}
-  // on the upcoming tab, anything already signed up for sinks to the bottom
-  if (S.tab === "later") r.sort((a, b) => (SIGNED[a.id] ? 1 : 0) - (SIGNED[b.id] ? 1 : 0));
   r.sort((a, b) =>
-    (S.tab === "later" ? (SIGNED[a.id] ? 1 : 0) - (SIGNED[b.id] ? 1 : 0) : 0) ||
     (S.sort === "score"  ? b.s - a.s || (a.on || FAR).localeCompare(b.on || FAR)
   : S.sort === "onsale" ? (a.on || FAR).localeCompare(b.on || FAR) || b.s - a.s
   :                       (a.ev || FAR).localeCompare(b.ev || FAR) || b.s - a.s));
@@ -828,9 +854,14 @@ function view() {{
 function counts() {{
   const base = DATA.filter(d => d.s >= S.min
     && (S.seg === "all" || d.seg === S.seg) && (!S.watch || d.w));
-  const t = base.filter(onToday).length;
-  document.getElementById("nToday").textContent = t;
-  document.getElementById("nLater").textContent = base.length - t;
+  const inTab = base.filter(d => S.tab === "today" ? onToday(d) : !onToday(d));
+  const vis = base.filter(d => !HIDDEN[d.act]);
+  document.getElementById("nToday").textContent = vis.filter(onToday).length;
+  document.getElementById("nLater").textContent = vis.filter(d => !onToday(d)).length;
+  const acts = x => new Set(x.map(d => d.act)).size;
+  document.getElementById("nA").textContent = inTab.filter(d => !HIDDEN[d.act] && !SIGNED[d.id]).length;
+  document.getElementById("nS").textContent = inTab.filter(d => !HIDDEN[d.act] && SIGNED[d.id]).length;
+  document.getElementById("nT").textContent = acts(inTab.filter(d => HIDDEN[d.act]));
 }}
 
 function presaleBlock(d) {{
@@ -870,7 +901,15 @@ function render() {{
     const chips = (d.w ? '<span class="chip w">watchlist</span>' : "") + more
       + d.tags.map(t => '<span class="chip">' + esc(t) + '</span>').join("");
     return '<article class="ev' + signed + '">'
-      + '<div class="sc ' + cls + '">' + d.s + '</div><div>'
+      + '<div><div class="sc ' + cls + '">' + d.s + '</div>'
+      + '<div class="acts">'
+      +   '<button class="ico' + (WATCH[d.act] ? ' on' : '') + '" data-star="' + esc(d.act)
+      +     '" data-starname="' + esc(d.actName)
+      +     '" title="Watchlist this act" aria-label="Watchlist this act">\u2605</button>'
+      +   '<button class="ico' + (HIDDEN[d.act] ? ' on' : '') + '" data-trash="' + esc(d.act)
+      +     '" title="Hide this act" aria-label="Hide this act">'
+      +     (HIDDEN[d.act] ? '\u21ba' : '\u2715') + '</button>'
+      + '</div></div><div>'
       + '<p class="ttl">' + title + '</p>'
       + '<div class="vn">' + esc(d.where) + '</div>'
       + '<div class="when">On sale ' + esc(d.onTxt)
@@ -888,8 +927,27 @@ function render() {{
       + '</div></article>';
   }}).join("") : '<div class="empty">' + (S.tab === "today"
       ? "Nothing goes on sale today at this filter."
+      : S.st === "signed" ? "Nothing signed up for yet. Tick \u201cSigned up\u201d on a card."
+      : S.st === "trash"  ? "Nothing trashed. Tap \u2715 on an act to hide it."
       : "Nothing upcoming matches that filter.") + '</div>';
 
+  document.querySelectorAll("[data-star]").forEach(b => {{
+    b.addEventListener("click", () => {{
+      const a = b.dataset.star, on = !WATCH[a];
+      if (on) WATCH[a] = true; else delete WATCH[a];
+      save("drops:watch", WATCH);
+      pushWatch(b.dataset.starname, on);  // proper-cased name, not the lookup key
+      render();
+    }});
+  }});
+  document.querySelectorAll("[data-trash]").forEach(b => {{
+    b.addEventListener("click", () => {{
+      const a = b.dataset.trash;
+      if (HIDDEN[a]) delete HIDDEN[a]; else HIDDEN[a] = true;
+      save("drops:hidden", HIDDEN);
+      render();
+    }});
+  }});
   document.querySelectorAll("[data-sign]").forEach(cb => {{
     cb.addEventListener("change", () => {{
       if (cb.checked) SIGNED[cb.dataset.sign] = true; else delete SIGNED[cb.dataset.sign];
@@ -917,6 +975,7 @@ wire("min",   v => S.min = +v);
 wire("seg",   v => S.seg = v);
 wire("watch", () => S.watch = !S.watch);
 wire("best",  () => S.best = !S.best);
+wire("st",    v => S.st = v);
 
 document.querySelectorAll("[data-tab]").forEach(b => {{
   b.addEventListener("click", () => {{
@@ -941,6 +1000,8 @@ document.querySelectorAll("[data-watch]").forEach(b =>
   b.setAttribute("aria-pressed", String(S.watch)));
 document.querySelectorAll("[data-best]").forEach(b =>
   b.setAttribute("aria-pressed", String(S.best)));
+document.querySelectorAll("[data-st]").forEach(b =>
+  b.setAttribute("aria-pressed", String(b.dataset.st === S.st)));
 
 render();
 </script>
@@ -954,6 +1015,84 @@ render();
 # main
 # ----------------------------------------------------------------------------
 
+def sync_watchlist(env: dict) -> None:
+    """Pull watchlist edits the phone pushed to the public watchlist topic and
+    fold them into watchlist.json.
+
+    Deliberately ADDITIVE: a message can add names or name removals, but cannot
+    replace the file wholesale. The topic is embedded in the published page, so
+    anyone who finds the page could post to it - additive-only means the worst
+    case is junk entries you can delete, not a wiped watchlist.
+    """
+    topic = env.get("WATCHLIST_TOPIC", "").strip()
+    if not topic:
+        log.info("No WATCHLIST_TOPIC set - skipping watchlist sync")
+        return
+
+    url = f"{NTFY_BASE}/{topic}/json?poll=1"
+    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+    try:
+        with urllib.request.urlopen(req, timeout=20, context=SSL_CTX) as resp:
+            raw = resp.read().decode("utf-8")
+    except Exception as e:  # noqa: BLE001
+        log.warning("Watchlist sync: could not read topic (%s)", e)
+        return
+
+    add, remove = [], []
+    for line in raw.splitlines():
+        if not line.strip():
+            continue
+        try:
+            msg = json.loads(line)
+        except json.JSONDecodeError:
+            continue
+        if msg.get("event") != "message":
+            continue
+        try:
+            payload = json.loads(msg.get("message") or "{}")
+        except json.JSONDecodeError:
+            continue
+        add += [a for a in payload.get("add", []) if isinstance(a, str)]
+        remove += [a for a in payload.get("remove", []) if isinstance(a, str)]
+
+    def clean(n):
+        return " ".join(str(n).split())[:80]
+
+    add = [clean(a) for a in add if clean(a)]
+    remove = {clean(a).lower() for a in remove if clean(a)}
+    if not add and not remove:
+        log.info("Watchlist sync: nothing pending")
+        return
+
+    wl = load_json(HERE / "watchlist.json", {"artists": []})
+    artists = wl.get("artists", [])
+    have = {a["name"].lower() for a in artists}
+
+    added = 0
+    for name in add:
+        if name.lower() in have or name.lower() in remove:
+            continue
+        if len(artists) >= 50:
+            log.warning("Watchlist is at the 50-artist cap - ignoring %r", name)
+            break
+        artists.append({"name": name, "aliases": [],
+                        "added": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
+                        "why": "Added from the tickets page."})
+        have.add(name.lower())
+        added += 1
+
+    before = len(artists)
+    artists = [a for a in artists if a["name"].lower() not in remove]
+    removed = before - len(artists)
+
+    if added or removed:
+        wl["artists"] = artists
+        (HERE / "watchlist.json").write_text(json.dumps(wl, indent=2) + "\n", encoding="utf-8")
+        log.info("Watchlist sync: +%d, -%d (now %d artists)", added, removed, len(artists))
+    else:
+        log.info("Watchlist sync: nothing changed")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description="Daily ticket-drop tracker")
     ap.add_argument("--dry-run", action="store_true", help="write files, send no notifications")
@@ -963,6 +1102,8 @@ def main() -> int:
                     help="where to write the page and data (default: out)")
     ap.add_argument("--page-name", default="tickets.html",
                     help="filename for the page (use index.html for GitHub Pages)")
+    ap.add_argument("--sync-watchlist", action="store_true",
+                    help="fold phone-pushed watchlist edits into watchlist.json, then exit")
     ap.add_argument("-v", "--verbose", action="store_true")
     args = ap.parse_args()
 
@@ -983,6 +1124,10 @@ def main() -> int:
     if not topic:
         log.error("NTFY_TOPIC is not set in .env")
         return 1
+
+    if args.sync_watchlist:
+        sync_watchlist(env)
+        return 0
 
     if args.test_ping:
         ok = ntfy_post(

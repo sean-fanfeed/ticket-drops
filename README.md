@@ -15,7 +15,7 @@ Python only — nothing to `pip install`.
 | `config.json` | Thresholds, score weights, genre resale table. Safe to tune. |
 | `venues.json` | Venue capacities. **Ticketmaster has none**, so we supply them. |
 | `watchlist.json` | Artists that resell well. Checked outside the 14-day window and given a scoring bonus. |
-| `.github/workflows/daily.yml` | The 12:40 UTC run. |
+| `.github/workflows/daily.yml` | The 12:40 UTC run, including the watchlist sync step. |
 | `docs/index.html` | The published page. GitHub Pages serves this. |
 | `docs/tickets.json` | Same data, machine-readable. |
 | `docs/tickets-brief.md` | The block the morning brief renders. |
@@ -30,6 +30,7 @@ cd ~/"sean personal life helper"/tickets
 python3 ticketdrops.py --dry-run    # pull + score + write files, send nothing
 python3 ticketdrops.py --test-ping  # one test notification, then exit
 python3 ticketdrops.py --no-state   # re-push everything, ignore what's been seen
+python3 ticketdrops.py --sync-watchlist  # fold in phone-pushed watchlist edits
 python3 ticketdrops.py -v           # debug logging
 ```
 
@@ -89,7 +90,20 @@ with no code change — the hook is already in `estimate_resale_multiple()`.
 
 ## Watchlist
 
-`watchlist.json`, seeded with Omar Adam. Entries take `aliases`, which matters
+`watchlist.json`, seeded with Omar Adam. **Editable from the page**: tap ★ on any
+act and the daily job folds it in.
+
+How that works, since the page is static and has no backend: starring posts
+`{"add":["Name"]}` (or `{"remove":[...]}`) to a **separate public ntfy topic**,
+and the workflow's first step runs `--sync-watchlist`, which reads the topic and
+rewrites `watchlist.json` before the pull. So a star you tap today is a tracked
+artist from tomorrow's run.
+
+That topic is embedded in the published page, so anyone who finds the page could
+post to it. Two deliberate limits: it is a **different topic from your alert
+feed** (which stays private), and the sync is **additive only** — a message can
+add names or name removals but cannot replace the file, and the list caps at 50.
+Worst case is junk entries you delete, not a wiped watchlist. Entries take `aliases`, which matters
 here: Ticketmaster lists that artist as **Omer Adam**, and the "Omar" spelling
 returns nothing. Both are searched.
 
@@ -152,6 +166,25 @@ ntfy: this script posts the digest to `<topic>-brief`, and the routine fetches
 `https://ntfy.sh/<topic>-brief/json?poll=1` and renders a **Ticket drops
 (tracked)** table after the Flip Radar section. If the digest is missing or
 stale, the brief says "no digest today" rather than printing old picks.
+
+## The page
+
+Two tabs: **On sale today** and **Upcoming & presales**. Sort by score, on-sale or
+concert date. Filter by score band, music/sports, watchlist, and **Best per act**
+(on by default), which collapses a tour to its best date so one act can't fill the
+screen.
+
+Per act: **★** adds to the watchlist, **✕** hides it. Per show on the Upcoming tab:
+the presale list with signup links where Ticketmaster provides them, and a
+**Signed up** checkbox.
+
+A **Status** row routes everything — *To do* / *Signed up* / *Trashed*. Ticking
+"Signed up" moves that show out of To do and into Signed up; ✕ moves an act into
+Trashed, where ✕ becomes an undo. All three live in `localStorage`, so they
+survive the daily rebuild but are per-browser.
+
+Note that signing up for one date does not hide the act — its other dates are
+separate shows you have not registered for, so the next one takes its place.
 
 ## Gotchas worth knowing
 

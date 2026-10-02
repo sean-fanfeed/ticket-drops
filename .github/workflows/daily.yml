@@ -26,10 +26,16 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Fold in watchlist edits pushed from the phone
+        env:
+          WATCHLIST_TOPIC: ${{ secrets.WATCHLIST_TOPIC }}
+        run: python3 ticketdrops.py --sync-watchlist
+
       - name: Pull, score and publish
         env:
           TICKETMASTER_API_KEY: ${{ secrets.TICKETMASTER_API_KEY }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          WATCHLIST_TOPIC: ${{ secrets.WATCHLIST_TOPIC }}
           SEATGEEK_CLIENT_ID: ${{ secrets.SEATGEEK_CLIENT_ID }}
           EVENTBRITE_TOKEN: ${{ secrets.EVENTBRITE_TOKEN }}
         run: python3 ticketdrops.py --out-dir docs --page-name index.html
@@ -38,7 +44,7 @@ jobs:
         run: |
           git config user.name  "ticket-drops bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs state.json
+          git add docs state.json watchlist.json
           git diff --staged --quiet && echo "nothing changed" && exit 0
           git commit -m "drops $(date -u +%Y-%m-%d)"
           git push
