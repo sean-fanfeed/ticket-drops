@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-02T18:33:04Z",
-    "generated_local": "Fri 2 Oct, 12:33 PM",
-    "scanned": 1082,
-    "surfaced": 315,
-    "new": 0,
+    "generated_utc": "2026-10-02T19:16:26Z",
+    "generated_local": "Fri 2 Oct, 1:16 PM",
+    "scanned": 1084,
+    "surfaced": 317,
+    "new": 2,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2848,6 +2848,94 @@
       ]
     },
     {
+      "id": "vv1AFZkfgGkemn0a8",
+      "name": "Dropkick Murphys",
+      "url": "https://www.ticketmaster.com/dropkick-murphys-detroit-michigan-02-26-2027/event/08006535AEAA4250",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dropkick Murphys",
+        "Home Front",
+        "Spiritual Cramp"
+      ],
+      "artist_upcoming": 34,
+      "venue": "The Fillmore Detroit",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-26T23:00:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2027-02-27T01:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2027-01-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-09-30T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Early Entry Package Presale",
+          "start": "2026-09-30T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering Early Entry Packages for this event."
+        },
+        {
+          "name": "Early Entry Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
+      "score": 68,
+      "score_parts": {
+        "demand": 21.6,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1zZ_Kj5SDsC",
       "name": "MANIA: The ABBA Tribute",
       "url": "https://www.ticketmaster.com/mania-the-abba-tribute-atlanta-georgia-01-17-2027/event/0E0065370BCFBC4E",
@@ -3059,94 +3147,6 @@
         "small room (1,500 cap)",
         "~1,500 cap (from venue type)",
         "est. 1.4-2.3x face"
-      ]
-    },
-    {
-      "id": "vv1AFZkfgGkemn0a8",
-      "name": "Dropkick Murphys",
-      "url": "https://www.ticketmaster.com/dropkick-murphys-detroit-michigan-02-26-2027/event/08006535AEAA4250",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Dropkick Murphys",
-        "Home Front",
-        "Spiritual Cramp"
-      ],
-      "artist_upcoming": 33,
-      "venue": "The Fillmore Detroit",
-      "city": "Detroit",
-      "state": "MI",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-02-26T23:00:00Z",
-      "onsale_start": "2026-10-02T14:00:00Z",
-      "onsale_end": "2027-02-27T01:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-02T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-02T14:00:00Z",
-          "end": "2027-01-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-09-30T14:00:00Z",
-          "end": "2026-10-02T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-02T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Early Entry Package Presale",
-          "start": "2026-09-30T14:00:00Z",
-          "end": "2026-10-02T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering Early Entry Packages for this event."
-        },
-        {
-          "name": "Early Entry Package Onsale",
-          "start": "2026-10-02T14:00:00Z",
-          "end": "2027-02-20T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
-      "score": 67,
-      "score_parts": {
-        "demand": 21.4,
-        "scarcity": 20.9,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
       ]
     },
     {
@@ -5862,7 +5862,7 @@
         "Spiritual Cramp",
         "Home Front"
       ],
-      "artist_upcoming": 33,
+      "artist_upcoming": 34,
       "venue": "State Theatre",
       "city": "Portland",
       "state": "ME",
@@ -5906,7 +5906,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
       "score": 64,
       "score_parts": {
-        "demand": 21.4,
+        "demand": 21.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -7939,7 +7939,7 @@
       "artists": [
         "Dropkick Murphys"
       ],
-      "artist_upcoming": 33,
+      "artist_upcoming": 34,
       "venue": "The Clyde Theatre-IN",
       "city": "Fort Wayne",
       "state": "IN",
@@ -7954,7 +7954,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
       "score": 60,
       "score_parts": {
-        "demand": 21.4,
+        "demand": 21.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 6.0
@@ -15630,6 +15630,93 @@
       ]
     },
     {
+      "id": "ZkDnngzZDd285fHwht1tb_zUWyCxkWz",
+      "name": "Ron Carter and Bill Frisell",
+      "url": "https://veeps.com/birdland/cf40b53c-c9ba-4aa5-8678-dbde4e886f78",
+      "segment": "Music",
+      "genre": "Jazz",
+      "artists": [
+        "Ron Carter",
+        "Bill Frisell"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Birdland Jazz Club NYC",
+      "city": "New York",
+      "state": "",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-15T23:00:00Z",
+      "onsale_start": "2026-10-02T16:18:39Z",
+      "onsale_end": "2026-10-23T03:59:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ron+Carter",
+      "score": 64,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 22.7,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (800 cap)",
+        "~800 cap (from venue type)"
+      ]
+    },
+    {
+      "id": "ZkDnngzZDeYqfH_P2_kY5_wjY6vcxpa",
+      "name": "Ron Carter's Great Big Band at Birdland",
+      "url": "https://veeps.com/birdland/b0754f19-94f6-46c0-b672-7301c1b62589",
+      "segment": "Music",
+      "genre": "Jazz",
+      "artists": [
+        "Ron Carter"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Birdland Jazz Club NYC",
+      "city": "New York",
+      "state": "",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-22T23:00:00Z",
+      "onsale_start": "2026-10-02T16:21:25Z",
+      "onsale_end": "2026-10-30T03:59:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ron+Carter",
+      "score": 64,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 22.7,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (800 cap)",
+        "~800 cap (from venue type)"
+      ]
+    },
+    {
       "id": "vvG1IZ_3RQXqRX",
       "name": "The Amy Winehouse Band",
       "url": "https://www.ticketmaster.com/the-amy-winehouse-band-san-diego-california-04-23-2027/event/0A00652BDAF9DBFE",
@@ -17037,7 +17124,7 @@
         "Home Front",
         "Spiritual Cramp"
       ],
-      "artist_upcoming": 33,
+      "artist_upcoming": 34,
       "venue": "House of Blues Anaheim",
       "city": "Anaheim",
       "state": "CA",
@@ -17095,7 +17182,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
       "score": 65,
       "score_parts": {
-        "demand": 21.4,
+        "demand": 21.6,
         "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
@@ -17521,7 +17608,7 @@
         "Home Front",
         "Spiritual Cramp"
       ],
-      "artist_upcoming": 33,
+      "artist_upcoming": 34,
       "venue": "Marquee Theatre",
       "city": "Tempe",
       "state": "AZ",
@@ -17565,7 +17652,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
       "score": 64,
       "score_parts": {
-        "demand": 21.4,
+        "demand": 21.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -21243,7 +21330,7 @@
           "start": "2026-10-05T14:00:00Z",
           "end": "2026-10-06T03:59:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "LIVE NATION PRESALE",
@@ -21389,7 +21476,7 @@
           "start": "2026-10-05T14:00:00Z",
           "end": "2026-10-06T03:59:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "LIVE NATION PRESALE",
@@ -21776,7 +21863,7 @@
           "start": "2026-10-05T14:00:00Z",
           "end": "2026-10-06T03:59:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "Old National Bank Sponsor Presale",
@@ -21930,7 +22017,7 @@
           "start": "2026-10-05T15:00:00Z",
           "end": "2026-10-06T04:59:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "Local Presale",
@@ -22070,7 +22157,7 @@
           "start": "2026-10-05T15:00:00Z",
           "end": "2026-10-06T04:59:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "LIVE NATION PRESALE",
@@ -23310,7 +23397,8 @@
       "segment": "Music",
       "genre": "Pop",
       "artists": [
-        "Fontaines D.C."
+        "Fontaines D.C.",
+        "Iceage"
       ],
       "artist_upcoming": 49,
       "venue": "Merriweather Post Pavilion",
@@ -24608,11 +24696,11 @@
           "how": ""
         },
         {
-          "name": "AMEX Presale",
+          "name": "Amex Presale Tickets\u00ae",
           "start": "2026-10-07T15:00:00Z",
           "end": "2026-10-09T03:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Available for Card Members, while supplies last. Terms Apply"
         },
         {
           "name": "AEG Presale",
@@ -25093,7 +25181,7 @@
           "start": "2026-10-06T15:00:00Z",
           "end": "2026-10-09T03:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": "Exclusive Presale for Fans invited by the Artist"
         }
       ],
       "price_min": null,
