@@ -187,6 +187,38 @@ survive the daily rebuild but are per-browser.
 Note that signing up for one date does not hide the act — its other dates are
 separate shows you have not registered for, so the next one takes its place.
 
+## Presale access — why there are no codes here
+
+The tracker does **not** look up or guess presale codes. Guessing is brute-forcing
+an access control, and using a code you are not entitled to (Citi, fan club) is
+misrepresenting eligibility — Ticketmaster cancels those orders and bans accounts,
+which would cost the account this whole operation runs on.
+
+It turns out that barely matters, because **almost none of these are code-gated**.
+Measured across 1,460 live presales:
+
+| Count | Access |
+|---|---|
+| 376 | Not published — assume a unique code |
+| 288 | VIP package — open to all |
+| 220 | Citi cardmember only |
+| 199 | Artist's own list — sign up |
+| 156 | Free — Live Nation account |
+| 64 | Venue list — sign up |
+| 60 | Verizon customers only |
+| 42 | Amex cardmember only |
+| 22 | Fan club members only |
+| 21 | Spotify Premium only |
+| 12 | Radio promo — code announced publicly |
+
+Zero said "presale code required". They are gated by **who you are**, not by a
+string you could find. So every presale carries an access label, and the
+**Open to me** filter shows only shows with at least one presale you can enter
+without a card or membership — 444 of 1,460.
+
+The ones worth your time are **Live Nation** (free to join, and 144 of 145 carry a
+signup link) and **VIP packages** (no gate at all).
+
 ## Gotchas worth knowing
 
 - **Never add `sort=onSaleStartDate,asc` to the events query.** Ticketmaster

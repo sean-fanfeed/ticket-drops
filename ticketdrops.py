@@ -25,6 +25,7 @@ import json
 import logging
 import math
 import os
+import re
 import ssl
 import sys
 import time
@@ -196,7 +197,11 @@ def fetch_onsales(api_key: str, segment: str, days: int, page_size: int,
         if page >= total_pages or page * page_size >= 1000 or not embedded:
             break
         time.sleep(0.25)
-    kept = [e for e in events if onsale_in_window(e, now, now + timedelta(days=days))]
+    # Start the window at LOCAL midnight, not "now". A 10am ET on-sale is 8am MT;
+    # the 06:40 job catches it, but an earlier one would be dropped before Sean
+    # ever saw it. Anything on sale today belongs on today's page.
+    day_start = to_local(now).replace(hour=0, minute=0, second=0, microsecond=0)
+    kept = [e for e in events if onsale_in_window(e, day_start, now + timedelta(days=days))]
     log.info("Ticketmaster %s: %d returned, %d with a real on-sale in the next %dd",
              segment, len(events), len(kept), days)
     return kept
@@ -558,10 +563,16 @@ def when_str(iso):
     dt = parse_dt(iso)
     if not dt:
         return ""
-    d = (dt - datetime.now(timezone.utc)).days
+    # Compare LOCAL calendar days - a timedelta in hours calls 9am "yesterday"
+    # at 11am, which is nonsense to read.
+    a = to_local(dt).date()
+    b = to_local(datetime.now(timezone.utc)).date()
+    d = (a - b).days
     if d < 0:
         return "passed"
-    return "today" if d == 0 else ("tomorrow" if d == 1 else f"in {d}d")
+    if d == 0:
+        return "on sale now" if dt <= datetime.now(timezone.utc) else "today"
+    return "tomorrow" if d == 1 else f"in {d}d"
 
 
 # ----------------------------------------------------------------------------
@@ -658,6 +669,10 @@ color:var(--ink3);font-weight:600}
 .pre .pt{color:var(--ink3);font-variant-numeric:tabular-nums}
 .pre .pt.live{color:var(--hot);font-weight:600}
 .pre .how{color:var(--ink3);font-size:12px;display:block;margin-top:1px}
+.acc{display:inline-block;font-size:11px;padding:2px 7px;border-radius:5px;margin-top:3px;
+background:var(--chipbg);color:var(--ink2)}
+.acc.ok{background:#1E7A4E;color:#fff}
+@media(prefers-color-scheme:dark){.acc.ok{background:#2FA87C;color:#0F1216}}
 .pre a.sig{color:var(--cool);font-weight:600;text-decoration:none;font-size:12.5px}
 .pre a.sig:hover{text-decoration:underline}
 .done{display:flex;align-items:center;gap:8px;margin-top:11px;padding-top:10px;
@@ -677,6 +692,41 @@ padding:28px 16px;text-align:center;color:var(--ink3)}
 """
 
 
+ACCESS_RULES = [
+    (r"live ?nation|all ?access",            "Free \u2013 Live Nation account", True),
+    (r"citi|citibank",                       "Citi cardmember only",             False),
+    (r"amex|american express",               "Amex cardmember only",             False),
+    (r"verizon",                             "Verizon customers only",           False),
+    (r"spotify",                             "Spotify Premium only",             False),
+    (r"apple music",                         "Apple Music only",                 False),
+    (r"verified ?fan",                       "Verified Fan \u2013 register first", False),
+    (r"fan ?club",                           "Fan club members only",            False),
+    (r"vip",                                 "VIP package \u2013 open to all",   True),
+    (r"artist presale|app presale",          "Artist's own list \u2013 sign up", False),
+    (r"venue presale|venue list",            "Venue list \u2013 sign up",        False),
+    (r"radio|station",                       "Radio promo \u2013 code announced publicly", False),
+]
+
+
+def presale_access(name: str, how: str):
+    """(label, open_to_anyone). What it actually takes to get in.
+
+    Worth stating plainly: almost none of these are gated by a code you could
+    look up. They are gated by *who you are* - a Citi cardholder, a Spotify
+    subscriber, a fan-club member. The useful question is not "what's the code"
+    but "am I eligible", so that is what we label.
+    """
+    blob = f"{name} {how}".lower()
+    if re.search(r"presale code|password|use code|enter the code", blob):
+        return "Code required", False
+    for rx, label, is_open in ACCESS_RULES:
+        if re.search(rx, blob):
+            return label, is_open
+    if re.search(r"no presale code|free to join|sign ?in", blob):
+        return "Free \u2013 just sign in", True
+    return "Not published \u2013 assume a unique code", False
+
+
 def live_presales(presales: list) -> list:
     """Presales worth acting on: drop anything whose window has already closed,
     and mark the ones open right now. A presale that started two days ago may
@@ -691,7 +741,9 @@ def live_presales(presales: list) -> list:
             when = "live now" + (f" \u00b7 ends {local_str(pr['end'])}" if end else "")
         else:
             when = local_str(pr["start"])
+        label, is_open = presale_access(pr["name"], pr["how"])
         out.append({"n": pr["name"], "t": when, "u": pr["url"], "how": pr["how"],
+                    "acc": label, "open": is_open,
                     "live": bool(start and start <= now)})
     # soonest first, but anything already open floats to the top
     out.sort(key=lambda x: (not x["live"],))
@@ -775,6 +827,7 @@ def write_page(events: list, meta: dict, tz=None) -> None:
       <span class="sep"></span>
       <button class="btn" data-watch="1" aria-pressed="false">&#9733; Watchlist</button>
       <button class="btn" data-best="1" aria-pressed="true">Best per act</button>
+      <button class="btn" data-open="1" aria-pressed="false">Open to me</button>
     </div>
     <div class="crow" role="group" aria-label="Status">
       <span class="lab">Status</span>
@@ -798,7 +851,7 @@ def write_page(events: list, meta: dict, tz=None) -> None:
 const DATA = {json.dumps(rows)};
 const TODAY = "{today_local}";
 const WTOPIC = "{watch_topic}";
-const S = {{tab:"today", sort:"score", min:60, seg:"all", watch:false, best:true, st:"active"}};
+const S = {{tab:"today", sort:"score", min:60, seg:"all", watch:false, best:true, st:"active", open:false}};
 try {{ Object.assign(S, JSON.parse(localStorage.getItem("drops:view") || "{{}}")); }} catch (e) {{}}
 
 // which shows you have already registered for, so the upcoming list can shrink
@@ -830,6 +883,7 @@ function view() {{
     && (S.seg === "all" || d.seg === S.seg)
     && (!S.watch || d.w)
     && (S.tab === "today" ? onToday(d) : !onToday(d))
+    && (!S.open || d.pre.some(q => q.open))
     && (S.st === "trash" ? !!HIDDEN[d.act]
         : !HIDDEN[d.act] && (S.st === "signed" ? !!SIGNED[d.id] : !SIGNED[d.id])));
   if (S.best) {{
@@ -870,11 +924,13 @@ function presaleBlock(d) {{
     const link = p.u
       ? ' <a class="sig" href="' + esc(p.u) + '" target="_blank" rel="noopener">Sign up \u2197</a>'
       : "";
+    const acc = '<span class="acc' + (p.open ? ' ok' : '') + '">' + esc(p.acc) + '</span>';
     const how = (!p.u && p.how) ? '<span class="how">' + esc(p.how) + '</span>' : "";
     const t = p.live
       ? '<span class="pt live">\u00b7 ' + esc(p.t) + '</span>'
       : '<span class="pt">\u00b7 ' + esc(p.t) + '</span>';
-    return '<li><span class="pn">' + esc(p.n) + '</span> ' + t + link + how + '</li>';
+    return '<li><span class="pn">' + esc(p.n) + '</span> ' + t + link
+      + '<br>' + acc + how + '</li>';
   }}).join("");
   const extra = d.nPre > d.pre.length
     ? '<li class="pt">+' + (d.nPre - d.pre.length) + ' more presale(s)</li>' : "";
@@ -961,8 +1017,9 @@ function wire(attr, apply) {{
   document.querySelectorAll("[data-" + attr + "]").forEach(b => {{
     b.addEventListener("click", () => {{
       apply(b.dataset[attr]);
-      const toggle = (attr === "watch" || attr === "best");
-      if (toggle) b.setAttribute("aria-pressed", String(attr === "watch" ? S.watch : S.best));
+      const toggle = (attr === "watch" || attr === "best" || attr === "open");
+      if (toggle) b.setAttribute("aria-pressed",
+        String(attr === "watch" ? S.watch : attr === "best" ? S.best : S.open));
       else document.querySelectorAll("[data-" + attr + "]").forEach(o =>
         o.setAttribute("aria-pressed", String(o === b)));
       try {{ localStorage.setItem("drops:view", JSON.stringify(S)); }} catch (e) {{}}
@@ -976,6 +1033,7 @@ wire("seg",   v => S.seg = v);
 wire("watch", () => S.watch = !S.watch);
 wire("best",  () => S.best = !S.best);
 wire("st",    v => S.st = v);
+wire("open",  () => S.open = !S.open);
 
 document.querySelectorAll("[data-tab]").forEach(b => {{
   b.addEventListener("click", () => {{
@@ -1002,6 +1060,8 @@ document.querySelectorAll("[data-best]").forEach(b =>
   b.setAttribute("aria-pressed", String(S.best)));
 document.querySelectorAll("[data-st]").forEach(b =>
   b.setAttribute("aria-pressed", String(b.dataset.st === S.st)));
+document.querySelectorAll("[data-open]").forEach(b =>
+  b.setAttribute("aria-pressed", String(S.open)));
 
 render();
 </script>
