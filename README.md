@@ -103,9 +103,10 @@ That topic is embedded in the published page, so anyone who finds the page could
 post to it. Two deliberate limits: it is a **different topic from your alert
 feed** (which stays private), and the sync is **additive only** — a message can
 add names or name removals but cannot replace the file, and the list caps at 50.
-Worst case is junk entries you delete, not a wiped watchlist. Entries take `aliases`, which matters
-here: Ticketmaster lists that artist as **Omer Adam**, and the "Omar" spelling
-returns nothing. Both are searched.
+Worst case is junk entries you delete, not a wiped watchlist.
+
+Entries take `aliases`, which matters here: Ticketmaster lists the seeded artist
+as **Omer Adam**, and the "Omar" spelling returns nothing. Both are searched.
 
 Watchlist artists are pulled by attraction id with **no on-sale date filter** —
 the point is to catch them whenever they surface.
