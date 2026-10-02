@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-02T00:00:01Z",
-    "generated_local": "Thu 1 Oct, 6:00 PM",
-    "scanned": 899,
-    "surfaced": 266,
-    "new": 0,
+    "generated_utc": "2026-10-02T00:07:42Z",
+    "generated_local": "Thu 1 Oct, 6:07 PM",
+    "scanned": 978,
+    "surfaced": 274,
+    "new": 8,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -1660,6 +1660,49 @@
         "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1AfueO0",
+      "name": "MERKULES",
+      "url": "https://www.ticketweb.com/event/merkules-valley-bar-tickets/14342824",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Merkules"
+      ],
+      "artist_upcoming": 15,
+      "venue": "Valley Bar",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-31T02:00:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2027-01-31T04:30:00Z",
+      "presales": [],
+      "price_min": 41.19,
+      "price_max": 41.19,
+      "seatgeek_url": "https://seatgeek.com/search?search=Merkules",
+      "score": 69,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 25.0,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": 64,
+      "est_resale_max": 103,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)",
+        "est. 1.5-2.5x face"
       ]
     },
     {
@@ -13505,6 +13548,65 @@
       ]
     },
     {
+      "id": "G5vzZ_KMNmvqg",
+      "name": "Roger Waters Presents LEGACY - A Pink Floyd Show",
+      "url": "https://www.axs.com/events/1631721/roger-waters-presents-legacy-a-pink-floyd-show-tickets",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Roger Waters Presents LEGACY - A Pink Floyd Show"
+      ],
+      "artist_upcoming": 34,
+      "venue": "The Buell Theatre",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-09-20T01:00:00Z",
+      "onsale_start": "2026-10-02T16:00:00Z",
+      "onsale_end": "2027-09-20T01:00:00Z",
+      "presales": [
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-09-30T16:00:00Z",
+          "end": "2026-10-02T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Radio / Venue Presale",
+          "start": "2026-10-01T16:00:00Z",
+          "end": "2026-10-02T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Roger+Waters+Presents+LEGACY+-+A+Pink+Floyd+Show",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "G5vzZ_KeKa0YE",
       "name": "Northlane: THE ANEMOIA TOUR",
       "url": "https://www.ticketmaster.com/northlane-the-anemoia-tour-denver-colorado-03-09-2027/event/1E00653093264C27",
@@ -15951,6 +16053,49 @@
         "~1,500 cap (from venue type)",
         "est. 1.5-2.6x face",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1Afu7of",
+      "name": "Merkules",
+      "url": "https://www.ticketweb.com/event/merkules-wow-hall-tickets/14344454",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Merkules"
+      ],
+      "artist_upcoming": 15,
+      "venue": "WOW Hall",
+      "city": "Eugene",
+      "state": "OR",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-28T04:00:00Z",
+      "onsale_start": "2026-10-02T17:00:00Z",
+      "onsale_end": "2027-01-28T04:00:00Z",
+      "presales": [],
+      "price_min": 21.51,
+      "price_max": 37.21,
+      "seatgeek_url": "https://seatgeek.com/search?search=Merkules",
+      "score": 64,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 19.6,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": 33,
+      "est_resale_max": 93,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.5-2.5x face"
       ]
     },
     {
@@ -18993,6 +19138,79 @@
       ]
     },
     {
+      "id": "G5vYZ_KrM2Pgs",
+      "name": "La Roux - The Old Flames Tour",
+      "url": "https://www.ticketmaster.com/la-roux-the-old-flames-tour-san-francisco-california-02-20-2027/event/1C006537B73E5D71",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "La Roux"
+      ],
+      "artist_upcoming": 17,
+      "venue": "The Castro Theatre",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-21T04:00:00Z",
+      "onsale_start": "2026-10-02T17:00:00Z",
+      "onsale_end": "2027-02-21T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-09-30T17:00:00Z",
+          "end": "2026-10-02T05:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "APE Presale",
+          "start": "2026-10-01T17:00:00Z",
+          "end": "2026-10-02T05:00:00Z",
+          "url": "",
+          "how": "APE Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-30T17:00:00Z",
+          "end": "2026-10-02T05:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T17:00:00Z",
+          "end": "2027-02-14T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=La+Roux",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "G5vYZ_KVSzURN",
       "name": "Alexander James: The Better Man Tour",
       "url": "https://www.ticketmaster.com/alexander-james-the-better-man-tour-san-francisco-california-01-13-2027/event/1C00653D33E36BE3",
@@ -19128,6 +19346,58 @@
         "small room (2,000 cap)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_KUwX2M3",
+      "name": "AJ McLean presents Alexander James : The Better Man Tour",
+      "url": "https://www.ticketmaster.com/aj-mclean-presents-alexander-james-the-memphis-tennessee-01-29-2027/event/1B00653DB2F8FDD2",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "AJ McLean"
+      ],
+      "artist_upcoming": 29,
+      "venue": "Satellite Music Hall",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-30T01:00:00Z",
+      "onsale_start": "2026-10-02T17:30:00Z",
+      "onsale_end": "2027-01-30T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=AJ+McLean",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.7,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -21177,6 +21447,49 @@
       ]
     },
     {
+      "id": "rZ7HnEZ1Afu4r7",
+      "name": "2026 82MAJOR [82CLUB : out of control] TOUR in San Francisco",
+      "url": "https://www.ticketweb.com/event/2026-82major-82club-out-great-american-music-hall-tickets/14355784",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "82MAJOR"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Great American Music Hall",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-18T03:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2026-12-18T03:00:00Z",
+      "presales": [],
+      "price_min": 25.23,
+      "price_max": 277.83,
+      "seatgeek_url": "https://seatgeek.com/search?search=82MAJOR",
+      "score": 64,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 18.7,
+        "markup": 24.5,
+        "timing": 3.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": 42,
+      "est_resale_max": 750,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.6-2.7x face"
+      ]
+    },
+    {
       "id": "rZ7HnEZ1Afu4pf",
       "name": "2026 82MAJOR [82CLUB : out of control] TOUR in Richmond",
       "url": "https://www.ticketweb.com/event/2026-82major-82club-out-hippodrome-theater-tickets/14355594",
@@ -21366,6 +21679,92 @@
       "event_date": "2026-12-07T01:00:00Z",
       "onsale_start": "2026-10-09T15:00:00Z",
       "onsale_end": "2026-12-07T01:00:00Z",
+      "presales": [],
+      "price_min": 25.23,
+      "price_max": 277.83,
+      "seatgeek_url": "https://seatgeek.com/search?search=82MAJOR",
+      "score": 63,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 3.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": 42,
+      "est_resale_max": 750,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1Afu4q0",
+      "name": "2026 82MAJOR [82CLUB : out of control] TOUR in Phoenix",
+      "url": "https://www.ticketweb.com/event/2026-82major-82club-out-nile-theater-tickets/14355764",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "82MAJOR"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Nile Theater",
+      "city": "Mesa",
+      "state": "AZ",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-14T02:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2026-12-14T02:00:00Z",
+      "presales": [],
+      "price_min": 25.23,
+      "price_max": 277.83,
+      "seatgeek_url": "https://seatgeek.com/search?search=82MAJOR",
+      "score": 63,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 3.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": 42,
+      "est_resale_max": 750,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1Afu4qV",
+      "name": "2026 82MAJOR [82CLUB : out of control] TOUR in Santa Ana",
+      "url": "https://www.ticketweb.com/event/2026-82major-82club-out-yost-theater-tickets/14355774",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "82MAJOR"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Yost Theater",
+      "city": "Santa Ana",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-16T03:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2026-12-16T03:00:00Z",
       "presales": [],
       "price_min": 25.23,
       "price_max": 277.83,

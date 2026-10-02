@@ -1,4 +1,4 @@
-266 ticket drops scoring 60+ in the next 14 days.
+274 ticket drops scoring 60+ in the next 14 days.
 
   74 - James Marriott
   Paradise Rock Club presented by Citizens, Boston MA
