@@ -7,6 +7,13 @@ on:
     # GitHub's scheduler is best-effort and routinely runs late under load, and
     # the brief needs the digest to already be on the ntfy topic when it fetches.
     - cron: "40 12 * * *"
+    # Backstops. GitHub's scheduler is best-effort: it queues scheduled jobs
+    # behind everything else, often runs them 15-60 min late, and silently DROPS
+    # them under load - on 2026-10-02 the 12:40 trigger never fired at all.
+    # state.json dedupes notifications, so a later run that finds nothing new
+    # just rebuilds the page. Cheap insurance on a public repo (free minutes).
+    - cron: "20 13 * * *"
+    - cron: "10 14 * * *"
   workflow_dispatch: {}
 
 permissions:

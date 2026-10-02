@@ -750,6 +750,18 @@ def live_presales(presales: list) -> list:
     return out
 
 
+def raw_presales(presales: list) -> list:
+    """Hand the page raw timestamps plus the access label. Whether a presale is
+    "live now" depends on when the page is OPENED, not when it was built, so the
+    browser decides - a page built at 06:40 is otherwise wrong by lunchtime."""
+    out = []
+    for pr in presales:
+        label, is_open = presale_access(pr["name"], pr["how"])
+        out.append({"n": pr["name"], "s": pr["start"], "e": pr["end"],
+                    "u": pr["url"], "how": pr["how"], "acc": label, "open": is_open})
+    return out
+
+
 def write_page(events: list, meta: dict, tz=None) -> None:
     """Interactive page: data is embedded and the rows are rendered client-side,
     so sorting and filtering work from a static file with no server."""
@@ -760,20 +772,16 @@ def write_page(events: list, meta: dict, tz=None) -> None:
             "who": ", ".join(e["artists"][:2]) or e["name"],
             "where": f"{e['venue']}, {e['city']} {e['state']}".strip().strip(","),
             "on": e["onsale_start"],
-            "onTxt": local_str(e["onsale_start"]),
-            "onAgo": when_str(e["onsale_start"]),
-            "onDay": (to_local(parse_dt(e["onsale_start"])).strftime("%Y-%m-%d")
-                      if parse_dt(e["onsale_start"]) else ""),
+
             "ev": e["event_date"],
-            "evTxt": local_str(e["event_date"]),
+
             "face": face_str(e),
             "res": resale_str(e),
             "seg": (e["segment"] or "").lower(),
             "act": (e["artists"][0] if e["artists"] else e["name"]).lower(),
             "actName": e["artists"][0] if e["artists"] else e["name"],
             "id": e["id"],
-            "pre": live_presales(e["presales"])[:5],
-            "nPre": len(live_presales(e["presales"])),
+            "pre": raw_presales(e["presales"]),
             "w": bool(e["on_watchlist"]),
             "url": e["url"],
             "sg": e["seatgeek_url"],
@@ -797,7 +805,7 @@ def write_page(events: list, meta: dict, tz=None) -> None:
 </head><body><div class="wrap">
   <header>
     <h1>Ticket drops</h1>
-    <div class="sub">{meta['generated_local']} &middot; {len(events)} scoring
+    <div class="sub"><span id="freshness"></span> &middot; {len(events)} scoring
       {meta['threshold']}+ of {meta['scanned']} on-sales</div>
   </header>
 
@@ -849,7 +857,29 @@ def write_page(events: list, meta: dict, tz=None) -> None:
 </div>
 <script>
 const DATA = {json.dumps(rows)};
-const TODAY = "{today_local}";
+// Every date below is computed when the PAGE IS OPENED, in the viewer's own
+// timezone - never baked in at build time. A page generated at 06:40 would
+// otherwise still be calling today "tomorrow" by mid-morning.
+const DAY = 86400000;
+const dt = iso => {{ const d = iso ? new Date(iso) : null; return (d && !isNaN(d)) ? d : null; }};
+const dayKey = d => d.getFullYear() + "-" + String(d.getMonth()+1).padStart(2,"0")
+  + "-" + String(d.getDate()).padStart(2,"0");
+const fmt = iso => {{
+  const d = dt(iso); if (!d) return "TBA";
+  return d.toLocaleString([], {{weekday:"short", day:"numeric", month:"short",
+    hour:"numeric", minute:"2-digit"}});
+}};
+const rel = iso => {{
+  const d = dt(iso); if (!d) return "";
+  const now = new Date();
+  const a = new Date(d.getFullYear(), d.getMonth(), d.getDate());
+  const b = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+  const n = Math.round((a - b) / DAY);
+  if (n < 0) return "passed";
+  if (n === 0) return d <= now ? "on sale now" : "today";
+  return n === 1 ? "tomorrow" : "in " + n + "d";
+}};
+const isToday = iso => {{ const d = dt(iso); return !!d && dayKey(d) === dayKey(new Date()); }};
 const WTOPIC = "{watch_topic}";
 const S = {{tab:"today", sort:"score", min:60, seg:"all", watch:false, best:true, st:"active", open:false}};
 try {{ Object.assign(S, JSON.parse(localStorage.getItem("drops:view") || "{{}}")); }} catch (e) {{}}
@@ -872,7 +902,7 @@ function pushWatch(name, on) {{
     fetch("https://ntfy.sh/" + WTOPIC, {{method: "POST", body: body}}).catch(() => {{}});
   }} catch (e) {{}}
 }}
-const onToday = d => d.onDay === TODAY;  // both are LOCAL calendar dates
+const onToday = d => isToday(d.on);
 
 const esc = t => String(t == null ? "" : t).replace(/[&<>"]/g,
   c => ({{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}})[c]);
@@ -883,7 +913,7 @@ function view() {{
     && (S.seg === "all" || d.seg === S.seg)
     && (!S.watch || d.w)
     && (S.tab === "today" ? onToday(d) : !onToday(d))
-    && (!S.open || d.pre.some(q => q.open))
+    && (!S.open || livePre(d).some(q => q.open))
     && (S.st === "trash" ? !!HIDDEN[d.act]
         : !HIDDEN[d.act] && (S.st === "signed" ? !!SIGNED[d.id] : !SIGNED[d.id])));
   if (S.best) {{
@@ -918,9 +948,24 @@ function counts() {{
   document.getElementById("nT").textContent = acts(inTab.filter(d => HIDDEN[d.act]));
 }}
 
+function livePre(d) {{
+  const now = new Date();
+  return d.pre.filter(p => {{ const e = dt(p.e); return !e || e >= now; }})
+    .map(p => {{
+      const st = dt(p.s), en = dt(p.e);
+      const live = !!(st && st <= now);
+      return Object.assign({{}}, p, {{
+        live: live,
+        t: live ? ("live now" + (en ? " \u00b7 ends " + fmt(p.e) : "")) : fmt(p.s)
+      }});
+    }})
+    .sort((a, b) => (a.live === b.live) ? 0 : (a.live ? -1 : 1));
+}}
+
 function presaleBlock(d) {{
-  if (S.tab !== "later" || !d.pre.length) return "";
-  const items = d.pre.map(p => {{
+  const all = livePre(d);
+  if (S.tab !== "later" || !all.length) return "";
+  const items = all.slice(0, 5).map(p => {{
     const link = p.u
       ? ' <a class="sig" href="' + esc(p.u) + '" target="_blank" rel="noopener">Sign up \u2197</a>'
       : "";
@@ -932,8 +977,8 @@ function presaleBlock(d) {{
     return '<li><span class="pn">' + esc(p.n) + '</span> ' + t + link
       + '<br>' + acc + how + '</li>';
   }}).join("");
-  const extra = d.nPre > d.pre.length
-    ? '<li class="pt">+' + (d.nPre - d.pre.length) + ' more presale(s)</li>' : "";
+  const extra = all.length > 5
+    ? '<li class="pt">+' + (all.length - 5) + ' more presale(s)</li>' : "";
   return '<div class="pre"><h4>Presales \u2014 register before the on-sale</h4><ul>'
     + items + extra + '</ul></div>';
 }}
@@ -968,9 +1013,9 @@ function render() {{
       + '</div></div><div>'
       + '<p class="ttl">' + title + '</p>'
       + '<div class="vn">' + esc(d.where) + '</div>'
-      + '<div class="when">On sale ' + esc(d.onTxt)
-      + ' <span class="ago">· ' + esc(d.onAgo) + '</span></div>'
-      + '<div class="ed">Concert ' + esc(d.evTxt) + '</div>'
+      + '<div class="when">On sale ' + esc(fmt(d.on))
+      + ' <span class="ago">· ' + esc(rel(d.on)) + '</span></div>'
+      + '<div class="ed">Concert ' + esc(fmt(d.ev)) + '</div>'
       + '<div class="money">Face ' + esc(d.face) + ' · est. resale ' + esc(d.res) + '</div>'
       + '<div class="chips">' + chips
       + '<a class="sg" href="' + esc(d.sg) + '" target="_blank" rel="noopener">SeatGeek ↗</a>'
@@ -1062,6 +1107,19 @@ document.querySelectorAll("[data-st]").forEach(b =>
   b.setAttribute("aria-pressed", String(b.dataset.st === S.st)));
 document.querySelectorAll("[data-open]").forEach(b =>
   b.setAttribute("aria-pressed", String(S.open)));
+
+// say plainly how old the underlying pull is, in case a scheduled run was missed
+(function freshness() {{
+  const built = dt("{meta['generated_utc']}");
+  const el = document.getElementById("freshness");
+  if (!built) {{ el.textContent = "{meta['generated_local']}"; return; }}
+  const mins = Math.round((Date.now() - built) / 60000);
+  const age = mins < 90 ? mins + " min ago"
+            : mins < 36 * 60 ? Math.round(mins / 60) + "h ago"
+            : Math.round(mins / 1440) + "d ago";
+  el.textContent = "Data pulled " + age;
+  if (mins > 36 * 60) el.textContent += " \u2014 a scheduled run may have been missed";
+}})();
 
 render();
 </script>
