@@ -1,15 +1,3214 @@
 {
   "meta": {
-    "generated_utc": "2026-10-03T13:15:51Z",
-    "generated_local": "Sat 3 Oct, 7:15 AM",
-    "scanned": 338,
-    "surfaced": 64,
-    "new": 0,
+    "generated_utc": "2026-10-03T16:41:34Z",
+    "generated_local": "Sat 3 Oct, 10:41 AM",
+    "scanned": 379,
+    "surfaced": 102,
+    "new": 38,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
   },
   "events": [
+    {
+      "id": "G5viZ_CQOdk48",
+      "name": "WWE Money In The Bank",
+      "url": "https://www.ticketmaster.com/wwe-money-in-the-bank-new-orleans-louisiana-10-10-2026/event/1B0064E6A00C6550",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Money In The Bank"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Smoothie King Center",
+      "city": "New Orleans",
+      "state": "LA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-10T21:30:00Z",
+      "onsale_start": "2026-07-10T15:00:00Z",
+      "onsale_end": "2026-10-11T01:00:00Z",
+      "presales": [
+        {
+          "name": "Chase Freedom Cardmember Presale",
+          "start": "2026-07-08T15:00:00Z",
+          "end": "2026-07-10T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE / Venue Pre-Sales",
+          "start": "2026-07-09T15:00:00Z",
+          "end": "2026-07-10T04:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Aisle Seat Offer",
+          "start": "2026-07-09T15:00:00Z",
+          "end": "2026-10-10T15:00:00Z",
+          "url": "",
+          "how": "Choose from the best seats closest to the end of the row for faster access to concessions, restrooms, exits and more!"
+        },
+        {
+          "name": "WWE Presale",
+          "start": "2026-07-09T14:00:00Z",
+          "end": "2026-07-10T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Labor Day Special Offer",
+          "start": "2026-09-03T15:00:00Z",
+          "end": "2026-09-08T04:59:00Z",
+          "url": "",
+          "how": "Labor Day Special Offer"
+        },
+        {
+          "name": "TM Me+3",
+          "start": "2026-09-09T19:00:00Z",
+          "end": "2026-10-10T15:00:00Z",
+          "url": "",
+          "how": "TM Me+3"
+        },
+        {
+          "name": "Cash in & Save Ticket Offer",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-10-10T04:59:00Z",
+          "url": "",
+          "how": "Cash in & Save Ticket Offer"
+        },
+        {
+          "name": "GNOSF OFFER",
+          "start": "2026-09-28T19:00:00Z",
+          "end": "2026-10-10T04:59:00Z",
+          "url": "",
+          "how": "GNOSF OFFER"
+        },
+        {
+          "name": "Club WWE Members Offer",
+          "start": "2026-09-25T14:00:00Z",
+          "end": "2026-10-10T04:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "9 presale(s)"
+      ]
+    },
+    {
+      "id": "17AOv0G62o3Ivks",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-charleston-west-virginia-10-30-2026/event/160064F452A011B1",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Charleston Coliseum",
+      "city": "Charleston",
+      "state": "WV",
+      "capacity": 15000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-30T23:30:00Z",
+      "onsale_start": "2026-07-24T14:00:00Z",
+      "onsale_end": "2026-10-31T01:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presale",
+          "start": "2026-07-23T14:00:00Z",
+          "end": "2026-07-24T03:59:00Z",
+          "url": "",
+          "how": "WWE Presale Offer"
+        },
+        {
+          "name": "Venue Presale Offer",
+          "start": "2026-07-23T14:00:00Z",
+          "end": "2026-07-24T03:59:00Z",
+          "url": "",
+          "how": "Venue Presale Offer"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-07-23T14:00:00Z",
+          "end": "2026-07-24T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-07-24T14:00:00Z",
+          "end": "2026-10-24T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "CMPUNK 20% Off Promo",
+          "start": "2026-08-17T21:18:00Z",
+          "end": "2026-08-19T03:59:00Z",
+          "url": "",
+          "how": "CMPUNK 20% Off Promo"
+        },
+        {
+          "name": "Labor Day Offer",
+          "start": "2026-09-03T14:00:00Z",
+          "end": "2026-09-08T03:59:00Z",
+          "url": "",
+          "how": "Labor Day Offer"
+        },
+        {
+          "name": "Money In the Bank Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "Money In the Bank Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 73,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 8.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~15,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "7 presale(s)"
+      ]
+    },
+    {
+      "id": "17GZv0G6CB9tVW6",
+      "name": "Two Shows. One Night: WWE RAW & SmackDown",
+      "url": "https://www.ticketmaster.com/two-shows-one-night-wwe-raw-brooklyn-new-york-11-02-2026/event/300064EE97A74F47",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Monday Night RAW"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY",
+      "capacity": 19000,
+      "capacity_source": "exact",
+      "event_date": "2026-11-02T22:30:00Z",
+      "onsale_start": "2026-07-24T14:00:00Z",
+      "onsale_end": "2026-11-03T00:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presale",
+          "start": "2026-07-23T14:00:00Z",
+          "end": "2026-07-24T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Barclays Center Presale",
+          "start": "2026-07-23T14:00:00Z",
+          "end": "2026-07-24T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Money In The Bank Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "Money In The Bank Offer"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-07-24T14:00:00Z",
+          "end": "2026-10-27T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-07-23T14:00:00Z",
+          "end": "2026-07-24T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.1,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1bZ_CTd94Qp",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-saint-louis-missouri-10-05-2026/event/060064EFC35D5696",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Enterprise Center",
+      "city": "Saint Louis",
+      "state": "MO",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-05T23:30:00Z",
+      "onsale_start": "2026-07-24T15:00:00Z",
+      "onsale_end": "2026-10-05T23:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Presale Offers",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-07-24T15:00:00Z",
+          "end": "2026-09-29T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_CyzAKo1",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-bossier-city-louisiana-10-12-2026/event/1B0064EE7815344A",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Brookshire Grocery Arena",
+      "city": "Bossier City",
+      "state": "LA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-12T23:30:00Z",
+      "onsale_start": "2026-07-24T15:00:00Z",
+      "onsale_end": "2026-10-13T01:30:00Z",
+      "presales": [
+        {
+          "name": "WWE.COM Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE.COM Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "TM CEN Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "TM CEN Presale"
+        },
+        {
+          "name": "WWE National Social Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE National Social Presale"
+        },
+        {
+          "name": "WWE Partners Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE Partners Presale"
+        },
+        {
+          "name": "WWE Geo-targeted Eblasted Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE Geo-targeted Eblasted Presale"
+        },
+        {
+          "name": "What's App Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "What's App Presale"
+        },
+        {
+          "name": "Marketing O&O Social Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "Marketing O&O Social Presale"
+        },
+        {
+          "name": "WWE Talent Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE Talent Presale"
+        },
+        {
+          "name": "IG Broadcast Channel Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "IG Broadcast Channel Presale"
+        },
+        {
+          "name": "Club WWE Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "Club WWE Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-07-24T15:00:00Z",
+          "end": "2026-10-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AAA Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "AAA Presale"
+        },
+        {
+          "name": "Save 30% on select WWE Tickets!",
+          "start": "2026-09-03T15:00:00Z",
+          "end": "2026-09-08T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Money In The Bank Savings Offer",
+          "start": "2026-10-02T15:00:00Z",
+          "end": "2026-10-12T04:59:00Z",
+          "url": "",
+          "how": "Money In The Bank Savings Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "16 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_uLiTmrI",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-lafayette-louisiana-10-09-2026/event/1B0064D7ECFEE7A8",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Lafayette Cajundome",
+      "city": "Lafayette",
+      "state": "LA",
+      "capacity": null,
+      "capacity_source": "unknown",
+      "event_date": "2026-10-09T23:30:00Z",
+      "onsale_start": "2026-07-24T15:00:00Z",
+      "onsale_end": "2026-10-09T23:30:00Z",
+      "presales": [
+        {
+          "name": "CAJUNDOME Insiders Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "CAJUNDOME Insiders Presale"
+        },
+        {
+          "name": "TM CEN",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "TM CEN"
+        },
+        {
+          "name": "WWE.COM",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE.COM"
+        },
+        {
+          "name": "WWE National Social Pre-Sale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE National Social Pre-Sale"
+        },
+        {
+          "name": "WWE Partners Pre-Sale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE Partners Pre-Sale"
+        },
+        {
+          "name": "WWE GEO Pre-Sale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "WWE GEO Pre-Sale"
+        },
+        {
+          "name": "What's App Pre-Sale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "What's App Pre-Sale"
+        },
+        {
+          "name": "Marketing O&O Social Pre-Sale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T04:59:00Z",
+          "url": "",
+          "how": "Marketing O&O Social Pre-Sale"
+        },
+        {
+          "name": "WWE VIP Package Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE VIP Package Onsale",
+          "start": "2026-07-24T15:00:00Z",
+          "end": "2026-10-03T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AAAVIP Presale",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-07-24T03:00:00Z",
+          "url": "",
+          "how": "AAAVIP Presale"
+        },
+        {
+          "name": "Official Platinum",
+          "start": "2026-07-23T15:00:00Z",
+          "end": "2026-10-09T23:30:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "30% Off Labor Day Select WWE seats!",
+          "start": "2026-09-03T15:00:00Z",
+          "end": "2026-09-07T16:59:00Z",
+          "url": "",
+          "how": "30% Off Labor Day Select WWE seats!"
+        },
+        {
+          "name": "UL Lafayette offer",
+          "start": "2026-09-24T18:00:00Z",
+          "end": "2026-10-09T04:59:00Z",
+          "url": "",
+          "how": "UL Lafayette offer"
+        },
+        {
+          "name": "2FOR1 Offer",
+          "start": "2026-09-25T15:00:00Z",
+          "end": "2026-09-28T04:59:00Z",
+          "url": "",
+          "how": "2FOR1 Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 64,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 0.0,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "15 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_CTVUgJM",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-fresno-california-10-26-2026/event/1C0064EFF4DB59B7",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Save Mart Center",
+      "city": "Fresno",
+      "state": "CA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-26T23:30:00Z",
+      "onsale_start": "2026-07-24T17:00:00Z",
+      "onsale_end": "2026-10-27T01:30:00Z",
+      "presales": [
+        {
+          "name": "Venue/WWE Pre Sale",
+          "start": "2026-07-23T17:00:00Z",
+          "end": "2026-07-24T06:59:00Z",
+          "url": "",
+          "how": "Venue/WWE Pre Sale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-07-23T17:00:00Z",
+          "end": "2026-07-24T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-07-24T17:00:00Z",
+          "end": "2026-10-20T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_CTh43-N",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-sacramento-california-10-16-2026/event/1C0064EFDB552863",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Golden 1 Center",
+      "city": "Sacramento",
+      "state": "CA",
+      "capacity": 17608,
+      "capacity_source": "exact",
+      "event_date": "2026-10-16T23:30:00Z",
+      "onsale_start": "2026-07-24T17:00:00Z",
+      "onsale_end": "2026-10-17T00:30:00Z",
+      "presales": [
+        {
+          "name": "Presale Offer",
+          "start": "2026-07-23T17:00:00Z",
+          "end": "2026-07-24T06:59:00Z",
+          "url": "",
+          "how": "Presale Offer"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-07-23T17:00:00Z",
+          "end": "2026-07-24T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-07-24T17:00:00Z",
+          "end": "2026-10-10T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Celebrate 20 Years of CM Punk",
+          "start": "2026-08-13T17:00:00Z",
+          "end": "2026-08-17T06:59:00Z",
+          "url": "",
+          "how": "Celebrate 20 Years of CM Punk"
+        },
+        {
+          "name": "Labor Day Special Offer",
+          "start": "2026-09-03T14:00:00Z",
+          "end": "2026-09-08T06:59:00Z",
+          "url": "",
+          "how": "30% Savings on select price levels"
+        },
+        {
+          "name": "Me + 3 4-Pack Offer",
+          "start": "2026-09-08T22:00:00Z",
+          "end": "2026-10-16T06:59:00Z",
+          "url": "",
+          "how": "Me + 3 4-Pack Offer"
+        },
+        {
+          "name": "916 Offer",
+          "start": "2026-09-16T07:00:00Z",
+          "end": "2026-09-19T06:59:00Z",
+          "url": "",
+          "how": "30% Savings on select price levels"
+        },
+        {
+          "name": "Athletics Offer",
+          "start": "2026-09-25T17:00:00Z",
+          "end": "2026-09-28T06:59:00Z",
+          "url": "",
+          "how": "Athletics Offer"
+        },
+        {
+          "name": "Cash in and Save Ticket Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "30% off select tickets for all WWE events on sale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.5,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "9 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAZF16",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAZF16",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Pechanga Arena San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-19T23:30:00Z",
+      "onsale_start": "2026-07-24T17:00:00Z",
+      "onsale_end": "2026-10-19T23:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 68,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face"
+      ]
+    },
+    {
+      "id": "vvG10Z_2QixICU",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-ontario-california-10-23-2026/event/090064F6AC8A83B6",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Friday Night SmackDown"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Toyota Arena",
+      "city": "Ontario",
+      "state": "CA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-23T23:30:00Z",
+      "onsale_start": "2026-07-29T17:00:00Z",
+      "onsale_end": "2026-10-23T23:30:00Z",
+      "presales": [
+        {
+          "name": "PRESALE",
+          "start": "2026-07-28T17:00:00Z",
+          "end": "2026-07-29T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-07-28T17:00:00Z",
+          "end": "2026-07-29T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-07-29T17:00:00Z",
+          "end": "2026-10-17T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_88MInXt",
+      "name": "WWE Survivor Series: WarGames",
+      "url": "https://www.ticketmaster.com/wwe-survivor-series-wargames-houston-texas-11-28-2026/event/3A00650437A2AFA9",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Survivor Series"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Daikin Park",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": null,
+      "capacity_source": "unknown",
+      "event_date": "2026-11-28T22:30:00Z",
+      "onsale_start": "2026-08-07T15:00:00Z",
+      "onsale_end": "2026-11-29T00:30:00Z",
+      "presales": [
+        {
+          "name": "Club WWE Members Offer",
+          "start": "2026-08-05T19:00:00Z",
+          "end": "2026-08-07T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Phase 2 Presale",
+          "start": "2026-08-06T15:00:00Z",
+          "end": "2026-08-07T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Labor Day Offer",
+          "start": "2026-09-03T15:00:00Z",
+          "end": "2026-09-08T04:59:00Z",
+          "url": "",
+          "how": "Save up to 30% on select tickets, while supplies last"
+        },
+        {
+          "name": "Cash in & Save Ticket Offier",
+          "start": "2026-10-02T15:00:00Z",
+          "end": "2026-10-13T04:59:00Z",
+          "url": "",
+          "how": "Save up to 30% on select tickets. Standard fees apply"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 64,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 0.0,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_26ev52J",
+      "name": "WWE Hawaii Live Tour 2026",
+      "url": "https://www.ticketmaster.com/wwe-hawaii-live-tour-2026-honolulu-hawaii-10-16-2026/event/0A0064F1C204B3E6",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Live"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Neal S Blaisdell Arena",
+      "city": "Honolulu",
+      "state": "HI",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-17T05:30:00Z",
+      "onsale_start": "2026-08-14T20:00:00Z",
+      "onsale_end": "2026-10-17T08:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Social Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE.com Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE TM CEN Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE CSR Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Corporate Partners Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Talent Social Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Instagram Social Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE IG Reels Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T09:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-12T20:00:00Z",
+          "end": "2026-08-14T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-14T20:00:00Z",
+          "end": "2026-10-10T08:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "11 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17fZ_8GkU3Y7M6",
+      "name": "WWE Road To Survivor Series: WarGames",
+      "url": "https://www.ticketmaster.com/wwe-road-to-survivor-series-wargames-youngstown-ohio-10-29-2026/event/0500650D92C04DC7",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Covelli Centre",
+      "city": "Youngstown",
+      "state": "OH",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-29T23:30:00Z",
+      "onsale_start": "2026-08-21T14:00:00Z",
+      "onsale_end": "2026-10-30T01:30:00Z",
+      "presales": [
+        {
+          "name": "VENUE PRESALE",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T03:59:00Z",
+          "url": "",
+          "how": "VENUE PRESALE"
+        },
+        {
+          "name": "TICKETMASTER PRESALE",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T03:59:00Z",
+          "url": "",
+          "how": "TICKETMASTER PRESALE"
+        },
+        {
+          "name": "WWE PRESALES",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T03:59:00Z",
+          "url": "",
+          "how": "WWE PRESALES"
+        },
+        {
+          "name": "WHATSAPP",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T03:59:00Z",
+          "url": "",
+          "how": "WHATSAPP"
+        },
+        {
+          "name": "TM Me+3",
+          "start": "2026-08-24T14:00:00Z",
+          "end": "2026-10-29T02:00:00Z",
+          "url": "",
+          "how": "TM Me+3"
+        },
+        {
+          "name": "AISLE SEAT",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-10-29T02:00:00Z",
+          "url": "",
+          "how": "AISLE SEAT"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-21T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "IG Broadcast Channel",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T02:00:00Z",
+          "url": "",
+          "how": "IG Broadcast Channel"
+        },
+        {
+          "name": "Club WWE",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T02:00:00Z",
+          "url": "",
+          "how": "Club WWE"
+        },
+        {
+          "name": "Labor Day Offer",
+          "start": "2026-09-03T16:00:00Z",
+          "end": "2026-09-08T03:59:00Z",
+          "url": "",
+          "how": "Labor Day Offer"
+        },
+        {
+          "name": "Cash in and Save Ticket Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "Cash in and Save Ticket Offer"
+        },
+        {
+          "name": "Haunted House Ticket Offer",
+          "start": "2026-10-02T16:00:00Z",
+          "end": "2026-10-29T03:59:00Z",
+          "url": "",
+          "how": "Haunted House Ticket Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "13 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_8GkUAQMth",
+      "name": "WWE Road To Survivor Series: WarGames",
+      "url": "https://www.ticketmaster.com/wwe-road-to-survivor-series-wargames-bangor-maine-11-06-2026/event/0100650D856B7A5B",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Survivor Series"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Cross Insurance Center",
+      "city": "Bangor",
+      "state": "ME",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-07T00:30:00Z",
+      "onsale_start": "2026-08-21T14:00:00Z",
+      "onsale_end": "2026-11-07T02:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Pre-Sale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T03:59:00Z",
+          "url": "",
+          "how": "Venue Pre-Sale"
+        },
+        {
+          "name": "WWE Pre-Sale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T03:59:00Z",
+          "url": "",
+          "how": "WWE Pre-Sale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-21T14:00:00Z",
+          "end": "2026-10-31T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "IG Broadcast Channel Pre-Sale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T02:00:00Z",
+          "url": "",
+          "how": "IG Broadcast Channel Pre-Sale"
+        },
+        {
+          "name": "Venue Group Sales",
+          "start": "2026-08-24T17:00:00Z",
+          "end": "2026-11-03T03:00:00Z",
+          "url": "",
+          "how": "Venue Group Sales"
+        },
+        {
+          "name": "Labor Day Offer",
+          "start": "2026-09-03T14:00:00Z",
+          "end": "2026-09-08T03:59:00Z",
+          "url": "",
+          "how": "Labor Day Offer"
+        },
+        {
+          "name": "Money in the Bank Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "Money in the Bank Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_8GkM4m_ie",
+      "name": "WWE Road To Survivor Series: WarGames",
+      "url": "https://www.ticketmaster.com/wwe-road-to-survivor-series-wargames-portland-maine-11-05-2026/event/0100650DD5B99B02",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Survivor Series"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Cross Insurance Arena ",
+      "city": "Portland",
+      "state": "ME",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-06T00:30:00Z",
+      "onsale_start": "2026-08-21T14:00:00Z",
+      "onsale_end": "2026-11-06T02:30:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T03:59:00Z",
+          "url": "",
+          "how": "Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-21T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1VZ_83KeK1a",
+      "name": "WWE Road To Survivor Series: WarGames",
+      "url": "https://www.ticketmaster.com/wwe-road-to-survivor-series-wargames-estero-florida-11-12-2026/event/0D00650493093289",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Live"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Hertz Arena",
+      "city": "Estero",
+      "state": "FL",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-13T00:30:00Z",
+      "onsale_start": "2026-08-21T14:00:00Z",
+      "onsale_end": "2026-11-13T01:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-20T14:00:00Z",
+          "end": "2026-08-21T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-21T14:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "1AOZkf6GkeXOSyD",
+      "name": " WWE Road to Survivor Series: WarGames",
+      "url": "https://www.ticketmaster.com/wwe-road-to-survivor-series-wargames-huntsville-alabama-11-19-2026/event/20006507BE833E7B",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Survivor Series"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Von Braun Center Propst Arena",
+      "city": "Huntsville",
+      "state": "AL",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-20T01:30:00Z",
+      "onsale_start": "2026-08-21T15:00:00Z",
+      "onsale_end": "2026-11-20T02:30:00Z",
+      "presales": [
+        {
+          "name": "Presale Offer",
+          "start": "2026-08-20T15:00:00Z",
+          "end": "2026-08-21T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-20T15:00:00Z",
+          "end": "2026-08-21T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-21T15:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_8pcCDat",
+      "name": "WWE Road To Survivor Series: WarGames",
+      "url": "https://www.ticketmaster.com/wwe-road-to-survivor-series-wargames-palm-desert-california-10-22-2026/event/0A006505AD3BB269",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Acrisure Arena at Greater Palm Springs",
+      "city": "Palm Desert",
+      "state": "CA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-23T02:30:00Z",
+      "onsale_start": "2026-08-21T17:00:00Z",
+      "onsale_end": "2026-10-23T02:30:00Z",
+      "presales": [
+        {
+          "name": "Local Pre-Sale",
+          "start": "2026-08-20T17:00:00Z",
+          "end": "2026-08-21T06:59:00Z",
+          "url": "",
+          "how": "Local Pre-Sale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-20T17:00:00Z",
+          "end": "2026-08-21T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-21T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_26eeh2c",
+      "name": "WWE Hawaii Live Tour 2026",
+      "url": "https://www.ticketmaster.com/wwe-hawaii-live-tour-2026-honolulu-hawaii-10-17-2026/event/0A0064F1C209B3ED",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Live"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Neal S Blaisdell Arena",
+      "city": "Honolulu",
+      "state": "HI",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-18T05:30:00Z",
+      "onsale_start": "2026-08-21T20:00:00Z",
+      "onsale_end": "2026-10-18T08:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Social Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE.com Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE TM CEN Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE CSR Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Corporate Partners Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Talent Social Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Instagram Social Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE IG Reels Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-08-19T20:00:00Z",
+          "end": "2026-08-21T10:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-08-21T20:00:00Z",
+          "end": "2026-10-11T10:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "11 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_o1Os_AV",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-raleigh-north-carolina-11-16-2026/event/2D006512A0C59174",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Lenovo Center",
+      "city": "Raleigh",
+      "state": "NC",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-17T00:30:00Z",
+      "onsale_start": "2026-09-11T14:00:00Z",
+      "onsale_end": "2026-11-17T01:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-10T14:00:00Z",
+          "end": "2026-09-11T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-09-11T14:00:00Z",
+          "end": "2026-11-10T03:00:00Z",
+          "url": "",
+          "how": "VIP Package Onsale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1keZvPA_GA1KEq6",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-toledo-ohio-12-07-2026/event/080065159A4E7747",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Huntington Center",
+      "city": "Toledo",
+      "state": "OH",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-08T00:30:00Z",
+      "onsale_start": "2026-09-11T14:00:00Z",
+      "onsale_end": "2026-12-08T02:30:00Z",
+      "presales": [
+        {
+          "name": "Pre-Sales",
+          "start": "2026-09-10T14:00:00Z",
+          "end": "2026-09-11T02:00:00Z",
+          "url": "",
+          "how": "Special Offer Pre-Sales"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-10T14:00:00Z",
+          "end": "2026-09-11T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-09-11T14:00:00Z",
+          "end": "2026-12-01T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_o9KsDQa",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-greenville-south-carolina-11-09-2026/event/2D006515D3C7B689",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Bon Secours Wellness Arena ",
+      "city": "Greenville",
+      "state": "SC",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-10T00:30:00Z",
+      "onsale_start": "2026-09-11T14:00:00Z",
+      "onsale_end": "2026-11-10T02:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-10T14:00:00Z",
+          "end": "2026-09-11T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-09-11T14:00:00Z",
+          "end": "2026-11-03T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Presales",
+          "start": "2026-09-10T14:00:00Z",
+          "end": "2026-09-11T03:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AFZkfKGkecYUWM",
+      "name": "WWE Friday Night Smackdown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-grand-rapids-michigan-12-04-2026/event/08006513ADC36F77",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Friday Night SmackDown"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Van Andel Arena",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-05T00:30:00Z",
+      "onsale_start": "2026-09-11T14:00:00Z",
+      "onsale_end": "2026-12-05T00:30:00Z",
+      "presales": [
+        {
+          "name": "Presales",
+          "start": "2026-09-10T14:00:00Z",
+          "end": "2026-09-12T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-10T14:00:00Z",
+          "end": "2026-09-11T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-09-11T14:00:00Z",
+          "end": "2026-11-28T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAvxGv",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAvxGv",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Amerant Bank Arena",
+      "city": "Sunrise",
+      "state": "FL",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-14T00:30:00Z",
+      "onsale_start": "2026-09-11T14:00:00Z",
+      "onsale_end": "2026-11-14T00:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 68,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face"
+      ]
+    },
+    {
+      "id": "vv17fZ_oGkm4vAOF",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-evansville-indiana-11-20-2026/event/0500651B95045808",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Ford Center",
+      "city": "Evansville",
+      "state": "IN",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-21T00:30:00Z",
+      "onsale_start": "2026-09-11T15:00:00Z",
+      "onsale_end": "2026-11-21T01:30:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-09-10T15:00:00Z",
+          "end": "2026-09-11T04:59:00Z",
+          "url": "",
+          "how": "Presale"
+        },
+        {
+          "name": "Ford Center Special",
+          "start": "2026-09-22T15:00:00Z",
+          "end": "2026-11-20T05:59:00Z",
+          "url": "",
+          "how": "Ford Center Special"
+        },
+        {
+          "name": "Cash in and Save Ticket Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "Cash in and Save Ticket Offer"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-10T15:00:00Z",
+          "end": "2026-09-11T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-09-11T15:00:00Z",
+          "end": "2026-11-14T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Indiana Sports Commission Ticket Offer",
+          "start": "2026-10-01T17:00:00Z",
+          "end": "2026-11-20T05:59:00Z",
+          "url": "",
+          "how": "Indiana Sports Commission Ticket Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kvOvPFSGA5cWQy",
+      "name": "WWE RAW & Smackdown",
+      "url": "https://www.ticketmaster.com/wwe-raw-smackdown-wichita-kansas-11-23-2026/event/060065233BB7D6B9",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "INTRUST Bank Arena",
+      "city": "Wichita",
+      "state": "KS",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-23T22:30:00Z",
+      "onsale_start": "2026-09-11T15:00:00Z",
+      "onsale_end": "2026-11-24T00:30:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-09-10T15:00:00Z",
+          "end": "2026-09-11T04:59:00Z",
+          "url": "",
+          "how": "Presale"
+        },
+        {
+          "name": "Preferred Aisle Offer",
+          "start": "2026-09-10T15:00:00Z",
+          "end": "2026-11-24T00:30:00Z",
+          "url": "",
+          "how": "Preferred Aisle Offer"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-10T15:00:00Z",
+          "end": "2026-09-11T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-09-11T15:00:00Z",
+          "end": "2026-11-17T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_8nxK953",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-north-little-rock-arkansas-11-30-2026/event/1B00650AA24D72D2",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Simmons Bank Arena",
+      "city": "North Little Rock",
+      "state": "AR",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-01T00:30:00Z",
+      "onsale_start": "2026-09-11T15:00:00Z",
+      "onsale_end": "2026-12-01T01:30:00Z",
+      "presales": [
+        {
+          "name": "Advance Presales",
+          "start": "2026-09-10T15:00:00Z",
+          "end": "2026-09-11T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-09-10T15:00:00Z",
+          "end": "2026-09-11T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-09-11T15:00:00Z",
+          "end": "2026-11-24T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1iZ_KxXnp0-",
+      "name": "WWE NXT Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-nxt-holiday-live-tour-riverside-california-12-05-2026/event/0B006538BEA96921",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Riverside Municipal Auditorium",
+      "city": "Riverside",
+      "state": "CA",
+      "capacity": 4000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-06T03:30:00Z",
+      "onsale_start": "2026-09-30T17:00:00Z",
+      "onsale_end": "2026-12-06T04:30:00Z",
+      "presales": [
+        {
+          "name": "WWE.COM Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE National Social Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Talent Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Partners Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "WWE Geo Targeted Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "What's App Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Marketing Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-09-29T17:00:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "WWE Social Presale",
+          "start": "2026-09-29T17:20:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": "WWE Social Presale"
+        },
+        {
+          "name": "TM CEN Presale",
+          "start": "2026-09-29T18:16:00Z",
+          "end": "2026-09-30T06:59:00Z",
+          "url": "",
+          "how": "TM CEN Presale"
+        },
+        {
+          "name": "Money In The Bank Offer",
+          "start": "2026-10-05T17:00:00Z",
+          "end": "2026-10-13T06:59:00Z",
+          "url": "",
+          "how": "Money In The Bank Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 79,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 14.8,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~4,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "12 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_KLDw1lX",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-syracuse-new-york-12-27-2026/event/00006537FBC8AAFE",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Upstate Medical University Arena at The Oncenter War Memorial",
+      "city": "Syracuse",
+      "state": "NY",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-28T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-28T00:30:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-21T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1zZ_KL8s2J7",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-columbus-georgia-12-30-2026/event/0E006537D0C4F984",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Columbus Civic Center",
+      "city": "Columbus",
+      "state": "GA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-31T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-31T02:30:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "Presale"
+        },
+        {
+          "name": "30% Off Offer",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-10-12T03:59:00Z",
+          "url": "",
+          "how": "30% Off Offer"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": "VIP Package Presale"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-24T03:00:00Z",
+          "url": "",
+          "how": "VIP Package Onsale"
+        },
+        {
+          "name": "Premium Aisle Seating",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-12-31T01:00:00Z",
+          "url": "",
+          "how": "Premium Aisle Seating"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_KGklKWwHG",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-hampton-virginia-12-27-2026/event/0100653AD3F72F0C",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Hampton Coliseum",
+      "city": "Hampton",
+      "state": "VA",
+      "capacity": 15000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-28T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-28T02:30:00Z",
+      "presales": [
+        {
+          "name": "Venue/WWE Pre-sale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "Venue/WWE Pre-sale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-21T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 73,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 8.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~15,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv16OvPGtoAZ751vv",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-wilkes-barre-pennsylvania-12-26-2026/event/020065329445A900",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Mohegan Arena at Casey Plaza",
+      "city": "Wilkes Barre",
+      "state": "PA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-27T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-27T02:30:00Z",
+      "presales": [
+        {
+          "name": "Internet Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "Internet Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1VZ_8wMwM95",
+      "name": "WWE RAW & Smackdown",
+      "url": "https://www.ticketmaster.com/wwe-raw-smackdown-tampa-florida-12-28-2026/event/0D00650CB7CB75CB",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Monday Night RAW",
+        "WWE Friday Night SmackDown"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Benchmark International Arena",
+      "city": "Tampa",
+      "state": "FL",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-28T23:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-29T01:30:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-22T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Cash In & Save Ticket Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "Cash In & Save Ticket Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZkftGkduaB11",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-pittsburgh-pennsylvania-12-30-2026/event/16006529CD27A28A",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "PPG Paints Arena",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-31T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-31T00:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presales",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "WWE Presales"
+        },
+        {
+          "name": "Aisle Seat Offer",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "Aisle Seat Offer"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5diZ_KxK6env",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-new-york-new-york-12-26-2026/event/3B006538931C2A81",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 20789,
+      "capacity_source": "exact",
+      "event_date": "2026-12-27T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-27T02:00:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Chase Cardholder Preferred Tickets",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-27T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-20T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 71,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 6.6,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1keZvPuZGA5aB06",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-detroit-michigan-12-29-2026/event/080065340B27A907",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Little Caesars Arena",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 20332,
+      "capacity_source": "exact",
+      "event_date": "2026-12-30T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-30T01:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "WWE Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T02:00:00Z",
+          "url": "",
+          "how": "WWE VIP Package Presale"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-23T03:00:00Z",
+          "url": "",
+          "how": "WWE VIP Package Onsale"
+        },
+        {
+          "name": "WWE Money in the Bank Offer",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-13T03:59:00Z",
+          "url": "",
+          "how": "WWE Money in the Bank Offer"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 71,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 6.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kvZvPuyGACHFOm",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-rockford-illinois-12-03-2026/event/040065379EF0882E",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "BMO Center",
+      "city": "Rockford",
+      "state": "IL",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-04T01:30:00Z",
+      "onsale_start": "2026-10-02T15:00:00Z",
+      "onsale_end": "2026-12-04T03:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T15:00:00Z",
+          "end": "2026-11-27T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "BMO Center Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "BMO Center Presale"
+        },
+        {
+          "name": "WWE Partners Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "WWE Partners Presale"
+        },
+        {
+          "name": "WWE Talent Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "WWE Talent Presale"
+        },
+        {
+          "name": "IG Broadcast Channel Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "IG Broadcast Channel Presale"
+        },
+        {
+          "name": "What's App Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "What's App Presale"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Club WWE Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "Club WWE Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 75,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "9 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_KLYJQSz",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-nashville-tennessee-12-29-2026/event/1B006537F099ACF8",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Bridgestone Arena",
+      "city": "Nashville",
+      "state": "TN",
+      "capacity": 20000,
+      "capacity_source": "exact",
+      "event_date": "2026-12-30T01:30:00Z",
+      "onsale_start": "2026-10-02T15:00:00Z",
+      "onsale_end": "2026-12-30T03:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T04:59:00Z",
+          "url": "",
+          "how": "WWE Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T15:00:00Z",
+          "end": "2026-10-02T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-02T15:00:00Z",
+          "end": "2026-12-23T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 71,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 6.8,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
     {
       "id": "G5dIZ_KMU7g8m",
       "name": "WWE/AAA Presents: AAA LIVE TOUR",
@@ -110,26 +3309,27 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 72,
+      "score": 88,
       "score_parts": {
-        "demand": 23.1,
+        "demand": 35.1,
         "scarcity": 18.7,
-        "markup": 20.3,
+        "markup": 24.0,
         "timing": 10.0
       },
       "confidence": "low",
-      "on_watchlist": false,
+      "on_watchlist": true,
       "resale_multiple": [
-        1.45,
-        2.5
+        1.55,
+        2.75
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
+        "on your watchlist",
         "44 upcoming dates (heavy routing)",
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
-        "est. 1.4-2.5x face",
+        "est. 1.6-2.8x face",
         "11 presale(s)"
       ]
     },
@@ -3364,9 +6564,9 @@
         {
           "name": "VIP Packages Presale",
           "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-06T16:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
           "url": "",
-          "how": ""
+          "how": "The tour is offering VIP Packages for this event."
         },
         {
           "name": "Verified Strays Presale",
@@ -3376,25 +6576,11 @@
           "how": ""
         },
         {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-06T16:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T16:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
           "name": "VIP Packages Onsale",
           "start": "2026-10-09T14:00:00Z",
           "end": "2027-07-20T02:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         },
         {
           "name": "Amex Reserved Tickets",
@@ -3426,7 +6612,7 @@
         "46 upcoming dates (heavy routing)",
         "~12,000 cap (from venue type)",
         "est. 1.5-2.5x face",
-        "13 presale(s)"
+        "11 presale(s)"
       ]
     },
     {

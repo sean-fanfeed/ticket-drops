@@ -8,6 +8,12 @@
       ],
       "added": "2026-10-01",
       "why": "Seeded by Sean. Note: Ticketmaster most often lists this artist as 'Omer Adam' - both spellings are searched."
+    },
+    {
+      "name": "WWE",
+      "aliases": [],
+      "added": "2026-10-03",
+      "why": "Added from the tickets page."
     }
   ]
 }
