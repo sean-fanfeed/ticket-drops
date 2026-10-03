@@ -2,18 +2,17 @@ name: Daily ticket drops
 
 on:
   schedule:
-    # 12:40 UTC. In Denver that is 06:40 MDT / 05:40 MST.
-    # Deliberately ~20 min ahead of the Morning Brief routine (13:03 UTC):
-    # GitHub's scheduler is best-effort and routinely runs late under load, and
-    # the brief needs the digest to already be on the ntfy topic when it fetches.
+    # MEASURED 2026-10-02: GitHub ran these ~5 HOURS late.
+    #   "40 12" fired 18:01 UTC   "20 13" fired 18:32   "10 14" fired 19:16
+    # Free-tier scheduled jobs queue behind everything else; delay is unbounded
+    # and they are sometimes dropped outright. So we fire early and often rather
+    # than near the time we actually want, and let whichever lands first win.
+    # state.json dedupes pushes, so extra runs only refresh the page.
+    - cron: "40 6 * * *"
+    - cron: "40 9 * * *"
+    - cron: "40 11 * * *"
     - cron: "40 12 * * *"
-    # Backstops. GitHub's scheduler is best-effort: it queues scheduled jobs
-    # behind everything else, often runs them 15-60 min late, and silently DROPS
-    # them under load - on 2026-10-02 the 12:40 trigger never fired at all.
-    # state.json dedupes notifications, so a later run that finds nothing new
-    # just rebuilds the page. Cheap insurance on a public repo (free minutes).
     - cron: "20 13 * * *"
-    - cron: "10 14 * * *"
   workflow_dispatch: {}
 
 permissions:
