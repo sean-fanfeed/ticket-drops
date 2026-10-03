@@ -880,6 +880,9 @@ const rel = iso => {{
   return n === 1 ? "tomorrow" : "in " + n + "d";
 }};
 const isToday = iso => {{ const d = dt(iso); return !!d && dayKey(d) === dayKey(new Date()); }};
+// An on-sale you can no longer be first to is not a lead. Evaluated on open,
+// so the list drains through the day instead of going stale overnight.
+const stillOpen = iso => {{ const d = dt(iso); return !!d && d >= new Date(); }};
 const WTOPIC = "{watch_topic}";
 const S = {{tab:"today", sort:"score", min:60, seg:"all", watch:false, best:true, st:"active", open:false}};
 try {{ Object.assign(S, JSON.parse(localStorage.getItem("drops:view") || "{{}}")); }} catch (e) {{}}
@@ -909,7 +912,8 @@ const esc = t => String(t == null ? "" : t).replace(/[&<>"]/g,
 const FAR = "9999";
 
 function view() {{
-  let r = DATA.filter(d => d.s >= S.min
+  let r = DATA.filter(d => stillOpen(d.on)
+    && d.s >= S.min
     && (S.seg === "all" || d.seg === S.seg)
     && (!S.watch || d.w)
     && (S.tab === "today" ? onToday(d) : !onToday(d))
@@ -936,7 +940,7 @@ function view() {{
 }}
 
 function counts() {{
-  const base = DATA.filter(d => d.s >= S.min
+  const base = DATA.filter(d => stillOpen(d.on) && d.s >= S.min
     && (S.seg === "all" || d.seg === S.seg) && (!S.watch || d.w));
   const inTab = base.filter(d => S.tab === "today" ? onToday(d) : !onToday(d));
   const vis = base.filter(d => !HIDDEN[d.act]);
@@ -1027,7 +1031,7 @@ function render() {{
           : "")
       + '</div></article>';
   }}).join("") : '<div class="empty">' + (S.tab === "today"
-      ? "Nothing goes on sale today at this filter."
+      ? "Nothing left to act on today \u2014 everything on sale today has already opened."
       : S.st === "signed" ? "Nothing signed up for yet. Tick \u201cSigned up\u201d on a card."
       : S.st === "trash"  ? "Nothing trashed. Tap \u2715 on an act to hide it."
       : "Nothing upcoming matches that filter.") + '</div>';
