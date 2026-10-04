@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-03T17:25:18Z",
-    "generated_local": "Sat 3 Oct, 11:25 AM",
-    "scanned": 381,
+    "generated_utc": "2026-10-04T12:50:50Z",
+    "generated_local": "Sun 4 Oct, 6:50 AM",
+    "scanned": 379,
     "surfaced": 102,
     "new": 0,
     "threshold": 60,
@@ -3635,7 +3635,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 224,
+      "artist_upcoming": 220,
       "venue": "First Horizon Coliseum",
       "city": "Greensboro",
       "state": "NC",
@@ -3700,7 +3700,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "224 upcoming dates (heavy routing)",
+        "220 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -3715,7 +3715,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 224,
+      "artist_upcoming": 220,
       "venue": "First Horizon Coliseum",
       "city": "Greensboro",
       "state": "NC",
@@ -3780,7 +3780,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "224 upcoming dates (heavy routing)",
+        "220 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -3795,7 +3795,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 224,
+      "artist_upcoming": 220,
       "venue": "First Horizon Coliseum",
       "city": "Greensboro",
       "state": "NC",
@@ -3860,7 +3860,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "224 upcoming dates (heavy routing)",
+        "220 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -4282,8 +4282,8 @@
         },
         {
           "name": "VIP Packages Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-08T02:00:00Z",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-08T13:45:00Z",
           "url": "",
           "how": "The artist is offering VIP Packages for this event."
         },
@@ -4462,9 +4462,16 @@
           "how": "Available for All Fans - Sign Up in Advance"
         },
         {
+          "name": "Verizon Shine VIP Packages Presale",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-06T13:45:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Verizon Shine Members"
+        },
+        {
           "name": "VIP Packages Presale",
           "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-08T02:00:00Z",
+          "end": "2026-10-08T13:45:00Z",
           "url": "",
           "how": ""
         }
@@ -4489,7 +4496,7 @@
       "est_resale_max": null,
       "reasons": [
         "est. 1.5-2.4x face",
-        "5 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -4867,6 +4874,13 @@
           "how": ""
         },
         {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-07T17:00:00Z",
+          "end": "2026-10-08T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
           "name": "Artist Presale",
           "start": "2026-10-06T17:00:00Z",
           "end": "2026-10-07T16:45:00Z",
@@ -4875,8 +4889,8 @@
         },
         {
           "name": "VIP Packages Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-08T05:00:00Z",
+          "start": "2026-10-06T17:00:00Z",
+          "end": "2026-10-08T16:45:00Z",
           "url": "",
           "how": "The artist is offering VIP Packages for this event."
         },
@@ -4944,7 +4958,7 @@
       "reasons": [
         "~4,000 cap (from venue type)",
         "est. 1.5-2.4x face",
-        "9 presale(s)"
+        "10 presale(s)"
       ]
     },
     {
@@ -5041,6 +5055,20 @@
           "end": "2026-10-09T02:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "313 Presents Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
@@ -5066,7 +5094,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face",
-        "1 presale(s)"
+        "3 presale(s)"
       ]
     },
     {
@@ -5079,7 +5107,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Pine Knob Music Theatre",
       "city": "Clarkston",
       "state": "MI",
@@ -5151,7 +5179,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 73,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 7.0
@@ -5165,7 +5193,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.8x face",
@@ -5683,7 +5711,7 @@
       "artists": [
         "The Red Clay Strays"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -5762,7 +5790,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 61,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 7.0
@@ -5776,7 +5804,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -5792,7 +5820,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "PPL Center",
       "city": "Allentown",
       "state": "PA",
@@ -5913,7 +5941,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 61,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 7.0
@@ -5927,7 +5955,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "15 presale(s)"
@@ -5943,7 +5971,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Constellation Brands-Marvin Sands Performing Arts Center: CMAC",
       "city": "Canandaigua",
       "state": "NY",
@@ -6057,7 +6085,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 61,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 7.0
@@ -6071,7 +6099,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
@@ -6379,7 +6407,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Maine Savings Amphitheater",
       "city": "Bangor",
       "state": "ME",
@@ -6472,7 +6500,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 60,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 8.6,
         "markup": 20.8,
         "timing": 7.0
@@ -6486,7 +6514,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "11 presale(s)"
@@ -6502,7 +6530,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "BankNH Pavilion",
       "city": "Gilford",
       "state": "NH",
@@ -6595,7 +6623,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 60,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 9.3,
         "markup": 20.8,
         "timing": 7.0
@@ -6609,7 +6637,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~12,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "11 presale(s)"
@@ -6961,7 +6989,7 @@
     },
     {
       "id": "rZ7HnEZ1Afu4q0",
-      "name": "2026 82MAJOR [82CLUB : out of control] TOUR in Phoenix",
+      "name": "2026 82MAJOR [82CLUB : out of control] TOUR in Mesa",
       "url": "https://www.ticketweb.com/event/2026-82major-82club-out-nile-theater-tickets/14355764",
       "segment": "Music",
       "genre": "Pop",
@@ -7055,7 +7083,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Moody Center ATX",
       "city": "Austin",
       "state": "TX",
@@ -7169,7 +7197,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 61,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 7.0
@@ -7183,7 +7211,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
@@ -7199,7 +7227,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Enterprise Center",
       "city": "Saint Louis",
       "state": "MO",
@@ -7278,7 +7306,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 61,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 7.0
@@ -7292,7 +7320,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -7308,7 +7336,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "CHI Health Center Omaha",
       "city": "Omaha",
       "state": "NE",
@@ -7387,7 +7415,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 61,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 7.0
@@ -7401,7 +7429,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -7417,7 +7445,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Hilliard Center Arena",
       "city": "Corpus Christi",
       "state": "TX",
@@ -7538,7 +7566,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 61,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 7.0
@@ -7552,7 +7580,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "15 presale(s)"
@@ -7828,8 +7856,8 @@
     },
     {
       "id": "G5vYZ_K9Cdguj",
-      "name": "Fontaines D.C.",
-      "url": "https://www.ticketmaster.com/fontaines-dc-san-francisco-california-05-12-2027/event/1C006535CE0F535C",
+      "name": "Live 105 Presents: Fontaines D.C.",
+      "url": "https://www.ticketmaster.com/live-105-presents-fontaines-dc-san-francisco-california-05-12-2027/event/1C006535CE0F535C",
       "segment": "Music",
       "genre": "Pop",
       "artists": [
@@ -7910,7 +7938,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Greek Theatre-U.C. Berkeley",
       "city": "Berkeley",
       "state": "CA",
@@ -7989,7 +8017,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 12.8,
         "markup": 20.8,
         "timing": 7.0
@@ -8003,7 +8031,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
       ]
@@ -8157,7 +8185,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 45,
       "venue": "Hayden Homes Amphitheater",
       "city": "Bend",
       "state": "OR",
@@ -8243,7 +8271,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 60,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.3,
         "scarcity": 8.6,
         "markup": 20.8,
         "timing": 7.0
@@ -8257,7 +8285,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "10 presale(s)"
