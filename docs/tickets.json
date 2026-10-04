@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-04T12:50:50Z",
-    "generated_local": "Sun 4 Oct, 6:50 AM",
-    "scanned": 379,
+    "generated_utc": "2026-10-04T14:57:57Z",
+    "generated_local": "Sun 4 Oct, 8:57 AM",
+    "scanned": 383,
     "surfaced": 102,
     "new": 0,
     "threshold": 60,
@@ -4305,12 +4305,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 70,
+      "score": 73,
       "score_parts": {
         "demand": 20.0,
         "scarcity": 18.7,
         "markup": 24.5,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -4392,12 +4392,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 69,
+      "score": 72,
       "score_parts": {
         "demand": 20.0,
         "scarcity": 17.7,
         "markup": 24.5,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -4479,12 +4479,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 20.0,
         "scarcity": 12.8,
         "markup": 19.8,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
