@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-05T20:44:11Z",
-    "generated_local": "Mon 5 Oct, 2:44 PM",
-    "scanned": 635,
-    "surfaced": 158,
-    "new": 0,
+    "generated_utc": "2026-10-05T21:13:31Z",
+    "generated_local": "Mon 5 Oct, 3:13 PM",
+    "scanned": 643,
+    "surfaced": 159,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -4312,7 +4312,7 @@
       "artists": [
         "Jay Wheeler"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "Premier Theater at Foxwoods Resort Casino",
       "city": "Mashantucket",
       "state": "CT",
@@ -4335,7 +4335,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jay+Wheeler",
       "score": 66,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 17.7,
         "markup": 19.3,
         "timing": 10.0
@@ -9591,7 +9591,7 @@
       "artists": [
         "Jay Wheeler"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "DAR Constitution Hall",
       "city": "Washington",
       "state": "DC",
@@ -9642,7 +9642,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jay+Wheeler",
       "score": 68,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 19.6,
         "markup": 19.3,
         "timing": 10.0
@@ -9765,6 +9765,72 @@
         "~1,800 cap (from venue type)",
         "est. 1.5-2.6x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4AGkeJXnEm",
+      "name": "Jay Wheeler - LVF Tour",
+      "url": "https://www.ticketmaster.com/jay-wheeler-lvf-tour-boston-massachusetts-03-27-2027/event/01006545A6FAA9EE",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Jay Wheeler"
+      ],
+      "artist_upcoming": 22,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-28T00:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2027-03-28T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Jay+Wheeler",
+      "score": 67,
+      "score_parts": {
+        "demand": 19.1,
+        "scarcity": 18.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -11154,7 +11220,7 @@
       "artists": [
         "Jay Wheeler"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -11177,7 +11243,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jay+Wheeler",
       "score": 67,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 18.7,
         "markup": 19.3,
         "timing": 10.0
@@ -11206,7 +11272,7 @@
       "artists": [
         "Jay Wheeler"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "Rosemont Theatre",
       "city": "Rosemont",
       "state": "IL",
@@ -11257,7 +11323,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jay+Wheeler",
       "score": 66,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 17.7,
         "markup": 19.3,
         "timing": 10.0
@@ -11857,6 +11923,27 @@
           "end": "2026-10-09T05:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-07T17:00:00Z",
+          "end": "2026-10-08T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-09T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2027-04-15T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -11881,7 +11968,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "3 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -12371,7 +12458,7 @@
       "artists": [
         "Jay Wheeler"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "YouTube Theater",
       "city": "Inglewood",
       "state": "CA",
@@ -12401,7 +12488,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jay+Wheeler",
       "score": 66,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 17.7,
         "markup": 19.3,
         "timing": 10.0
