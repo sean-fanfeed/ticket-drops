@@ -1,4 +1,4 @@
-148 ticket drops scoring 60+ in the next 14 days.
+158 ticket drops scoring 60+ in the next 14 days.
 
   75 - WWE, WWE Money In The Bank
   Smoothie King Center, New Orleans LA
