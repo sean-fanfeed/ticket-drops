@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-06T16:14:58Z",
-    "generated_local": "Tue 6 Oct, 10:14 AM",
-    "scanned": 812,
-    "surfaced": 195,
-    "new": 37,
+    "generated_utc": "2026-10-06T17:23:27Z",
+    "generated_local": "Tue 6 Oct, 11:23 AM",
+    "scanned": 861,
+    "surfaced": 197,
+    "new": 2,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -938,6 +938,13 @@
           "end": "2026-10-13T04:59:00Z",
           "url": "",
           "how": "Save up to 30% on select tickets. Standard fees apply"
+        },
+        {
+          "name": "Houston Texans Special Offer",
+          "start": "2026-10-06T21:00:00Z",
+          "end": "2026-11-28T05:59:00Z",
+          "url": "",
+          "how": "Houston Texans Special Offer"
         }
       ],
       "price_min": null,
@@ -962,7 +969,7 @@
         "on your watchlist",
         "43 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -4475,7 +4482,7 @@
       "artists": [
         "Emelie Trahan"
       ],
-      "artist_upcoming": 2,
+      "artist_upcoming": 3,
       "venue": "Mercury Lounge",
       "city": "New York",
       "state": "NY",
@@ -4488,9 +4495,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Emelie+Trahan",
-      "score": 62,
+      "score": 64,
       "score_parts": {
-        "demand": 6.7,
+        "demand": 8.4,
         "scarcity": 25.0,
         "markup": 24.5,
         "timing": 6.0
@@ -4507,6 +4514,48 @@
         "small room (500 cap)",
         "~500 cap (from venue type)",
         "est. 1.6-2.7x face"
+      ]
+    },
+    {
+      "id": "1A4Zk4kGkeUh9FH",
+      "name": "Gimme Gimme Disco",
+      "url": "https://www.ticketmaster.com/gimme-gimme-disco-washington-district-of-columbia-11-06-2026/event/15006546B66D723C",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Gimme Gimme Disco"
+      ],
+      "artist_upcoming": 22,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2026-11-07T02:00:00Z",
+      "onsale_start": "2026-10-06T18:00:00Z",
+      "onsale_end": "2026-11-07T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Gimme+Gimme+Disco",
+      "score": 62,
+      "score_parts": {
+        "demand": 19.1,
+        "scarcity": 20.7,
+        "markup": 16.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "est. 1.3-2.2x face"
       ]
     },
     {
@@ -4687,6 +4736,48 @@
       "reasons": [
         "small room (500 cap)",
         "~500 cap (from venue type)",
+        "est. 1.6-2.7x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1AfuOaV",
+      "name": "An Evening With Sasha Alex Sloan: And The Crowd Goes Mild Tour With Special Guest Macy Todd",
+      "url": "https://www.ticketweb.com/event/an-evening-with-sasha-alex-bimbos-365-club-tickets/14360274",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Sasha Alex Sloan"
+      ],
+      "artist_upcoming": 4,
+      "venue": "Bimbo's 365 Club",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 700,
+      "capacity_source": "exact",
+      "event_date": "2026-12-09T04:00:00Z",
+      "onsale_start": "2026-10-07T17:00:00Z",
+      "onsale_end": "2026-12-09T05:00:00Z",
+      "presales": [],
+      "price_min": 0.0,
+      "price_max": 0.0,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Alex+Sloan",
+      "score": 64,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 23.3,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (700 cap)",
         "est. 1.6-2.7x face"
       ]
     },
@@ -5803,7 +5894,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Pine Knob Music Theatre",
       "city": "Clarkston",
       "state": "MI",
@@ -5875,7 +5966,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 76,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 10.0
@@ -5889,7 +5980,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.8x face",
@@ -6017,7 +6108,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 15,
       "venue": "9:30 CLUB",
       "city": "Washington",
       "state": "DC",
@@ -6040,7 +6131,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 72,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 16.9,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -6454,7 +6545,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 15,
       "venue": "Buckhead Theatre",
       "city": "Atlanta",
       "state": "GA",
@@ -6498,7 +6589,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 69,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 16.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -7434,6 +7525,72 @@
       ]
     },
     {
+      "id": "1ApZk4AGkePgP40",
+      "name": "Bone Thugs-N-Harmony",
+      "url": "https://www.ticketmaster.com/bone-thugsnharmony-louisville-kentucky-01-16-2027/event/16006545A5D65564",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Bone Thugs-N-Harmony"
+      ],
+      "artist_upcoming": 7,
+      "venue": "Mercury Ballroom",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-17T01:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-01-17T03:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-12-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
+      "score": 65,
+      "score_parts": {
+        "demand": 12.6,
+        "scarcity": 20.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1zZ_KEIb7ia",
       "name": "Fontaines D.C.",
       "url": "https://www.ticketmaster.com/fontaines-dc-atlanta-georgia-10-08-2027/event/0E006539E8604B09",
@@ -7562,7 +7719,7 @@
       "artists": [
         "The Red Clay Strays"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -7641,7 +7798,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -7655,7 +7812,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -7671,7 +7828,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "PPL Center",
       "city": "Allentown",
       "state": "PA",
@@ -7792,7 +7949,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -7806,76 +7963,133 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "15 presale(s)"
       ]
     },
     {
-      "id": "1ApZk4AGkePgP40",
-      "name": "Bone Thugs-N-Harmony",
-      "url": "https://www.ticketmaster.com/bone-thugsnharmony-louisville-kentucky-01-16-2027/event/16006545A5D65564",
+      "id": "vv177Z_KGklLI63O",
+      "name": "The Red Clay Strays",
+      "url": "https://www.ticketmaster.com/the-red-clay-strays-gilford-new-hampshire-07-24-2027/event/0100653ADFA074A0",
       "segment": "Music",
-      "genre": "Hip-Hop/Rap",
+      "genre": "Country",
       "artists": [
-        "Bone Thugs-N-Harmony"
+        "The Red Clay Strays",
+        "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 6,
-      "venue": "Mercury Ballroom",
-      "city": "Louisville",
-      "state": "KY",
-      "capacity": 1200,
+      "artist_upcoming": 46,
+      "venue": "BankNH Pavilion",
+      "city": "Gilford",
+      "state": "NH",
+      "capacity": 12000,
       "capacity_source": "venue type",
-      "event_date": "2027-01-17T01:00:00Z",
+      "event_date": "2027-07-24T23:00:00Z",
       "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-01-17T03:00:00Z",
+      "onsale_end": "2027-07-25T01:00:00Z",
       "presales": [
         {
-          "name": "Citi\u00ae Cardmember Presale",
+          "name": "RCS App User Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AEG Presale",
           "start": "2026-10-07T14:00:00Z",
           "end": "2026-10-09T02:00:00Z",
           "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for American Express Cardholders"
         },
         {
           "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T14:00:00Z",
+          "start": "2026-10-07T14:00:00Z",
           "end": "2026-10-09T02:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
         },
         {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2026-12-20T03:00:00Z",
+          "name": "Bank of NH Cardholder Presale",
+          "start": "2026-10-07T13:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
           "url": "",
-          "how": "For Citi\u00ae Cardmembers"
+          "how": ""
+        },
+        {
+          "name": "Eastern Propane Ticket Offer",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-11-08T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Verified Diehards Presale",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Verified Strays Presale",
+          "start": "2026-10-05T17:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-07-20T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Amex Reserved Tickets",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-07-24T22:00:00Z",
+          "url": "",
+          "how": "For American Express Cardholders"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
+      "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 11.8,
-        "scarcity": 20.7,
-        "markup": 21.4,
+        "demand": 23.4,
+        "scarcity": 9.3,
+        "markup": 20.8,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.55,
+        1.5,
         2.5
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
+        "46 upcoming dates (heavy routing)",
+        "~12,000 cap (from venue type)",
         "est. 1.5-2.5x face",
-        "3 presale(s)"
+        "11 presale(s)"
       ]
     },
     {
@@ -7888,7 +8102,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Constellation Brands-Marvin Sands Performing Arts Center: CMAC",
       "city": "Canandaigua",
       "state": "NY",
@@ -8002,7 +8216,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -8016,7 +8230,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
@@ -8455,7 +8669,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Maine Savings Amphitheater",
       "city": "Bangor",
       "state": "ME",
@@ -8555,7 +8769,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 8.6,
         "markup": 20.8,
         "timing": 10.0
@@ -8569,133 +8783,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "12 presale(s)"
-      ]
-    },
-    {
-      "id": "vv177Z_KGklLI63O",
-      "name": "The Red Clay Strays",
-      "url": "https://www.ticketmaster.com/the-red-clay-strays-gilford-new-hampshire-07-24-2027/event/0100653ADFA074A0",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "The Red Clay Strays",
-        "St. Paul and the Broken Bones"
-      ],
-      "artist_upcoming": 45,
-      "venue": "BankNH Pavilion",
-      "city": "Gilford",
-      "state": "NH",
-      "capacity": 12000,
-      "capacity_source": "venue type",
-      "event_date": "2027-07-24T23:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-07-25T01:00:00Z",
-      "presales": [
-        {
-          "name": "RCS App User Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "AEG Presale",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Amex Presale Tickets",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for American Express Cardholders"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Bank of NH Cardholder Presale",
-          "start": "2026-10-07T13:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Eastern Propane Ticket Offer",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-11-08T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Verified Diehards Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "Verified Strays Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-07-20T02:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Amex Reserved Tickets",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-07-24T22:00:00Z",
-          "url": "",
-          "how": "For American Express Cardholders"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
-      "score": 63,
-      "score_parts": {
-        "demand": 23.3,
-        "scarcity": 9.3,
-        "markup": 20.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "45 upcoming dates (heavy routing)",
-        "~12,000 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "11 presale(s)"
       ]
     },
     {
@@ -8774,7 +8865,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
@@ -8853,7 +8944,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 62,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -8867,7 +8958,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -8883,7 +8974,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Colonial Life Arena",
       "city": "Columbia",
       "state": "SC",
@@ -8969,7 +9060,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 62,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -8983,7 +9074,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "10 presale(s)"
@@ -8999,7 +9090,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Charleston Coliseum",
       "city": "Charleston",
       "state": "WV",
@@ -9078,7 +9169,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 62,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 8.2,
         "markup": 20.8,
         "timing": 10.0
@@ -9092,7 +9183,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -9108,7 +9199,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Hertz Arena",
       "city": "Estero",
       "state": "FL",
@@ -9222,7 +9313,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 62,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -9236,10 +9327,76 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvbZ_KGkMbXr7I",
+      "name": "Bone Thugs-N-Harmony",
+      "url": "https://www.ticketmaster.com/bone-thugsnharmony-mckees-rocks-pennsylvania-12-18-2026/event/1600653DD8F9E128",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Bone Thugs-N-Harmony"
+      ],
+      "artist_upcoming": 7,
+      "venue": "Roxian Theatre Presented By Citizens",
+      "city": "McKees Rocks",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-19T00:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2026-12-19T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
+      "score": 62,
+      "score_parts": {
+        "demand": 12.6,
+        "scarcity": 17.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -9481,72 +9638,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "1AvbZ_KGkMbXr7I",
-      "name": "Bone Thugs-N-Harmony",
-      "url": "https://www.ticketmaster.com/bone-thugsnharmony-mckees-rocks-pennsylvania-12-18-2026/event/1600653DD8F9E128",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "Bone Thugs-N-Harmony"
-      ],
-      "artist_upcoming": 6,
-      "venue": "Roxian Theatre Presented By Citizens",
-      "city": "McKees Rocks",
-      "state": "PA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2026-12-19T00:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2026-12-19T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
-      "score": 61,
-      "score_parts": {
-        "demand": 11.8,
-        "scarcity": 17.7,
-        "markup": 21.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -9888,7 +9979,8 @@
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "DeathbyRomy"
+        "DeathbyRomy",
+        "bodyimage"
       ],
       "artist_upcoming": 9,
       "venue": "Bowery Ballroom",
@@ -10423,6 +10515,79 @@
       ]
     },
     {
+      "id": "vvG1YZ_f7JXmEB",
+      "name": "Vacations - Pursuit Of Anything Tour",
+      "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-dallas-texas-03-13-2027/event/0C00654126FAE9FA",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Vacations",
+        "twen"
+      ],
+      "artist_upcoming": 15,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-14T01:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2027-03-14T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2027-02-21T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
+      "score": 70,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_KwJcax5",
       "name": "Vacations: Pursuit of Anything Tour",
       "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-houston-texas-03-14-2027/event/3A00653CA6B4988B",
@@ -10432,7 +10597,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 15,
       "venue": "White Oak Music Hall - Downstairs",
       "city": "Houston",
       "state": "TX",
@@ -10462,7 +10627,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 70,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 16.9,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -10684,79 +10849,6 @@
         "~1,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1YZ_f7JXmEB",
-      "name": "Vacations - Pursuit Of Anything Tour",
-      "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-dallas-texas-03-13-2027/event/0C00654126FAE9FA",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Vacations",
-        "twen"
-      ],
-      "artist_upcoming": 14,
-      "venue": "House of Blues Dallas ",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-14T01:00:00Z",
-      "onsale_start": "2026-10-09T15:00:00Z",
-      "onsale_end": "2027-03-14T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-07T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-07T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-09T15:00:00Z",
-          "end": "2027-02-21T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
-      "score": 69,
-      "score_parts": {
-        "demand": 16.5,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -11569,7 +11661,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Moody Center ATX",
       "city": "Austin",
       "state": "TX",
@@ -11683,7 +11775,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -11697,7 +11789,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
@@ -11713,7 +11805,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Enterprise Center",
       "city": "Saint Louis",
       "state": "MO",
@@ -11792,7 +11884,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -11806,7 +11898,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -11822,7 +11914,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "CHI Health Center Omaha",
       "city": "Omaha",
       "state": "NE",
@@ -11901,7 +11993,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -11915,7 +12007,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -11931,7 +12023,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Hilliard Center Arena",
       "city": "Corpus Christi",
       "state": "TX",
@@ -12052,7 +12144,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -12066,7 +12158,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "15 presale(s)"
@@ -12423,7 +12515,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Allstate Arena",
       "city": "Rosemont",
       "state": "IL",
@@ -12502,7 +12594,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 62,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -12516,7 +12608,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -12650,7 +12742,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 15,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -12694,7 +12786,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 70,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 16.9,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -12723,7 +12815,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "recordBar",
       "city": "Kansas City",
       "state": "MO",
@@ -12744,9 +12836,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
-      "score": 69,
+      "score": 70,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 25.0,
         "markup": 15.1,
         "timing": 10.0
@@ -12775,7 +12867,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "1884 Lounge",
       "city": "Memphis",
       "state": "TN",
@@ -12803,9 +12895,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
-      "score": 69,
+      "score": 70,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 25.0,
         "markup": 15.1,
         "timing": 10.0
@@ -12893,7 +12985,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Paradise Rock Club presented by Citizens",
       "city": "Boston",
       "state": "MA",
@@ -12930,7 +13022,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
       "score": 67,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 22.7,
         "markup": 15.1,
         "timing": 10.0
@@ -12959,7 +13051,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Antone's Nightclub",
       "city": "Austin",
       "state": "TX",
@@ -12982,7 +13074,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
       "score": 67,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 22.7,
         "markup": 15.1,
         "timing": 10.0
@@ -13091,7 +13183,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Bowery Ballroom",
       "city": "New York",
       "state": "NY",
@@ -13121,7 +13213,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
       "score": 65,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 10.0
@@ -13151,7 +13243,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "ExtraMile Arena",
       "city": "Boise",
       "state": "ID",
@@ -13230,7 +13322,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 62,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -13244,7 +13336,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -13305,67 +13397,6 @@
       "reasons": [
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv170Z_KGkUTOWqj",
-      "name": "DeathbyRomy",
-      "url": "https://www.ticketmaster.com/deathbyromy-los-angeles-california-03-27-2027/event/0900653DBF83D75C",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "DeathbyRomy",
-        "bodyimage",
-        "Jayden Hammer"
-      ],
-      "artist_upcoming": 9,
-      "venue": "Teragram Ballroom",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-28T02:00:00Z",
-      "onsale_start": "2026-10-09T16:00:00Z",
-      "onsale_end": "2027-03-28T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-07T17:00:00Z",
-          "end": "2026-10-09T06:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-08T17:00:00Z",
-          "end": "2026-10-09T06:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=DeathbyRomy",
-      "score": 60,
-      "score_parts": {
-        "demand": 14.0,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
       ]
@@ -13519,9 +13550,10 @@
       "segment": "Music",
       "genre": "Pop",
       "artists": [
-        "Vacations"
+        "Vacations",
+        "twen"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 15,
       "venue": "Moore Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -13551,7 +13583,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 69,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 16.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -13581,7 +13613,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Greek Theatre-U.C. Berkeley",
       "city": "Berkeley",
       "state": "CA",
@@ -13660,7 +13692,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 67,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 12.8,
         "markup": 20.8,
         "timing": 10.0
@@ -13674,7 +13706,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
       ]
@@ -14228,7 +14260,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 45,
+      "artist_upcoming": 46,
       "venue": "Hayden Homes Amphitheater",
       "city": "Bend",
       "state": "OR",
@@ -14314,7 +14346,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.3,
+        "demand": 23.4,
         "scarcity": 8.6,
         "markup": 20.8,
         "timing": 10.0
@@ -14328,7 +14360,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "45 upcoming dates (heavy routing)",
+        "46 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "10 presale(s)"
@@ -14541,6 +14573,67 @@
         "small room (1,850 cap)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv170Z_KGkUTOWqj",
+      "name": "DEATHBYROMY: FEVER TOUR",
+      "url": "https://www.ticketmaster.com/deathbyromy-fever-tour-los-angeles-california-03-27-2027/event/0900653DBF83D75C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "DeathbyRomy",
+        "bodyimage",
+        "Jayden Hammer"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Teragram Ballroom",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-28T02:00:00Z",
+      "onsale_start": "2026-10-09T17:00:00Z",
+      "onsale_end": "2027-03-28T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-07T17:00:00Z",
+          "end": "2026-10-09T06:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-09T06:59:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=DeathbyRomy",
+      "score": 60,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
