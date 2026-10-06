@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-06T18:35:45Z",
-    "generated_local": "Tue 6 Oct, 12:35 PM",
-    "scanned": 866,
-    "surfaced": 197,
-    "new": 0,
+    "generated_utc": "2026-10-06T18:56:16Z",
+    "generated_local": "Tue 6 Oct, 12:56 PM",
+    "scanned": 868,
+    "surfaced": 198,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -4651,6 +4651,48 @@
       "reasons": [
         "small room (800 cap)",
         "~800 cap (from venue type)",
+        "est. 1.3-2.1x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1AfuP3f",
+      "name": "HANS WILLIAMS",
+      "url": "https://www.ticketweb.com/event/hans-williams-crescent-ballroom-tickets/14365494",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Hans Williams"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Crescent Ballroom",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 550,
+      "capacity_source": "exact",
+      "event_date": "2027-03-31T03:00:00Z",
+      "onsale_start": "2026-10-07T16:00:00Z",
+      "onsale_end": "2027-03-31T04:30:00Z",
+      "presales": [],
+      "price_min": 31.41,
+      "price_max": 31.41,
+      "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
+      "score": 65,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 24.5,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": 42,
+      "est_resale_max": 66,
+      "reasons": [
+        "small room (550 cap)",
         "est. 1.3-2.1x face"
       ]
     },
@@ -10875,7 +10917,7 @@
           "start": "2026-10-07T15:00:00Z",
           "end": "2026-10-09T14:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "Venue/Promoter/Ticketmaster Presale",
@@ -10896,14 +10938,14 @@
           "start": "2026-10-07T15:00:00Z",
           "end": "2026-10-09T14:00:00Z",
           "url": "",
-          "how": ""
+          "how": "The artist is offering VIP Packages for this event."
         },
         {
           "name": "VIP Packages Onsale",
           "start": "2026-10-09T15:00:00Z",
           "end": "2027-03-11T22:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -12815,7 +12857,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "recordBar",
       "city": "Kansas City",
       "state": "MO",
@@ -12838,7 +12880,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
       "score": 70,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 25.0,
         "markup": 15.1,
         "timing": 10.0
@@ -12867,7 +12909,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "1884 Lounge",
       "city": "Memphis",
       "state": "TN",
@@ -12897,7 +12939,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
       "score": 70,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 25.0,
         "markup": 15.1,
         "timing": 10.0
@@ -12915,6 +12957,124 @@
         "~500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4eGkdGuwSo",
+      "name": "Hans Williams",
+      "url": "https://www.ticketmaster.com/hans-williams-boston-massachusetts-01-30-2027/event/01006542CC372CD1",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Hans Williams"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Paradise Rock Club presented by Citizens",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-31T00:00:00Z",
+      "onsale_start": "2026-10-09T16:00:00Z",
+      "onsale_end": "2027-01-31T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-07T16:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-08T16:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T16:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
+      "score": 68,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 22.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_f2t_y5L",
+      "name": "Hans Williams",
+      "url": "https://www.ticketmaster.com/hans-williams-austin-texas-04-02-2027/event/3A006543E96792DF",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Hans Williams"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Antone's Nightclub",
+      "city": "Austin",
+      "state": "TX",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-03T01:00:00Z",
+      "onsale_start": "2026-10-09T16:00:00Z",
+      "onsale_end": "2027-04-03T05:00:00Z",
+      "presales": [
+        {
+          "name": "artist presale",
+          "start": "2026-10-07T16:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
+      "score": 68,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 22.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -12974,124 +13134,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.4-2.4x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZk4eGkdGuwSo",
-      "name": "Hans Williams",
-      "url": "https://www.ticketmaster.com/hans-williams-boston-massachusetts-01-30-2027/event/01006542CC372CD1",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Hans Williams"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Paradise Rock Club presented by Citizens",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-31T00:00:00Z",
-      "onsale_start": "2026-10-09T16:00:00Z",
-      "onsale_end": "2027-01-31T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-07T16:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-10-08T16:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T16:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
-      "score": 67,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 22.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_f2t_y5L",
-      "name": "Hans Williams",
-      "url": "https://www.ticketmaster.com/hans-williams-austin-texas-04-02-2027/event/3A006543E96792DF",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Hans Williams"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Antone's Nightclub",
-      "city": "Austin",
-      "state": "TX",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-03T01:00:00Z",
-      "onsale_start": "2026-10-09T16:00:00Z",
-      "onsale_end": "2027-04-03T05:00:00Z",
-      "presales": [
-        {
-          "name": "artist presale",
-          "start": "2026-10-07T16:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
-      "score": 67,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 22.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
       ]
     },
     {
@@ -13183,7 +13225,7 @@
       "artists": [
         "Hans Williams"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "Bowery Ballroom",
       "city": "New York",
       "state": "NY",
@@ -13211,9 +13253,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
-      "score": 65,
+      "score": 66,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 10.0
