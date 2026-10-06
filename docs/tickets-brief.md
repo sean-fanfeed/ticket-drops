@@ -1,27 +1,21 @@
-159 ticket drops scoring 60+ in the next 14 days.
+158 ticket drops scoring 60+ in the next 14 days.
 
-  75 - WWE, WWE Money In The Bank
+  74 - WWE, WWE Money In The Bank
   Smoothie King Center, New Orleans LA
   On sale Fri 10 Jul, 9:00 AM (passed)
   Event Sat 10 Oct, 3:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  73 - WWE
+  72 - WWE
   Charleston Coliseum, Charleston WV
   On sale Fri 24 Jul, 8:00 AM (passed)
   Event Fri 30 Oct, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  72 - WWE, WWE Monday Night RAW
+  71 - WWE, WWE Monday Night RAW
   Barclays Center, Brooklyn NY
   On sale Fri 24 Jul, 8:00 AM (passed)
   Event Mon 2 Nov, 3:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  75 - WWE
-  Enterprise Center, Saint Louis MO
-  On sale Fri 24 Jul, 9:00 AM (passed)
-  Event Mon 5 Oct, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
   72 - WWE
@@ -36,7 +30,7 @@
   Event Fri 9 Oct, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  75 - WWE
+  74 - WWE
   Save Mart Center, Fresno CA
   On sale Fri 24 Jul, 11:00 AM (passed)
   Event Mon 26 Oct, 5:30 PM
@@ -70,4 +64,10 @@
   Neal S Blaisdell Arena, Honolulu HI
   On sale Fri 14 Aug, 2:00 PM (passed)
   Event Fri 16 Oct, 11:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  74 - WWE
+  Covelli Centre, Youngstown OH
+  On sale Fri 21 Aug, 8:00 AM (passed)
+  Event Thu 29 Oct, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
