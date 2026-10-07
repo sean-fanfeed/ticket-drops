@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-07T19:04:14Z",
-    "generated_local": "Wed 7 Oct, 1:04 PM",
-    "scanned": 1006,
+    "generated_utc": "2026-10-07T19:23:26Z",
+    "generated_local": "Wed 7 Oct, 1:23 PM",
+    "scanned": 1010,
     "surfaced": 201,
     "new": 0,
     "threshold": 60,
@@ -1865,8 +1865,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
       "artist_upcoming": 43,
       "venue": "Bon Secours Wellness Arena ",
