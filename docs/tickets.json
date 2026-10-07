@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-06T18:56:16Z",
-    "generated_local": "Tue 6 Oct, 12:56 PM",
-    "scanned": 868,
-    "surfaced": 198,
-    "new": 1,
+    "generated_utc": "2026-10-07T13:54:53Z",
+    "generated_local": "Wed 7 Oct, 7:54 AM",
+    "scanned": 850,
+    "surfaced": 179,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2556,8 +2556,8 @@
     },
     {
       "id": "vv16OvPGtoAZ751vv",
-      "name": "WWE Holiday Live Tour vs. WWE",
-      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-vs-wwe-wilkes-barre-pennsylvania-12-26-2026/event/020065329445A900",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-wilkes-barre-pennsylvania-12-26-2026/event/020065329445A900",
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
@@ -2857,8 +2857,8 @@
     },
     {
       "id": "G5diZ_KxK6env",
-      "name": "WWE Holiday Live Tour vs. WWE",
-      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-vs-wwe-new-york-new-york-12-26-2026/event/3B006538931C2A81",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-new-york-new-york-12-26-2026/event/3B006538931C2A81",
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
@@ -3312,1253 +3312,6 @@
       ]
     },
     {
-      "id": "G5eVZ_KB2iEPf",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-charlotte-north-carolina-03-27-2027/event/2D00653E8FB27954",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Leon Majcen"
-      ],
-      "artist_upcoming": 40,
-      "venue": "The Fillmore Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-03-28T00:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-03-28T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T18:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T16:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-03-02T04:59:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 78,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 20.9,
-        "markup": 25,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (1,150 cap)",
-        "est. 1.6-2.8x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv17OZ_KGkUB0UHH",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-detroit-michigan-04-10-2027/event/0800653DBA936F3C",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Leon Majcen"
-      ],
-      "artist_upcoming": 40,
-      "venue": "The Fillmore Detroit",
-      "city": "Detroit",
-      "state": "MI",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-04-10T23:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-04-11T01:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T16:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "To access the sale, use the first 6 digits of your eligible Citi\u00ae credit card or Citibank Debit Card as your presale code. You will also need to use your Citi\u00ae card to successfully"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-03-14T03:00:00Z",
-          "url": "",
-          "how": "To access the sale, use the first 6 digits of your eligible Citi\u00ae credit card or Citibank Debit Card as your presale code. You will also need to use your Citi\u00ae card to successfully"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T18:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 78,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 20.9,
-        "markup": 25,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (1,150 cap)",
-        "est. 1.6-2.8x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_KDP4j6Z",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-charleston-south-carolina-03-25-2027/event/2D00653EE555C1C0",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Leon Majcen"
-      ],
-      "artist_upcoming": 40,
-      "venue": "The Charleston Music Hall",
-      "city": "Charleston",
-      "state": "SC",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-26T00:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-03-26T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T18:00:00Z",
-          "end": "2026-10-07T03:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T16:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-03-04T04:59:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 76,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 18.7,
-        "markup": 25,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.6-2.8x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_KUXKrl8",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-north-myrtle-beach-south-carolina-03-26-2027/event/2D00653DBE4DEAD0",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Leon Majcen"
-      ],
-      "artist_upcoming": 40,
-      "venue": "House of Blues Myrtle Beach",
-      "city": "North Myrtle Beach",
-      "state": "SC",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-26T23:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-03-27T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T16:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-03-06T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T18:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 76,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 18.2,
-        "markup": 25,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (2,000 cap)",
-        "est. 1.6-2.8x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv17fZ_KGkD3HmFo",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-indianapolis-indiana-05-04-2027/event/0500653ED2F2E211",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Clay Street Unit"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Old National Centre",
-      "city": "Indianapolis",
-      "state": "IN",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-05T00:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-05-05T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Old National Bank Sponsor Presale",
-          "start": "2026-10-05T18:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T18:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T16:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-04-13T07:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 64,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 10.2,
-        "markup": 20.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "~10,000 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_oJVBldL",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-greensboro-north-carolina-01-16-2027/event/2D006519B4EAB0DF",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 218,
-      "venue": "First Horizon Coliseum",
-      "city": "Greensboro",
-      "state": "NC",
-      "capacity": 15000,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-16T17:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-01-16T18:00:00Z",
-      "presales": [
-        {
-          "name": "Preferred Presale",
-          "start": "2026-09-29T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package presale",
-          "start": "2026-09-29T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-01-16T18:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 8.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "218 upcoming dates (heavy routing)",
-        "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_oJVzDdC",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-greensboro-north-carolina-01-16-2027/event/2D006519B4E3B0CE",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 218,
-      "venue": "First Horizon Coliseum",
-      "city": "Greensboro",
-      "state": "NC",
-      "capacity": 15000,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-16T23:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-01-17T00:00:00Z",
-      "presales": [
-        {
-          "name": "Preferred Presale",
-          "start": "2026-09-29T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package presale",
-          "start": "2026-09-29T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-01-17T00:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 8.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "218 upcoming dates (heavy routing)",
-        "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_oJVH5di",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-greensboro-north-carolina-01-17-2027/event/2D006519B4F0B0EC",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 218,
-      "venue": "First Horizon Coliseum",
-      "city": "Greensboro",
-      "state": "NC",
-      "capacity": 15000,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-17T17:00:00Z",
-      "onsale_start": "2026-10-06T14:00:00Z",
-      "onsale_end": "2027-01-17T18:00:00Z",
-      "presales": [
-        {
-          "name": "Preferred Presale",
-          "start": "2026-09-29T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package presale",
-          "start": "2026-09-29T14:00:00Z",
-          "end": "2026-10-06T03:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2027-01-17T18:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 8.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "218 upcoming dates (heavy routing)",
-        "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_f659_2b",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-memphis-tennessee-04-03-2027/event/1B006541CB5D93D8",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Leon Majcen"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Satellite Music Hall",
-      "city": "Memphis",
-      "state": "TN",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-04T00:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-04-04T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T15:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T19:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2027-03-14T05:59:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 76,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 18.7,
-        "markup": 25,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.6-2.8x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv17bZ_KGkwikFdE",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-kansas-city-missouri-05-07-2027/event/0600653CAC1880E7",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Clay Street Unit"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Uptown Theater",
-      "city": "Kansas City",
-      "state": "MO",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-08T01:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-05-08T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T15:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-10-05T19:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T19:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2027-04-17T04:59:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 75,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 17.7,
-        "markup": 25,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.8x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "1AeZZ_KGkwpXe_0",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-la-vista-nebraska-05-08-2027/event/2000653C96F82664",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett",
-        "Clay Street Unit"
-      ],
-      "artist_upcoming": 40,
-      "venue": "The Astro Theater",
-      "city": "La Vista",
-      "state": "NE",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-09T01:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-05-09T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T15:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Local Presales",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Local Presales"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 75,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 17.7,
-        "markup": 25,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.8x face",
-        "2 presale(s)"
-      ]
-    },
-    {
-      "id": "Z7r9jZ1AAe4bw",
-      "name": "Dylan Gossett",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4bw",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Cain's Ballroom",
-      "city": "Tulsa",
-      "state": "OK",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-22T01:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-05-22T01:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 74,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 20.7,
-        "markup": 25,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.6-2.8x face"
-      ]
-    },
-    {
-      "id": "Z7r9jZ1AAe4bt",
-      "name": "Dylan Gossett",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4bt",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Ozark Music Hall",
-      "city": "Fayetteville",
-      "state": "AR",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-03T00:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-04-03T00:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 72,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 18.7,
-        "markup": 25,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.6-2.8x face"
-      ]
-    },
-    {
-      "id": "Z7r9jZ1AAe4ba",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAe4ba",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Criterion Theater - Oklahoma City",
-      "city": "Oklahoma City",
-      "state": "OK",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-21T01:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-05-21T01:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 71,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 17.7,
-        "markup": 25,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.8x face"
-      ]
-    },
-    {
-      "id": "G5dIZ_KMYuwXg",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-houston-texas-05-14-2027/event/3A00653DF0372FB5",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Bayou Music Center",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-15T01:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-05-15T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T15:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T19:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2027-05-14T15:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 64,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 10.2,
-        "markup": 20.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "~10,000 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_fkDqvVu",
-      "name": "Dylan Gossett - The Ramblin' Tour 2027",
-      "url": "https://www.ticketmaster.com/dylan-gossett-the-ramblin-tour-2027-austin-texas-05-13-2027/event/3A006541BB741D0D",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Dylan Gossett"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Moody Amphitheater",
-      "city": "Austin",
-      "state": "TX",
-      "capacity": 14000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-14T01:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2027-05-14T03:00:00Z",
-      "presales": [
-        {
-          "name": "Waterloo Greenway Venue Presale",
-          "start": "2026-10-05T19:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "https://waterloogreenway.org/support/memberships/",
-          "how": "Available exclusively to Waterloo Greenway Members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-05T15:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-05T19:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2027-04-27T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-06T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dylan+Gossett",
-      "score": 62,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 8.6,
-        "markup": 20.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "~14,000 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "rZ7HnEZ1Afu_Af",
-      "name": "Emili' w/ Moonstar & Jackson Bruck at Woodlands Tavern",
-      "url": "https://www.ticketweb.com/event/emili-w-moonstar-jackson-woodlands-tavern-tickets/14359154",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [],
-      "artist_upcoming": 0,
-      "venue": "Woodlands Tavern",
-      "city": "Columbus",
-      "state": "OH",
-      "capacity": 300,
-      "capacity_source": "venue type",
-      "event_date": "2026-11-28T00:00:00Z",
-      "onsale_start": "2026-10-06T15:00:00Z",
-      "onsale_end": "2026-11-28T00:00:00Z",
-      "presales": [],
-      "price_min": 25.89,
-      "price_max": 25.89,
-      "seatgeek_url": "https://seatgeek.com/search?search=Emili%27+w%2F+Moonstar+%26+Jackson+Bruck+at+Woodlands+Tavern",
-      "score": 60,
-      "score_parts": {
-        "demand": 4.0,
-        "scarcity": 25.0,
-        "markup": 24.5,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": 43,
-      "est_resale_max": 70,
-      "reasons": [
-        "small room (300 cap)",
-        "~300 cap (from venue type)",
-        "est. 1.6-2.7x face"
-      ]
-    },
-    {
-      "id": "k7vGF_f1S9R1t",
-      "name": "Emelie Trahan",
-      "url": "https://www.ticketmaster.com/emelie-trahan-new-york-new-york-02-06-2027/event/00006542B35EF2A9",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Emelie Trahan"
-      ],
-      "artist_upcoming": 3,
-      "venue": "Mercury Lounge",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 500,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-06T23:00:00Z",
-      "onsale_start": "2026-10-06T16:00:00Z",
-      "onsale_end": "2027-02-07T01:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Emelie+Trahan",
-      "score": 64,
-      "score_parts": {
-        "demand": 8.4,
-        "scarcity": 25.0,
-        "markup": 24.5,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (500 cap)",
-        "~500 cap (from venue type)",
-        "est. 1.6-2.7x face"
-      ]
-    },
-    {
-      "id": "1A4Zk4kGkeUh9FH",
-      "name": "Gimme Gimme Disco",
-      "url": "https://www.ticketmaster.com/gimme-gimme-disco-washington-district-of-columbia-11-06-2026/event/15006546B66D723C",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Gimme Gimme Disco"
-      ],
-      "artist_upcoming": 22,
-      "venue": "9:30 CLUB",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 1200,
-      "capacity_source": "exact",
-      "event_date": "2026-11-07T02:00:00Z",
-      "onsale_start": "2026-10-06T18:00:00Z",
-      "onsale_end": "2026-11-07T04:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Gimme+Gimme+Disco",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 20.7,
-        "markup": 16.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "est. 1.3-2.2x face"
-      ]
-    },
-    {
       "id": "k7vGF_KDq6rYz",
       "name": "Forrest Nolan",
       "url": "https://www.ticketmaster.com/forrest-nolan-new-york-new-york-11-16-2026/event/0000653EDD1DEC38",
@@ -4740,8 +3493,8 @@
     },
     {
       "id": "vv170Z_KGkUUeGZQ",
-      "name": "Forrest Nolan: Indie Move Soundtrack Album Release Show",
-      "url": "https://www.ticketmaster.com/forrest-nolan-indie-move-soundtrack-album-los-angeles-california-11-10-2026/event/0900653DB608C01A",
+      "name": "Forrest Nolan: Indie Movie Soundtrack Album Release Show",
+      "url": "https://www.ticketmaster.com/forrest-nolan-indie-movie-soundtrack-album-los-angeles-california-11-10-2026/event/0900653DB608C01A",
       "segment": "Music",
       "genre": "Pop",
       "artists": [
@@ -4832,7 +3585,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -4895,9 +3648,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 73,
+      "score": 74,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -4926,7 +3679,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "Fox Theatre Detroit",
       "city": "Detroit",
       "state": "MI",
@@ -4991,7 +3744,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 72,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5020,7 +3773,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "The Anthem",
       "city": "Washington",
       "state": "DC",
@@ -5078,7 +3831,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 63,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 12.8,
         "markup": 19.8,
         "timing": 10.0
@@ -5105,7 +3858,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -5161,9 +3914,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 73,
+      "score": 74,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5192,7 +3945,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "The Chicago Theatre",
       "city": "Chicago",
       "state": "IL",
@@ -5278,7 +4031,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 72,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5307,7 +4060,7 @@
       "artists": [
         "Jim Brickman"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "Amaturo Theater at Broward Center",
       "city": "Ft Lauderdale",
       "state": "FL",
@@ -5322,7 +4075,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jim+Brickman",
       "score": 63,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 6.0
@@ -5416,7 +4169,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "Red Rocks Amphitheatre",
       "city": "Morrison",
       "state": "CO",
@@ -5444,9 +4197,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 60,
+      "score": 61,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 10.5,
         "markup": 19.8,
         "timing": 10.0
@@ -5473,7 +4226,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "Arlene Schnitzer Concert Hall",
       "city": "Portland",
       "state": "OR",
@@ -5503,7 +4256,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 74,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 19.6,
         "markup": 24.5,
         "timing": 10.0
@@ -5532,7 +4285,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "Arizona Financial Theatre",
       "city": "Phoenix",
       "state": "AZ",
@@ -5590,7 +4343,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 72,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5619,7 +4372,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 27,
       "venue": "Bill Graham Civic Auditorium",
       "city": "San Francisco",
       "state": "CA",
@@ -5705,7 +4458,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 65,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 20.3,
         "scarcity": 14.8,
         "markup": 19.8,
         "timing": 10.0
@@ -6150,7 +4903,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "9:30 CLUB",
       "city": "Washington",
       "state": "DC",
@@ -6173,7 +4926,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 72,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -6190,6 +4943,73 @@
         "small room (1,200 cap)",
         "est. 1.6-2.7x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vVZ_Ki1sF3R",
+      "name": "Roger Waters Presents LEGACY - A Pink Floyd Show",
+      "url": "https://www.ticketmaster.com/roger-waters-presents-legacy-a-pink-mashantucket-connecticut-04-10-2027/event/1D00653B0AC484AF",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Roger Waters Presents LEGACY - A Pink Floyd Show"
+      ],
+      "artist_upcoming": 67,
+      "venue": "Premier Theater at Foxwoods Resort Casino",
+      "city": "Mashantucket",
+      "state": "CT",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-10T23:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-04-11T01:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-04-01T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Roger+Waters+Presents+LEGACY+-+A+Pink+Floyd+Show",
+      "score": 72,
+      "score_parts": {
+        "demand": 25.7,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "67 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -6295,73 +5115,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vVZ_Ki1sF3R",
-      "name": "Roger Waters Presents LEGACY - A Pink Floyd Show",
-      "url": "https://www.ticketmaster.com/roger-waters-presents-legacy-a-pink-mashantucket-connecticut-04-10-2027/event/1D00653B0AC484AF",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Roger Waters Presents LEGACY - A Pink Floyd Show"
-      ],
-      "artist_upcoming": 64,
-      "venue": "Premier Theater at Foxwoods Resort Casino",
-      "city": "Mashantucket",
-      "state": "CT",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-10T23:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-04-11T01:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-04-01T02:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Roger+Waters+Presents+LEGACY+-+A+Pink+Floyd+Show",
-      "score": 71,
-      "score_parts": {
-        "demand": 25.4,
-        "scarcity": 17.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "64 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -6587,7 +5340,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "Buckhead Theatre",
       "city": "Atlanta",
       "state": "GA",
@@ -6631,7 +5384,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 69,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -7134,14 +5887,14 @@
           "start": "2026-10-07T14:00:00Z",
           "end": "2026-10-09T02:00:00Z",
           "url": "",
-          "how": ""
+          "how": "The artist is offering VIP Packages for this event."
         },
         {
           "name": "VIP Packages Onsale",
           "start": "2026-10-09T14:00:00Z",
           "end": "2027-04-22T02:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -8366,6 +7119,136 @@
       ]
     },
     {
+      "id": "vv1F7Z_KqaONZdC55",
+      "name": "The Red Clay Strays",
+      "url": "https://www.ticketmaster.com/the-red-clay-strays-bangor-maine-07-23-2027/event/0100653749823DAA",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "The Red Clay Strays",
+        "St. Paul and the Broken Bones"
+      ],
+      "artist_upcoming": 46,
+      "venue": "Maine Savings Amphitheater",
+      "city": "Bangor",
+      "state": "ME",
+      "capacity": 14000,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-23T23:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-07-24T00:00:00Z",
+      "presales": [
+        {
+          "name": "Venue/Radio Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Reserved Tickets\u00ae",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-07-23T22:00:00Z",
+          "url": "",
+          "how": "For American Express Cardholders"
+        },
+        {
+          "name": "AEG Presale",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Country Central Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Whiskey Riff Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "RCS App User Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u00ae",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
+        },
+        {
+          "name": "Verified Diehards Presale",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-05T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Verified Strays Presale",
+          "start": "2026-10-05T17:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-07-19T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Premium Seat Club Access",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-07-22T02:00:00Z",
+          "url": "",
+          "how": "Premium Seat Club Access"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
+      "score": 63,
+      "score_parts": {
+        "demand": 23.4,
+        "scarcity": 8.6,
+        "markup": 20.8,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.5,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "46 upcoming dates (heavy routing)",
+        "~14,000 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "12 presale(s)"
+      ]
+    },
+    {
       "id": "1A4Zk4vGkd90TGW",
       "name": "Get the Led Out",
       "url": "https://www.ticketmaster.com/get-the-led-out-tysons-virginia-01-08-2027/event/15006541D793F33D",
@@ -8699,136 +7582,6 @@
         "~4,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1F7Z_KqaONZdC55",
-      "name": "The Red Clay Strays",
-      "url": "https://www.ticketmaster.com/the-red-clay-strays-bangor-maine-07-23-2027/event/0100653749823DAA",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "The Red Clay Strays",
-        "St. Paul and the Broken Bones"
-      ],
-      "artist_upcoming": 46,
-      "venue": "Maine Savings Amphitheater",
-      "city": "Bangor",
-      "state": "ME",
-      "capacity": 14000,
-      "capacity_source": "venue type",
-      "event_date": "2027-07-23T23:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-07-24T00:00:00Z",
-      "presales": [
-        {
-          "name": "Venue/Radio Presale",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Amex Reserved Tickets\u00ae",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-07-23T22:00:00Z",
-          "url": "",
-          "how": "For American Express Cardholders"
-        },
-        {
-          "name": "AEG Presale",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Country Central Presale",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Whiskey Riff Presale",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "RCS App User Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Amex Presale Tickets\u00ae",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
-          "how": "Exclusive Presale for American Express Cardholders"
-        },
-        {
-          "name": "Verified Diehards Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "Verified Strays Presale",
-          "start": "2026-10-05T17:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-07-19T02:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Premium Seat Club Access",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-07-22T02:00:00Z",
-          "url": "",
-          "how": "Premium Seat Club Access"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
-      "score": 63,
-      "score_parts": {
-        "demand": 23.4,
-        "scarcity": 8.6,
-        "markup": 20.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "46 upcoming dates (heavy routing)",
-        "~14,000 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "12 presale(s)"
       ]
     },
     {
@@ -10083,7 +8836,7 @@
       "artists": [
         "A Charlie Brown Christmas"
       ],
-      "artist_upcoming": 25,
+      "artist_upcoming": 26,
       "venue": "Attucks Theatre",
       "city": "Norfolk",
       "state": "VA",
@@ -10106,7 +8859,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=A+Charlie+Brown+Christmas",
       "score": 60,
       "score_parts": {
-        "demand": 19.8,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 12.0,
         "timing": 10.0
@@ -10566,7 +9319,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "House of Blues Dallas ",
       "city": "Dallas",
       "state": "TX",
@@ -10610,7 +9363,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 70,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 10.0
@@ -10639,7 +9392,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "White Oak Music Hall - Downstairs",
       "city": "Houston",
       "state": "TX",
@@ -10669,7 +9422,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 70,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -11221,11 +9974,39 @@
           "how": "Artist Presale"
         },
         {
-          "name": "LIVE NATION PRESALE",
+          "name": "Live Nation Presale",
           "start": "2026-10-08T15:00:00Z",
           "end": "2026-10-09T14:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-08T14:45:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2027-01-30T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited"
+        },
+        {
+          "name": "Artist Presale Debranded Platinum",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-08T14:45:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -11250,7 +10031,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "3 presale(s)"
+        "7 presale(s)"
       ]
     },
     {
@@ -12784,7 +11565,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -12828,7 +11609,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 70,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -13138,8 +11919,8 @@
     },
     {
       "id": "vv178Z_KGkBjdkXl",
-      "name": "Jay Wheeler - La Voz Favorita",
-      "url": "https://www.ticketmaster.com/jay-wheeler-la-voz-favorita-rosemont-illinois-04-02-2027/event/0400653E9C0C6FAB",
+      "name": "Jay Wheeler - LVF Tour",
+      "url": "https://www.ticketmaster.com/jay-wheeler-lvf-tour-rosemont-illinois-04-02-2027/event/0400653E9C0C6FAB",
       "segment": "Music",
       "genre": "Latin",
       "artists": [
@@ -13595,7 +12376,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "Moore Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -13625,7 +12406,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 69,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -13762,7 +12543,7 @@
       "artists": [
         "Jim Brickman"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "George Van Dusen Theatre at North Shore Center",
       "city": "Skokie",
       "state": "IL",
@@ -13785,7 +12566,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jim+Brickman",
       "score": 67,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -14710,6 +13491,13 @@
           "end": "2026-10-09T05:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-09T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
@@ -14734,7 +13522,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.4x face",
-        "2 presale(s)"
+        "3 presale(s)"
       ]
     },
     {
