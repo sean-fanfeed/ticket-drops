@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-07T17:57:11Z",
-    "generated_local": "Wed 7 Oct, 11:57 AM",
-    "scanned": 979,
+    "generated_utc": "2026-10-07T19:04:14Z",
+    "generated_local": "Wed 7 Oct, 1:04 PM",
+    "scanned": 1006,
     "surfaced": 201,
-    "new": 22,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -6111,7 +6111,7 @@
         "Nevertel",
         "Hollow Pact"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "The Fillmore Silver Spring",
       "city": "Silver Spring",
       "state": "MD",
@@ -6155,7 +6155,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=From+Ashes+To+New",
       "score": 66,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -11522,6 +11522,67 @@
       ]
     },
     {
+      "id": "1AeZZ_KGkBrZd7v",
+      "name": "From Ashes to New - Reflections Tour 2027",
+      "url": "https://www.ticketmaster.com/from-ashes-to-new-reflections-tour-huntsville-alabama-04-10-2027/event/2000653E9E003101",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "From Ashes To New",
+        "Nevertel",
+        "Hollow Pact"
+      ],
+      "artist_upcoming": 25,
+      "venue": "VBC Mars Music Hall",
+      "city": "Huntsville",
+      "state": "AL",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-11T00:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2027-04-11T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=From+Ashes+To+New",
+      "score": 64,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1YZ_KRAozwg",
       "name": "Chelsea Cutler - IS THIS THE END? Tour",
       "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-dallas-texas-02-25-2027/event/0C00653BC5478CB5",
@@ -11687,67 +11748,6 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "7 presale(s)"
-      ]
-    },
-    {
-      "id": "1AeZZ_KGkBrZd7v",
-      "name": "From Ashes to New - Reflections Tour 2027",
-      "url": "https://www.ticketmaster.com/from-ashes-to-new-reflections-tour-huntsville-alabama-04-10-2027/event/2000653E9E003101",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "From Ashes To New",
-        "Nevertel",
-        "Hollow Pact"
-      ],
-      "artist_upcoming": 24,
-      "venue": "VBC Mars Music Hall",
-      "city": "Huntsville",
-      "state": "AL",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-11T00:00:00Z",
-      "onsale_start": "2026-10-09T15:00:00Z",
-      "onsale_end": "2027-04-11T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-07T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=From+Ashes+To+New",
-      "score": 63,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
       ]
     },
     {
