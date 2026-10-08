@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-08T16:55:08Z",
-    "generated_local": "Thu 8 Oct, 10:55 AM",
-    "scanned": 1070,
-    "surfaced": 303,
-    "new": 106,
+    "generated_utc": "2026-10-08T17:58:36Z",
+    "generated_local": "Thu 8 Oct, 11:58 AM",
+    "scanned": 1104,
+    "surfaced": 317,
+    "new": 14,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -611,8 +611,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
       "artist_upcoming": 43,
       "venue": "Save Mart Center",
@@ -1866,8 +1865,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
       "artist_upcoming": 43,
       "venue": "Bon Secours Wellness Arena ",
@@ -3329,7 +3327,7 @@
         "Carly Rae Jepsen",
         "Sarah Kinsley"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -3394,7 +3392,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 74,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -3424,7 +3422,7 @@
         "Carly Rae Jepsen",
         "Sarah Kinsley"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "Fox Theatre Detroit",
       "city": "Detroit",
       "state": "MI",
@@ -3489,7 +3487,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 73,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -3519,7 +3517,7 @@
         "Carly Rae Jepsen",
         "Sarah Kinsley"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "The Anthem",
       "city": "Washington",
       "state": "DC",
@@ -3575,9 +3573,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 12.8,
         "markup": 19.8,
         "timing": 10.0
@@ -3605,7 +3603,7 @@
         "Carly Rae Jepsen",
         "Sarah Kinsley"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -3663,7 +3661,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 74,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -3693,7 +3691,7 @@
         "Carly Rae Jepsen",
         "Sarah Kinsley"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "The Chicago Theatre",
       "city": "Chicago",
       "state": "IL",
@@ -3779,7 +3777,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 73,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -3852,7 +3850,7 @@
         "Carly Rae Jepsen",
         "Sarah Kinsley"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "The Pavilion at Toyota Music Factory",
       "city": "Irving",
       "state": "TX",
@@ -3917,7 +3915,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 60,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 9.3,
         "markup": 19.8,
         "timing": 10.0
@@ -4019,7 +4017,7 @@
         "Carly Rae Jepsen",
         "Carol Ades"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "Red Rocks Amphitheatre",
       "city": "Morrison",
       "state": "CO",
@@ -4049,7 +4047,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 61,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 10.5,
         "markup": 19.8,
         "timing": 10.0
@@ -8653,7 +8651,7 @@
         "Carly Rae Jepsen",
         "Carol Ades"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "Arlene Schnitzer Concert Hall",
       "city": "Portland",
       "state": "OR",
@@ -8683,7 +8681,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 75,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 19.6,
         "markup": 24.5,
         "timing": 10.0
@@ -8710,9 +8708,10 @@
       "segment": "Music",
       "genre": "Pop",
       "artists": [
-        "Carly Rae Jepsen"
+        "Carly Rae Jepsen",
+        "Carol Ades"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "Arizona Financial Theatre",
       "city": "Phoenix",
       "state": "AZ",
@@ -8770,7 +8769,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
       "score": 73,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -8791,6 +8790,49 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AAeKuy",
+      "name": "Carly Rae Jepsen: Day and Night Tour",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAeKuy",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Carly Rae Jepsen"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Arlene Schnitzer Concert Hall",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-20T02:30:00Z",
+      "onsale_start": "2026-10-08T17:00:00Z",
+      "onsale_end": "2027-04-20T02:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
+      "score": 71,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face"
+      ]
+    },
+    {
       "id": "G5vYZ_KDN9Abg",
       "name": "Carly Rae Jepsen: Day and Night Tour",
       "url": "https://www.ticketmaster.com/carly-rae-jepsen-day-and-night-san-francisco-california-04-21-2027/event/1C00653EE35C5635",
@@ -8799,7 +8841,7 @@
       "artists": [
         "Carly Rae Jepsen"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "Bill Graham Civic Auditorium",
       "city": "San Francisco",
       "state": "CA",
@@ -8883,9 +8925,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Carly+Rae+Jepsen",
-      "score": 65,
+      "score": 66,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 14.8,
         "markup": 19.8,
         "timing": 10.0
@@ -10395,7 +10437,7 @@
       "artists": [
         "The Womack Sisters"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "Saint Andrew's Hall",
       "city": "Detroit",
       "state": "MI",
@@ -10439,7 +10481,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Womack+Sisters",
       "score": 67,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 19.6,
         "markup": 18.2,
         "timing": 10.0
@@ -13647,8 +13689,8 @@
     },
     {
       "id": "k7vGF_KzvCfdx",
-      "name": "DeathybyRomy: Fever Tour",
-      "url": "https://www.ticketmaster.com/deathybyromy-fever-tour-new-york-new-york-03-13-2027/event/0000653E013940E2",
+      "name": "DEATHBYROMY: FEVER TOUR",
+      "url": "https://www.ticketmaster.com/deathbyromy-fever-tour-new-york-new-york-03-13-2027/event/0000653E013940E2",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -15347,7 +15389,7 @@
       "artists": [
         "The Womack Sisters"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "Majestic Theatre",
       "city": "Madison",
       "state": "WI",
@@ -15384,7 +15426,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Womack+Sisters",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -19329,6 +19371,73 @@
       ]
     },
     {
+      "id": "vv177Z_KGkIKdRri",
+      "name": "Leon Bridges Presents: The Happiness Anytime Tour",
+      "url": "https://www.ticketmaster.com/leon-bridges-presents-the-happiness-anytime-boston-massachusetts-07-24-2027/event/0100653A130EF7AC",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Leon Bridges",
+        "KOKOROKO"
+      ],
+      "artist_upcoming": 27,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-25T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-07-25T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_fkPUWva",
       "name": "100.3 The Bull presents Ten Man Jam",
       "url": "https://www.ticketmaster.com/1003-the-bull-presents-ten-man-houston-texas-11-11-2026/event/3A006541A5DBD049",
@@ -19377,6 +19486,1130 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.5-2.6x face"
+      ]
+    },
+    {
+      "id": "G5dIZ_KB01hXF",
+      "name": "Leon Bridges Presents: The Happiness Anytime Tour",
+      "url": "https://www.ticketmaster.com/leon-bridges-presents-the-happiness-anytime-houston-texas-09-25-2027/event/3A00653EA429BF88",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Leon Bridges",
+        "Peter Cat Recording Co."
+      ],
+      "artist_upcoming": 27,
+      "venue": "713 Music Hall",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-09-26T00:30:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-09-26T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "1A-ZkfzGkd1Bnt9",
+      "name": "Leon Bridges Presents: The Happiness Anytime Tour",
+      "url": "https://www.ticketmaster.com/leon-bridges-presents-the-happiness-anytime-waukee-iowa-08-25-2027/event/21006538CAEAAA57",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Leon Bridges",
+        "KOKOROKO"
+      ],
+      "artist_upcoming": 27,
+      "venue": "Vibrant Music Hall",
+      "city": "Waukee",
+      "state": "IA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-08-26T00:30:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-08-26T02:30:00Z",
+      "presales": [
+        {
+          "name": "Leon Bridges Presale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T15:00:00Z",
+          "end": "2027-07-29T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "T-Mobile Offer + Fast Lane",
+          "start": "2026-10-16T15:00:00Z",
+          "end": "2027-08-23T03:00:00Z",
+          "url": "",
+          "how": "T-Mobile Offer + Fast Lane"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1A_Zk4kGkdLzjqA",
+      "name": "Leon Bridges Presents: The Happiness Anytime Tour",
+      "url": "https://www.ticketmaster.com/leon-bridges-presents-the-happiness-anytime-phoenix-arizona-09-29-2027/event/19006546DFE1C745",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Leon Bridges",
+        "Peter Cat Recording Co."
+      ],
+      "artist_upcoming": 27,
+      "venue": "Arizona Financial Theatre",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-09-30T02:30:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-09-30T04:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-09-02T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
+      "score": 63,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3i6QO",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-19-2027/event/17006536D2B076A0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-20T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-20T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-10T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3c6Qn",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-20-2027/event/17006536D2B476AA",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-21T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-21T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-11T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3cMQU",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-21-2027/event/17006536D2B776B6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-22T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-22T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-12T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3mMQy",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-24-2027/event/17006536D2BB76B9",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-25T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-25T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-15T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3RMhv",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-26-2027/event/17006536D2BF76C1",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-27T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-27T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-17T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3YMh7",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-27-2027/event/17006536D2C376C4",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-28T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-28T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-18T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3sMhG",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-03-2027/event/17006536D2C776CC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-04T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-03-04T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-22T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3S6h9",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-05-2027/event/17006536D2CC76D7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-03-06T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-24T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3V6h0",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-06-2027/event/17006536D2D076E4",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-03-07T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-25T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
       ]
     }
   ]
