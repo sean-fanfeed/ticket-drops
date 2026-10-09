@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-09T16:32:19Z",
-    "generated_local": "Fri 9 Oct, 10:32 AM",
-    "scanned": 1081,
-    "surfaced": 222,
-    "new": 18,
+    "generated_utc": "2026-10-09T17:32:11Z",
+    "generated_local": "Fri 9 Oct, 11:32 AM",
+    "scanned": 1128,
+    "surfaced": 223,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3597,7 +3597,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Pine Knob Music Theatre",
       "city": "Clarkston",
       "state": "MI",
@@ -3669,7 +3669,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 77,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 10.0
@@ -3683,7 +3683,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.8x face",
@@ -3752,7 +3752,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "9:30 CLUB",
       "city": "Washington",
       "state": "DC",
@@ -3773,9 +3773,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
-      "score": 73,
+      "score": 74,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -4032,6 +4032,80 @@
       ]
     },
     {
+      "id": "vvG1zZ_KMtNa-r",
+      "name": "Vacations - Pursuit Of Anything Tour",
+      "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-atlanta-georgia-02-19-2027/event/0E00653DE98C985E",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Vacations",
+        "twen"
+      ],
+      "artist_upcoming": 20,
+      "venue": "Buckhead Theatre",
+      "city": "Atlanta",
+      "state": "GA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-20T01:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-02-20T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-07T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-01-30T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
+      "score": 71,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "k7vGF_oxtCT7j",
       "name": "Brit Floyd",
       "url": "https://www.ticketmaster.com/brit-floyd-buffalo-new-york-04-14-2027/event/00006518A93BF11C",
@@ -4176,80 +4250,6 @@
         "small room (2,000 cap)",
         "est. 1.5-2.6x face",
         "7 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1zZ_KMtNa-r",
-      "name": "Vacations - Pursuit Of Anything Tour",
-      "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-atlanta-georgia-02-19-2027/event/0E00653DE98C985E",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Vacations",
-        "twen"
-      ],
-      "artist_upcoming": 19,
-      "venue": "Buckhead Theatre",
-      "city": "Atlanta",
-      "state": "GA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-20T01:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-02-20T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-07T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-01-30T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
-      "score": 70,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 17.7,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -4943,6 +4943,180 @@
       ]
     },
     {
+      "id": "vv1AOvPuyGAuryeJ",
+      "name": "Chelsea Cutler - IS THIS THE END? Tour",
+      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-philadelphia-pennsylvania-02-10-2027/event/020065379D7B90A6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chelsea Cutler",
+        "Lamb"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-11T01:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-02-11T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-02-04T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-02-04T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_KUKXEzh",
+      "name": "Chelsea Cutler - IS THIS THE END? Tour",
+      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-charlotte-north-carolina-02-05-2027/event/2D00653D93FA7E1B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chelsea Cutler",
+        "Lamb"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-06T01:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-02-06T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-01-06T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-01-30T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "G5vVZ_fp_MeLK",
       "name": "Jay Wheeler - La Voz Favorita Tour",
       "url": "https://www.ticketmaster.com/jay-wheeler-la-voz-favorita-tour-mashantucket-connecticut-03-20-2027/event/1D00654599DC27D3",
@@ -4992,6 +5166,138 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.4x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "164ZkfUqdZACd655",
+      "name": "Chelsea Cutler - IS THIS THE END? Tour",
+      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-washington-district-of-columbia-02-06-2027/event/15006536743D26AA",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chelsea Cutler",
+        "Lamb"
+      ],
+      "artist_upcoming": 25,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2027-02-07T00:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-02-07T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-01-31T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvfZ_KGkw7gVaK",
+      "name": "Chelsea Cutler - IS THIS THE END? Tour",
+      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-washington-district-of-columbia-02-07-2027/event/1500653C84D74253",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chelsea Cutler",
+        "Lamb"
+      ],
+      "artist_upcoming": 25,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2027-02-08T00:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-02-08T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-02-01T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -5312,7 +5618,7 @@
       "artists": [
         "The Red Clay Strays"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -5391,7 +5697,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -5405,97 +5711,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AOvPuyGAuryeJ",
-      "name": "Chelsea Cutler - IS THIS THE END? Tour",
-      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-philadelphia-pennsylvania-02-10-2027/event/020065379D7B90A6",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chelsea Cutler",
-        "Lamb"
-      ],
-      "artist_upcoming": 22,
-      "venue": "The Fillmore Philadelphia",
-      "city": "Philadelphia",
-      "state": "PA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-02-11T01:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-02-11T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-02-04T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-02-04T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
-      "score": 65,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 20.9,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
       ]
     },
     {
@@ -5588,7 +5807,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "PPL Center",
       "city": "Allentown",
       "state": "PA",
@@ -5709,7 +5928,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -5723,229 +5942,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "15 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_KUKXEzh",
-      "name": "Chelsea Cutler - IS THIS THE END? Tour",
-      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-charlotte-north-carolina-02-05-2027/event/2D00653D93FA7E1B",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chelsea Cutler",
-        "Lamb"
-      ],
-      "artist_upcoming": 22,
-      "venue": "The Fillmore Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-02-06T01:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-02-06T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-01-06T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-01-30T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
-      "score": 65,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 20.9,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "164ZkfUqdZACd655",
-      "name": "Chelsea Cutler - IS THIS THE END? Tour",
-      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-washington-district-of-columbia-02-06-2027/event/15006536743D26AA",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chelsea Cutler",
-        "Lamb"
-      ],
-      "artist_upcoming": 22,
-      "venue": "9:30 CLUB",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 1200,
-      "capacity_source": "exact",
-      "event_date": "2027-02-07T00:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-02-07T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-01-31T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
-      "score": 65,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1AvfZ_KGkw7gVaK",
-      "name": "Chelsea Cutler - IS THIS THE END? Tour",
-      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-washington-district-of-columbia-02-07-2027/event/1500653C84D74253",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chelsea Cutler",
-        "Lamb"
-      ],
-      "artist_upcoming": 22,
-      "venue": "9:30 CLUB",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 1200,
-      "capacity_source": "exact",
-      "event_date": "2027-02-08T00:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-02-08T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-02-01T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
-      "score": 65,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -5958,7 +5958,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Constellation Brands-Marvin Sands Performing Arts Center: CMAC",
       "city": "Canandaigua",
       "state": "NY",
@@ -6065,7 +6065,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -6079,7 +6079,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "13 presale(s)"
@@ -6221,7 +6221,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "BankNH Pavilion",
       "city": "Gilford",
       "state": "NH",
@@ -6314,7 +6314,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 64,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 9.3,
         "markup": 20.8,
         "timing": 10.0
@@ -6328,10 +6328,84 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~12,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "11 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_KBudUlQ",
+      "name": "Chelsea Cutler - IS THIS THE END? Tour",
+      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-charleston-south-carolina-02-01-2027/event/2D00653E8D0F6ADA",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chelsea Cutler",
+        "Lamb"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Charleston Music Hall",
+      "city": "Charleston",
+      "state": "SC",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-02T01:00:00Z",
+      "onsale_start": "2026-10-09T14:00:00Z",
+      "onsale_end": "2027-02-02T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-06T14:00:00Z",
+          "end": "2026-10-09T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2027-01-26T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
+      "score": 64,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -6344,7 +6418,7 @@
         "Chelsea Cutler",
         "Lamb"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 25,
       "venue": "Saint Andrew's Hall",
       "city": "Detroit",
       "state": "MI",
@@ -6402,7 +6476,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
       "score": 64,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 19.8,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
@@ -6498,7 +6572,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Mohegan Sun Arena",
       "city": "Uncasville",
       "state": "CT",
@@ -6577,7 +6651,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -6591,7 +6665,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -6607,7 +6681,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Colonial Life Arena",
       "city": "Columbia",
       "state": "SC",
@@ -6693,7 +6767,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -6707,7 +6781,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "10 presale(s)"
@@ -6723,7 +6797,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Charleston Coliseum",
       "city": "Charleston",
       "state": "WV",
@@ -6802,7 +6876,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 8.2,
         "markup": 20.8,
         "timing": 10.0
@@ -6816,7 +6890,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -6832,7 +6906,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Hertz Arena",
       "city": "Estero",
       "state": "FL",
@@ -6946,7 +7020,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -6960,7 +7034,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
@@ -7041,7 +7115,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Maine Savings Amphitheater",
       "city": "Bangor",
       "state": "ME",
@@ -7141,7 +7215,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 8.6,
         "markup": 20.8,
         "timing": 10.0
@@ -7155,7 +7229,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "12 presale(s)"
@@ -7211,80 +7285,6 @@
         "~4,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_KBudUlQ",
-      "name": "Chelsea Cutler - IS THIS THE END? Tour",
-      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-charleston-south-carolina-02-01-2027/event/2D00653E8D0F6ADA",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chelsea Cutler",
-        "Lamb"
-      ],
-      "artist_upcoming": 22,
-      "venue": "The Charleston Music Hall",
-      "city": "Charleston",
-      "state": "SC",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-02T01:00:00Z",
-      "onsale_start": "2026-10-09T14:00:00Z",
-      "onsale_end": "2027-02-02T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T14:00:00Z",
-          "end": "2026-10-09T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T14:00:00Z",
-          "end": "2027-01-26T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
-      "score": 63,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -8587,6 +8587,66 @@
       ]
     },
     {
+      "id": "G5dIZ_KwJcax5",
+      "name": "Vacations: Pursuit of Anything Tour",
+      "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-houston-texas-03-14-2027/event/3A00653CA6B4988B",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Vacations",
+        "twen"
+      ],
+      "artist_upcoming": 20,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-15T00:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2027-03-15T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
+      "score": 72,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 18.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv17bZ_KGkzNDcg1",
       "name": "Ashley Cooke: The Baby Blues Tour",
       "url": "https://www.ticketmaster.com/ashley-cooke-the-baby-blues-tour-minneapolis-minnesota-02-12-2027/event/0600653E23EEDD4A",
@@ -8765,7 +8825,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "House of Blues Dallas ",
       "city": "Dallas",
       "state": "TX",
@@ -8809,7 +8869,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
       "score": 71,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 10.0
@@ -8826,66 +8886,6 @@
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_KwJcax5",
-      "name": "Vacations: Pursuit of Anything Tour",
-      "url": "https://www.ticketmaster.com/vacations-pursuit-of-anything-tour-houston-texas-03-14-2027/event/3A00653CA6B4988B",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Vacations",
-        "twen"
-      ],
-      "artist_upcoming": 19,
-      "venue": "White Oak Music Hall - Downstairs",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-15T00:00:00Z",
-      "onsale_start": "2026-10-09T15:00:00Z",
-      "onsale_end": "2027-03-15T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-07T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-07T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
-      "score": 71,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 18.7,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -9053,6 +9053,68 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_KBU7Cw-",
+      "name": "Naughty or Nice Tour",
+      "url": "https://www.ticketmaster.com/naughty-or-nice-tour-houston-texas-12-03-2026/event/3A00653EB610ECA1",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Parker McCollum",
+        "Koe Wetzel",
+        "Logan Jahnke",
+        "Jackson Wendell"
+      ],
+      "artist_upcoming": 14,
+      "venue": "713 Music Hall",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-04T02:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2026-12-04T04:00:00Z",
+      "presales": [
+        {
+          "name": "Koe Wetzel & Parker McCollum Presale",
+          "start": "2026-10-07T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Parker+McCollum",
+      "score": 68,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 18.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -9259,68 +9321,6 @@
       ]
     },
     {
-      "id": "G5dIZ_KBU7Cw-",
-      "name": "Naughty or Nice Tour",
-      "url": "https://www.ticketmaster.com/naughty-or-nice-tour-houston-texas-12-03-2026/event/3A00653EB610ECA1",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Parker McCollum",
-        "Koe Wetzel",
-        "Logan Jahnke",
-        "Jackson Wendell"
-      ],
-      "artist_upcoming": 12,
-      "venue": "713 Music Hall",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2026-12-04T02:00:00Z",
-      "onsale_start": "2026-10-09T15:00:00Z",
-      "onsale_end": "2026-12-04T04:00:00Z",
-      "presales": [
-        {
-          "name": "Koe Wetzel & Parker McCollum Presale",
-          "start": "2026-10-07T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Parker+McCollum",
-      "score": 67,
-      "score_parts": {
-        "demand": 15.6,
-        "scarcity": 18.7,
-        "markup": 22.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.5-2.6x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AvZk4AGkeJXnEm",
       "name": "Jay Wheeler - LVF Tour",
       "url": "https://www.ticketmaster.com/jay-wheeler-lvf-tour-boston-massachusetts-03-27-2027/event/01006545A6FAA9EE",
@@ -9427,6 +9427,174 @@
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.6-2.7x face"
+      ]
+    },
+    {
+      "id": "vvG1YZ_KRAozwg",
+      "name": "Chelsea Cutler - IS THIS THE END? Tour",
+      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-dallas-texas-02-25-2027/event/0C00653BC5478CB5",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chelsea Cutler",
+        "googly eyes"
+      ],
+      "artist_upcoming": 25,
+      "venue": "South Side Ballroom",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-26T02:00:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2027-02-26T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-06T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2027-02-19T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17bZ_KGkSWYs5j",
+      "name": "Chelsea Cutler - IS THIS THE END? Tour",
+      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-minneapolis-minnesota-02-23-2027/event/0600653CFDC312DC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chelsea Cutler",
+        "googly eyes"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Fillmore Minneapolis presented by Affinity Plus",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-24T00:30:00Z",
+      "onsale_start": "2026-10-09T15:00:00Z",
+      "onsale_end": "2027-02-24T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-06T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Affinity Plus Credit Union Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-06T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2027-01-27T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-06T15:00:00Z",
+          "end": "2026-10-09T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2027-02-17T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "7 presale(s)"
       ]
     },
     {
@@ -9907,7 +10075,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Moody Center ATX",
       "city": "Austin",
       "state": "TX",
@@ -10021,7 +10189,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -10035,7 +10203,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
@@ -10051,7 +10219,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Enterprise Center",
       "city": "Saint Louis",
       "state": "MO",
@@ -10130,7 +10298,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -10144,7 +10312,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -10160,7 +10328,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "CHI Health Center Omaha",
       "city": "Omaha",
       "state": "NE",
@@ -10239,7 +10407,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -10253,84 +10421,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1YZ_KRAozwg",
-      "name": "Chelsea Cutler - IS THIS THE END? Tour",
-      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-dallas-texas-02-25-2027/event/0C00653BC5478CB5",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chelsea Cutler",
-        "googly eyes"
-      ],
-      "artist_upcoming": 22,
-      "venue": "South Side Ballroom",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-26T02:00:00Z",
-      "onsale_start": "2026-10-09T15:00:00Z",
-      "onsale_end": "2027-02-26T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T15:00:00Z",
-          "end": "2027-02-19T04:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
-      "score": 65,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -10343,7 +10437,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Hilliard Center Arena",
       "city": "Corpus Christi",
       "state": "TX",
@@ -10457,7 +10551,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 10.2,
         "markup": 20.8,
         "timing": 10.0
@@ -10471,104 +10565,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "14 presale(s)"
-      ]
-    },
-    {
-      "id": "vv17bZ_KGkSWYs5j",
-      "name": "Chelsea Cutler - IS THIS THE END? Tour",
-      "url": "https://www.ticketmaster.com/chelsea-cutler-is-this-the-end-minneapolis-minnesota-02-23-2027/event/0600653CFDC312DC",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chelsea Cutler",
-        "googly eyes"
-      ],
-      "artist_upcoming": 22,
-      "venue": "The Fillmore Minneapolis presented by Affinity Plus",
-      "city": "Minneapolis",
-      "state": "MN",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-02-24T00:30:00Z",
-      "onsale_start": "2026-10-09T15:00:00Z",
-      "onsale_end": "2027-02-24T02:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Affinity Plus Credit Union Presale",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-09T15:00:00Z",
-          "end": "2027-01-27T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-06T15:00:00Z",
-          "end": "2026-10-09T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-09T15:00:00Z",
-          "end": "2027-02-17T04:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
-      "score": 65,
-      "score_parts": {
-        "demand": 19.1,
-        "scarcity": 20.9,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "7 presale(s)"
       ]
     },
     {
@@ -10879,7 +10879,7 @@
         "The Red Clay Strays",
         "Avery Anna"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Allstate Arena",
       "city": "Rosemont",
       "state": "IL",
@@ -10958,7 +10958,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -10972,7 +10972,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -11416,7 +11416,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -11458,9 +11458,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
-      "score": 71,
+      "score": 72,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -12011,7 +12011,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "ExtraMile Arena",
       "city": "Boise",
       "state": "ID",
@@ -12090,7 +12090,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 7.9,
         "markup": 20.8,
         "timing": 10.0
@@ -12104,7 +12104,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
@@ -12688,7 +12688,7 @@
         "Vacations",
         "twen"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Moore Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -12716,9 +12716,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Vacations",
-      "score": 70,
+      "score": 71,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -12748,7 +12748,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Greek Theatre-U.C. Berkeley",
       "city": "Berkeley",
       "state": "CA",
@@ -12827,7 +12827,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 68,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 12.8,
         "markup": 20.8,
         "timing": 10.0
@@ -12841,7 +12841,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "est. 1.5-2.5x face",
         "9 presale(s)"
       ]
@@ -13177,7 +13177,7 @@
         "Chelsea Cutler",
         "googly eyes"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 25,
       "venue": "The Observatory North Park",
       "city": "San Diego",
       "state": "CA",
@@ -13235,7 +13235,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Chelsea+Cutler",
       "score": 66,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 19.8,
         "scarcity": 21.6,
         "markup": 15.1,
         "timing": 10.0
@@ -13387,7 +13387,7 @@
     },
     {
       "id": "vv1ke8vPovGAucJ_9",
-      "name": "George Clanton meets ESPRIT ??",
+      "name": "George Clanton meets ESPRIT",
       "url": "https://www.ticketmaster.com/george-clanton-meets-esprit-los-angeles-california-01-30-2027/event/090065441DB66657",
       "segment": "Music",
       "genre": "Rock",
@@ -13468,7 +13468,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 51,
       "venue": "Hayden Homes Amphitheater",
       "city": "Bend",
       "state": "OR",
@@ -13554,7 +13554,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.0,
         "scarcity": 8.6,
         "markup": 20.8,
         "timing": 10.0
@@ -13568,7 +13568,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "10 presale(s)"
@@ -14122,6 +14122,47 @@
         "~1,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1Afus8V",
+      "name": "MONIQUE WITH THE HOURGLASS CATS",
+      "url": "https://www.ticketweb.com/event/monique-with-the-hourglass-cats-valley-bar-tickets/14371434",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [],
+      "artist_upcoming": 0,
+      "venue": "Valley Bar",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-21T02:30:00Z",
+      "onsale_start": "2026-10-09T17:00:00Z",
+      "onsale_end": "2026-11-21T04:30:00Z",
+      "presales": [],
+      "price_min": 28.83,
+      "price_max": 28.83,
+      "seatgeek_url": "https://seatgeek.com/search?search=MONIQUE+WITH+THE+HOURGLASS+CATS",
+      "score": 60,
+      "score_parts": {
+        "demand": 4.0,
+        "scarcity": 25.0,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": 48,
+      "est_resale_max": 78,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)",
+        "est. 1.6-2.7x face"
       ]
     },
     {
