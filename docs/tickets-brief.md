@@ -1,4 +1,4 @@
-222 ticket drops scoring 60+ in the next 14 days.
+62 ticket drops scoring 60+ in the next 14 days.
 
   74 - WWE, WWE Money In The Bank
   Smoothie King Center, New Orleans LA
@@ -22,12 +22,6 @@
   Brookshire Grocery Arena, Bossier City LA
   On sale Fri 24 Jul, 9:00 AM (passed)
   Event Mon 12 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  64 - WWE
-  Lafayette Cajundome, Lafayette LA
-  On sale Fri 24 Jul, 9:00 AM (passed)
-  Event Fri 9 Oct, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
   74 - WWE
@@ -70,4 +64,10 @@
   Covelli Centre, Youngstown OH
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 29 Oct, 5:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  74 - WWE, WWE Survivor Series
+  Cross Insurance Center, Bangor ME
+  On sale Fri 21 Aug, 8:00 AM (passed)
+  Event Fri 6 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
