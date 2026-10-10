@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-10T15:33:50Z",
-    "generated_local": "Sat 10 Oct, 9:33 AM",
-    "scanned": 427,
+    "generated_utc": "2026-10-10T16:22:00Z",
+    "generated_local": "Sat 10 Oct, 10:22 AM",
+    "scanned": 428,
     "surfaced": 62,
     "new": 0,
     "threshold": 60,
@@ -461,7 +461,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Monday Night RAW"
       ],
       "artist_upcoming": 42,
       "venue": "Save Mart Center",

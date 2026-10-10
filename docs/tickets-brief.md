@@ -24,7 +24,7 @@
   Event Mon 12 Oct, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  74 - WWE
+  74 - WWE, WWE Monday Night RAW
   Save Mart Center, Fresno CA
   On sale Fri 24 Jul, 11:00 AM (passed)
   Event Mon 26 Oct, 5:30 PM
