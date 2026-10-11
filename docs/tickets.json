@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-11T13:30:58Z",
-    "generated_local": "Sun 11 Oct, 7:30 AM",
-    "scanned": 417,
+    "generated_utc": "2026-10-11T15:56:51Z",
+    "generated_local": "Sun 11 Oct, 9:56 AM",
+    "scanned": 418,
     "surfaced": 61,
     "new": 0,
     "threshold": 60,
@@ -3205,12 +3205,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=PBR%3A+Pendleton+Whisky+Velocity+Tour",
-      "score": 61,
+      "score": 64,
       "score_parts": {
         "demand": 28,
         "scarcity": 10.2,
         "markup": 15.6,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -3279,12 +3279,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=PBR%3A+Pendleton+Whisky+Velocity+Tour",
-      "score": 61,
+      "score": 64,
       "score_parts": {
         "demand": 28,
         "scarcity": 10.2,
         "markup": 15.6,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
