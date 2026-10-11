@@ -98,7 +98,7 @@ padding:28px 16px;text-align:center;color:var(--ink3)}
   <header>
     <h1>Ticket drops</h1>
     <div class="sub"><span id="freshness"></span> &middot; 61 scoring
-      60+ of 418 on-sales</div>
+      60+ of 419 on-sales</div>
   </header>
 
   <div class="tabs" role="tablist">
@@ -406,9 +406,9 @@ document.querySelectorAll("[data-open]").forEach(b =>
 
 // say plainly how old the underlying pull is, in case a scheduled run was missed
 (function freshness() {
-  const built = dt("2026-10-11T16:44:57Z");
+  const built = dt("2026-10-11T17:46:23Z");
   const el = document.getElementById("freshness");
-  if (!built) { el.textContent = "Sun 11 Oct, 10:44 AM"; return; }
+  if (!built) { el.textContent = "Sun 11 Oct, 11:46 AM"; return; }
   const mins = Math.round((Date.now() - built) / 60000);
   const age = mins < 90 ? mins + " min ago"
             : mins < 36 * 60 ? Math.round(mins / 60) + "h ago"
