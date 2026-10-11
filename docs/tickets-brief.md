@@ -1,10 +1,4 @@
-62 ticket drops scoring 60+ in the next 14 days.
-
-  74 - WWE, WWE Money In The Bank
-  Smoothie King Center, New Orleans LA
-  On sale Fri 10 Jul, 9:00 AM (passed)
-  Event Sat 10 Oct, 3:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+61 ticket drops scoring 60+ in the next 14 days.
 
   72 - WWE
   Charleston Coliseum, Charleston WV
@@ -70,4 +64,10 @@
   Cross Insurance Center, Bangor ME
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Fri 6 Nov, 5:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  72 - WWE, WWE Survivor Series
+  Cross Insurance Arena , Portland ME
+  On sale Fri 21 Aug, 8:00 AM (passed)
+  Event Thu 5 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
