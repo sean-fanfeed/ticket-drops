@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-12T20:24:50Z",
-    "generated_local": "Mon 12 Oct, 2:24 PM",
-    "scanned": 621,
+    "generated_utc": "2026-10-12T21:23:48Z",
+    "generated_local": "Mon 12 Oct, 3:23 PM",
+    "scanned": 627,
     "surfaced": 104,
     "new": 0,
     "threshold": 60,
@@ -3582,7 +3582,7 @@
       "artists": [
         "MICO"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 47,
       "venue": "House of Blues Orlando",
       "city": "Orlando",
       "state": "FL",
@@ -3619,7 +3619,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=MICO",
       "score": 70,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.5,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -3633,7 +3633,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "47 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
         "3 presale(s)"
@@ -3648,7 +3648,7 @@
       "artists": [
         "MICO"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 47,
       "venue": "The Charleston Music Hall",
       "city": "Charleston",
       "state": "SC",
@@ -3685,7 +3685,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=MICO",
       "score": 70,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.5,
         "scarcity": 18.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3699,7 +3699,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "47 upcoming dates (heavy routing)",
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -4020,7 +4020,7 @@
       "artists": [
         "Niko Moon"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -4078,7 +4078,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Niko+Moon",
       "score": 67,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 17.7,
         "markup": 22.4,
         "timing": 10.0
@@ -4107,7 +4107,7 @@
       "artists": [
         "Niko Moon"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "State Theatre",
       "city": "Portland",
       "state": "ME",
@@ -4151,7 +4151,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Niko+Moon",
       "score": 67,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 17.7,
         "markup": 22.4,
         "timing": 10.0
@@ -5670,7 +5670,7 @@
       "artists": [
         "Niko Moon"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "Texas Club",
       "city": "Baton Rouge",
       "state": "LA",
@@ -5728,7 +5728,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Niko+Moon",
       "score": 72,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 22.7,
         "markup": 22.4,
         "timing": 10.0
@@ -5851,7 +5851,7 @@
       "artists": [
         "MICO"
       ],
-      "artist_upcoming": 46,
+      "artist_upcoming": 47,
       "venue": "House of Blues New Orleans ",
       "city": "New Orleans",
       "state": "LA",
@@ -5902,7 +5902,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=MICO",
       "score": 70,
       "score_parts": {
-        "demand": 23.4,
+        "demand": 23.5,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -5916,7 +5916,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "46 upcoming dates (heavy routing)",
+        "47 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
         "5 presale(s)"
