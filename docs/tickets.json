@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-13T14:34:17Z",
-    "generated_local": "Tue 13 Oct, 8:34 AM",
-    "scanned": 677,
-    "surfaced": 126,
-    "new": 24,
+    "generated_utc": "2026-10-13T17:07:26Z",
+    "generated_local": "Tue 13 Oct, 11:07 AM",
+    "scanned": 945,
+    "surfaced": 183,
+    "new": 57,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -1449,8 +1449,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
       "artist_upcoming": 42,
       "venue": "Bon Secours Wellness Arena ",
@@ -3328,6 +3327,1343 @@
       ]
     },
     {
+      "id": "vv17FZ_KGkBXwHxI",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-newark-new-jersey-02-13-2027/event/0200653EBECBC8A8",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-14T00:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-02-14T01:45:00Z",
+      "presales": [
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-02-07T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_KJ22EbD",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-charlotte-north-carolina-04-10-2027/event/2D0065398F3E763B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Spectrum Center",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-10T23:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-04-11T01:30:00Z",
+      "presales": [
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Mirrorball Member Presale"
+        },
+        {
+          "name": "Spectrum Center Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Spectrum Center Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-04-04T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_f60R-5G",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-raleigh-north-carolina-04-09-2027/event/2D006541E4BE12CC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Lenovo Center",
+      "city": "Raleigh",
+      "state": "NC",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-09T23:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-04-10T00:30:00Z",
+      "presales": [
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Local Presale"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-04-03T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "k7v16k4vPPotZe82",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-buffalo-new-york-01-22-2027/event/00006541965469FE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "KeyBank Center",
+      "city": "Buffalo",
+      "state": "NY",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-23T00:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-01-23T02:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "KeyBank Center Insider Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-01-16T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZkfyGkeOLgly",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-cincinnati-ohio-01-23-2027/event/16006539A07F5AF9",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Heritage Bank Center",
+      "city": "Cincinnati",
+      "state": "OH",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-24T00:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-01-24T02:30:00Z",
+      "presales": [
+        {
+          "name": "MIrrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "MIrrorball Presale"
+        },
+        {
+          "name": "Venue/Local Presales",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Venue/Local Presales"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-01-17T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk4eGkd_54wN",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-hershey-pennsylvania-02-17-2027/event/02006542D92D5CA3",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "GIANT Center",
+      "city": "Hershey",
+      "state": "PA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-18T00:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-02-18T02:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue/Radio Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-02-11T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kv8vP83GACZa6r",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-columbus-ohio-02-18-2027/event/050065412E0091DE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Schottenstein Center",
+      "city": "Columbus",
+      "state": "OH",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-19T00:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-02-19T02:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-01-23T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_KwuvUI0",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-knoxville-tennessee-02-27-2027/event/1B00653C8D076A24",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Food City Center",
+      "city": "Knoxville",
+      "state": "TN",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-28T00:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-02-28T02:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Tennessee Fund Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Tennessee Fund Presale"
+        },
+        {
+          "name": "Tennessee Athletics Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Tennessee Athletics Presale"
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-02-21T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "7 presale(s)"
+      ]
+    },
+    {
+      "id": "1kGZvP8fGAGOLC1",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-allentown-pennsylvania-02-03-2027/event/300065414C81F38A",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "PPL Center",
+      "city": "Allentown",
+      "state": "PA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-04T00:30:00Z",
+      "onsale_start": "2026-10-13T14:00:00Z",
+      "onsale_end": "2027-02-04T01:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presales",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T14:00:00Z",
+          "end": "2026-10-13T02:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2027-01-28T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_KNAmopO",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-austin-texas-03-12-2027/event/3A006538C5B915A0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Moody Center ATX",
+      "city": "Austin",
+      "state": "TX",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-13T01:30:00Z",
+      "onsale_start": "2026-10-13T15:00:00Z",
+      "onsale_end": "2027-03-13T01:30:00Z",
+      "presales": [
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Venue Partner Presale",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Venue Partner Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2027-03-06T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale"
+        },
+        {
+          "name": "Mastercard Preferred Tickets",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2027-02-13T04:00:00Z",
+          "url": "",
+          "how": "Mastercard Preferred Tickets"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZkfsGkdkBgr5",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-saint-louis-missouri-02-26-2027/event/06006531C6EB578B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Enterprise Center",
+      "city": "Saint Louis",
+      "state": "MO",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-27T01:30:00Z",
+      "onsale_start": "2026-10-13T15:00:00Z",
+      "onsale_end": "2027-02-27T01:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2027-02-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_KxWZ34h",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-new-orleans-louisiana-03-11-2027/event/1B006538BD01255B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Smoothie King Center",
+      "city": "New Orleans",
+      "state": "LA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-12T01:30:00Z",
+      "onsale_start": "2026-10-13T15:00:00Z",
+      "onsale_end": "2027-03-12T03:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2027-03-05T04:00:00Z",
+          "url": "",
+          "how": "VIP Packages Onsale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1AeZZ_KGkSlHPIr",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-tulsa-oklahoma-03-17-2027/event/2000653CEBF25A1E",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "BOK Center",
+      "city": "Tulsa",
+      "state": "OK",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-18T00:30:00Z",
+      "onsale_start": "2026-10-13T15:00:00Z",
+      "onsale_end": "2027-03-18T02:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2027-03-14T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk4eGkdjG6NB",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-omaha-nebraska-02-23-2027/event/06006542DC3078FA",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "CHI Health Center Omaha",
+      "city": "Omaha",
+      "state": "NE",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-24T01:30:00Z",
+      "onsale_start": "2026-10-13T15:00:00Z",
+      "onsale_end": "2027-02-24T02:30:00Z",
+      "presales": [
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Local Presales",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Local Presales"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2027-02-17T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZkfzGkdJnLSM",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-minneapolis-minnesota-01-30-2027/event/06006538E6A9FCF7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Target Center",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-31T01:30:00Z",
+      "onsale_start": "2026-10-13T15:00:00Z",
+      "onsale_end": "2027-01-31T03:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T15:00:00Z",
+          "end": "2027-01-24T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk4eGkdJoyLQ",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://hyveetix.evenue.net/events/DWS?RSRC=WEB_PR&RDAT=DWS_ONSALE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Casey's Center",
+      "city": "Des Moines",
+      "state": "IA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-22T01:30:00Z",
+      "onsale_start": "2026-10-13T15:00:00Z",
+      "onsale_end": "2027-02-22T01:30:00Z",
+      "presales": [
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-09T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T15:00:00Z",
+          "end": "2026-10-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1AfuSAV",
+      "name": "DANIELLE PONDER - EVERYTHING HAS CHANGED: THE TOUR",
+      "url": "https://www.ticketweb.com/event/danielle-ponder-everything-valley-bar-tickets/14373174",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Danielle Ponder"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Valley Bar",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-04T03:00:00Z",
+      "onsale_start": "2026-10-13T16:00:00Z",
+      "onsale_end": "2027-03-04T04:15:00Z",
+      "presales": [],
+      "price_min": 0.0,
+      "price_max": 0.0,
+      "seatgeek_url": "https://seatgeek.com/search?search=Danielle+Ponder",
+      "score": 65,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 25.0,
+        "markup": 18.2,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)",
+        "est. 1.4-2.3x face"
+      ]
+    },
+    {
       "id": "vvG1zZ_fkUOxhq",
       "name": "EVNNE FAN-CONCERT [ONE TAKE] IN NORTH AMERICA",
       "url": "https://www.ticketmaster.com/evnne-fanconcert-one-take-in-north-atlanta-georgia-01-29-2027/event/0E006541B68226DD",
@@ -3377,6 +4713,347 @@
         "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_f5Q3rJc",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://seatgeek.com/dancing-with-the-stars-1-tickets/dance/2027-03-20-7-30-pm/18266490",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Delta Center",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-21T01:30:00Z",
+      "onsale_start": "2026-10-13T16:00:00Z",
+      "onsale_end": "2027-03-21T01:30:00Z",
+      "presales": [
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T16:00:00Z",
+          "end": "2026-10-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-09T16:00:00Z",
+          "end": "2026-10-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk4kGkdcTlpM",
+      "name": "Emo Night Brooklyn",
+      "url": "https://www.ticketmaster.com/emo-night-brooklyn-washington-district-of-columbia-11-27-2026/event/15006546EDFEB5B7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Emo Night Brooklyn"
+      ],
+      "artist_upcoming": 18,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2026-11-28T02:00:00Z",
+      "onsale_start": "2026-10-13T16:00:00Z",
+      "onsale_end": "2026-11-28T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Emo+Night+Brooklyn",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face"
+      ]
+    },
+    {
+      "id": "1Av0Z_KGkB3YfYN",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-phoenix-arizona-04-04-2027/event/1900653E92C14C23",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-05T02:30:00Z",
+      "onsale_start": "2026-10-13T17:00:00Z",
+      "onsale_end": "2027-04-05T04:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Mortgage Matchup Center Presale",
+          "start": "2026-10-09T19:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": "Mortgage Matchup Center Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv170Z_KGkBh3n6-",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-anaheim-california-04-01-2027/event/0900653E9B4AA1E1",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "Honda Center",
+      "city": "Anaheim",
+      "state": "CA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-02T02:30:00Z",
+      "onsale_start": "2026-10-13T17:00:00Z",
+      "onsale_end": "2027-04-02T02:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-09T19:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2027-03-26T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_KxgyNUt",
+      "name": "Dancing with the Stars: Live! - 2027 Tour",
+      "url": "https://www.ticketmaster.com/dancing-with-the-stars-live-2027-san-jose-california-03-27-2027/event/1C006538B5E63DA9",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dancing with the Stars"
+      ],
+      "artist_upcoming": 70,
+      "venue": "SAP Center at San Jose",
+      "city": "San Jose",
+      "state": "CA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-28T02:30:00Z",
+      "onsale_start": "2026-10-13T17:00:00Z",
+      "onsale_end": "2027-03-28T03:30:00Z",
+      "presales": [
+        {
+          "name": "SAP Center Presale",
+          "start": "2026-10-09T19:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Sharks365 Member Presale",
+          "start": "2026-10-09T19:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-09T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Mirrorball Member Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the tour"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-08T17:00:00Z",
+          "end": "2026-10-13T05:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2027-03-21T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
+      "score": 60,
+      "score_parts": {
+        "demand": 25.9,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "70 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -3567,6 +5244,49 @@
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_fLa0mLR",
+      "name": "Earlybirds Club",
+      "url": "https://www.ticketmaster.com/earlybirds-club-napa-california-01-22-2027/event/1C006547C992E7EF",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Earlybirds Club"
+      ],
+      "artist_upcoming": 24,
+      "venue": "Napa Music Hall",
+      "city": "Napa",
+      "state": "CA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-23T02:00:00Z",
+      "onsale_start": "2026-10-15T17:00:00Z",
+      "onsale_end": "2027-01-23T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Earlybirds+Club",
+      "score": 60,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 18.7,
+        "markup": 16.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.2x face"
       ]
     },
     {
@@ -5175,6 +6895,190 @@
       ]
     },
     {
+      "id": "vv1AdZk4FGkeU5w93",
+      "name": "Alan Cumming: Uncut",
+      "url": "https://www.ticketmaster.com/alan-cumming-uncut-new-york-new-york-02-10-2027/event/03006548B62F25D2",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Alan Cumming"
+      ],
+      "artist_upcoming": 4,
+      "venue": "Town Hall",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-11T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-10T23:00:00Z",
+      "presales": [
+        {
+          "name": "VENUE PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AMEX PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "BOWERY PRESALE",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u00ae",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
+      "score": 64,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AOvP8OGA5ngVX",
+      "name": "Kool & the Gang",
+      "url": "https://www.ticketmaster.com/kool-the-gang-atlantic-city-new-jersey-04-16-2027/event/020065420BAB5D3E",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Kool & the Gang"
+      ],
+      "artist_upcoming": 14,
+      "venue": "Ovation Hall at Ocean Casino Resort ",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-17T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-04-17T03:00:00Z",
+      "presales": [
+        {
+          "name": "Cyber Sale 2026",
+          "start": "2026-11-23T15:00:00Z",
+          "end": "2026-12-01T03:00:00Z",
+          "url": "",
+          "how": "Cyber Sale 2026"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Kool+%26+the+Gang",
+      "score": 64,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 19.6,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_fJMFbPe",
+      "name": "Danielle Ponder - Everything Has Changed: The Tour",
+      "url": "https://www.ticketmaster.com/danielle-ponder-everything-has-changed-the-new-york-new-york-03-24-2027/event/00006549B7218942",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Danielle Ponder"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Bowery Ballroom",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-24T23:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-03-25T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Danielle+Ponder",
+      "score": 64,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 20.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv1kv8vPotGAuHPQL",
       "name": "Bone Thugs-N-Harmony",
       "url": "https://www.ticketmaster.com/bone-thugsnharmony-cleveland-ohio-12-04-2026/event/050065469DF2569F",
@@ -5301,6 +7205,108 @@
       ]
     },
     {
+      "id": "vv1AdZk4FGkdAM3qt",
+      "name": "Steve Hackett Best Of Genesis & Solo Gems Tour",
+      "url": "https://www.ticketmaster.com/steve-hackett-best-of-genesis-solo-new-york-new-york-04-21-2027/event/03006548C5DD2769",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Steve Hackett"
+      ],
+      "artist_upcoming": 18,
+      "venue": "Town Hall",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-22T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-04-21T22:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LOCAL PRESALE",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
+      "score": 63,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AdZk4aGkd4ceNm",
+      "name": "Levi.Sct",
+      "url": "https://www.ticketmaster.com/levisct-new-york-new-york-09-26-2027/event/03006549D5B428EE",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Levi.Sct"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Town Hall",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-09-26T23:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-09-26T21:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Levi.Sct",
+      "score": 63,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 19.6,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.5-2.5x face"
+      ]
+    },
+    {
       "id": "vvG1VZ_fwNFfI3",
       "name": "Gillian Welch & David Rawlings",
       "url": "https://www.ticketmaster.com/gillian-welch-david-rawlings-ft-lauderdale-florida-01-18-2027/event/0D00654CA3214A12",
@@ -5357,6 +7363,80 @@
         "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_fNuQtsC",
+      "name": "Pigeons Playing Ping Pong: 2027 Tour",
+      "url": "https://www.ticketmaster.com/pigeons-playing-ping-pong-2027-tour-charlotte-north-carolina-02-19-2027/event/2D006548CD6A9C4E",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Pigeons Playing Ping Pong",
+        "Wax Monkey"
+      ],
+      "artist_upcoming": 26,
+      "venue": "Neighborhood Theatre Main Room",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-20T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-20T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-02-13T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pigeons+Playing+Ping+Pong",
+      "score": 63,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -5532,13 +7612,13 @@
       ]
     },
     {
-      "id": "vv1AdZk4FGkdAM3qt",
-      "name": "Steve Hackett Best Of Genesis & Solo Gems Tour",
-      "url": "https://www.ticketmaster.com/steve-hackett-best-of-genesis-solo-new-york-new-york-04-21-2027/event/03006548C5DD2769",
+      "id": "vv1AYvPoYGAGqwgA",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-new-york-new-york-01-23-2027/event/030065470C772D45",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Steve Hackett"
+        "Richard Thompson"
       ],
       "artist_upcoming": 17,
       "venue": "Town Hall",
@@ -5546,28 +7626,35 @@
       "state": "NY",
       "capacity": 1500,
       "capacity_source": "venue type",
-      "event_date": "2027-04-22T00:00:00Z",
+      "event_date": "2027-01-24T01:00:00Z",
       "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-04-21T22:00:00Z",
+      "onsale_end": "2027-01-23T23:00:00Z",
       "presales": [
         {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T14:00:00Z",
+          "name": "Bowery Presale",
+          "start": "2026-10-14T14:00:00Z",
           "end": "2026-10-16T02:00:00Z",
           "url": "",
           "how": ""
         },
         {
-          "name": "LOCAL PRESALE",
-          "start": "2026-10-15T14:00:00Z",
+          "name": "Venue Presale",
+          "start": "2026-10-14T14:00:00Z",
           "end": "2026-10-16T02:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u00ae",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
       "score": 62,
       "score_parts": {
         "demand": 17.6,
@@ -5587,6 +7674,124 @@
         "small room (1,500 cap)",
         "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk46GkdYqicQ",
+      "name": "Alan Cumming: Uncut",
+      "url": "https://www.ticketmaster.com/alan-cumming-uncut-medford-massachusetts-02-06-2027/event/01006547F076CB5A",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Alan Cumming"
+      ],
+      "artist_upcoming": 4,
+      "venue": "Chevalier Theatre",
+      "city": "Medford",
+      "state": "MA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-07T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-07T01:00:00Z",
+      "presales": [
+        {
+          "name": "Regulars Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Chevalier Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
+      "score": 62,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_f0faTPd",
+      "name": "Danielle Ponder - Everything Has Changed: The Tour",
+      "url": "https://www.ticketmaster.com/danielle-ponder-everything-has-changed-the-charlotte-north-carolina-03-30-2027/event/2D0065491427F943",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Danielle Ponder"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Neighborhood Theatre Tap Room",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-31T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-03-31T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Danielle+Ponder",
+      "score": 62,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
         "2 presale(s)"
       ]
     },
@@ -6259,49 +8464,6 @@
       ]
     },
     {
-      "id": "vv1AOvP8OGA5ngVX",
-      "name": "Kool & the Gang",
-      "url": "https://www.ticketmaster.com/kool-the-gang-atlantic-city-new-jersey-04-16-2027/event/020065420BAB5D3E",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Kool & the Gang"
-      ],
-      "artist_upcoming": 14,
-      "venue": "Ovation Hall at Ocean Casino Resort ",
-      "city": "Atlantic City",
-      "state": "NJ",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-17T01:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-04-17T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Kool+%26+the+Gang",
-      "score": 60,
-      "score_parts": {
-        "demand": 16.5,
-        "scarcity": 19.6,
-        "markup": 18.2,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.4-2.3x face"
-      ]
-    },
-    {
       "id": "vvG1zZ_f6ILjNg",
       "name": "Steve Hackett",
       "url": "https://www.ticketmaster.com/steve-hackett-atlanta-georgia-04-10-2027/event/0E006541E87DC8F5",
@@ -6310,7 +8472,7 @@
       "artists": [
         "Steve Hackett"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "Center Stage Theater",
       "city": "Atlanta",
       "state": "GA",
@@ -6331,9 +8493,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
-      "score": 60,
+      "score": 61,
       "score_parts": {
-        "demand": 17.6,
+        "demand": 17.9,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -6362,7 +8524,7 @@
       "artists": [
         "Steve Hackett"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "Goodyear Theater",
       "city": "Akron",
       "state": "OH",
@@ -6390,9 +8552,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
-      "score": 60,
+      "score": 61,
       "score_parts": {
-        "demand": 17.6,
+        "demand": 17.9,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -6421,7 +8583,7 @@
       "artists": [
         "Steve Hackett"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "UB Center for the Arts - Mainstage Theatre",
       "city": "Buffalo",
       "state": "NY",
@@ -6442,6 +8604,140 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
+      "score": 61,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vVZ_fLY0t76",
+      "name": "UMPHREY'S McGEE - Fresh Cut 2027",
+      "url": "https://www.ticketmaster.com/umphreys-mcgee-fresh-cut-2027-port-chester-new-york-02-12-2027/event/1D006547F0929107",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Umphrey's McGee"
+      ],
+      "artist_upcoming": 16,
+      "venue": "The Capitol Theatre",
+      "city": "Port Chester",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-13T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-13T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T12:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T12:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T12:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Mastercard Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T12:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Preferred Tickets",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-01-16T01:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Umphrey%27s+McGee",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk4aGkdpAj_E",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-washington-district-of-columbia-01-19-2027/event/15006549D615C667",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson",
+        "Clayton Linthicum",
+        "Quinn Bachand"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Lincoln Theatre",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-20T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-01-20T03:00:00Z",
+      "presales": [
+        {
+          "name": "I.M.P. Email Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "This presale is for current I.M.P. email subscribers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
       "score": 60,
       "score_parts": {
         "demand": 17.6,
@@ -6462,6 +8758,117 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_fJT_ylk",
+      "name": "UMPHREY'S McGEE - Fresh Cut 2027",
+      "url": "https://www.ticketmaster.com/umphreys-mcgee-fresh-cut-2027-grand-junction-colorado-03-12-2027/event/1E006549BF679AC6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Umphrey's McGee"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Avalon Theatre",
+      "city": "Grand Junction",
+      "state": "CO",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-13T03:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-03-13T05:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T04:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Umphrey%27s+McGee",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AFZk4FGkdruFAW",
+      "name": "UMPHREY'S McGEE - Fresh Cut 2027",
+      "url": "https://www.ticketmaster.com/umphreys-mcgee-fresh-cut-2027-saginaw-michigan-01-23-2027/event/08006548DE34817D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Umphrey's McGee"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Temple Theatre",
+      "city": "Saginaw",
+      "state": "MI",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-24T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-01-24T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T12:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T12:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Umphrey%27s+McGee",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -7078,6 +9485,58 @@
       ]
     },
     {
+      "id": "G5dIZ_fSdHhWu",
+      "name": "Danielle Ponder",
+      "url": "https://www.ticketmaster.com/danielle-ponder-austin-texas-03-01-2027/event/3A00654CC3F1BF4D",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Danielle Ponder"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Antone's Nightclub",
+      "city": "Austin",
+      "state": "TX",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-02T02:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-03-02T06:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T16:01:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Danielle+Ponder",
+      "score": 66,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 22.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vv1A7Zk4AGkdAGhFc",
       "name": "ALLEYCVT - Beginning of Forever Tour",
       "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-chicago-illinois-03-05-2027/event/04006545C531B22D",
@@ -7407,6 +9866,146 @@
       ]
     },
     {
+      "id": "G5dIZ_fE0pvoA",
+      "name": "Breakaway Houston 2026 Official After Party ft. Know Good",
+      "url": "https://www.ticketmaster.com/breakaway-houston-2026-official-after-party-houston-texas-11-14-2026/event/3A006549E4581445",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Know Good"
+      ],
+      "artist_upcoming": 5,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-15T05:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2026-11-15T08:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Breakaway Presale",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Breakaway Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Know+Good",
+      "score": 64,
+      "score_parts": {
+        "demand": 10.9,
+        "scarcity": 18.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1FbZ_fObatZdCAC",
+      "name": "Pigeons Playing Ping Pong",
+      "url": "https://www.ticketmaster.com/pigeons-playing-ping-pong-minneapolis-minnesota-03-03-2027/event/0600654818269D4D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Pigeons Playing Ping Pong",
+        "Hot Like Mars"
+      ],
+      "artist_upcoming": 26,
+      "venue": "Varsity Theater",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-04T00:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-03-04T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-13T16:01:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T15:00:00Z",
+          "end": "2027-02-04T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pigeons+Playing+Ping+Pong",
+      "score": 63,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_fQ7GgXY",
       "name": "Cleopatrick",
       "url": "https://www.ticketmaster.com/cleopatrick-houston-texas-05-01-2027/event/3A00654684335FB0",
@@ -7463,6 +10062,58 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk46GkdddH9d",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-lawrence-kansas-02-03-2027/event/06006547C30FC5C3",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Liberty Hall",
+      "city": "Lawrence",
+      "state": "KS",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-04T02:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-02-04T04:00:00Z",
+      "presales": [
+        {
+          "name": "Local Presale",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 62,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -7766,6 +10417,221 @@
       ]
     },
     {
+      "id": "G5eVZ_fNuQask",
+      "name": "Little Stranger",
+      "url": "https://www.ticketmaster.com/little-stranger-charlotte-north-carolina-03-04-2027/event/2D006548CD689C46",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Little Stranger",
+        "Shwayze",
+        "Damn Skippy"
+      ],
+      "artist_upcoming": 15,
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-05T01:00:00Z",
+      "onsale_start": "2026-10-16T16:00:00Z",
+      "onsale_end": "2027-03-05T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T16:00:00Z",
+          "end": "2027-02-26T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
+      "score": 69,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 20.9,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.5-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_fsPksps",
+      "name": "MANIA: The ABBA Tribute",
+      "url": "https://www.ticketmaster.com/mania-the-abba-tribute-denver-colorado-02-04-2027/event/1E00654C651B15B1",
+      "segment": "Music",
+      "genre": "Undefined",
+      "artists": [
+        "MANIA: The ABBA Tribute"
+      ],
+      "artist_upcoming": 59,
+      "venue": "Paramount Theatre",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-05T02:30:00Z",
+      "onsale_start": "2026-10-16T16:00:00Z",
+      "onsale_end": "2027-02-05T04:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T04:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=MANIA%3A+The+ABBA+Tribute",
+      "score": 68,
+      "score_parts": {
+        "demand": 24.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "59 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1k0Z_fJ3G7MJgt",
+      "name": "Little Stranger",
+      "url": "https://www.ticketmaster.com/little-stranger-anaheim-california-02-03-2027/event/0900654992DE6D69",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Little Stranger",
+        "Shwayze",
+        "Damn Skippy"
+      ],
+      "artist_upcoming": 15,
+      "venue": "House of Blues Anaheim",
+      "city": "Anaheim",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-04T03:00:00Z",
+      "onsale_start": "2026-10-16T16:00:00Z",
+      "onsale_end": "2027-02-04T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T16:00:00Z",
+          "end": "2027-01-04T06:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T06:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T16:00:00Z",
+          "end": "2027-01-28T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
+      "score": 66,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "G5vzZ_fNjKisn",
       "name": "Ayra Starr: Starrgirl World Tour",
       "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-denver-colorado-04-05-2027/event/1E006548DC4ECC6A",
@@ -7864,6 +10730,115 @@
         "~1,800 cap (from venue type)",
         "est. 1.4-2.3x face",
         "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1AxZk4aGkdSzlMW",
+      "name": "Little Stranger",
+      "url": "https://www.ticketmaster.com/little-stranger-orlando-florida-03-06-2027/event/22006549F3E2BDFD",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Little Stranger",
+        "Damn Skippy"
+      ],
+      "artist_upcoming": 10,
+      "venue": "House of Blues Orlando",
+      "city": "Orlando",
+      "state": "FL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-07T00:00:00Z",
+      "onsale_start": "2026-10-16T16:00:00Z",
+      "onsale_end": "2027-03-07T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T16:00:00Z",
+          "end": "2027-02-28T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
+      "score": 64,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_fhgcCYs",
+      "name": "Buena Vista Orchestra",
+      "url": "https://www.ticketmaster.com/buena-vista-orchestra-boise-idaho-03-21-2027/event/1E006546F5B4EC31",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Buena Vista Orchestra"
+      ],
+      "artist_upcoming": 24,
+      "venue": "The Egyptian Theatre",
+      "city": "Boise",
+      "state": "ID",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-22T02:00:00Z",
+      "onsale_start": "2026-10-16T16:00:00Z",
+      "onsale_end": "2027-03-22T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Buena+Vista+Orchestra",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 17.7,
+        "markup": 19.3,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.4x face"
       ]
     },
     {
@@ -8133,6 +11108,58 @@
       ]
     },
     {
+      "id": "vv1AaZk4FGkdRYff7",
+      "name": "girlsweetvoiced",
+      "url": "https://www.ticketmaster.com/girlsweetvoiced-los-angeles-california-11-20-2026/event/09006548EFC14504",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "girlsweetvoiced"
+      ],
+      "artist_upcoming": 4,
+      "venue": "The Moroccan Lounge",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 500,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-21T02:30:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2026-11-21T04:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=girlsweetvoiced",
+      "score": 69,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 25.0,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (500 cap)",
+        "~500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "G5vYZ_fJCcuc8",
       "name": "Ayra Starr: Starrgirl World Tour",
       "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-san-francisco-california-04-14-2027/event/1C0065498EB4DB50",
@@ -8297,6 +11324,202 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AaZk4FGkdrpoR4",
+      "name": "Levi.Sct",
+      "url": "https://www.ticketmaster.com/levisct-los-angeles-california-10-01-2027/event/09006548DE591BD5",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Levi.Sct"
+      ],
+      "artist_upcoming": 12,
+      "venue": "The Wiltern",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1850,
+      "capacity_source": "exact",
+      "event_date": "2027-10-02T02:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-10-02T04:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-09-02T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Levi.Sct",
+      "score": 66,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 18.6,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,850 cap)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_fNGd3J5",
+      "name": "Dogs In A Pile",
+      "url": "https://www.ticketmaster.com/dogs-in-a-pile-san-francisco-california-01-17-2027/event/1C006548CC0D298B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dogs In A Pile"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Fillmore",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-01-18T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-01-18T06:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-01-04T06:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dogs+In+A+Pile",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A6Zk4kGkdtJIxQ",
+      "name": "Marty Stuart & His Fabulous Superlatives",
+      "url": "https://www.ticketmaster.com/marty-stuart-his-fabulous-superlatives-skokie-illinois-02-13-2027/event/07006546E99A889A",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Marty Stuart & His Fabulous Superlatives"
+      ],
+      "artist_upcoming": 11,
+      "venue": "George Van Dusen Theatre at North Shore Center",
+      "city": "Skokie",
+      "state": "IL",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-14T01:30:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-14T02:30:00Z",
+      "presales": [
+        {
+          "name": "NSC Pre-Sale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T16:59:00Z",
+          "url": "",
+          "how": "NSC Pre-Sale"
+        },
+        {
+          "name": "Ticketmaster Pre-Sale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T16:59:00Z",
+          "url": "",
+          "how": "Ticketmaster Pre-Sale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Marty+Stuart+%26+His+Fabulous+Superlatives",
+      "score": 65,
+      "score_parts": {
+        "demand": 15.1,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -9209,61 +12432,61 @@
       ]
     },
     {
-      "id": "vv1A6Zk4kGkdtJIxQ",
-      "name": "Marty Stuart & His Fabulous Superlatives",
-      "url": "https://www.ticketmaster.com/marty-stuart-his-fabulous-superlatives-skokie-illinois-02-13-2027/event/07006546E99A889A",
+      "id": "vvG1HZ_fxzdF06",
+      "name": "Dogs In A Pile",
+      "url": "https://www.ticketmaster.com/dogs-in-a-pile-seattle-washington-01-08-2027/event/0F006548B80C8907",
       "segment": "Music",
-      "genre": "Country",
+      "genre": "Rock",
       "artists": [
-        "Marty Stuart & His Fabulous Superlatives"
+        "Dogs In A Pile"
       ],
-      "artist_upcoming": 9,
-      "venue": "George Van Dusen Theatre at North Shore Center",
-      "city": "Skokie",
-      "state": "IL",
+      "artist_upcoming": 25,
+      "venue": "Neptune Theatre",
+      "city": "Seattle",
+      "state": "WA",
       "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-02-14T01:30:00Z",
+      "event_date": "2027-01-09T04:00:00Z",
       "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-02-14T02:30:00Z",
+      "onsale_end": "2027-01-09T04:00:00Z",
       "presales": [
         {
-          "name": "NSC Pre-Sale",
-          "start": "2026-10-15T17:00:00Z",
-          "end": "2026-10-16T16:59:00Z",
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
           "url": "",
-          "how": "NSC Pre-Sale"
+          "how": ""
         },
         {
-          "name": "Ticketmaster Pre-Sale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T16:59:00Z",
+          "name": "Local/Media Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
           "url": "",
-          "how": "Ticketmaster Pre-Sale"
+          "how": ""
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Marty+Stuart+%26+His+Fabulous+Superlatives",
-      "score": 64,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dogs+In+A+Pile",
+      "score": 63,
       "score_parts": {
-        "demand": 14.0,
+        "demand": 19.8,
         "scarcity": 17.7,
-        "markup": 22.4,
+        "markup": 15.1,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.55,
-        2.6
+        1.35,
+        2.1
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
-        "est. 1.5-2.6x face",
+        "est. 1.3-2.1x face",
         "2 presale(s)"
       ]
     },
@@ -9333,6 +12556,65 @@
       ]
     },
     {
+      "id": "1A_Zk4kGkes3bgw",
+      "name": "Dogs In A Pile",
+      "url": "https://www.ticketmaster.com/dogs-in-a-pile-tempe-arizona-01-23-2027/event/19006546B1498D72",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dogs In A Pile"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Marquee Theatre",
+      "city": "Tempe",
+      "state": "AZ",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-24T03:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-01-24T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dogs+In+A+Pile",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv170Z_KGkMLcekl",
       "name": "Cleopatrick",
       "url": "https://www.ticketmaster.com/cleopatrick-los-angeles-california-05-08-2027/event/0900653DDFB421AB",
@@ -9396,6 +12678,130 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvjZ_oGkR3ps8y",
+      "name": "Alan Cumming: Uncut",
+      "url": "https://www.ticketmaster.com/alan-cumming-uncut-las-vegas-nevada-01-24-2027/event/1700651BD25B1439",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Alan Cumming"
+      ],
+      "artist_upcoming": 4,
+      "venue": "The Palazzo Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-25T03:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-01-25T03:00:00Z",
+      "presales": [
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Aisle",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2027-01-25T02:00:00Z",
+          "url": "",
+          "how": "Aisle Seats"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
+      "score": 62,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_fJkGV6N",
+      "name": "Danielle Ponder - Everything Has Changed: The Tour",
+      "url": "https://www.ticketmaster.com/danielle-ponder-everything-has-changed-the-san-diego-california-03-04-2027/event/0A006549863341E3",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Danielle Ponder"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Voodoo Room at the House of Blues San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-05T03:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-03-05T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Danielle+Ponder",
+      "score": 62,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -9617,6 +13023,58 @@
       ]
     },
     {
+      "id": "vvG1HZ_fJmst1r",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-seattle-washington-02-09-2027/event/0F006549AEC6929E",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Neptune Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-10T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-10T04:00:00Z",
+      "presales": [
+        {
+          "name": "Local/Media Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "1A_Zk46GkdO5Grh",
       "name": "Julieta Venegas: Norte\u00f1a Us Tour 2027 @ Rialto Theatre",
       "url": "https://www.ticketmaster.com/julieta-venegas-nortena-us-tour-2027-tucson-arizona-03-16-2027/event/19006547E02CC79B",
@@ -9666,6 +13124,383 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.4x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_f0dNi8_",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-san-francisco-california-02-13-2027/event/1C006549038EC419",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson"
+      ],
+      "artist_upcoming": 17,
+      "venue": "The Castro Theatre",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-14T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-14T05:00:00Z",
+      "presales": [
+        {
+          "name": "APE Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "APE Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kvZvPoYGA2SKcp",
+      "name": "K\u00e4\u00e4rij\u00e4 - Eurodisko World Tour",
+      "url": "https://www.ticketmaster.com/kaarija-eurodisko-world-tour-chicago-illinois-03-08-2027/event/040065470FCD3B56",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "K\u00e4\u00e4rij\u00e4"
+      ],
+      "artist_upcoming": 11,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-09T01:00:00Z",
+      "onsale_start": "2026-10-19T15:00:00Z",
+      "onsale_end": "2027-03-09T01:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-19T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-19T15:00:00Z",
+          "end": "2027-02-10T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-19T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-19T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=K%C3%A4%C3%A4rij%C3%A4",
+      "score": 62,
+      "score_parts": {
+        "demand": 15.1,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AaZk4FGkd7UqH7",
+      "name": "K\u00e4\u00e4rij\u00e4 - Eurodisko World Tour",
+      "url": "https://www.ticketmaster.com/kaarija-eurodisko-world-tour-los-angeles-california-03-17-2027/event/09006548C4D9DF04",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "K\u00e4\u00e4rij\u00e4"
+      ],
+      "artist_upcoming": 11,
+      "venue": "The Regent Theater",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-18T03:00:00Z",
+      "onsale_start": "2026-10-19T17:00:00Z",
+      "onsale_end": "2027-03-18T06:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-19T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-19T05:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-19T05:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=K%C3%A4%C3%A4rij%C3%A4",
+      "score": 61,
+      "score_parts": {
+        "demand": 15.1,
+        "scarcity": 17.7,
+        "markup": 21.4,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AFZk4FGkdGB6kt",
+      "name": "Matchbox Twenty - 30",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-clarkston-michigan-07-24-2027/event/08006548CCE871A9",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Matchbox Twenty",
+        "David Gray"
+      ],
+      "artist_upcoming": 51,
+      "venue": "Pine Knob Music Theatre",
+      "city": "Clarkston",
+      "state": "MI",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-24T23:30:00Z",
+      "onsale_start": "2026-10-23T14:00:00Z",
+      "onsale_end": "2027-07-24T23:30:00Z",
+      "presales": [
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-10-20T14:00:00Z",
+          "end": "2026-10-22T02:00:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Matchbox+Twenty",
+      "score": 64,
+      "score_parts": {
+        "demand": 24.0,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "51 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vVZ_fh6kfM7",
+      "name": "Matchbox Twenty - 30",
+      "url": "https://www.ticketmaster.com/matchbox-twenty-30-wantagh-new-york-07-18-2027/event/1D006546C7194DC4",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Matchbox Twenty",
+        "David Gray"
+      ],
+      "artist_upcoming": 51,
+      "venue": "Northwell at Jones Beach Theater",
+      "city": "Wantagh",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-18T23:30:00Z",
+      "onsale_start": "2026-10-23T14:00:00Z",
+      "onsale_end": "2027-07-19T01:30:00Z",
+      "presales": [
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-10-20T14:00:00Z",
+          "end": "2026-10-22T02:00:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Matchbox+Twenty",
+      "score": 64,
+      "score_parts": {
+        "demand": 24.0,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "51 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "1kA8vP38GA2yNZs",
+      "name": "Shygirl - SWALLOW! LIVE",
+      "url": "https://www.ticketmaster.com/shygirl-swallow-live-silver-spring-maryland-04-28-2027/event/150065490FE63031",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Shygirl"
+      ],
+      "artist_upcoming": 10,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-04-29T00:00:00Z",
+      "onsale_start": "2026-10-23T14:00:00Z",
+      "onsale_end": "2027-04-29T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-21T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-23T14:00:00Z",
+          "end": "2027-04-01T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Presale",
+          "start": "2026-10-21T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Shygirl",
+      "score": 61,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 20.9,
+        "markup": 21.4,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.5-2.5x face",
+        "5 presale(s)"
       ]
     }
   ]
