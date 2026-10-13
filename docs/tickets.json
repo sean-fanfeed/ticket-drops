@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-13T17:07:26Z",
-    "generated_local": "Tue 13 Oct, 11:07 AM",
-    "scanned": 945,
-    "surfaced": 183,
-    "new": 57,
+    "generated_utc": "2026-10-13T18:29:07Z",
+    "generated_local": "Tue 13 Oct, 12:29 PM",
+    "scanned": 967,
+    "surfaced": 185,
+    "new": 2,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3335,7 +3335,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
@@ -3386,7 +3386,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3400,7 +3400,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -3415,7 +3415,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Spectrum Center",
       "city": "Charlotte",
       "state": "NC",
@@ -3466,7 +3466,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3480,7 +3480,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -3495,7 +3495,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -3546,7 +3546,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3560,7 +3560,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -3575,7 +3575,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "KeyBank Center",
       "city": "Buffalo",
       "state": "NY",
@@ -3626,7 +3626,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3640,7 +3640,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -3655,7 +3655,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Heritage Bank Center",
       "city": "Cincinnati",
       "state": "OH",
@@ -3706,7 +3706,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3720,7 +3720,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -3735,7 +3735,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "GIANT Center",
       "city": "Hershey",
       "state": "PA",
@@ -3786,7 +3786,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3800,7 +3800,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -3815,7 +3815,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Schottenstein Center",
       "city": "Columbus",
       "state": "OH",
@@ -3866,7 +3866,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3880,7 +3880,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -3895,7 +3895,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Food City Center",
       "city": "Knoxville",
       "state": "TN",
@@ -3960,7 +3960,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -3974,7 +3974,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "7 presale(s)"
@@ -3989,7 +3989,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "PPL Center",
       "city": "Allentown",
       "state": "PA",
@@ -4040,7 +4040,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4054,7 +4054,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -4069,7 +4069,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Moody Center ATX",
       "city": "Austin",
       "state": "TX",
@@ -4141,7 +4141,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4155,7 +4155,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "8 presale(s)"
@@ -4170,7 +4170,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Enterprise Center",
       "city": "Saint Louis",
       "state": "MO",
@@ -4221,7 +4221,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4235,7 +4235,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -4250,7 +4250,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Smoothie King Center",
       "city": "New Orleans",
       "state": "LA",
@@ -4301,7 +4301,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4315,7 +4315,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -4330,7 +4330,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "BOK Center",
       "city": "Tulsa",
       "state": "OK",
@@ -4381,7 +4381,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4395,7 +4395,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -4410,7 +4410,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "CHI Health Center Omaha",
       "city": "Omaha",
       "state": "NE",
@@ -4461,7 +4461,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4475,7 +4475,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -4490,7 +4490,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Target Center",
       "city": "Minneapolis",
       "state": "MN",
@@ -4541,7 +4541,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4555,7 +4555,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -4570,7 +4570,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Casey's Center",
       "city": "Des Moines",
       "state": "IA",
@@ -4600,7 +4600,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4614,7 +4614,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "2 presale(s)"
@@ -4724,7 +4724,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Delta Center",
       "city": "Salt Lake City",
       "state": "UT",
@@ -4754,7 +4754,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4768,7 +4768,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "2 presale(s)"
@@ -4825,7 +4825,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Mortgage Matchup Center",
       "city": "Phoenix",
       "state": "AZ",
@@ -4869,7 +4869,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4883,7 +4883,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "4 presale(s)"
@@ -4898,7 +4898,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "Honda Center",
       "city": "Anaheim",
       "state": "CA",
@@ -4949,7 +4949,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -4963,7 +4963,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -4978,7 +4978,7 @@
       "artists": [
         "Dancing with the Stars"
       ],
-      "artist_upcoming": 70,
+      "artist_upcoming": 71,
       "venue": "SAP Center at San Jose",
       "city": "San Jose",
       "state": "CA",
@@ -5036,7 +5036,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dancing+with+the+Stars",
       "score": 60,
       "score_parts": {
-        "demand": 25.9,
+        "demand": 26.0,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -5050,10 +5050,114 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "70 upcoming dates (heavy routing)",
+        "71 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_uxm7Bcn",
+      "name": "Billy Strings",
+      "url": "https://www.ticketmaster.com/billy-strings-chattanooga-tennessee-10-20-2026/event/1B0064D8AE13AB6A",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Billy Strings"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Tivoli Theatre",
+      "city": "Chattanooga",
+      "state": "TN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-20T23:30:00Z",
+      "onsale_start": "2026-10-13T17:40:00Z",
+      "onsale_end": "2026-10-21T00:30:00Z",
+      "presales": [
+        {
+          "name": "Locals Only Presale",
+          "start": "2026-07-07T14:00:00Z",
+          "end": "2026-07-08T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Billy+Strings",
+      "score": 71,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_uxBIHZC",
+      "name": "Billy Strings",
+      "url": "https://www.ticketmaster.com/billy-strings-chattanooga-tennessee-10-21-2026/event/1B0064D8BAA3C00E",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Billy Strings"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Tivoli Theatre",
+      "city": "Chattanooga",
+      "state": "TN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-10-21T23:30:00Z",
+      "onsale_start": "2026-10-13T17:40:00Z",
+      "onsale_end": "2026-10-22T00:30:00Z",
+      "presales": [
+        {
+          "name": "Locals Only Presale",
+          "start": "2026-07-07T14:00:00Z",
+          "end": "2026-07-08T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Billy+Strings",
+      "score": 71,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -5108,7 +5212,7 @@
         "PBR: Pendleton Whisky Velocity Tour",
         "PBR: Professional Bull Riders"
       ],
-      "artist_upcoming": 116,
+      "artist_upcoming": 115,
       "venue": "BOK Center",
       "city": "Tulsa",
       "state": "OK",
@@ -5166,7 +5270,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "116 upcoming dates (heavy routing)",
+        "115 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -5182,7 +5286,7 @@
         "PBR: Pendleton Whisky Velocity Tour",
         "PBR: Professional Bull Riders"
       ],
-      "artist_upcoming": 116,
+      "artist_upcoming": 115,
       "venue": "BOK Center",
       "city": "Tulsa",
       "state": "OK",
@@ -5240,7 +5344,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "116 upcoming dates (heavy routing)",
+        "115 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -13133,7 +13237,9 @@
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Richard Thompson"
+        "Richard Thompson",
+        "Clayton Linthicum",
+        "Quinn Bachand"
       ],
       "artist_upcoming": 17,
       "venue": "The Castro Theatre",
@@ -13396,6 +13502,34 @@
           "end": "2026-10-22T02:00:00Z",
           "url": "",
           "how": "Available to eligible Spotify Premium subscribers. Terms apply."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T21:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-21T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-23T14:00:00Z",
+          "end": "2027-06-21T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
@@ -13421,7 +13555,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "1 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
