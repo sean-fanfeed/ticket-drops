@@ -1,4 +1,4 @@
-104 ticket drops scoring 60+ in the next 14 days.
+126 ticket drops scoring 60+ in the next 14 days.
 
   72 - WWE
   Charleston Coliseum, Charleston WV
@@ -12,13 +12,7 @@
   Event Mon 2 Nov, 3:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  72 - WWE
-  Brookshire Grocery Arena, Bossier City LA
-  On sale Fri 24 Jul, 9:00 AM (passed)
-  Event Mon 12 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  74 - WWE
+  74 - WWE, WWE Monday Night RAW
   Save Mart Center, Fresno CA
   On sale Fri 24 Jul, 11:00 AM (passed)
   Event Mon 26 Oct, 5:30 PM
@@ -70,4 +64,10 @@
   Cross Insurance Arena , Portland ME
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 5 Nov, 5:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  72 - WWE, WWE Live
+  Hertz Arena, Estero FL
+  On sale Fri 21 Aug, 8:00 AM (passed)
+  Event Thu 12 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
