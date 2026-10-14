@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_utc": "2026-10-14T12:22:12Z",
-    "generated_local": "Wed 14 Oct, 6:22 AM",
-    "scanned": 779,
-    "surfaced": 151,
+    "generated_utc": "2026-10-14T14:39:13Z",
+    "generated_local": "Wed 14 Oct, 8:39 AM",
+    "scanned": 807,
+    "surfaced": 152,
     "new": 1,
     "threshold": 60,
     "days": 14,
@@ -5006,6 +5006,65 @@
         "small room (2,000 cap)",
         "est. 1.5-2.5x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvbZ_fGkwxZfLP",
+      "name": "Montell Fish: The Nest Tour",
+      "url": "https://www.ticketmaster.com/montell-fish-the-nest-tour-mckees-rocks-pennsylvania-12-12-2026/event/1600654CA20147E5",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Montell Fish"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Roxian Theatre Presented By Citizens",
+      "city": "McKees Rocks",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-13T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2026-12-13T02:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-17T01:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T13:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Montell+Fish",
+      "score": 64,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -11273,7 +11332,7 @@
         "Matchbox Twenty",
         "David Gray"
       ],
-      "artist_upcoming": 51,
+      "artist_upcoming": 52,
       "venue": "Pine Knob Music Theatre",
       "city": "Clarkston",
       "state": "MI",
@@ -11289,6 +11348,41 @@
           "end": "2026-10-22T02:00:00Z",
           "url": "",
           "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-21T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-23T14:00:00Z",
+          "end": "2027-06-27T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "313 Presents Presale",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "313 Presents Presale"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T21:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
         }
       ],
       "price_min": null,
@@ -11296,7 +11390,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Matchbox+Twenty",
       "score": 64,
       "score_parts": {
-        "demand": 24.0,
+        "demand": 24.1,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 4.0
@@ -11310,11 +11404,11 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "51 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "1 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -11327,7 +11421,7 @@
         "Matchbox Twenty",
         "David Gray"
       ],
-      "artist_upcoming": 51,
+      "artist_upcoming": 52,
       "venue": "Northwell at Jones Beach Theater",
       "city": "Wantagh",
       "state": "NY",
@@ -11378,7 +11472,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Matchbox+Twenty",
       "score": 64,
       "score_parts": {
-        "demand": 24.0,
+        "demand": 24.1,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 4.0
@@ -11392,7 +11486,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "51 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
