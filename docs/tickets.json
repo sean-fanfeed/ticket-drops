@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-15T12:06:48Z",
-    "generated_local": "Thu 15 Oct, 6:06 AM",
-    "scanned": 820,
+    "generated_utc": "2026-10-15T14:23:28Z",
+    "generated_local": "Thu 15 Oct, 8:23 AM",
+    "scanned": 865,
     "surfaced": 164,
-    "new": 3,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -193,7 +193,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Monday Night RAW"
       ],
       "artist_upcoming": 42,
       "venue": "Save Mart Center",
@@ -12026,12 +12027,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Matchbox+Twenty",
-      "score": 64,
+      "score": 67,
       "score_parts": {
         "demand": 24.1,
         "scarcity": 17.7,
         "markup": 18.2,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -12108,12 +12109,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Matchbox+Twenty",
-      "score": 64,
+      "score": 67,
       "score_parts": {
         "demand": 24.1,
         "scarcity": 17.7,
         "markup": 18.2,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -12189,12 +12190,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Shygirl",
-      "score": 61,
+      "score": 64,
       "score_parts": {
         "demand": 14.6,
         "scarcity": 20.9,
         "markup": 21.4,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
