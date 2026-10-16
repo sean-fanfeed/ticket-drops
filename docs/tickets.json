@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-16T16:55:39Z",
-    "generated_local": "Fri 16 Oct, 10:55 AM",
-    "scanned": 1097,
-    "surfaced": 430,
-    "new": 245,
+    "generated_utc": "2026-10-16T17:30:44Z",
+    "generated_local": "Fri 16 Oct, 11:30 AM",
+    "scanned": 1098,
+    "surfaced": 433,
+    "new": 4,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3063,7 +3063,7 @@
         "Remi Wolf",
         "Emma Ogier"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -3114,7 +3114,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
       "score": 74,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -3345,7 +3345,7 @@
         "Remi Wolf",
         "Emma Ogier"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -3360,7 +3360,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
       "score": 70,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 6.0
@@ -3594,7 +3594,7 @@
         "Leon Bridges",
         "KOKOROKO"
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 33,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -3631,7 +3631,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
       "score": 68,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.4,
         "scarcity": 18.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3901,6 +3901,160 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk46Gkda5hTv",
+      "name": "ALLEYCVT\u00a0- Beginning of Forever Tour",
+      "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-philadelphia-pennsylvania-02-18-2027/event/02006547C92DBFC1",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "ALLEYCVT",
+        "Kompany",
+        "Machaki"
+      ],
+      "artist_upcoming": 24,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-19T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-19T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T16:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-02-16T03:00:00Z",
+          "url": "",
+          "how": "T-Mobile\u00ae Concert Perks + Fast Lane"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-02-12T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
+      "score": 67,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AdZk4FGkeU5w93",
+      "name": "Alan Cumming: Uncut",
+      "url": "https://www.ticketmaster.com/alan-cumming-uncut-new-york-new-york-02-10-2027/event/03006548B62F25D2",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Alan Cumming"
+      ],
+      "artist_upcoming": 7,
+      "venue": "Town Hall",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-11T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-10T23:00:00Z",
+      "presales": [
+        {
+          "name": "VENUE PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AMEX PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "BOWERY PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u00ae",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
+      "score": 67,
+      "score_parts": {
+        "demand": 12.6,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face",
         "4 presale(s)"
       ]
     },
@@ -4274,157 +4428,54 @@
       ]
     },
     {
-      "id": "vv1AeZk46Gkda5hTv",
-      "name": "ALLEYCVT\u00a0- Beginning of Forever Tour",
-      "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-philadelphia-pennsylvania-02-18-2027/event/02006547C92DBFC1",
+      "id": "1kA8vPotGA5x7TT",
+      "name": "John Splithoff 2027 Tour",
+      "url": "https://www.ticketmaster.com/john-splithoff-2027-tour-washington-district-of-columbia-04-10-2027/event/150065469B884FFF",
       "segment": "Music",
-      "genre": "Dance/Electronic",
+      "genre": "Rock",
       "artists": [
-        "ALLEYCVT",
-        "Kompany",
-        "Machaki"
+        "John Splithoff"
       ],
-      "artist_upcoming": 23,
-      "venue": "The Fillmore Philadelphia",
-      "city": "Philadelphia",
-      "state": "PA",
-      "capacity": 1150,
+      "artist_upcoming": 28,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
       "capacity_source": "exact",
-      "event_date": "2027-02-19T01:00:00Z",
+      "event_date": "2027-04-11T02:00:00Z",
       "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-02-19T03:00:00Z",
+      "onsale_end": "2027-04-11T04:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T03:59:00Z",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
           "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T16:00:00Z",
-          "end": "2026-10-16T03:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2027-02-16T03:00:00Z",
-          "url": "",
-          "how": "T-Mobile\u00ae Concert Perks + Fast Lane"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T03:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2027-02-12T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
+          "how": "Artist Presale"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
+      "seatgeek_url": "https://seatgeek.com/search?search=John+Splithoff",
       "score": 66,
       "score_parts": {
-        "demand": 19.3,
-        "scarcity": 20.9,
-        "markup": 16.1,
+        "demand": 20.5,
+        "scarcity": 20.7,
+        "markup": 15.1,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
         1.35,
-        2.2
+        2.1
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AdZk4FGkeU5w93",
-      "name": "Alan Cumming: Uncut",
-      "url": "https://www.ticketmaster.com/alan-cumming-uncut-new-york-new-york-02-10-2027/event/03006548B62F25D2",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Alan Cumming"
-      ],
-      "artist_upcoming": 6,
-      "venue": "Town Hall",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-11T01:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-02-10T23:00:00Z",
-      "presales": [
-        {
-          "name": "VENUE PRESALE",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "AMEX PRESALE",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "BOWERY PRESALE",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Amex Presale Tickets\u00ae",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
-          "how": "Exclusive Presale for American Express Cardholders"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
-      "score": 66,
-      "score_parts": {
-        "demand": 11.8,
-        "scarcity": 19.6,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "4 presale(s)"
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -4553,54 +4604,62 @@
       ]
     },
     {
-      "id": "1kA8vPotGA5x7TT",
-      "name": "John Splithoff 2027 Tour",
-      "url": "https://www.ticketmaster.com/john-splithoff-2027-tour-washington-district-of-columbia-04-10-2027/event/150065469B884FFF",
+      "id": "vv1AvZk46GkdYqicQ",
+      "name": "Alan Cumming: Uncut",
+      "url": "https://www.ticketmaster.com/alan-cumming-uncut-medford-massachusetts-02-06-2027/event/01006547F076CB5A",
       "segment": "Music",
-      "genre": "Rock",
+      "genre": "Pop",
       "artists": [
-        "John Splithoff"
+        "Alan Cumming"
       ],
-      "artist_upcoming": 23,
-      "venue": "9:30 CLUB",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 1200,
-      "capacity_source": "exact",
-      "event_date": "2027-04-11T02:00:00Z",
+      "artist_upcoming": 7,
+      "venue": "Chevalier Theatre",
+      "city": "Medford",
+      "state": "MA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-07T00:00:00Z",
       "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-04-11T04:00:00Z",
+      "onsale_end": "2027-02-07T01:00:00Z",
       "presales": [
         {
-          "name": "Artist Presale",
+          "name": "Regulars Presale",
           "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": ""
+        },
+        {
+          "name": "Chevalier Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T03:59:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=John+Splithoff",
+      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
       "score": 65,
       "score_parts": {
-        "demand": 19.3,
-        "scarcity": 20.7,
-        "markup": 15.1,
+        "demand": 12.6,
+        "scarcity": 17.7,
+        "markup": 24.5,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.65,
+        2.7
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,200 cap)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -4674,6 +4733,78 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk46GketSpLA",
+      "name": "Remi Wolf: The Mud Tour",
+      "url": "https://www.ticketmaster.com/remi-wolf-the-mud-tour-washington-district-of-columbia-02-23-2027/event/15006547A9CD67C5",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Remi Wolf",
+        "Emma Ogier"
+      ],
+      "artist_upcoming": 30,
+      "venue": "The Anthem",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 6000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-24T00:30:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-24T01:30:00Z",
+      "presales": [
+        {
+          "name": "I.M.P. Email Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Verizon Shine Presale Tickets",
+          "start": "2026-10-12T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Verizon Shine Members"
+        },
+        {
+          "name": "Verizon Shine Select Seats",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-01-27T03:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 12.8,
+        "markup": 19.8,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.5,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "est. 1.5-2.4x face",
         "4 presale(s)"
       ]
     },
@@ -4872,6 +5003,72 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AYvPoYGAGqwgA",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-new-york-new-york-01-23-2027/event/030065470C772D45",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Town Hall",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-24T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-01-23T23:00:00Z",
+      "presales": [
+        {
+          "name": "Bowery Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u00ae",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 64,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
         "3 presale(s)"
       ]
     },
@@ -5172,65 +5369,6 @@
       ]
     },
     {
-      "id": "vv1AvZk46GkdYqicQ",
-      "name": "Alan Cumming: Uncut",
-      "url": "https://www.ticketmaster.com/alan-cumming-uncut-medford-massachusetts-02-06-2027/event/01006547F076CB5A",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Alan Cumming"
-      ],
-      "artist_upcoming": 6,
-      "venue": "Chevalier Theatre",
-      "city": "Medford",
-      "state": "MA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-07T00:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-02-07T01:00:00Z",
-      "presales": [
-        {
-          "name": "Regulars Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Chevalier Presale",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T03:59:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
-      "score": 64,
-      "score_parts": {
-        "demand": 11.8,
-        "scarcity": 17.7,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "G5dYZ_fqHrYMh",
       "name": "Remi Wolf: The Mud Tour",
       "url": "https://www.ticketmaster.com/remi-wolf-the-mud-tour-new-york-new-york-02-27-2027/event/3C0065477C7B0DDB",
@@ -5240,7 +5378,7 @@
         "Remi Wolf",
         "Emma Ogier"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "Radio City Music Hall",
       "city": "New York",
       "state": "NY",
@@ -5312,7 +5450,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
       "score": 63,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 12.7,
         "markup": 19.8,
         "timing": 10.0
@@ -5328,144 +5466,6 @@
       "reasons": [
         "est. 1.5-2.4x face",
         "8 presale(s)"
-      ]
-    },
-    {
-      "id": "1A4Zk46GketSpLA",
-      "name": "Remi Wolf: The Mud Tour",
-      "url": "https://www.ticketmaster.com/remi-wolf-the-mud-tour-washington-district-of-columbia-02-23-2027/event/15006547A9CD67C5",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Remi Wolf",
-        "Emma Ogier"
-      ],
-      "artist_upcoming": 29,
-      "venue": "The Anthem",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 6000,
-      "capacity_source": "exact",
-      "event_date": "2027-02-24T00:30:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-02-24T01:30:00Z",
-      "presales": [
-        {
-          "name": "I.M.P. Email Presale",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Verizon Shine Presale Tickets",
-          "start": "2026-10-12T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Verizon Shine Members"
-        },
-        {
-          "name": "Verizon Shine Select Seats",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2027-01-27T03:00:00Z",
-          "url": "",
-          "how": "For Verizon Shine Members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-13T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
-      "score": 63,
-      "score_parts": {
-        "demand": 20.7,
-        "scarcity": 12.8,
-        "markup": 19.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.4
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "est. 1.5-2.4x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AYvPoYGAGqwgA",
-      "name": "Richard Thompson & Band",
-      "url": "https://www.ticketmaster.com/richard-thompson-band-new-york-new-york-01-23-2027/event/030065470C772D45",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Richard Thompson"
-      ],
-      "artist_upcoming": 20,
-      "venue": "Town Hall",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-24T01:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-01-23T23:00:00Z",
-      "presales": [
-        {
-          "name": "Bowery Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Amex Presale Tickets\u00ae",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
-          "how": "Exclusive Presale for American Express Cardholders"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
-      "score": 63,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 19.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -5697,7 +5697,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
@@ -5776,7 +5776,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -5790,7 +5790,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
@@ -5806,7 +5806,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -5885,7 +5885,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -5899,7 +5899,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
@@ -5915,7 +5915,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "KeyBank Center",
       "city": "Buffalo",
       "state": "NY",
@@ -5994,7 +5994,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -6008,7 +6008,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
@@ -6024,7 +6024,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Schottenstein Center",
       "city": "Columbus",
       "state": "OH",
@@ -6103,7 +6103,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -6117,7 +6117,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
@@ -6133,7 +6133,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "PPL Center",
       "city": "Allentown",
       "state": "PA",
@@ -6212,7 +6212,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -6226,7 +6226,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
@@ -6242,7 +6242,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Food City Center",
       "city": "Knoxville",
       "state": "TN",
@@ -6335,7 +6335,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -6349,10 +6349,64 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "11 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk4aGkdpAj_E",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-washington-district-of-columbia-01-19-2027/event/15006549D615C667",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson",
+        "Clayton Linthicum",
+        "Quinn Bachand"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Lincoln Theatre",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-20T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-01-20T03:00:00Z",
+      "presales": [
+        {
+          "name": "I.M.P. Email Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "This presale is for current I.M.P. email subscribers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -6475,7 +6529,7 @@
         "Remi Wolf",
         "Emma Ogier"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "The Andrew J Brady Music Center",
       "city": "Cincinnati",
       "state": "OH",
@@ -6512,7 +6566,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
       "score": 61,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 10.2,
         "markup": 19.8,
         "timing": 10.0
@@ -6763,60 +6817,6 @@
       "score": 61,
       "score_parts": {
         "demand": 17.9,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "1A4Zk4aGkdpAj_E",
-      "name": "Richard Thompson & Band",
-      "url": "https://www.ticketmaster.com/richard-thompson-band-washington-district-of-columbia-01-19-2027/event/15006549D615C667",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Richard Thompson",
-        "Clayton Linthicum",
-        "Quinn Bachand"
-      ],
-      "artist_upcoming": 20,
-      "venue": "Lincoln Theatre",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-20T01:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-01-20T03:00:00Z",
-      "presales": [
-        {
-          "name": "I.M.P. Email Presale",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "This presale is for current I.M.P. email subscribers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
-      "score": 61,
-      "score_parts": {
-        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -7221,7 +7221,7 @@
         "Remi Wolf",
         "Annabelle Dinda"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -7251,7 +7251,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
       "score": 74,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -7542,7 +7542,7 @@
         "Leon Bridges",
         "Peter Cat Recording Co."
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 33,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -7572,7 +7572,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
       "score": 68,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.4,
         "scarcity": 18.7,
         "markup": 18.2,
         "timing": 10.0
@@ -7602,7 +7602,7 @@
         "Leon Bridges",
         "KOKOROKO"
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 33,
       "venue": "Vibrant Music Hall",
       "city": "Waukee",
       "state": "IA",
@@ -7653,7 +7653,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
       "score": 68,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.4,
         "scarcity": 18.7,
         "markup": 18.2,
         "timing": 10.0
@@ -7835,7 +7835,7 @@
         "Kompany",
         "Lucky"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Aragon Ballroom",
       "city": "Chicago",
       "state": "IL",
@@ -7879,7 +7879,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
       "score": 66,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.7,
         "markup": 16.1,
         "timing": 10.0
@@ -7910,7 +7910,7 @@
         "Kompany",
         "Lucky"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "South Side Ballroom",
       "city": "Dallas",
       "state": "TX",
@@ -7940,7 +7940,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
       "score": 66,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.7,
         "markup": 16.1,
         "timing": 10.0
@@ -8405,6 +8405,58 @@
       ]
     },
     {
+      "id": "vv1AkZk46GkdddH9d",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-lawrence-kansas-02-03-2027/event/06006547C30FC5C3",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Liberty Hall",
+      "city": "Lawrence",
+      "state": "KS",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-04T02:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-02-04T04:00:00Z",
+      "presales": [
+        {
+          "name": "Local Presale",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 64,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_fMfOVUW",
       "name": "Bella White",
       "url": "https://www.ticketmaster.com/bella-white-houston-texas-12-06-2026/event/3A00654DD4834DBD",
@@ -8560,39 +8612,67 @@
       ]
     },
     {
-      "id": "vv1AkZk46GkdddH9d",
-      "name": "Richard Thompson & Band",
-      "url": "https://www.ticketmaster.com/richard-thompson-band-lawrence-kansas-02-03-2027/event/06006547C30FC5C3",
+      "id": "vv1A6Zk46GkdrLMWn",
+      "name": "John Splithoff 2027 Tour",
+      "url": "https://www.ticketmaster.com/john-splithoff-2027-tour-madison-wisconsin-04-23-2027/event/07006547DE7F7F6A",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Richard Thompson"
+        "John Splithoff"
       ],
-      "artist_upcoming": 20,
-      "venue": "Liberty Hall",
-      "city": "Lawrence",
-      "state": "KS",
-      "capacity": 1500,
+      "artist_upcoming": 28,
+      "venue": "Majestic Theatre",
+      "city": "Madison",
+      "state": "WI",
+      "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-02-04T02:00:00Z",
+      "event_date": "2027-04-24T01:00:00Z",
       "onsale_start": "2026-10-16T15:00:00Z",
-      "onsale_end": "2027-02-04T04:00:00Z",
+      "onsale_end": "2027-04-24T02:00:00Z",
       "presales": [
         {
-          "name": "Local Presale",
+          "name": "Artist Presale",
           "start": "2026-10-14T15:00:00Z",
           "end": "2026-10-16T03:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T15:00:00Z",
+          "end": "2027-04-17T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "seatgeek_url": "https://seatgeek.com/search?search=John+Splithoff",
       "score": 63,
       "score_parts": {
-        "demand": 18.5,
-        "scarcity": 19.6,
+        "demand": 20.5,
+        "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -8605,10 +8685,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "1 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -8621,7 +8701,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Enterprise Center",
       "city": "Saint Louis",
       "state": "MO",
@@ -8700,7 +8780,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -8714,7 +8794,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
@@ -8777,86 +8857,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.4x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A6Zk46GkdrLMWn",
-      "name": "John Splithoff 2027 Tour",
-      "url": "https://www.ticketmaster.com/john-splithoff-2027-tour-madison-wisconsin-04-23-2027/event/07006547DE7F7F6A",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "John Splithoff"
-      ],
-      "artist_upcoming": 23,
-      "venue": "Majestic Theatre",
-      "city": "Madison",
-      "state": "WI",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-24T01:00:00Z",
-      "onsale_start": "2026-10-16T15:00:00Z",
-      "onsale_end": "2027-04-24T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-14T15:00:00Z",
-          "end": "2026-10-16T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2026-10-16T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2026-10-16T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-14T15:00:00Z",
-          "end": "2026-10-16T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-16T15:00:00Z",
-          "end": "2027-04-17T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=John+Splithoff",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.3,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
       ]
     },
     {
@@ -8992,7 +8992,7 @@
         "Remi Wolf",
         "Annabelle Dinda"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "The Pavilion at Toyota Music Factory",
       "city": "Irving",
       "state": "TX",
@@ -9036,7 +9036,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
       "score": 60,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 9.3,
         "markup": 19.8,
         "timing": 10.0
@@ -9108,6 +9108,135 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AA7ar_",
+      "name": "Remi Wolf w/ Annabelle Dinda",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7ar_",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Remi Wolf",
+        "Annabelle Dinda"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Cain's Ballroom",
+      "city": "Tulsa",
+      "state": "OK",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-11T01:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-05-11T01:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 20.7,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7AJ7",
+      "name": "Remi Wolf w/ Annabelle Dinda",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7AJ7",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Remi Wolf",
+        "Annabelle Dinda"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Val Air Ballroom",
+      "city": "West Des Moines",
+      "state": "IA",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-13T01:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-05-13T01:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 20.7,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA73vg",
+      "name": "Richard Thompson",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA73vg",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Revolution Hall - Portland",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-11T04:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-02-11T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 60,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face"
+      ]
+    },
+    {
       "id": "G5eVZ_fNuQask",
       "name": "Little Stranger",
       "url": "https://www.ticketmaster.com/little-stranger-charlotte-north-carolina-03-04-2027/event/2D006548CD689C46",
@@ -9118,7 +9247,7 @@
         "Shwayze",
         "Damn Skippy"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -9169,7 +9298,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
       "score": 73,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 20.9,
         "markup": 21.4,
         "timing": 10.0
@@ -9199,7 +9328,7 @@
         "Shwayze",
         "Damn Skippy"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "House of Blues Anaheim",
       "city": "Anaheim",
       "state": "CA",
@@ -9257,7 +9386,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
       "score": 70,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 18.2,
         "markup": 21.4,
         "timing": 10.0
@@ -9286,7 +9415,7 @@
         "Little Stranger",
         "Damn Skippy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 25,
       "venue": "House of Blues Orlando",
       "city": "Orlando",
       "state": "FL",
@@ -9323,7 +9452,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
       "score": 69,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.8,
         "scarcity": 18.2,
         "markup": 21.4,
         "timing": 10.0
@@ -9552,7 +9681,7 @@
         "Shwayze",
         "Damn Skippy"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "Pickle Barrel",
       "city": "Killington",
       "state": "VT",
@@ -9567,7 +9696,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
       "score": 64,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 25.0,
         "markup": 12.0,
         "timing": 6.0
@@ -9756,7 +9885,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Delta Center",
       "city": "Salt Lake City",
       "state": "UT",
@@ -9793,7 +9922,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -9807,7 +9936,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "3 presale(s)"
@@ -9959,6 +10088,50 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AA7a-p",
+      "name": "Little Stranger w/ Shwayze",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7a-p",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Little Stranger",
+        "Shwayze",
+        "Damn Skippy"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Turner Hall Ballroom",
+      "city": "Milwaukee",
+      "state": "WI",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-19T02:00:00Z",
+      "onsale_start": "2026-10-16T16:00:00Z",
+      "onsale_end": "2027-02-19T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Little+Stranger",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 20.7,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)"
+      ]
+    },
+    {
       "id": "vv1AaZk4kGkey7Cee",
       "name": "Bess Atwell",
       "url": "https://www.ticketmaster.com/bess-atwell-los-angeles-california-03-18-2027/event/09006546B910E082",
@@ -10020,7 +10193,7 @@
         "Remi Wolf",
         "Annabelle Dinda"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "WAMU Theater",
       "city": "Seattle",
       "state": "WA",
@@ -10078,7 +10251,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Remi+Wolf",
       "score": 73,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -15484,7 +15657,7 @@
         "Leon Bridges",
         "Peter Cat Recording Co."
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 33,
       "venue": "Arizona Financial Theatre",
       "city": "Phoenix",
       "state": "AZ",
@@ -15528,7 +15701,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Leon+Bridges",
       "score": 67,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.4,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -21122,6 +21295,72 @@
       ]
     },
     {
+      "id": "1AvjZ_oGkR3ps8y",
+      "name": "Alan Cumming: Uncut",
+      "url": "https://www.ticketmaster.com/alan-cumming-uncut-las-vegas-nevada-01-24-2027/event/1700651BD25B1439",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Alan Cumming"
+      ],
+      "artist_upcoming": 7,
+      "venue": "The Palazzo Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-25T03:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-01-25T03:00:00Z",
+      "presales": [
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Aisle",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2027-01-25T02:00:00Z",
+          "url": "",
+          "how": "Aisle Seats"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
+      "score": 65,
+      "score_parts": {
+        "demand": 12.6,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "G5vYZ_fQ5Sl9U",
       "name": "The Temptations",
       "url": "https://www.ticketmaster.com/the-temptations-napa-california-02-07-2027/event/1C0065468BCEB5F6",
@@ -21182,7 +21421,7 @@
       "artists": [
         "Richard Thompson"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 21,
       "venue": "Belly Up Tavern",
       "city": "Solana Beach",
       "state": "CA",
@@ -21197,7 +21436,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
       "score": 65,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 18.8,
         "scarcity": 25.0,
         "markup": 15.1,
         "timing": 6.0
@@ -22126,48 +22365,6 @@
       ]
     },
     {
-      "id": "G5vYZ_fJCcuc8",
-      "name": "Ayra Starr: Starrgirl World Tour",
-      "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-san-francisco-california-04-14-2027/event/1C0065498EB4DB50",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Ayra Starr"
-      ],
-      "artist_upcoming": 21,
-      "venue": "The Fillmore",
-      "city": "San Francisco",
-      "state": "CA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-04-15T03:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-04-15T05:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ayra+Starr",
-      "score": 64,
-      "score_parts": {
-        "demand": 18.8,
-        "scarcity": 20.9,
-        "markup": 18.2,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.4-2.3x face"
-      ]
-    },
-    {
       "id": "G5dIZ_fMjHUrn",
       "name": " Pi'erre Bourne: Made In Paris",
       "url": "https://www.ticketmaster.com/pierre-bourne-made-in-paris-houston-texas-12-06-2026/event/3A00654DDCF367AA",
@@ -22217,72 +22414,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.5-2.5x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "1AvjZ_oGkR3ps8y",
-      "name": "Alan Cumming: Uncut",
-      "url": "https://www.ticketmaster.com/alan-cumming-uncut-las-vegas-nevada-01-24-2027/event/1700651BD25B1439",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Alan Cumming"
-      ],
-      "artist_upcoming": 6,
-      "venue": "The Palazzo Theatre at The Venetian Resort",
-      "city": "Las Vegas",
-      "state": "NV",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-25T03:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-01-25T03:00:00Z",
-      "presales": [
-        {
-          "name": "Venetian Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Aisle",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2027-01-25T02:00:00Z",
-          "url": "",
-          "how": "Aisle Seats"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Alan+Cumming",
-      "score": 64,
-      "score_parts": {
-        "demand": 11.8,
-        "scarcity": 17.7,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -22546,6 +22677,86 @@
       ]
     },
     {
+      "id": "vvG1HZ_fEvPDZR",
+      "name": "John Splithoff 2027 Tour",
+      "url": "https://www.ticketmaster.com/john-splithoff-2027-tour-seattle-washington-05-26-2027/event/0F006549C197B02F",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "John Splithoff"
+      ],
+      "artist_upcoming": 28,
+      "venue": "Neptune Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-27T03:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-05-27T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Media Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-05-20T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=John+Splithoff",
+      "score": 63,
+      "score_parts": {
+        "demand": 20.5,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1HZ_fxzdF06",
       "name": "Dogs In A Pile",
       "url": "https://www.ticketmaster.com/dogs-in-a-pile-seattle-washington-01-08-2027/event/0F006548B80C8907",
@@ -22745,7 +22956,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Mortgage Matchup Center",
       "city": "Phoenix",
       "state": "AZ",
@@ -22824,7 +23035,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -22838,7 +23049,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
@@ -22854,7 +23065,7 @@
         "Nickelback",
         "Don Broco"
       ],
-      "artist_upcoming": 96,
+      "artist_upcoming": 97,
       "venue": "Honda Center",
       "city": "Anaheim",
       "state": "CA",
@@ -22933,7 +23144,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
       "score": 62,
       "score_parts": {
-        "demand": 27.8,
+        "demand": 27.9,
         "scarcity": 10.2,
         "markup": 13.5,
         "timing": 10.0
@@ -22947,73 +23158,45 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "96 upcoming dates (heavy routing)",
+        "97 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "9 presale(s)"
       ]
     },
     {
-      "id": "vvG1HZ_fEvPDZR",
-      "name": "John Splithoff 2027 Tour",
-      "url": "https://www.ticketmaster.com/john-splithoff-2027-tour-seattle-washington-05-26-2027/event/0F006549C197B02F",
+      "id": "vvG1HZ_fJmst1r",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-seattle-washington-02-09-2027/event/0F006549AEC6929E",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "John Splithoff"
+        "Richard Thompson"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 21,
       "venue": "Neptune Theatre",
       "city": "Seattle",
       "state": "WA",
       "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-05-27T03:00:00Z",
+      "event_date": "2027-02-10T04:00:00Z",
       "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-05-27T03:00:00Z",
+      "onsale_end": "2027-02-10T04:00:00Z",
       "presales": [
         {
-          "name": "Artist Presale",
+          "name": "Local/Media Presale",
           "start": "2026-10-14T17:00:00Z",
           "end": "2026-10-16T05:00:00Z",
           "url": "",
           "how": ""
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-10-15T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Media Presale",
-          "start": "2026-10-15T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-16T17:00:00Z",
-          "end": "2027-05-20T05:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=John+Splithoff",
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
       "score": 62,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 18.8,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -23030,7 +23213,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "5 presale(s)"
+        "1 presale(s)"
       ]
     },
     {
@@ -23082,6 +23265,60 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.4x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_f0dNi8_",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-san-francisco-california-02-13-2027/event/1C006549038EC419",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson",
+        "Clayton Linthicum",
+        "Quinn Bachand"
+      ],
+      "artist_upcoming": 21,
+      "venue": "The Castro Theatre",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-14T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-14T05:00:00Z",
+      "presales": [
+        {
+          "name": "APE Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "APE Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
         "1 presale(s)"
       ]
     },
@@ -23200,112 +23437,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1HZ_fJmst1r",
-      "name": "Richard Thompson & Band",
-      "url": "https://www.ticketmaster.com/richard-thompson-band-seattle-washington-02-09-2027/event/0F006549AEC6929E",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Richard Thompson"
-      ],
-      "artist_upcoming": 20,
-      "venue": "Neptune Theatre",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-10T04:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-02-10T04:00:00Z",
-      "presales": [
-        {
-          "name": "Local/Media Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
-      "score": 61,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vYZ_f0dNi8_",
-      "name": "Richard Thompson & Band",
-      "url": "https://www.ticketmaster.com/richard-thompson-band-san-francisco-california-02-13-2027/event/1C006549038EC419",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Richard Thompson",
-        "Clayton Linthicum",
-        "Quinn Bachand"
-      ],
-      "artist_upcoming": 20,
-      "venue": "The Castro Theatre",
-      "city": "San Francisco",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-14T04:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-02-14T05:00:00Z",
-      "presales": [
-        {
-          "name": "APE Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "APE Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
-      "score": 61,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
       ]
     },
     {
