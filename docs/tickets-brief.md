@@ -1,4 +1,4 @@
-182 ticket drops scoring 60+ in the next 14 days.
+190 ticket drops scoring 60+ in the next 14 days.
 
   72 - WWE
   Charleston Coliseum, Charleston WV
