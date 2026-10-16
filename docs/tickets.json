@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-15T17:48:22Z",
-    "generated_local": "Thu 15 Oct, 11:48 AM",
-    "scanned": 948,
-    "surfaced": 171,
-    "new": 0,
+    "generated_utc": "2026-10-16T11:54:18Z",
+    "generated_local": "Fri 16 Oct, 5:54 AM",
+    "scanned": 795,
+    "surfaced": 172,
+    "new": 5,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -19,7 +19,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Charleston Coliseum",
       "city": "Charleston",
       "state": "WV",
@@ -84,7 +84,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 8.2,
         "markup": 19.3,
         "timing": 10.0
@@ -99,7 +99,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "7 presale(s)"
@@ -115,7 +115,7 @@
         "WWE",
         "WWE Monday Night RAW"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
@@ -166,7 +166,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.1,
         "markup": 19.3,
         "timing": 10.0
@@ -181,7 +181,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
         "5 presale(s)"
       ]
@@ -196,7 +196,7 @@
         "WWE",
         "WWE Monday Night RAW"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Save Mart Center",
       "city": "Fresno",
       "state": "CA",
@@ -233,7 +233,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -248,7 +248,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -263,7 +263,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Golden 1 Center",
       "city": "Sacramento",
       "state": "CA",
@@ -340,9 +340,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 72,
+      "score": 71,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.5,
         "markup": 19.3,
         "timing": 10.0
@@ -357,7 +357,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
         "9 presale(s)"
       ]
@@ -371,7 +371,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Pechanga Arena San Diego",
       "city": "San Diego",
       "state": "CA",
@@ -386,7 +386,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 6.0
@@ -401,7 +401,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face"
       ]
@@ -416,7 +416,7 @@
         "WWE",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Toyota Arena",
       "city": "Ontario",
       "state": "CA",
@@ -453,7 +453,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -468,7 +468,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -484,7 +484,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Daikin Park",
       "city": "Houston",
       "state": "TX",
@@ -535,7 +535,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 64,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 0.0,
         "markup": 19.3,
         "timing": 10.0
@@ -550,7 +550,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
         "5 presale(s)"
       ]
@@ -565,7 +565,7 @@
         "WWE",
         "WWE Live"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Neal S Blaisdell Arena",
       "city": "Honolulu",
       "state": "HI",
@@ -658,7 +658,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -673,7 +673,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "11 presale(s)"
@@ -688,7 +688,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Covelli Centre",
       "city": "Youngstown",
       "state": "OH",
@@ -795,7 +795,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -810,7 +810,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "13 presale(s)"
@@ -826,7 +826,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Cross Insurance Center",
       "city": "Bangor",
       "state": "ME",
@@ -898,7 +898,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -913,7 +913,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "8 presale(s)"
@@ -929,7 +929,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Cross Insurance Arena ",
       "city": "Portland",
       "state": "ME",
@@ -973,7 +973,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -988,7 +988,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "4 presale(s)"
@@ -1004,7 +1004,7 @@
         "WWE",
         "WWE Live"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Hertz Arena",
       "city": "Estero",
       "state": "FL",
@@ -1034,7 +1034,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -1049,7 +1049,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "2 presale(s)"
@@ -1065,7 +1065,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Von Braun Center Propst Arena",
       "city": "Huntsville",
       "state": "AL",
@@ -1102,7 +1102,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -1117,7 +1117,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -1132,7 +1132,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Acrisure Arena at Greater Palm Springs",
       "city": "Palm Desert",
       "state": "CA",
@@ -1169,7 +1169,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -1184,7 +1184,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -1200,7 +1200,7 @@
         "WWE",
         "WWE Live"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Neal S Blaisdell Arena",
       "city": "Honolulu",
       "state": "HI",
@@ -1293,7 +1293,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -1308,7 +1308,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "11 presale(s)"
@@ -1323,7 +1323,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -1353,7 +1353,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -1368,7 +1368,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "2 presale(s)"
@@ -1383,7 +1383,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Huntington Center",
       "city": "Toledo",
       "state": "OH",
@@ -1420,7 +1420,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -1435,7 +1435,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -1448,10 +1448,9 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Bon Secours Wellness Arena ",
       "city": "Greenville",
       "state": "SC",
@@ -1488,7 +1487,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -1503,7 +1502,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -1519,7 +1518,7 @@
         "WWE",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Van Andel Arena",
       "city": "Grand Rapids",
       "state": "MI",
@@ -1556,7 +1555,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -1571,7 +1570,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -1586,7 +1585,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Amerant Bank Arena",
       "city": "Sunrise",
       "state": "FL",
@@ -1601,7 +1600,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 6.0
@@ -1616,7 +1615,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face"
       ]
@@ -1630,7 +1629,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Ford Center",
       "city": "Evansville",
       "state": "IN",
@@ -1688,7 +1687,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -1703,7 +1702,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "6 presale(s)"
@@ -1718,7 +1717,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "INTRUST Bank Arena",
       "city": "Wichita",
       "state": "KS",
@@ -1769,7 +1768,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -1784,7 +1783,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "5 presale(s)"
@@ -1799,7 +1798,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Simmons Bank Arena",
       "city": "North Little Rock",
       "state": "AR",
@@ -1836,7 +1835,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -1851,7 +1850,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -1866,7 +1865,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Riverside Municipal Auditorium",
       "city": "Riverside",
       "state": "CA",
@@ -1966,7 +1965,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 79,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 14.8,
         "markup": 19.3,
         "timing": 10.0
@@ -1981,7 +1980,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~4,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "12 presale(s)"
@@ -1997,7 +1996,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Upstate Medical University Arena at The Oncenter War Memorial",
       "city": "Syracuse",
       "state": "NY",
@@ -2041,7 +2040,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -2056,7 +2055,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "4 presale(s)"
@@ -2072,7 +2071,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Columbus Civic Center",
       "city": "Columbus",
       "state": "GA",
@@ -2123,7 +2122,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -2138,7 +2137,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "5 presale(s)"
@@ -2154,7 +2153,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Mohegan Arena at Casey Plaza",
       "city": "Wilkes Barre",
       "state": "PA",
@@ -2198,7 +2197,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -2213,7 +2212,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "4 presale(s)"
@@ -2229,7 +2228,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Hampton Coliseum",
       "city": "Hampton",
       "state": "VA",
@@ -2266,7 +2265,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 8.2,
         "markup": 19.3,
         "timing": 10.0
@@ -2281,7 +2280,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
@@ -2298,7 +2297,7 @@
         "WWE Monday Night RAW",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Benchmark International Arena",
       "city": "Tampa",
       "state": "FL",
@@ -2342,7 +2341,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -2357,7 +2356,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "4 presale(s)"
@@ -2373,7 +2372,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "PPG Paints Arena",
       "city": "Pittsburgh",
       "state": "PA",
@@ -2424,7 +2423,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 72,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 7.9,
         "markup": 19.3,
         "timing": 10.0
@@ -2439,84 +2438,10 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "5 presale(s)"
-      ]
-    },
-    {
-      "id": "G5diZ_KxK6env",
-      "name": "WWE Holiday Live Tour",
-      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-new-york-new-york-12-26-2026/event/3B006538931C2A81",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE Holiday Live Tour",
-        "WWE"
-      ],
-      "artist_upcoming": 42,
-      "venue": "Madison Square Garden",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 20789,
-      "capacity_source": "exact",
-      "event_date": "2026-12-27T00:30:00Z",
-      "onsale_start": "2026-10-02T14:00:00Z",
-      "onsale_end": "2026-12-27T02:00:00Z",
-      "presales": [
-        {
-          "name": "Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-02T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Chase Cardholder Preferred Tickets",
-          "start": "2026-10-02T14:00:00Z",
-          "end": "2026-12-27T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-01T14:00:00Z",
-          "end": "2026-10-02T03:59:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package",
-          "start": "2026-10-02T14:00:00Z",
-          "end": "2026-12-20T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 71,
-      "score_parts": {
-        "demand": 34.9,
-        "scarcity": 6.6,
-        "markup": 19.3,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.4,
-        2.45
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "42 upcoming dates (heavy routing)",
-        "est. 1.4-2.5x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -2529,7 +2454,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Little Caesars Arena",
       "city": "Detroit",
       "state": "MI",
@@ -2580,7 +2505,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 71,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 6.7,
         "markup": 19.3,
         "timing": 10.0
@@ -2595,9 +2520,83 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5diZ_KxK6env",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-new-york-new-york-12-26-2026/event/3B006538931C2A81",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE Holiday Live Tour",
+        "WWE"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Madison Square Garden",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 20789,
+      "capacity_source": "exact",
+      "event_date": "2026-12-27T00:30:00Z",
+      "onsale_start": "2026-10-02T14:00:00Z",
+      "onsale_end": "2026-12-27T02:00:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Chase Cardholder Preferred Tickets",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-27T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-01T14:00:00Z",
+          "end": "2026-10-02T03:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package",
+          "start": "2026-10-02T14:00:00Z",
+          "end": "2026-12-20T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
+      "score": 70,
+      "score_parts": {
+        "demand": 34.6,
+        "scarcity": 6.6,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "40 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -2610,7 +2609,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "BMO Center",
       "city": "Rockford",
       "state": "IL",
@@ -2689,7 +2688,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 74,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 10.2,
         "markup": 19.3,
         "timing": 10.0
@@ -2704,7 +2703,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "9 presale(s)"
@@ -2720,7 +2719,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "Bridgestone Arena",
       "city": "Nashville",
       "state": "TN",
@@ -2757,7 +2756,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 71,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 6.8,
         "markup": 19.3,
         "timing": 10.0
@@ -2772,7 +2771,7 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
@@ -2786,7 +2785,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 40,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -2877,9 +2876,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 88,
+      "score": 87,
       "score_parts": {
-        "demand": 34.9,
+        "demand": 34.6,
         "scarcity": 18.7,
         "markup": 24.0,
         "timing": 10.0
@@ -2894,245 +2893,11 @@
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "42 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.6-2.8x face",
         "11 presale(s)"
-      ]
-    },
-    {
-      "id": "1AOZkfyGkdmwghI",
-      "name": "Silencer Shop PBR Tulsa: Pendleton Whisky Velocity Tour",
-      "url": "https://www.ticketmaster.com/silencer-shop-pbr-tulsa-pendleton-whisky-tulsa-oklahoma-02-27-2027/event/20006539EECB56E8",
-      "segment": "Sports",
-      "genre": "Rodeo",
-      "artists": [
-        "PBR: Pendleton Whisky Velocity Tour",
-        "PBR: Professional Bull Riders"
-      ],
-      "artist_upcoming": 115,
-      "venue": "BOK Center",
-      "city": "Tulsa",
-      "state": "OK",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-28T01:00:00Z",
-      "onsale_start": "2026-10-15T15:00:00Z",
-      "onsale_end": "2027-02-28T03:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-08T13:00:00Z",
-          "end": "2026-10-15T04:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "PBR Presale",
-          "start": "2026-10-08T13:00:00Z",
-          "end": "2026-10-15T04:59:00Z",
-          "url": "",
-          "how": "PBR Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-15T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2027-02-20T04:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=PBR%3A+Pendleton+Whisky+Velocity+Tour",
-      "score": 64,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 10.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "115 upcoming dates (heavy routing)",
-        "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "1AOZkfyGkdmNAhk",
-      "name": "Silencer Shop PBR Tulsa: Pendleton Whisky Velocity Tour",
-      "url": "https://www.ticketmaster.com/silencer-shop-pbr-tulsa-pendleton-whisky-tulsa-oklahoma-02-26-2027/event/20006539EE8C56C6",
-      "segment": "Sports",
-      "genre": "Rodeo",
-      "artists": [
-        "PBR: Pendleton Whisky Velocity Tour",
-        "PBR: Professional Bull Riders"
-      ],
-      "artist_upcoming": 115,
-      "venue": "BOK Center",
-      "city": "Tulsa",
-      "state": "OK",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-27T02:00:00Z",
-      "onsale_start": "2026-10-15T15:00:00Z",
-      "onsale_end": "2027-02-27T04:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-08T13:00:00Z",
-          "end": "2026-10-15T04:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "PBR Presale",
-          "start": "2026-10-08T13:00:00Z",
-          "end": "2026-10-15T04:59:00Z",
-          "url": "",
-          "how": "PBR Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-08T15:00:00Z",
-          "end": "2026-10-15T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2027-02-20T04:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=PBR%3A+Pendleton+Whisky+Velocity+Tour",
-      "score": 64,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 10.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "115 upcoming dates (heavy routing)",
-        "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "1AeZZ_fGkXujKRY",
-      "name": "Bingo Loco",
-      "url": "https://www.ticketmaster.com/bingo-loco-salina-kansas-01-22-2027/event/2000654F8D713BF0",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Bingo Loco"
-      ],
-      "artist_upcoming": 47,
-      "venue": "Tony's Pizza Events Center ",
-      "city": "Salina",
-      "state": "KS",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-23T01:00:00Z",
-      "onsale_start": "2026-10-15T15:04:00Z",
-      "onsale_end": "2027-01-23T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Bingo+Loco",
-      "score": 63,
-      "score_parts": {
-        "demand": 23.5,
-        "scarcity": 10.2,
-        "markup": 22.9,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.6,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "47 upcoming dates (heavy routing)",
-        "~10,000 cap (from venue type)",
-        "est. 1.6-2.6x face"
-      ]
-    },
-    {
-      "id": "G5vYZ_fLa0mLR",
-      "name": "Earlybirds Club",
-      "url": "https://www.ticketmaster.com/earlybirds-club-napa-california-01-22-2027/event/1C006547C992E7EF",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Earlybirds Club"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Napa Music Hall",
-      "city": "Napa",
-      "state": "CA",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-23T02:00:00Z",
-      "onsale_start": "2026-10-15T17:00:00Z",
-      "onsale_end": "2027-01-23T04:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Earlybirds+Club",
-      "score": 60,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 18.7,
-        "markup": 16.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.2x face"
       ]
     },
     {
@@ -3293,73 +3058,6 @@
       ]
     },
     {
-      "id": "G5eVZ_fxR2vBf",
-      "name": "MICO - IN:BETWEEN TOUR",
-      "url": "https://www.ticketmaster.com/mico-inbetween-tour-charleston-south-carolina-02-21-2027/event/2D006548AF3C1E94",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "MICO"
-      ],
-      "artist_upcoming": 48,
-      "venue": "The Charleston Music Hall",
-      "city": "Charleston",
-      "state": "SC",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-22T01:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-02-22T03:00:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Fanclub Presale",
-          "start": "2026-10-13T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Fanclub Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=MICO",
-      "score": 71,
-      "score_parts": {
-        "demand": 23.7,
-        "scarcity": 18.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "48 upcoming dates (heavy routing)",
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "3 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AFZk4FGkdP3z0n",
       "name": "Brit Floyd - Animals 50 World Tour 2027",
       "url": "https://www.ticketmaster.com/brit-floyd-animals-50-world-tour-detroit-michigan-06-04-2027/event/08006548E54B892A",
@@ -3368,7 +3066,7 @@
       "artists": [
         "Brit Floyd"
       ],
-      "artist_upcoming": 52,
+      "artist_upcoming": 51,
       "venue": "Fox Theatre Detroit",
       "city": "Detroit",
       "state": "MI",
@@ -3412,7 +3110,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Brit+Floyd",
       "score": 70,
       "score_parts": {
-        "demand": 24.1,
+        "demand": 24.0,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3426,7 +3124,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "52 upcoming dates (heavy routing)",
+        "51 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -3442,7 +3140,7 @@
       "artists": [
         "MICO"
       ],
-      "artist_upcoming": 48,
+      "artist_upcoming": 47,
       "venue": "House of Blues Orlando",
       "city": "Orlando",
       "state": "FL",
@@ -3479,7 +3177,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=MICO",
       "score": 70,
       "score_parts": {
-        "demand": 23.7,
+        "demand": 23.5,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -3493,8 +3191,75 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "48 upcoming dates (heavy routing)",
+        "47 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_fxR2vBf",
+      "name": "MICO - IN:BETWEEN TOUR",
+      "url": "https://www.ticketmaster.com/mico-inbetween-tour-charleston-south-carolina-02-21-2027/event/2D006548AF3C1E94",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "MICO"
+      ],
+      "artist_upcoming": 47,
+      "venue": "The Charleston Music Hall",
+      "city": "Charleston",
+      "state": "SC",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-22T01:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-22T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Fanclub Presale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Fanclub Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=MICO",
+      "score": 70,
+      "score_parts": {
+        "demand": 23.5,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "47 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
         "est. 1.4-2.3x face",
         "3 presale(s)"
       ]
@@ -3580,71 +3345,6 @@
       ]
     },
     {
-      "id": "1kFOvPoOGA5qQIM",
-      "name": "Kameron Marlowe",
-      "url": "https://www.ticketmaster.com/kameron-marlowe-orlando-florida-02-26-2027/event/220065460B75AA37",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Kameron Marlowe"
-      ],
-      "artist_upcoming": 15,
-      "venue": "House of Blues Orlando",
-      "city": "Orlando",
-      "state": "FL",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-02-27T00:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-02-27T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-13T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Presale",
-          "start": "2026-10-13T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Onsale",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2027-02-22T03:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Kameron+Marlowe",
-      "score": 68,
-      "score_parts": {
-        "demand": 16.9,
-        "scarcity": 18.2,
-        "markup": 22.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.5-2.6x face",
-        "3 presale(s)"
-      ]
-    },
-    {
       "id": "1kA8vP3ZGA1E-AA",
       "name": "Ayra Starr: Starrgirl World Tour",
       "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-silver-spring-maryland-03-24-2027/event/150065480A9E1145",
@@ -3653,7 +3353,7 @@
       "artists": [
         "Ayra Starr"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 20,
       "venue": "The Fillmore Silver Spring",
       "city": "Silver Spring",
       "state": "MD",
@@ -3718,7 +3418,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ayra+Starr",
       "score": 68,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 18.5,
         "scarcity": 20.9,
         "markup": 18.2,
         "timing": 10.0
@@ -3735,6 +3435,71 @@
         "small room (1,150 cap)",
         "est. 1.4-2.3x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "1kFOvPoOGA5qQIM",
+      "name": "Kameron Marlowe: Take You Down With Me Tour presented by K92.3",
+      "url": "https://www.ticketmaster.com/kameron-marlowe-take-you-down-with-orlando-florida-02-26-2027/event/220065460B75AA37",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Kameron Marlowe"
+      ],
+      "artist_upcoming": 15,
+      "venue": "House of Blues Orlando",
+      "city": "Orlando",
+      "state": "FL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-27T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-27T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Presale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Onsale",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-02-22T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Kameron+Marlowe",
+      "score": 68,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 18.2,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.6x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -3813,7 +3578,7 @@
       "artists": [
         "Niko Moon"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 15,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -3871,7 +3636,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Niko+Moon",
       "score": 67,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 16.9,
         "scarcity": 17.7,
         "markup": 22.4,
         "timing": 10.0
@@ -3900,7 +3665,7 @@
       "artists": [
         "Niko Moon"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 15,
       "venue": "State Theatre",
       "city": "Portland",
       "state": "ME",
@@ -3944,7 +3709,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Niko+Moon",
       "score": 67,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 16.9,
         "scarcity": 17.7,
         "markup": 22.4,
         "timing": 10.0
@@ -3962,126 +3727,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZkfSGkdTtSc_",
-      "name": "Dropkick Murphys",
-      "url": "https://www.ticketmaster.com/dropkick-murphys-boston-massachusetts-03-12-2027/event/01006533FFA73B59",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Dropkick Murphys",
-        "Fiddlehead",
-        "Wisdom In Chains"
-      ],
-      "artist_upcoming": 38,
-      "venue": "MGM Music Hall at Fenway",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-13T00:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-03-13T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZkfSGkdTcSmB",
-      "name": "Mini Concert with Dropkick Murphys",
-      "url": "https://www.ticketmaster.com/mini-concert-with-dropkick-murphys-boston-massachusetts-03-13-2027/event/01006533FFB73BBA",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Dropkick Murphys"
-      ],
-      "artist_upcoming": 38,
-      "venue": "MGM Music Hall at Fenway",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-13T19:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-03-13T21:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
       ]
     },
     {
@@ -4168,6 +3813,74 @@
       ]
     },
     {
+      "id": "vv1AvZkfSGkdTtSc_",
+      "name": "Dropkick Murphys",
+      "url": "https://www.ticketmaster.com/dropkick-murphys-boston-massachusetts-03-12-2027/event/01006533FFA73B59",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dropkick Murphys",
+        "Fiddlehead",
+        "Wisdom In Chains"
+      ],
+      "artist_upcoming": 38,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-13T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-03-13T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
+      "score": 66,
+      "score_parts": {
+        "demand": 22.3,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AvZkfMGkeTdy2C",
       "name": "Dropkick Murphys",
       "url": "https://www.ticketmaster.com/dropkick-murphys-boston-massachusetts-03-14-2027/event/01006537BF0F93CE",
@@ -4251,6 +3964,58 @@
       ]
     },
     {
+      "id": "vv1AvZkfSGkdTcSmB",
+      "name": "Mini Concert with Dropkick Murphys",
+      "url": "https://www.ticketmaster.com/mini-concert-with-dropkick-murphys-boston-massachusetts-03-13-2027/event/01006533FFB73BBA",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dropkick Murphys"
+      ],
+      "artist_upcoming": 38,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-13T19:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-03-13T21:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dropkick+Murphys",
+      "score": 66,
+      "score_parts": {
+        "demand": 22.3,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vv1A7Zk4aGkeVuzpx",
       "name": "Q101 Twisted with Interpol & Modest Mouse",
       "url": "https://www.ticketmaster.com/q101-twisted-with-interpol-modest-mouse-chicago-illinois-12-09-2026/event/04006549B43785A2",
@@ -4262,7 +4027,7 @@
         "Modest Mouse",
         "Brigitte Calls Me Baby"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 25,
       "venue": "Aragon Ballroom",
       "city": "Chicago",
       "state": "IL",
@@ -4306,7 +4071,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Q101+Twisted+Xmas",
       "score": 66,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 19.8,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 10.0
@@ -4420,7 +4185,7 @@
         "Kompany",
         "Machaki"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 23,
       "venue": "The Fillmore Philadelphia",
       "city": "Philadelphia",
       "state": "PA",
@@ -4471,7 +4236,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
       "score": 66,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 16.1,
         "timing": 10.0
@@ -4836,7 +4601,7 @@
       "artists": [
         "Kool & the Gang"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 13,
       "venue": "Ovation Hall at Ocean Casino Resort ",
       "city": "Atlantic City",
       "state": "NJ",
@@ -4859,7 +4624,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Kool+%26+the+Gang",
       "score": 64,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 16.0,
         "scarcity": 19.6,
         "markup": 18.2,
         "timing": 10.0
@@ -4877,6 +4642,78 @@
         "~1,500 cap (from venue type)",
         "est. 1.4-2.3x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kv8vPotGAuHPQL",
+      "name": "Bone Thugs-N-Harmony",
+      "url": "https://www.ticketmaster.com/bone-thugsnharmony-cleveland-ohio-12-04-2026/event/050065469DF2569F",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Bone Thugs-N-Harmony"
+      ],
+      "artist_upcoming": 10,
+      "venue": "House of Blues Cleveland",
+      "city": "Cleveland",
+      "state": "OH",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2026-12-05T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2026-12-05T02:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2026-11-07T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2026-12-02T03:00:00Z",
+          "url": "",
+          "how": "T-Mobile\u00ae Concert Perks + Fast Lane"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
+      "score": 64,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -4936,78 +4773,6 @@
         "~1,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1kv8vPotGAuHPQL",
-      "name": "Bone Thugs-N-Harmony",
-      "url": "https://www.ticketmaster.com/bone-thugsnharmony-cleveland-ohio-12-04-2026/event/050065469DF2569F",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "Bone Thugs-N-Harmony"
-      ],
-      "artist_upcoming": 9,
-      "venue": "House of Blues Cleveland",
-      "city": "Cleveland",
-      "state": "OH",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2026-12-05T00:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2026-12-05T02:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2026-11-07T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2026-12-02T03:00:00Z",
-          "url": "",
-          "how": "T-Mobile\u00ae Concert Perks + Fast Lane"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
-      "score": 64,
-      "score_parts": {
-        "demand": 14.0,
-        "scarcity": 18.2,
-        "markup": 21.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.5-2.5x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -6057,115 +5822,6 @@
       ]
     },
     {
-      "id": "vv1AAZk4AGkdUQW0h",
-      "name": "Nickelback: Everything Under The Sun Tour",
-      "url": "https://www.ticketmaster.com/nickelback-everything-under-the-sun-tour-columbus-ohio-02-13-2027/event/05006545F66BD91B",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nickelback",
-        "Don Broco"
-      ],
-      "artist_upcoming": 92,
-      "venue": "Schottenstein Center",
-      "city": "Columbus",
-      "state": "OH",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-13T23:30:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-02-14T01:30:00Z",
-      "presales": [
-        {
-          "name": "Verizon Shine Presale Tickets",
-          "start": "2026-10-13T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Verizon Shine Members"
-        },
-        {
-          "name": "Verizon Shine Select Seats",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2027-01-03T03:00:00Z",
-          "url": "",
-          "how": "For Verizon Shine Members"
-        },
-        {
-          "name": "Reserved by Spotify",
-          "start": "2026-10-13T16:00:00Z",
-          "end": "2026-10-14T15:59:00Z",
-          "url": "",
-          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Bandsintown Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Bandsintown Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-15T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-13T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Public Onsale",
-          "start": "2026-10-16T14:00:00Z",
-          "end": "2027-02-09T17:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-13T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
-      "score": 61,
-      "score_parts": {
-        "demand": 27.6,
-        "scarcity": 10.2,
-        "markup": 13.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.0
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "92 upcoming dates (heavy routing)",
-        "~10,000 cap (from venue type)",
-        "est. 1.3-2.0x face",
-        "9 presale(s)"
-      ]
-    },
-    {
       "id": "k7vGF_frUEE-y",
       "name": "Nickelback: Everything Under The Sun Tour",
       "url": "https://www.ticketmaster.com/nickelback-everything-under-the-sun-tour-buffalo-new-york-03-24-2027/event/00006547B69E7879",
@@ -6247,6 +5903,115 @@
           "end": "2027-03-20T16:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nickelback",
+      "score": 61,
+      "score_parts": {
+        "demand": 27.6,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "92 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "9 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AAZk4AGkdUQW0h",
+      "name": "Nickelback: Everything Under The Sun Tour",
+      "url": "https://www.ticketmaster.com/nickelback-everything-under-the-sun-tour-columbus-ohio-02-13-2027/event/05006545F66BD91B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nickelback",
+        "Don Broco"
+      ],
+      "artist_upcoming": 92,
+      "venue": "Schottenstein Center",
+      "city": "Columbus",
+      "state": "OH",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-13T23:30:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-02-14T01:30:00Z",
+      "presales": [
+        {
+          "name": "Verizon Shine Presale Tickets",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Verizon Shine Members"
+        },
+        {
+          "name": "Verizon Shine Select Seats",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-01-03T03:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-10-13T16:00:00Z",
+          "end": "2026-10-14T15:59:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Bandsintown Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Bandsintown Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Public Onsale",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-02-09T17:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-13T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
         }
       ],
       "price_min": null,
@@ -6696,6 +6461,58 @@
       ]
     },
     {
+      "id": "1A4Zk4AGkelypy4",
+      "name": "Steve Hackett: Best of Genesis & Solo Gems Tour",
+      "url": "https://www.ticketmaster.com/steve-hackett-best-of-genesis-solo-washington-district-of-columbia-04-13-2027/event/15006545ABE56E55",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Steve Hackett"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Warner Theatre",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-14T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-04-14T02:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T14:00:00Z",
+          "end": "2027-03-14T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "k7vGF_fEAgQaF",
       "name": "WINONA FIGHTER is BRUTAL & EXTREMELY UNDERRATED...the tour",
       "url": "https://www.ticketmaster.com/winona-fighter-is-brutal-extremely-underratedthe-new-york-new-york-03-12-2027/event/00006549C5D5A248",
@@ -6755,6 +6572,58 @@
       ]
     },
     {
+      "id": "k7vGF_frOH4U7",
+      "name": "Steve Hackett: Best of Genesis & Solo Gems Tour",
+      "url": "https://www.ticketmaster.com/steve-hackett-best-of-genesis-solo-buffalo-new-york-04-28-2027/event/00006547A0F15D84",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Steve Hackett"
+      ],
+      "artist_upcoming": 16,
+      "venue": "UB Center for the Arts - Mainstage Theatre",
+      "city": "Buffalo",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-28T23:30:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-04-29T00:30:00Z",
+      "presales": [
+        {
+          "name": "UBCFA Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "1A4Zk4aGkdpAj_E",
       "name": "Richard Thompson & Band",
       "url": "https://www.ticketmaster.com/richard-thompson-band-washington-district-of-columbia-01-19-2027/event/15006549D615C667",
@@ -6789,6 +6658,58 @@
       "score": 60,
       "score_parts": {
         "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1zZ_f6ILjNg",
+      "name": "Steve Hackett",
+      "url": "https://www.ticketmaster.com/steve-hackett-atlanta-georgia-04-10-2027/event/0E006541E87DC8F5",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Steve Hackett"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Center Stage Theater",
+      "city": "Atlanta",
+      "state": "GA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-11T00:00:00Z",
+      "onsale_start": "2026-10-16T14:00:00Z",
+      "onsale_end": "2027-04-11T02:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-14T14:00:00Z",
+          "end": "2026-10-16T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -6861,110 +6782,6 @@
       ]
     },
     {
-      "id": "vvG1zZ_f6ILjNg",
-      "name": "Steve Hackett",
-      "url": "https://www.ticketmaster.com/steve-hackett-atlanta-georgia-04-10-2027/event/0E006541E87DC8F5",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Steve Hackett"
-      ],
-      "artist_upcoming": 16,
-      "venue": "Center Stage Theater",
-      "city": "Atlanta",
-      "state": "GA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-11T00:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-04-11T02:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
-      "score": 60,
-      "score_parts": {
-        "demand": 17.2,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vzZ_fJT_ylk",
-      "name": "UMPHREY'S McGEE - Fresh Cut 2027",
-      "url": "https://www.ticketmaster.com/umphreys-mcgee-fresh-cut-2027-grand-junction-colorado-03-12-2027/event/1E006549BF679AC6",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Umphrey's McGee"
-      ],
-      "artist_upcoming": 16,
-      "venue": "Avalon Theatre",
-      "city": "Grand Junction",
-      "state": "CO",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-13T03:00:00Z",
-      "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-03-13T05:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-14T16:00:00Z",
-          "end": "2026-10-16T04:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Umphrey%27s+McGee",
-      "score": 60,
-      "score_parts": {
-        "demand": 17.2,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vv17fZ_fGkwQdNMm",
       "name": "Steve Hackett: Best of Genesis & Solo Gems Tour",
       "url": "https://www.ticketmaster.com/steve-hackett-best-of-genesis-solo-akron-ohio-04-27-2027/event/0500654C9A0E3DEE",
@@ -7024,35 +6841,35 @@
       ]
     },
     {
-      "id": "k7vGF_frOH4U7",
-      "name": "Steve Hackett: Best of Genesis & Solo Gems Tour",
-      "url": "https://www.ticketmaster.com/steve-hackett-best-of-genesis-solo-buffalo-new-york-04-28-2027/event/00006547A0F15D84",
+      "id": "G5vzZ_fJT_ylk",
+      "name": "UMPHREY'S McGEE - Fresh Cut 2027",
+      "url": "https://www.ticketmaster.com/umphreys-mcgee-fresh-cut-2027-grand-junction-colorado-03-12-2027/event/1E006549BF679AC6",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Steve Hackett"
+        "Umphrey's McGee"
       ],
       "artist_upcoming": 16,
-      "venue": "UB Center for the Arts - Mainstage Theatre",
-      "city": "Buffalo",
-      "state": "NY",
+      "venue": "Avalon Theatre",
+      "city": "Grand Junction",
+      "state": "CO",
       "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-04-28T23:30:00Z",
+      "event_date": "2027-03-13T03:00:00Z",
       "onsale_start": "2026-10-16T14:00:00Z",
-      "onsale_end": "2027-04-29T00:30:00Z",
+      "onsale_end": "2027-03-13T05:00:00Z",
       "presales": [
         {
-          "name": "UBCFA Presale",
-          "start": "2026-10-14T14:00:00Z",
-          "end": "2026-10-16T02:00:00Z",
+          "name": "Venue Presale",
+          "start": "2026-10-14T16:00:00Z",
+          "end": "2026-10-16T04:00:00Z",
           "url": "",
           "how": "Venue Presale"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Steve+Hackett",
+      "seatgeek_url": "https://seatgeek.com/search?search=Umphrey%27s+McGee",
       "score": 60,
       "score_parts": {
         "demand": 17.2,
@@ -7203,7 +7020,7 @@
       "artists": [
         "Niko Moon"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 15,
       "venue": "Texas Club",
       "city": "Baton Rouge",
       "state": "LA",
@@ -7261,7 +7078,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Niko+Moon",
       "score": 72,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 16.9,
         "scarcity": 22.7,
         "markup": 22.4,
         "timing": 10.0
@@ -7384,7 +7201,7 @@
       "artists": [
         "MICO"
       ],
-      "artist_upcoming": 48,
+      "artist_upcoming": 47,
       "venue": "House of Blues New Orleans ",
       "city": "New Orleans",
       "state": "LA",
@@ -7435,7 +7252,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=MICO",
       "score": 70,
       "score_parts": {
-        "demand": 23.7,
+        "demand": 23.5,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -7449,7 +7266,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "48 upcoming dates (heavy routing)",
+        "47 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
         "5 presale(s)"
@@ -7464,7 +7281,7 @@
       "artists": [
         "Ayra Starr"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 20,
       "venue": "The Fillmore Minneapolis presented by Affinity Plus",
       "city": "Minneapolis",
       "state": "MN",
@@ -7536,7 +7353,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ayra+Starr",
       "score": 68,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 18.5,
         "scarcity": 20.9,
         "markup": 18.2,
         "timing": 10.0
@@ -7748,6 +7565,142 @@
       ]
     },
     {
+      "id": "vv1A7Zk4AGkdAGhFc",
+      "name": "ALLEYCVT - Beginning of Forever Tour",
+      "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-chicago-illinois-03-05-2027/event/04006545C531B22D",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "ALLEYCVT",
+        "Kompany",
+        "Lucky"
+      ],
+      "artist_upcoming": 23,
+      "venue": "Aragon Ballroom",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T03:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-03-06T03:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-15T16:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T15:00:00Z",
+          "end": "2027-02-19T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-16T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.3,
+        "scarcity": 20.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_fNGEDd-",
+      "name": "ALLEYCVT - Beginning of Forever Tour",
+      "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-dallas-texas-02-04-2027/event/0C006548CC9FB0E1",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "ALLEYCVT",
+        "Kompany",
+        "Lucky"
+      ],
+      "artist_upcoming": 23,
+      "venue": "South Side Ballroom",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-05T02:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-02-05T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-16T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
+      "score": 66,
+      "score_parts": {
+        "demand": 19.3,
+        "scarcity": 20.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_fSdHhWu",
       "name": "Danielle Ponder",
       "url": "https://www.ticketmaster.com/danielle-ponder-austin-texas-03-01-2027/event/3A00654CC3F1BF4D",
@@ -7800,81 +7753,6 @@
       ]
     },
     {
-      "id": "vv1A7Zk4AGkdAGhFc",
-      "name": "ALLEYCVT - Beginning of Forever Tour",
-      "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-chicago-illinois-03-05-2027/event/04006545C531B22D",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "ALLEYCVT",
-        "Kompany",
-        "Lucky"
-      ],
-      "artist_upcoming": 20,
-      "venue": "Aragon Ballroom",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-06T03:00:00Z",
-      "onsale_start": "2026-10-16T15:00:00Z",
-      "onsale_end": "2027-03-06T03:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2026-10-15T16:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-16T15:00:00Z",
-          "end": "2027-02-19T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2026-10-16T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T17:00:00Z",
-          "end": "2026-10-16T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
-      "score": 65,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 20.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
-      ]
-    },
-    {
       "id": "G5dIZ_fE0yvrF",
       "name": "Ayra Starr: Starrgirl World Tour",
       "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-houston-texas-03-18-2027/event/3A006549E4E41788",
@@ -7883,7 +7761,7 @@
       "artists": [
         "Ayra Starr"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 20,
       "venue": "House of Blues Houston",
       "city": "Houston",
       "state": "TX",
@@ -7955,7 +7833,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ayra+Starr",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 18.5,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -7975,67 +7853,6 @@
       ]
     },
     {
-      "id": "vvG1YZ_fNGEDd-",
-      "name": "ALLEYCVT - Beginning of Forever Tour",
-      "url": "https://www.ticketmaster.com/alleycvt-beginning-of-forever-tour-dallas-texas-02-04-2027/event/0C006548CC9FB0E1",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "ALLEYCVT",
-        "Kompany",
-        "Lucky"
-      ],
-      "artist_upcoming": 20,
-      "venue": "South Side Ballroom",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-05T02:00:00Z",
-      "onsale_start": "2026-10-16T15:00:00Z",
-      "onsale_end": "2027-02-05T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2026-10-16T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T17:00:00Z",
-          "end": "2026-10-16T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=ALLEYCVT",
-      "score": 65,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 20.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vvG1YZ_fJ8nPjE",
       "name": "Ayra Starr: Starrgirl World Tour",
       "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-dallas-texas-03-19-2027/event/0C00654990AA5727",
@@ -8044,7 +7861,7 @@
       "artists": [
         "Ayra Starr"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 20,
       "venue": "House of Blues Dallas ",
       "city": "Dallas",
       "state": "TX",
@@ -8109,7 +7926,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ayra+Starr",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 18.5,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -8306,6 +8123,65 @@
       ]
     },
     {
+      "id": "G5dIZ_fQ7GgXY",
+      "name": "Cleopatrick",
+      "url": "https://www.ticketmaster.com/cleopatrick-houston-texas-05-01-2027/event/3A00654684335FB0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Cleopatrick"
+      ],
+      "artist_upcoming": 23,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-02T00:00:00Z",
+      "onsale_start": "2026-10-16T15:00:00Z",
+      "onsale_end": "2027-05-02T03:00:00Z",
+      "presales": [
+        {
+          "name": "Cleopatrick Presale via Seated",
+          "start": "2026-10-14T15:00:00Z",
+          "end": "2026-10-16T04:59:00Z",
+          "url": "",
+          "how": "Cleopatrick Presale via Seated"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T15:00:00Z",
+          "end": "2026-10-16T04:59:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Cleopatrick",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.3,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv1FbZ_fObatZdCAC",
       "name": "Pigeons Playing Ping Pong",
       "url": "https://www.ticketmaster.com/pigeons-playing-ping-pong-minneapolis-minnesota-03-03-2027/event/0600654818269D4D",
@@ -8377,65 +8253,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_fQ7GgXY",
-      "name": "Cleopatrick",
-      "url": "https://www.ticketmaster.com/cleopatrick-houston-texas-05-01-2027/event/3A00654684335FB0",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Cleopatrick"
-      ],
-      "artist_upcoming": 24,
-      "venue": "White Oak Music Hall - Downstairs",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-02T00:00:00Z",
-      "onsale_start": "2026-10-16T15:00:00Z",
-      "onsale_end": "2027-05-02T03:00:00Z",
-      "presales": [
-        {
-          "name": "Cleopatrick Presale via Seated",
-          "start": "2026-10-14T15:00:00Z",
-          "end": "2026-10-16T04:59:00Z",
-          "url": "",
-          "how": "Cleopatrick Presale via Seated"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-15T15:00:00Z",
-          "end": "2026-10-16T04:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Cleopatrick",
-      "score": 63,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -8880,7 +8697,7 @@
       "artists": [
         "MANIA: The ABBA Tribute"
       ],
-      "artist_upcoming": 57,
+      "artist_upcoming": 55,
       "venue": "Paramount Theatre",
       "city": "Denver",
       "state": "CO",
@@ -8901,9 +8718,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=MANIA%3A+The+ABBA+Tribute",
-      "score": 68,
+      "score": 67,
       "score_parts": {
-        "demand": 24.7,
+        "demand": 24.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8917,7 +8734,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "57 upcoming dates (heavy routing)",
+        "55 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.1x face",
@@ -9021,7 +8838,7 @@
       "artists": [
         "Ayra Starr"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 20,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -9091,9 +8908,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Ayra+Starr",
-      "score": 66,
+      "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 18.5,
         "scarcity": 18.7,
         "markup": 18.2,
         "timing": 10.0
@@ -9475,7 +9292,7 @@
       "artists": [
         "Bess Atwell"
       ],
-      "artist_upcoming": 9,
+      "artist_upcoming": 10,
       "venue": "The Moroccan Lounge",
       "city": "Los Angeles",
       "state": "CA",
@@ -9498,7 +9315,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Bess+Atwell",
       "score": 74,
       "score_parts": {
-        "demand": 14.0,
+        "demand": 14.6,
         "scarcity": 25.0,
         "markup": 24.5,
         "timing": 10.0
@@ -10034,208 +9851,6 @@
       ]
     },
     {
-      "id": "1A9ZkfUGkd3V6h0",
-      "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-06-2027/event/17006536D2D076E4",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chicago"
-      ],
-      "artist_upcoming": 31,
-      "venue": "The Venetian Theatre at The Venetian Resort",
-      "city": "Las Vegas",
-      "state": "NV",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-07T04:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-03-07T03:00:00Z",
-      "presales": [
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-10-13T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-10-13T17:00:00Z",
-          "end": "2026-10-14T16:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Venetian Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "Venetian Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-12T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-20T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-25T06:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
-      "score": 64,
-      "score_parts": {
-        "demand": 21.1,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "8 presale(s)"
-      ]
-    },
-    {
-      "id": "1A9ZkfUGkd3S6h9",
-      "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-05-2027/event/17006536D2CC76D7",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chicago"
-      ],
-      "artist_upcoming": 31,
-      "venue": "The Venetian Theatre at The Venetian Resort",
-      "city": "Las Vegas",
-      "state": "NV",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-06T04:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-03-06T03:00:00Z",
-      "presales": [
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-10-13T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-10-13T17:00:00Z",
-          "end": "2026-10-14T16:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Venetian Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "Venetian Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-12T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-20T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-24T06:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
-      "score": 64,
-      "score_parts": {
-        "demand": 21.1,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "8 presale(s)"
-      ]
-    },
-    {
       "id": "1A9ZkfUGkd3i6QO",
       "name": "Chicago",
       "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-19-2027/event/17006536D2B076A0",
@@ -10337,9 +9952,9 @@
       ]
     },
     {
-      "id": "1A9ZkfUGkd3RMhv",
+      "id": "1A9ZkfUGkd3V6h0",
       "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-26-2027/event/17006536D2BF76C1",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-06-2027/event/17006536D2D076E4",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -10351,9 +9966,9 @@
       "state": "NV",
       "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-02-27T04:00:00Z",
+      "event_date": "2027-03-07T04:00:00Z",
       "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-02-27T03:00:00Z",
+      "onsale_end": "2027-03-07T03:00:00Z",
       "presales": [
         {
           "name": "Fan Club Presale",
@@ -10407,7 +10022,7 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-17T06:00:00Z",
+          "end": "2027-02-25T06:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -10539,107 +10154,6 @@
       ]
     },
     {
-      "id": "1A9ZkfUGkd3sMhG",
-      "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-03-2027/event/17006536D2C776CC",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chicago"
-      ],
-      "artist_upcoming": 31,
-      "venue": "The Venetian Theatre at The Venetian Resort",
-      "city": "Las Vegas",
-      "state": "NV",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-04T04:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-03-04T03:00:00Z",
-      "presales": [
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-10-13T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-10-13T17:00:00Z",
-          "end": "2026-10-14T16:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Venetian Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "Venetian Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-12T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-20T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-22T06:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
-      "score": 64,
-      "score_parts": {
-        "demand": 21.1,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "8 presale(s)"
-      ]
-    },
-    {
       "id": "1A9ZkfUGkd3mMQy",
       "name": "Chicago",
       "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-24-2027/event/17006536D2BB76B9",
@@ -10741,9 +10255,9 @@
       ]
     },
     {
-      "id": "1A9ZkfUGkd3cMQU",
+      "id": "1A9ZkfUGkd3RMhv",
       "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-21-2027/event/17006536D2B776B6",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-26-2027/event/17006536D2BF76C1",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -10755,9 +10269,9 @@
       "state": "NV",
       "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-02-22T04:00:00Z",
+      "event_date": "2027-02-27T04:00:00Z",
       "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-02-22T03:00:00Z",
+      "onsale_end": "2027-02-27T03:00:00Z",
       "presales": [
         {
           "name": "Fan Club Presale",
@@ -10811,7 +10325,108 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-10-16T17:00:00Z",
-          "end": "2027-02-12T06:00:00Z",
+          "end": "2027-02-17T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3S6h9",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-05-2027/event/17006536D2CC76D7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-03-06T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-24T06:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -10943,6 +10558,208 @@
       ]
     },
     {
+      "id": "1A9ZkfUGkd3sMhG",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-03-03-2027/event/17006536D2C776CC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-04T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-03-04T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-22T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9ZkfUGkd3cMQU",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-las-vegas-nevada-02-21-2027/event/17006536D2B776B6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 31,
+      "venue": "The Venetian Theatre at The Venetian Resort",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-22T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-22T03:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-13T17:00:00Z",
+          "end": "2026-10-14T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venetian Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Venetian Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-12T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2027-02-12T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
       "id": "G5vYZ_fJCcuc8",
       "name": "Ayra Starr: Starrgirl World Tour",
       "url": "https://www.ticketmaster.com/ayra-starr-starrgirl-world-tour-san-francisco-california-04-14-2027/event/1C0065498EB4DB50",
@@ -10951,7 +10768,7 @@
       "artists": [
         "Ayra Starr"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 20,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -10966,7 +10783,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ayra+Starr",
       "score": 64,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 18.5,
         "scarcity": 20.9,
         "markup": 18.2,
         "timing": 6.0
@@ -10982,6 +10799,138 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.4-2.3x face"
+      ]
+    },
+    {
+      "id": "G5dIZ_fMjHUrn",
+      "name": " Pi'erre Bourne: Made In Paris",
+      "url": "https://www.ticketmaster.com/pierre-bourne-made-in-paris-houston-texas-12-06-2026/event/3A00654DDCF367AA",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Pi'erre Bourne"
+      ],
+      "artist_upcoming": 8,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-07T01:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2026-12-07T04:00:00Z",
+      "presales": [
+        {
+          "name": "Pi'erre Bourne Meet & Greet",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2026-12-02T04:00:00Z",
+          "url": "",
+          "how": "Pi'erre Bourne Meet & Greet"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pi%27erre+Bourne",
+      "score": 64,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 18.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_fDI5hSk",
+      "name": "Pi'erre Bourne",
+      "url": "https://www.ticketmaster.com/pierre-bourne-dallas-texas-12-04-2026/event/0C00654EE82DBCC6",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Pi'erre Bourne"
+      ],
+      "artist_upcoming": 8,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-05T01:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2026-12-05T03:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-15T19:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2026-11-30T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-15T19:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T19:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2026-11-07T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pi%27erre+Bourne",
+      "score": 64,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 18.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -11124,7 +11073,7 @@
       "artists": [
         "Cleopatrick"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 23,
       "venue": "House of Blues San Diego",
       "city": "San Diego",
       "state": "CA",
@@ -11168,7 +11117,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Cleopatrick",
       "score": 63,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.3,
         "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
@@ -11299,72 +11248,6 @@
       ]
     },
     {
-      "id": "vv170Z_KGkMLcekl",
-      "name": "Cleopatrick",
-      "url": "https://www.ticketmaster.com/cleopatrick-los-angeles-california-05-08-2027/event/0900653DDFB421AB",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Cleopatrick"
-      ],
-      "artist_upcoming": 24,
-      "venue": "The Regent Theater",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-09T04:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-05-09T07:00:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-15T17:00:00Z",
-          "end": "2026-10-16T06:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-10-15T17:00:00Z",
-          "end": "2026-10-16T06:59:00Z",
-          "url": "",
-          "how": "Ticketmaster Presale"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-14T17:00:00Z",
-          "end": "2026-10-16T06:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Cleopatrick",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
       "id": "1AvjZ_oGkR3ps8y",
       "name": "Alan Cumming: Uncut",
       "url": "https://www.ticketmaster.com/alan-cumming-uncut-las-vegas-nevada-01-24-2027/event/1700651BD25B1439",
@@ -11427,6 +11310,72 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv170Z_KGkMLcekl",
+      "name": "Cleopatrick",
+      "url": "https://www.ticketmaster.com/cleopatrick-los-angeles-california-05-08-2027/event/0900653DDFB421AB",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Cleopatrick"
+      ],
+      "artist_upcoming": 23,
+      "venue": "The Regent Theater",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-09T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-05-09T07:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T06:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T06:59:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T06:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Cleopatrick",
+      "score": 62,
+      "score_parts": {
+        "demand": 19.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
         "3 presale(s)"
       ]
     },
@@ -11766,6 +11715,65 @@
       ]
     },
     {
+      "id": "G5viZ_fE_DXZq",
+      "name": "The Format (Unplugged)",
+      "url": "https://www.ticketmaster.com/the-format-unplugged-memphis-tennessee-12-04-2026/event/1B006549D9EFE01D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "The Format"
+      ],
+      "artist_upcoming": 5,
+      "venue": "1884 Lounge",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": 500,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-05T01:30:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2026-12-05T05:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-15T17:00:00Z",
+          "end": "2026-10-16T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=The+Format",
+      "score": 61,
+      "score_parts": {
+        "demand": 10.9,
+        "scarcity": 25.0,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (500 cap)",
+        "~500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "Z7r9jZ1AA78OY",
       "name": "Danielle Ponder",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA78OY",
@@ -11860,6 +11868,60 @@
       ]
     },
     {
+      "id": "G5vYZ_f0dNi8_",
+      "name": "Richard Thompson & Band",
+      "url": "https://www.ticketmaster.com/richard-thompson-band-san-francisco-california-02-13-2027/event/1C006549038EC419",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Richard Thompson",
+        "Clayton Linthicum",
+        "Quinn Bachand"
+      ],
+      "artist_upcoming": 17,
+      "venue": "The Castro Theatre",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-14T04:00:00Z",
+      "onsale_start": "2026-10-16T17:00:00Z",
+      "onsale_end": "2027-02-14T05:00:00Z",
+      "presales": [
+        {
+          "name": "APE Presale",
+          "start": "2026-10-14T17:00:00Z",
+          "end": "2026-10-16T05:00:00Z",
+          "url": "",
+          "how": "APE Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AaZk4aGkdmeVyz",
       "name": "Devkota: Recovery Nights",
       "url": "https://www.ticketmaster.com/devkota-recovery-nights-los-angeles-california-12-02-2026/event/09006549EE0B4E78",
@@ -11912,56 +11974,53 @@
       ]
     },
     {
-      "id": "G5vYZ_f0dNi8_",
-      "name": "Richard Thompson & Band",
-      "url": "https://www.ticketmaster.com/richard-thompson-band-san-francisco-california-02-13-2027/event/1C006549038EC419",
+      "id": "vv170Z_fGkBV91vm",
+      "name": "Pi'erre Bourne",
+      "url": "https://www.ticketmaster.com/pierre-bourne-santa-ana-california-12-10-2026/event/0900654EB45CA06E",
       "segment": "Music",
-      "genre": "Rock",
+      "genre": "Hip-Hop/Rap",
       "artists": [
-        "Richard Thompson",
-        "Clayton Linthicum",
-        "Quinn Bachand"
+        "Pi'erre Bourne"
       ],
-      "artist_upcoming": 17,
-      "venue": "The Castro Theatre",
-      "city": "San Francisco",
+      "artist_upcoming": 8,
+      "venue": "The Observatory",
+      "city": "Santa Ana",
       "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-14T04:00:00Z",
-      "onsale_start": "2026-10-16T17:00:00Z",
-      "onsale_end": "2027-02-14T05:00:00Z",
+      "capacity": 1000,
+      "capacity_source": "exact",
+      "event_date": "2026-12-11T03:30:00Z",
+      "onsale_start": "2026-10-16T19:00:00Z",
+      "onsale_end": "2026-12-11T05:30:00Z",
       "presales": [
         {
-          "name": "APE Presale",
-          "start": "2026-10-14T17:00:00Z",
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-15T19:00:00Z",
           "end": "2026-10-16T05:00:00Z",
-          "url": "",
-          "how": "APE Presale"
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Richard+Thompson",
-      "score": 60,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pi%27erre+Bourne",
+      "score": 66,
       "score_parts": {
-        "demand": 17.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
+        "demand": 13.4,
+        "scarcity": 21.6,
+        "markup": 21.4,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.55,
+        2.5
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
+        "small room (1,000 cap)",
+        "est. 1.5-2.5x face",
         "1 presale(s)"
       ]
     },
@@ -12187,6 +12246,13 @@
           "end": "2026-10-19T05:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-16T17:00:00Z",
+          "end": "2026-10-19T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
@@ -12211,7 +12277,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.4x face",
-        "1 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
