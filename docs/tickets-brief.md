@@ -1,73 +1,73 @@
-433 ticket drops scoring 60+ in the next 14 days.
+44 ticket drops scoring 60+ in the next 14 days.
 
-  72 - WWE
+  69 - WWE
   Charleston Coliseum, Charleston WV
   On sale Fri 24 Jul, 8:00 AM (passed)
   Event Fri 30 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  71 - WWE, WWE Monday Night RAW
+  68 - WWE, WWE Monday Night RAW
   Barclays Center, Brooklyn NY
   On sale Fri 24 Jul, 8:00 AM (passed)
   Event Mon 2 Nov, 3:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  74 - WWE, WWE Monday Night RAW
+  71 - WWE, WWE Monday Night RAW
   Save Mart Center, Fresno CA
   On sale Fri 24 Jul, 11:00 AM (passed)
   Event Mon 26 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  71 - WWE
-  Golden 1 Center, Sacramento CA
-  On sale Fri 24 Jul, 11:00 AM (passed)
-  Event Fri 16 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  68 - WWE
+  64 - WWE
   Pechanga Arena San Diego, San Diego CA
   On sale Fri 24 Jul, 11:00 AM (passed)
   Event Mon 19 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  72 - WWE, WWE Friday Night SmackDown
+  68 - WWE, WWE Friday Night SmackDown
   Toyota Arena, Ontario CA
   On sale Wed 29 Jul, 11:00 AM (passed)
   Event Fri 23 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  64 - WWE, WWE Survivor Series
+  60 - WWE, WWE Survivor Series
   Daikin Park, Houston TX
   On sale Fri 7 Aug, 9:00 AM (passed)
   Event Sat 28 Nov, 3:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  72 - WWE, WWE Live
+  68 - WWE, WWE Live
   Neal S Blaisdell Arena, Honolulu HI
   On sale Fri 14 Aug, 2:00 PM (passed)
   Event Fri 16 Oct, 11:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  74 - WWE
+  71 - WWE
   Covelli Centre, Youngstown OH
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 29 Oct, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  74 - WWE, WWE Survivor Series
+  71 - WWE, WWE Survivor Series
   Cross Insurance Center, Bangor ME
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Fri 6 Nov, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  72 - WWE, WWE Survivor Series
+  68 - WWE, WWE Survivor Series
   Cross Insurance Arena , Portland ME
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 5 Nov, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  72 - WWE, WWE Live
+  68 - WWE, WWE Live
   Hertz Arena, Estero FL
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 12 Nov, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+  Face TBA - est. resale 1.3-2.25x face (low conf)
+
+  71 - WWE, WWE Survivor Series
+  Von Braun Center Propst Arena, Huntsville AL
+  On sale Fri 21 Aug, 9:00 AM (passed)
+  Event Thu 19 Nov, 6:30 PM
+  Face TBA - est. resale 1.3-2.25x face (low conf)
