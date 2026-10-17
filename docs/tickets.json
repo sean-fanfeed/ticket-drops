@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-17T14:23:13Z",
-    "generated_local": "Sat 17 Oct, 8:23 AM",
-    "scanned": 257,
+    "generated_utc": "2026-10-17T15:55:02Z",
+    "generated_local": "Sat 17 Oct, 9:55 AM",
+    "scanned": 260,
     "surfaced": 43,
     "new": 0,
     "threshold": 60,
@@ -2998,12 +2998,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=The+Bull%27s+Santa+Jam",
-      "score": 66,
+      "score": 69,
       "score_parts": {
         "demand": 18.5,
         "scarcity": 17.7,
         "markup": 22.4,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
