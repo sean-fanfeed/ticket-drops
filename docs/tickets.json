@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_utc": "2026-10-17T11:10:05Z",
-    "generated_local": "Sat 17 Oct, 5:10 AM",
+    "generated_utc": "2026-10-17T13:10:18Z",
+    "generated_local": "Sat 17 Oct, 7:10 AM",
     "scanned": 256,
-    "surfaced": 44,
+    "surfaced": 43,
     "new": 0,
     "threshold": 60,
     "days": 14,
@@ -439,129 +439,6 @@
         "on your watchlist",
         "est. 1.3-2.2x face",
         "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1IZ_26ev52J",
-      "name": "WWE Hawaii Live Tour 2026",
-      "url": "https://www.ticketmaster.com/wwe-hawaii-live-tour-2026-honolulu-hawaii-10-16-2026/event/0A0064F1C204B3E6",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE",
-        "WWE Live"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Neal S Blaisdell Arena",
-      "city": "Honolulu",
-      "state": "HI",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2026-10-17T05:30:00Z",
-      "onsale_start": "2026-08-14T20:00:00Z",
-      "onsale_end": "2026-10-17T08:30:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Social Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE.com Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE TM CEN Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE CSR Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Corporate Partners Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Talent Social Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Instagram Social Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE IG Reels Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T09:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-08-12T20:00:00Z",
-          "end": "2026-08-14T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-08-14T20:00:00Z",
-          "end": "2026-10-10T08:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
-      "score_parts": {
-        "demand": 34.4,
-        "scarcity": 7.9,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.3,
-        2.25
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "11 presale(s)"
       ]
     },
     {
