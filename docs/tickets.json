@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-18T13:31:58Z",
-    "generated_local": "Sun 18 Oct, 7:31 AM",
-    "scanned": 242,
-    "surfaced": 42,
-    "new": 0,
+    "generated_utc": "2026-10-18T14:46:37Z",
+    "generated_local": "Sun 18 Oct, 8:46 AM",
+    "scanned": 243,
+    "surfaced": 43,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2895,6 +2895,57 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1VZ_f0lYowg",
+      "name": "XLOV - US TOUR 2026",
+      "url": "https://www.ticketmaster.com/xlov-us-tour-2026-miami-beach-florida-12-03-2026/event/0D0065492BC11CB5",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "XLOV"
+      ],
+      "artist_upcoming": 1,
+      "venue": "The Fillmore Miami Beach at Jackie Gleason Theater",
+      "city": "Miami Beach",
+      "state": "FL",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2026-12-04T00:30:00Z",
+      "onsale_start": "2026-10-22T14:00:00Z",
+      "onsale_end": "2026-12-04T02:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Packages",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "VIP Packages"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=XLOV",
+      "score": 60,
+      "score_parts": {
+        "demand": 4.2,
+        "scarcity": 20.9,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.6-2.7x face",
+        "1 presale(s)"
       ]
     },
     {

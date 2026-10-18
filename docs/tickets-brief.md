@@ -1,4 +1,4 @@
-42 ticket drops scoring 60+ in the next 14 days.
+43 ticket drops scoring 60+ in the next 14 days.
 
   69 - WWE
   Charleston Coliseum, Charleston WV
