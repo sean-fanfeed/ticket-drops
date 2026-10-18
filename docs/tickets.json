@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-17T16:29:28Z",
-    "generated_local": "Sat 17 Oct, 10:29 AM",
-    "scanned": 260,
+    "generated_utc": "2026-10-18T11:42:23Z",
+    "generated_local": "Sun 18 Oct, 5:42 AM",
+    "scanned": 243,
     "surfaced": 43,
     "new": 0,
     "threshold": 60,
@@ -2637,6 +2637,58 @@
       ]
     },
     {
+      "id": "G5dIZ_fwWAlvd",
+      "name": "Fonseca - Antes Que El Tiempo Se Vaya Tour",
+      "url": "https://www.ticketmaster.com/fonseca-antes-que-el-tiempo-se-san-antonio-texas-03-31-2027/event/3A00654CBD16B043",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Fonseca"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Aztec Theatre",
+      "city": "San Antonio",
+      "state": "TX",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-01T01:00:00Z",
+      "onsale_start": "2026-10-19T15:00:00Z",
+      "onsale_end": "2027-04-01T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-16T15:00:00Z",
+          "end": "2026-10-19T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Fonseca",
+      "score": 65,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vv1kvZvPoYGA2SKcp",
       "name": "K\u00e4\u00e4rij\u00e4 - Eurodisko World Tour",
       "url": "https://www.ticketmaster.com/kaarija-eurodisko-world-tour-chicago-illinois-03-08-2027/event/040065470FCD3B56",
@@ -2706,58 +2758,6 @@
         "small room (2,000 cap)",
         "est. 1.5-2.5x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_fwWAlvd",
-      "name": "Fonseca - Antes Que El Tiempo Se Vaya Tour",
-      "url": "https://www.ticketmaster.com/fonseca-antes-que-el-tiempo-se-san-antonio-texas-03-31-2027/event/3A00654CBD16B043",
-      "segment": "Music",
-      "genre": "Latin",
-      "artists": [
-        "Fonseca"
-      ],
-      "artist_upcoming": 17,
-      "venue": "Aztec Theatre",
-      "city": "San Antonio",
-      "state": "TX",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-01T01:00:00Z",
-      "onsale_start": "2026-10-19T15:00:00Z",
-      "onsale_end": "2027-04-01T03:00:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-16T15:00:00Z",
-          "end": "2026-10-19T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Fonseca",
-      "score": 65,
-      "score_parts": {
-        "demand": 17.6,
-        "scarcity": 17.7,
-        "markup": 19.3,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.4
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.4x face",
-        "1 presale(s)"
       ]
     },
     {
