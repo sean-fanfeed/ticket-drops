@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_utc": "2026-10-18T11:42:23Z",
-    "generated_local": "Sun 18 Oct, 5:42 AM",
-    "scanned": 243,
-    "surfaced": 43,
+    "generated_utc": "2026-10-18T13:31:58Z",
+    "generated_local": "Sun 18 Oct, 7:31 AM",
+    "scanned": 242,
+    "surfaced": 42,
     "new": 0,
     "threshold": 60,
     "days": 14,
@@ -19,7 +19,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Charleston Coliseum",
       "city": "Charleston",
       "state": "WV",
@@ -84,7 +84,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 69,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 8.2,
         "markup": 16.1,
         "timing": 10.0
@@ -114,7 +114,7 @@
         "WWE",
         "WWE Monday Night RAW"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Barclays Center",
       "city": "Brooklyn",
       "state": "NY",
@@ -165,7 +165,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.1,
         "markup": 16.1,
         "timing": 10.0
@@ -194,7 +194,7 @@
         "WWE",
         "WWE Monday Night RAW"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Save Mart Center",
       "city": "Fresno",
       "state": "CA",
@@ -231,7 +231,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -260,7 +260,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Pechanga Arena San Diego",
       "city": "San Diego",
       "state": "CA",
@@ -275,7 +275,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 64,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 6.0
@@ -304,7 +304,7 @@
         "WWE",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Toyota Arena",
       "city": "Ontario",
       "state": "CA",
@@ -341,7 +341,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -371,7 +371,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Daikin Park",
       "city": "Houston",
       "state": "TX",
@@ -422,7 +422,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 60,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 0.0,
         "markup": 16.1,
         "timing": 10.0
@@ -450,7 +450,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Covelli Centre",
       "city": "Youngstown",
       "state": "OH",
@@ -557,7 +557,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -587,7 +587,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Cross Insurance Center",
       "city": "Bangor",
       "state": "ME",
@@ -659,7 +659,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -689,7 +689,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Cross Insurance Arena ",
       "city": "Portland",
       "state": "ME",
@@ -733,7 +733,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -763,7 +763,7 @@
         "WWE",
         "WWE Live"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Hertz Arena",
       "city": "Estero",
       "state": "FL",
@@ -793,7 +793,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -823,7 +823,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Von Braun Center Propst Arena",
       "city": "Huntsville",
       "state": "AL",
@@ -860,7 +860,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -889,7 +889,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Acrisure Arena at Greater Palm Springs",
       "city": "Palm Desert",
       "state": "CA",
@@ -926,7 +926,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -947,129 +947,6 @@
       ]
     },
     {
-      "id": "vvG1IZ_26eeh2c",
-      "name": "WWE Hawaii Live Tour 2026",
-      "url": "https://www.ticketmaster.com/wwe-hawaii-live-tour-2026-honolulu-hawaii-10-17-2026/event/0A0064F1C209B3ED",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE",
-        "WWE Live"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Neal S Blaisdell Arena",
-      "city": "Honolulu",
-      "state": "HI",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2026-10-18T05:30:00Z",
-      "onsale_start": "2026-08-21T20:00:00Z",
-      "onsale_end": "2026-10-18T08:30:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Social Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE.com Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE TM CEN Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE CSR Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Corporate Partners Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Talent Social Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE Instagram Social Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "WWE IG Reels Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-08-19T20:00:00Z",
-          "end": "2026-08-21T10:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-08-21T20:00:00Z",
-          "end": "2026-10-11T10:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
-      "score_parts": {
-        "demand": 34.4,
-        "scarcity": 7.9,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.3,
-        2.25
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "11 presale(s)"
-      ]
-    },
-    {
       "id": "G5eVZ_o1Os_AV",
       "name": "WWE Monday Night RAW",
       "url": "https://www.ticketmaster.com/wwe-monday-night-raw-raleigh-north-carolina-11-16-2026/event/2D006512A0C59174",
@@ -1078,7 +955,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -1108,7 +985,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -1137,7 +1014,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Huntington Center",
       "city": "Toledo",
       "state": "OH",
@@ -1174,7 +1051,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -1204,7 +1081,7 @@
         "WWE",
         "WWE Monday Night RAW"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Bon Secours Wellness Arena ",
       "city": "Greenville",
       "state": "SC",
@@ -1241,7 +1118,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -1271,7 +1148,7 @@
         "WWE",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Van Andel Arena",
       "city": "Grand Rapids",
       "state": "MI",
@@ -1308,7 +1185,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -1337,7 +1214,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Amerant Bank Arena",
       "city": "Sunrise",
       "state": "FL",
@@ -1352,7 +1229,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 64,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 6.0
@@ -1380,7 +1257,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Ford Center",
       "city": "Evansville",
       "state": "IN",
@@ -1438,7 +1315,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -1467,7 +1344,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "INTRUST Bank Arena",
       "city": "Wichita",
       "state": "KS",
@@ -1518,7 +1395,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -1547,7 +1424,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Simmons Bank Arena",
       "city": "North Little Rock",
       "state": "AR",
@@ -1584,7 +1461,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -1613,7 +1490,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Riverside Municipal Auditorium",
       "city": "Riverside",
       "state": "CA",
@@ -1713,7 +1590,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 75,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 14.8,
         "markup": 16.1,
         "timing": 10.0
@@ -1743,7 +1620,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Upstate Medical University Arena at The Oncenter War Memorial",
       "city": "Syracuse",
       "state": "NY",
@@ -1787,7 +1664,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -1817,7 +1694,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Columbus Civic Center",
       "city": "Columbus",
       "state": "GA",
@@ -1868,7 +1745,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -1898,7 +1775,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Hampton Coliseum",
       "city": "Hampton",
       "state": "VA",
@@ -1935,7 +1812,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 69,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 8.2,
         "markup": 16.1,
         "timing": 10.0
@@ -1965,7 +1842,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Mohegan Arena at Casey Plaza",
       "city": "Wilkes Barre",
       "state": "PA",
@@ -2009,7 +1886,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -2040,7 +1917,7 @@
         "WWE Monday Night RAW",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Benchmark International Arena",
       "city": "Tampa",
       "state": "FL",
@@ -2084,7 +1961,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -2114,7 +1991,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "PPG Paints Arena",
       "city": "Pittsburgh",
       "state": "PA",
@@ -2165,7 +2042,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 68,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 7.9,
         "markup": 16.1,
         "timing": 10.0
@@ -2195,7 +2072,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
@@ -2239,7 +2116,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 67,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 6.6,
         "markup": 16.1,
         "timing": 10.0
@@ -2268,7 +2145,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Little Caesars Arena",
       "city": "Detroit",
       "state": "MI",
@@ -2319,7 +2196,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 67,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 6.7,
         "markup": 16.1,
         "timing": 10.0
@@ -2348,7 +2225,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "BMO Center",
       "city": "Rockford",
       "state": "IL",
@@ -2427,7 +2304,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 71,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 10.2,
         "markup": 16.1,
         "timing": 10.0
@@ -2457,7 +2334,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "Bridgestone Arena",
       "city": "Nashville",
       "state": "TN",
@@ -2494,7 +2371,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
       "score": 67,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 6.8,
         "markup": 16.1,
         "timing": 10.0
@@ -2522,7 +2399,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 39,
+      "artist_upcoming": 38,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -2615,7 +2492,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
       "score": 84,
       "score_parts": {
-        "demand": 34.4,
+        "demand": 34.3,
         "scarcity": 18.7,
         "markup": 20.8,
         "timing": 10.0
