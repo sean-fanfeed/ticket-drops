@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-18T16:35:40Z",
-    "generated_local": "Sun 18 Oct, 10:35 AM",
-    "scanned": 243,
-    "surfaced": 43,
-    "new": 0,
+    "generated_utc": "2026-10-19T13:56:28Z",
+    "generated_local": "Mon 19 Oct, 7:56 AM",
+    "scanned": 275,
+    "surfaced": 49,
+    "new": 6,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2514,58 +2514,6 @@
       ]
     },
     {
-      "id": "G5dIZ_fwWAlvd",
-      "name": "Fonseca - Antes Que El Tiempo Se Vaya Tour",
-      "url": "https://www.ticketmaster.com/fonseca-antes-que-el-tiempo-se-san-antonio-texas-03-31-2027/event/3A00654CBD16B043",
-      "segment": "Music",
-      "genre": "Latin",
-      "artists": [
-        "Fonseca"
-      ],
-      "artist_upcoming": 17,
-      "venue": "Aztec Theatre",
-      "city": "San Antonio",
-      "state": "TX",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-01T01:00:00Z",
-      "onsale_start": "2026-10-19T15:00:00Z",
-      "onsale_end": "2027-04-01T03:00:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-16T15:00:00Z",
-          "end": "2026-10-19T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Fonseca",
-      "score": 65,
-      "score_parts": {
-        "demand": 17.6,
-        "scarcity": 17.7,
-        "markup": 19.3,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.4
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.4x face",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vv1kvZvPoYGA2SKcp",
       "name": "K\u00e4\u00e4rij\u00e4 - Eurodisko World Tour",
       "url": "https://www.ticketmaster.com/kaarija-eurodisko-world-tour-chicago-illinois-03-08-2027/event/040065470FCD3B56",
@@ -2635,6 +2583,58 @@
         "small room (2,000 cap)",
         "est. 1.5-2.5x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_fwWAlvd",
+      "name": "Fonseca - Antes Que El Tiempo Se Vaya Tour",
+      "url": "https://www.ticketmaster.com/fonseca-antes-que-el-tiempo-se-san-antonio-texas-03-31-2027/event/3A00654CBD16B043",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Fonseca"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Aztec Theatre",
+      "city": "San Antonio",
+      "state": "TX",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-01T01:00:00Z",
+      "onsale_start": "2026-10-19T15:00:00Z",
+      "onsale_end": "2027-04-01T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-16T15:00:00Z",
+          "end": "2026-10-19T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Fonseca",
+      "score": 65,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 17.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -2949,6 +2949,204 @@
       ]
     },
     {
+      "id": "G5dIZ_fJHNAQG",
+      "name": "Calvin Harris - North America Tour",
+      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-austin-texas-04-25-2027/event/3A006549BC8C568C",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Moody Center ATX",
+      "city": "Austin",
+      "state": "TX",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-26T01:00:00Z",
+      "onsale_start": "2026-10-22T17:00:00Z",
+      "onsale_end": "2027-04-26T01:00:00Z",
+      "presales": [
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-10-19T15:00:00Z",
+          "end": "2026-10-20T15:00:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T17:00:00Z",
+          "end": "2026-10-22T15:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-21T17:00:00Z",
+          "end": "2026-10-22T15:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-20T17:00:00Z",
+          "end": "2026-10-21T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-21T17:00:00Z",
+          "end": "2026-10-22T16:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-22T17:00:00Z",
+          "end": "2027-04-21T17:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Preferred Tickets",
+          "start": "2026-10-22T17:00:00Z",
+          "end": "2027-03-29T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 10.2,
+        "markup": 19.8,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.5,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "~10,000 cap (from venue type)",
+        "est. 1.5-2.4x face",
+        "7 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_fS9jI0M",
+      "name": "Calvin Harris - North America Tour",
+      "url": "https://seatgeek.com/calvin-harris-tickets/salt-lake-city-utah-delta-center-1-2027-05-05-7-pm/concert/18659029",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Delta Center",
+      "city": "Salt Lake City",
+      "state": "UT",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-06T02:00:00Z",
+      "onsale_start": "2026-10-22T18:00:00Z",
+      "onsale_end": "2027-05-06T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist",
+          "start": "2026-10-20T18:00:00Z",
+          "end": "2026-10-22T16:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-21T18:00:00Z",
+          "end": "2026-10-22T16:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
+      "score": 61,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 10.2,
+        "markup": 19.8,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.5,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "~10,000 cap (from venue type)",
+        "est. 1.5-2.4x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_3mqaBZl",
+      "name": "93Q Star Party",
+      "url": "https://www.ticketmaster.com/93q-star-party-houston-texas-12-01-2026/event/3A00652B9D27A02B",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Mack Geiger",
+        "Flatland Cavalry",
+        "Gavin Adcock",
+        "Stella Lefty"
+      ],
+      "artist_upcoming": 53,
+      "venue": "713 Music Hall",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-02T01:30:00Z",
+      "onsale_start": "2026-10-23T14:00:00Z",
+      "onsale_end": "2026-12-02T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Mack+Geiger",
+      "score": 71,
+      "score_parts": {
+        "demand": 24.3,
+        "scarcity": 18.7,
+        "markup": 25,
+        "timing": 3.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "53 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.6-2.8x face"
+      ]
+    },
+    {
       "id": "vv1AFZk4FGkdGB6kt",
       "name": "Matchbox Twenty - 30",
       "url": "https://www.ticketmaster.com/matchbox-twenty-30-clarkston-michigan-07-24-2027/event/08006548CCE871A9",
@@ -3227,6 +3425,65 @@
       ]
     },
     {
+      "id": "vv17bZ_fGkD_qcFM",
+      "name": "ZACH JOHN KING: GET TO DRINKIN' TOUR",
+      "url": "https://www.ticketmaster.com/zach-john-king-get-to-drinkin-columbia-missouri-04-16-2027/event/0600654ED976D237",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Zach John King"
+      ],
+      "artist_upcoming": 10,
+      "venue": "Rose Music Hall",
+      "city": "Columbia",
+      "state": "MO",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-17T01:00:00Z",
+      "onsale_start": "2026-10-23T15:00:00Z",
+      "onsale_end": "2027-04-17T02:00:00Z",
+      "presales": [
+        {
+          "name": "Zach John King Fan Club Presale",
+          "start": "2026-10-20T15:00:00Z",
+          "end": "2026-10-23T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-21T15:00:00Z",
+          "end": "2026-10-23T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Zach+John+King",
+      "score": 63,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 18.7,
+        "markup": 22.4,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_f0V8VLK",
       "name": "Shygirl - SWALLOW! LIVE",
       "url": "https://www.ticketmaster.com/shygirl-swallow-live-houston-texas-04-22-2027/event/3A006549344347D3",
@@ -3290,6 +3547,122 @@
         "~1,800 cap (from venue type)",
         "est. 1.5-2.5x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_4eT6mTi",
+      "name": "Zach John King - Get To Drinkin' Tour",
+      "url": "https://www.ticketmaster.com/zach-john-king-get-to-drinkin-houston-texas-02-04-2027/event/3A006550BF1EEFEC",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Zach John King"
+      ],
+      "artist_upcoming": 10,
+      "venue": "The Bronze Peacock at House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-05T01:00:00Z",
+      "onsale_start": "2026-10-23T15:00:00Z",
+      "onsale_end": "2027-02-05T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T15:00:00Z",
+          "end": "2026-10-23T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-20T15:00:00Z",
+          "end": "2026-10-23T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-20T15:00:00Z",
+          "end": "2026-10-23T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Zach+John+King",
+      "score": 62,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 18.2,
+        "markup": 22.4,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.6x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_fMpj_f0",
+      "name": "ZACH JOHN KING: GET TO DRINKIN' TOUR",
+      "url": "https://www.ticketmaster.com/zach-john-king-get-to-drinkin-dallas-texas-02-06-2027/event/0C00654DD6719524",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Zach John King"
+      ],
+      "artist_upcoming": 10,
+      "venue": "The Cambridge Room at House Of Blues",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-07T01:00:00Z",
+      "onsale_start": "2026-10-23T15:00:00Z",
+      "onsale_end": "2027-02-07T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T15:00:00Z",
+          "end": "2026-10-23T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Zach+John+King",
+      "score": 62,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 18.2,
+        "markup": 22.4,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.6x face",
+        "1 presale(s)"
       ]
     }
   ]
