@@ -1,27 +1,21 @@
-113 ticket drops scoring 60+ in the next 14 days.
+106 ticket drops scoring 60+ in the next 14 days.
 
-  69 - WWE
+  68 - WWE
   Charleston Coliseum, Charleston WV
   On sale Fri 24 Jul, 8:00 AM (passed)
   Event Fri 30 Oct, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  68 - WWE, WWE Monday Night RAW
+  67 - WWE, WWE Monday Night RAW
   Barclays Center, Brooklyn NY
   On sale Fri 24 Jul, 8:00 AM (passed)
   Event Mon 2 Nov, 3:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  71 - WWE, WWE Monday Night RAW
+  70 - WWE, WWE Monday Night RAW
   Save Mart Center, Fresno CA
   On sale Fri 24 Jul, 11:00 AM (passed)
   Event Mon 26 Oct, 5:30 PM
-  Face TBA - est. resale 1.3-2.25x face (low conf)
-
-  64 - WWE
-  Pechanga Arena San Diego, San Diego CA
-  On sale Fri 24 Jul, 11:00 AM (passed)
-  Event Mon 19 Oct, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
   68 - WWE, WWE Friday Night SmackDown
@@ -36,13 +30,13 @@
   Event Sat 28 Nov, 3:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  71 - WWE
+  70 - WWE
   Covelli Centre, Youngstown OH
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 29 Oct, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  71 - WWE, WWE Survivor Series
+  70 - WWE, WWE Survivor Series
   Cross Insurance Center, Bangor ME
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Fri 6 Nov, 5:30 PM
@@ -60,7 +54,7 @@
   Event Thu 12 Nov, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  71 - WWE, WWE Survivor Series
+  70 - WWE, WWE Survivor Series
   Von Braun Center Propst Arena, Huntsville AL
   On sale Fri 21 Aug, 9:00 AM (passed)
   Event Thu 19 Nov, 6:30 PM
@@ -70,4 +64,10 @@
   Acrisure Arena at Greater Palm Springs, Palm Desert CA
   On sale Fri 21 Aug, 11:00 AM (passed)
   Event Thu 22 Oct, 8:30 PM
+  Face TBA - est. resale 1.3-2.25x face (low conf)
+
+  70 - WWE
+  Lenovo Center, Raleigh NC
+  On sale Fri 11 Sep, 8:00 AM (passed)
+  Event Mon 16 Nov, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
