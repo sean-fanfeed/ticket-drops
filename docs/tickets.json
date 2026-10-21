@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-21T14:39:21Z",
-    "generated_local": "Wed 21 Oct, 8:39 AM",
-    "scanned": 986,
-    "surfaced": 227,
-    "new": 7,
+    "generated_utc": "2026-10-21T16:05:14Z",
+    "generated_local": "Wed 21 Oct, 10:05 AM",
+    "scanned": 988,
+    "surfaced": 233,
+    "new": 6,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2477,7 +2477,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 24,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -2533,9 +2533,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 68,
+      "score": 69,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 19.6,
         "scarcity": 20.9,
         "markup": 18.2,
         "timing": 10.0
@@ -2615,7 +2615,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 24,
       "venue": "Franklin Music Hall",
       "city": "Philadelphia",
       "state": "PA",
@@ -2628,9 +2628,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 61,
+      "score": 62,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 19.6,
         "scarcity": 18.7,
         "markup": 18.2,
         "timing": 6.0
@@ -2647,6 +2647,92 @@
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.4-2.3x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1AfGF17",
+      "name": "Madra Salach",
+      "url": "https://www.ticketweb.com/event/madra-salach-night-club-101-tickets/14308284",
+      "segment": "Music",
+      "genre": "Folk",
+      "artists": [
+        "Madra Salach"
+      ],
+      "artist_upcoming": 26,
+      "venue": "Night Club 101",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-10T00:00:00Z",
+      "onsale_start": "2026-10-21T14:00:00Z",
+      "onsale_end": "2026-11-10T00:00:00Z",
+      "presales": [],
+      "price_min": 27.22,
+      "price_max": 27.22,
+      "seatgeek_url": "https://seatgeek.com/search?search=Madra+Salach",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 22.7,
+        "markup": 10.9,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.8
+      ],
+      "est_resale_min": 34,
+      "est_resale_max": 49,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA74jN",
+      "name": "MercyMe",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA74jN",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "MercyMe"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Texas Trust CU Theatre",
+      "city": "Grand Prairie",
+      "state": "TX",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-16T00:00:00Z",
+      "onsale_start": "2026-10-21T15:00:00Z",
+      "onsale_end": "2027-04-16T00:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=MercyMe",
+      "score": 71,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
       ]
     },
     {
@@ -2807,6 +2893,49 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AA7b7s",
+      "name": "Tinashe",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7b7s",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Tinashe"
+      ],
+      "artist_upcoming": 24,
+      "venue": "The Midland Theatre - MO",
+      "city": "Kansas City",
+      "state": "MO",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-19T01:00:00Z",
+      "onsale_start": "2026-10-21T15:00:00Z",
+      "onsale_end": "2027-04-19T01:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
+      "score": 62,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face"
+      ]
+    },
+    {
       "id": "Z7r9jZ1AA7_47",
       "name": "Ruby Waters",
       "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7_47",
@@ -2891,45 +3020,46 @@
       ]
     },
     {
-      "id": "rZ7HnEZ1Afuzqf",
-      "name": "RUBY WATERS: SUPPRE$$IONS NORTH AMERICA TOUR",
-      "url": "https://www.ticketweb.com/event/ruby-waters-suppreions-north-america-crescent-ballroom-tickets/14378754",
+      "id": "Z7r9jZ1AA7bAv",
+      "name": "Tinashe",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7bAv",
       "segment": "Music",
-      "genre": "Alternative",
+      "genre": "R&B",
       "artists": [
-        "Ruby Waters"
+        "Tinashe"
       ],
       "artist_upcoming": 24,
-      "venue": "Crescent Ballroom",
-      "city": "Phoenix",
-      "state": "AZ",
-      "capacity": 550,
-      "capacity_source": "exact",
-      "event_date": "2027-03-12T03:00:00Z",
-      "onsale_start": "2026-10-21T17:00:00Z",
-      "onsale_end": "2027-03-12T04:30:00Z",
+      "venue": "Mission Ballroom",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-06T02:00:00Z",
+      "onsale_start": "2026-10-21T16:00:00Z",
+      "onsale_end": "2027-05-06T02:00:00Z",
       "presales": [],
-      "price_min": 0.0,
-      "price_max": 0.0,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
-      "score": 65,
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
+      "score": 64,
       "score_parts": {
         "demand": 19.6,
-        "scarcity": 24.5,
-        "markup": 15.1,
+        "scarcity": 20.7,
+        "markup": 18.2,
         "timing": 6.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.45,
+        2.3
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (550 cap)",
-        "est. 1.3-2.1x face"
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.4-2.3x face"
       ]
     },
     {
@@ -2941,7 +3071,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 24,
       "venue": "Paramount Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -2990,9 +3120,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 64,
+      "score": 66,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3021,7 +3151,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 24,
       "venue": "Fox Theater - Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -3063,9 +3193,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 64,
+      "score": 66,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3094,7 +3224,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 24,
       "venue": "Fox Theater - Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -3129,9 +3259,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 64,
+      "score": 66,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3149,6 +3279,48 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1Afuzqf",
+      "name": "RUBY WATERS: SUPPRE$$IONS NORTH AMERICA TOUR",
+      "url": "https://www.ticketweb.com/event/ruby-waters-suppreions-north-america-crescent-ballroom-tickets/14378754",
+      "segment": "Music",
+      "genre": "Alternative",
+      "artists": [
+        "Ruby Waters"
+      ],
+      "artist_upcoming": 24,
+      "venue": "Crescent Ballroom",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 550,
+      "capacity_source": "exact",
+      "event_date": "2027-03-12T03:00:00Z",
+      "onsale_start": "2026-10-21T17:00:00Z",
+      "onsale_end": "2027-03-12T04:30:00Z",
+      "presales": [],
+      "price_min": 0.0,
+      "price_max": 0.0,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
+      "score": 65,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 24.5,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (550 cap)",
+        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -11123,6 +11295,58 @@
       ]
     },
     {
+      "id": "G5viZ_48k67DU",
+      "name": "Ashley McBryde",
+      "url": "https://www.ticketmaster.com/ashley-mcbryde-jackson-mississippi-11-15-2026/event/1B006554061C4EF6",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Ashley McBryde"
+      ],
+      "artist_upcoming": 15,
+      "venue": "Duling Hall",
+      "city": "Jackson",
+      "state": "MS",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-16T01:30:00Z",
+      "onsale_start": "2026-10-23T15:00:00Z",
+      "onsale_end": "2026-11-16T03:30:00Z",
+      "presales": [
+        {
+          "name": "Thalia Mara Ticket Buyer Presale",
+          "start": "2026-10-21T15:00:00Z",
+          "end": "2026-10-23T14:00:00Z",
+          "url": "",
+          "how": "Thalia Mara Ticket Buyer Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ashley+McBryde",
+      "score": 69,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 19.6,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_fRcIyVW",
       "name": "Lucky Daye - The ALOUD! Tour",
       "url": "https://www.ticketmaster.com/lucky-daye-the-aloud-tour-new-orleans-louisiana-03-05-2027/event/1B00654BEDA39D3D",
@@ -12171,6 +12395,13 @@
           "end": "2026-10-23T03:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-21T17:00:00Z",
+          "end": "2026-10-23T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
@@ -12195,7 +12426,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
-        "1 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -15890,6 +16121,78 @@
         "~1,800 cap (from venue type)",
         "est. 1.4-2.3x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1iZ_fThlQCg",
+      "name": "CHVRCHES",
+      "url": "https://www.ticketmaster.com/chvrches-san-diego-california-03-12-2027/event/0B00654FDBADA3B5",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "CHVRCHES"
+      ],
+      "artist_upcoming": 28,
+      "venue": "The Observatory North Park",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 1000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-13T03:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-13T05:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-02-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
+      "score": 61,
+      "score_parts": {
+        "demand": 20.5,
+        "scarcity": 21.6,
+        "markup": 15.1,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,000 cap)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     }
   ]
