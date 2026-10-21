@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-21T12:24:21Z",
-    "generated_local": "Wed 21 Oct, 6:24 AM",
-    "scanned": 985,
-    "surfaced": 220,
-    "new": 12,
+    "generated_utc": "2026-10-21T14:39:21Z",
+    "generated_local": "Wed 21 Oct, 8:39 AM",
+    "scanned": 986,
+    "surfaced": 227,
+    "new": 7,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2477,7 +2477,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 20,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -2533,9 +2533,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 66,
+      "score": 68,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 18.5,
         "scarcity": 20.9,
         "markup": 18.2,
         "timing": 10.0
@@ -2604,6 +2604,49 @@
         "~500 cap (from venue type)",
         "est. 1.5-2.5x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7b7z",
+      "name": "Tinashe",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7b7z",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Tinashe"
+      ],
+      "artist_upcoming": 20,
+      "venue": "Franklin Music Hall",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-28T00:00:00Z",
+      "onsale_start": "2026-10-21T14:00:00Z",
+      "onsale_end": "2027-04-28T00:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
+      "score": 61,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face"
       ]
     },
     {
@@ -2772,7 +2815,7 @@
       "artists": [
         "Ruby Waters"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "The Crescent Ballroom",
       "city": "Phoenix",
       "state": "AZ",
@@ -2787,7 +2830,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
       "score": 62,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 24.5,
         "markup": 12.0,
         "timing": 6.0
@@ -2813,7 +2856,7 @@
       "artists": [
         "Ruby Waters"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Thalia Hall",
       "city": "Chicago",
       "state": "IL",
@@ -2828,7 +2871,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
       "score": 60,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 6.0
@@ -2856,7 +2899,7 @@
       "artists": [
         "Ruby Waters"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Crescent Ballroom",
       "city": "Phoenix",
       "state": "AZ",
@@ -2871,7 +2914,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
       "score": 65,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 24.5,
         "markup": 15.1,
         "timing": 6.0
@@ -2898,7 +2941,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 20,
       "venue": "Paramount Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -2947,9 +2990,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -2978,7 +3021,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 20,
       "venue": "Fox Theater - Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -3020,9 +3063,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3051,7 +3094,7 @@
       "artists": [
         "Tinashe"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 20,
       "venue": "Fox Theater - Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -3086,9 +3129,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tinashe",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -4382,13 +4425,6 @@
           "end": "2027-04-21T17:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Mastercard Preferred Tickets",
-          "start": "2026-10-22T17:00:00Z",
-          "end": "2027-03-29T03:00:00Z",
-          "url": "",
-          "how": ""
         }
       ],
       "price_min": null,
@@ -4413,7 +4449,7 @@
         "47 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
-        "7 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -6189,7 +6225,7 @@
       "artists": [
         "49 Winchester"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -6226,7 +6262,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=49+Winchester",
       "score": 71,
       "score_parts": {
-        "demand": 17.6,
+        "demand": 17.9,
         "scarcity": 20.9,
         "markup": 22.4,
         "timing": 10.0
@@ -6852,7 +6888,7 @@
       "artists": [
         "49 Winchester"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "The Charleston Music Hall",
       "city": "Charleston",
       "state": "SC",
@@ -6889,7 +6925,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=49+Winchester",
       "score": 69,
       "score_parts": {
-        "demand": 17.6,
+        "demand": 17.9,
         "scarcity": 18.7,
         "markup": 22.4,
         "timing": 10.0
@@ -7418,7 +7454,7 @@
       "artists": [
         "Ruby Waters"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Paradise Rock Club presented by Citizens",
       "city": "Boston",
       "state": "MA",
@@ -7455,7 +7491,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
       "score": 67,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 22.7,
         "markup": 15.1,
         "timing": 10.0
@@ -7840,7 +7876,7 @@
       "artists": [
         "Ruby Waters"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Bowery Ballroom",
       "city": "New York",
       "state": "NY",
@@ -7870,7 +7906,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
       "score": 65,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8131,6 +8167,56 @@
       ]
     },
     {
+      "id": "k7vGF_4KXepp3",
+      "name": "Annalise & The Mother Underground",
+      "url": "https://www.ticketmaster.com/annalise-the-mother-underground-new-york-new-york-11-23-2026/event/00006554FE096592",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [],
+      "artist_upcoming": 0,
+      "venue": "Mercury Lounge",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 500,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-24T02:00:00Z",
+      "onsale_start": "2026-10-23T14:00:00Z",
+      "onsale_end": "2026-11-24T04:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Annalise+%26+The+Mother+Underground",
+      "score": 64,
+      "score_parts": {
+        "demand": 4.0,
+        "scarcity": 25.0,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (500 cap)",
+        "~500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "k7vGF_fBMkh-r",
       "name": "Anson Jones, Donnie T Smith",
       "url": "https://www.ticketmaster.com/anson-jones-donnie-t-smith-new-york-new-york-12-03-2026/event/0000654EB719B85E",
@@ -8214,6 +8300,58 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Kingsland",
+      "score": 64,
+      "score_parts": {
+        "demand": 4.2,
+        "scarcity": 25.0,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (500 cap)",
+        "~500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_4KhWXiv",
+      "name": "Tender Misfit",
+      "url": "https://www.ticketmaster.com/tender-misfit-new-york-new-york-01-12-2027/event/00006554DBF7EB01",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Tender Misfit"
+      ],
+      "artist_upcoming": 1,
+      "venue": "Mercury Lounge",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 500,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-12T23:00:00Z",
+      "onsale_start": "2026-10-23T14:00:00Z",
+      "onsale_end": "2027-01-13T01:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Tender+Misfit",
       "score": 64,
       "score_parts": {
         "demand": 4.2,
@@ -9724,6 +9862,79 @@
         "~500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk48GkdramOZ",
+      "name": "THE TAYLOR PARTY: THE TS DANCE PARTY - 18+ event",
+      "url": "https://www.ticketmaster.com/the-taylor-party-the-ts-dance-louisville-kentucky-01-09-2027/event/16006550DE26E800",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "The Taylor Party: Taylor Night"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Mercury Ballroom",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-10T02:00:00Z",
+      "onsale_start": "2026-10-23T14:00:00Z",
+      "onsale_end": "2027-01-10T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-23T14:00:00Z",
+          "end": "2027-01-09T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=The+Taylor+Party%3A+Taylor+Night",
+      "score": 61,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -12479,6 +12690,34 @@
           "end": "2027-03-23T03:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-21T15:00:00Z",
+          "end": "2026-10-23T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-21T15:00:00Z",
+          "end": "2026-10-23T04:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-22T15:00:00Z",
+          "end": "2026-10-23T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-23T15:00:00Z",
+          "end": "2027-03-02T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
@@ -12503,7 +12742,7 @@
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "2 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -12972,6 +13211,79 @@
       ]
     },
     {
+      "id": "1ApZk48GkdPmR1L",
+      "name": "DEMOLA LIVE!",
+      "url": "https://www.ticketmaster.com/demola-live-louisville-kentucky-02-26-2027/event/16006550E5BAF29F",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Demola"
+      ],
+      "artist_upcoming": 8,
+      "venue": "Mercury Ballroom",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-27T01:00:00Z",
+      "onsale_start": "2026-10-23T15:00:00Z",
+      "onsale_end": "2027-02-27T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-21T15:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-22T15:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-21T15:00:00Z",
+          "end": "2026-10-23T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-23T15:00:00Z",
+          "end": "2027-02-26T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Demola",
+      "score": 62,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 20.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_4FoUPy4",
       "name": "Jack & Jack",
       "url": "https://www.ticketmaster.com/jack-jack-houston-texas-03-07-2027/event/3A00655211DA5E55",
@@ -13032,7 +13344,7 @@
       "artists": [
         "Ruby Waters"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Encore at Uptown Theater",
       "city": "Kansas City",
       "state": "MO",
@@ -13062,7 +13374,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ruby+Waters",
       "score": 62,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -13754,7 +14066,7 @@
       "artists": [
         "49 Winchester"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "August Hall",
       "city": "San Francisco",
       "state": "CA",
@@ -13812,7 +14124,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=49+Winchester",
       "score": 70,
       "score_parts": {
-        "demand": 17.6,
+        "demand": 17.9,
         "scarcity": 19.6,
         "markup": 22.4,
         "timing": 10.0
@@ -13842,7 +14154,7 @@
         "49 Winchester",
         "Kenny Whitmire"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "Rialto Theatre-Tucson",
       "city": "Tucson",
       "state": "AZ",
@@ -13872,7 +14184,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=49+Winchester",
       "score": 68,
       "score_parts": {
-        "demand": 17.6,
+        "demand": 17.9,
         "scarcity": 17.7,
         "markup": 22.4,
         "timing": 10.0
@@ -14717,6 +15029,48 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AA7O3A",
+      "name": "49 Winchester",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7O3A",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "49 Winchester"
+      ],
+      "artist_upcoming": 18,
+      "venue": "Belly Up Tavern",
+      "city": "Solana Beach",
+      "state": "CA",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T05:00:00Z",
+      "onsale_start": "2026-10-23T17:00:00Z",
+      "onsale_end": "2027-03-07T05:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=49+Winchester",
+      "score": 61,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 25.0,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)"
+      ]
+    },
+    {
       "id": "vv16aZk4f-oZA5k727",
       "name": "The Chameleons",
       "url": "https://www.ticketmaster.com/the-chameleons-santa-ana-california-05-14-2027/event/09006554851A53E3",
@@ -15483,6 +15837,59 @@
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_fGkT2t0AA",
+      "name": "Angine de Poitrine",
+      "url": "https://www.ticketmaster.com/angine-de-poitrine-boston-massachusetts-05-03-2027/event/0100654FCFA64145",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Angine de Poitrine"
+      ],
+      "artist_upcoming": 43,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-04T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-04T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Angine+de+Poitrine",
+      "score": 64,
+      "score_parts": {
+        "demand": 23.0,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "43 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
       ]
     }
   ]
