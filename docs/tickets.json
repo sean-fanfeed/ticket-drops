@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-22T17:36:38Z",
-    "generated_local": "Thu 22 Oct, 11:36 AM",
+    "generated_utc": "2026-10-22T18:02:33Z",
+    "generated_local": "Thu 22 Oct, 12:02 PM",
     "scanned": 1008,
-    "surfaced": 251,
-    "new": 17,
+    "surfaced": 252,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2994,6 +2994,329 @@
       ]
     },
     {
+      "id": "1AYZk4FGkeyUJwu",
+      "name": "Calvin Harris - North America Tour",
+      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-09-2027/event/30006548B9DA6C8D",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY",
+      "capacity": 19000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-10T00:00:00Z",
+      "onsale_start": "2026-10-22T16:00:00Z",
+      "onsale_end": "2027-04-10T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T16:00:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-10-19T14:00:00Z",
+          "end": "2026-10-20T14:00:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist VIP Packages Presale",
+          "start": "2026-10-20T16:00:00Z",
+          "end": "2026-10-21T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-22T16:00:00Z",
+          "end": "2027-04-05T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
+      "score": 65,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 7.1,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "est. 1.6-2.6x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "16YZk4ov9ZAu1F7G",
+      "name": "Calvin Harris - North America Tour",
+      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-10-2027/event/30006551057C973B",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY",
+      "capacity": 19000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-11T00:00:00Z",
+      "onsale_start": "2026-10-22T16:00:00Z",
+      "onsale_end": "2027-04-11T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T16:00:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist VIP Packages Presale",
+          "start": "2026-10-20T16:00:00Z",
+          "end": "2026-10-21T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-22T16:00:00Z",
+          "end": "2027-04-06T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
+      "score": 65,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 7.1,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "est. 1.6-2.6x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "16YZk4K-yZA5e8kA",
+      "name": "Calvin Harris - North America Tour",
+      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-06-2027/event/30006553879A1F54",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY",
+      "capacity": 19000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-07T00:00:00Z",
+      "onsale_start": "2026-10-22T16:00:00Z",
+      "onsale_end": "2027-04-07T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T16:45:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist VIP Packages Presale",
+          "start": "2026-10-20T16:45:00Z",
+          "end": "2026-10-21T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-22T16:00:00Z",
+          "end": "2027-04-02T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
+      "score": 65,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 7.1,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "est. 1.6-2.6x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "16dZZ_4C6G7nsW_",
+      "name": "Calvin Harris - North America Tour",
+      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-07-2027/event/3000655387AB1F59",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Barclays Center",
+      "city": "Brooklyn",
+      "state": "NY",
+      "capacity": 19000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-08T00:00:00Z",
+      "onsale_start": "2026-10-22T16:00:00Z",
+      "onsale_end": "2027-04-08T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T17:00:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist VIP Packages Presale",
+          "start": "2026-10-20T17:00:00Z",
+          "end": "2026-10-21T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-22T16:00:00Z",
+          "end": "2027-04-03T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-21T16:00:00Z",
+          "end": "2026-10-22T15:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
+      "score": 65,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 7.1,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "est. 1.6-2.6x face",
+        "5 presale(s)"
+      ]
+    },
+    {
       "id": "1AYZk4aGkeW8JvI",
       "name": "Calvin Harris - North America Tour",
       "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-philadelphia-pennsylvania-04-08-2027/event/30006549BD426068",
@@ -3002,7 +3325,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Xfinity Mobile Arena",
       "city": "Philadelphia",
       "state": "PA",
@@ -3060,7 +3383,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -3074,7 +3397,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
@@ -3089,7 +3412,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "CFG Bank Arena",
       "city": "Baltimore",
       "state": "MD",
@@ -3154,7 +3477,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -3168,7 +3491,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "7 presale(s)"
@@ -3185,7 +3508,7 @@
         "Nothing",
         "Trauma Ray"
       ],
-      "artist_upcoming": 41,
+      "artist_upcoming": 40,
       "venue": "House of Blues Chicago",
       "city": "Chicago",
       "state": "IL",
@@ -3200,7 +3523,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Turnover",
       "score": 65,
       "score_parts": {
-        "demand": 22.7,
+        "demand": 22.6,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 6.0
@@ -3214,174 +3537,9 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "41 upcoming dates (heavy routing)",
+        "40 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face"
-      ]
-    },
-    {
-      "id": "1AYZk4FGkeyUJwu",
-      "name": "Calvin Harris - North America Tour",
-      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-09-2027/event/30006548B9DA6C8D",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Calvin Harris"
-      ],
-      "artist_upcoming": 54,
-      "venue": "Barclays Center",
-      "city": "Brooklyn",
-      "state": "NY",
-      "capacity": 19000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-10T00:00:00Z",
-      "onsale_start": "2026-10-22T16:00:00Z",
-      "onsale_end": "2027-04-10T00:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-20T16:00:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Reserved by Spotify",
-          "start": "2026-10-19T14:00:00Z",
-          "end": "2026-10-20T14:00:00Z",
-          "url": "",
-          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist VIP Packages Presale",
-          "start": "2026-10-20T16:00:00Z",
-          "end": "2026-10-21T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-22T16:00:00Z",
-          "end": "2027-04-05T16:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
-      "score": 64,
-      "score_parts": {
-        "demand": 24.4,
-        "scarcity": 7.1,
-        "markup": 22.9,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.6,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "54 upcoming dates (heavy routing)",
-        "est. 1.6-2.6x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "16YZk4ov9ZAu1F7G",
-      "name": "Calvin Harris - North America Tour",
-      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-10-2027/event/30006551057C973B",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Calvin Harris"
-      ],
-      "artist_upcoming": 54,
-      "venue": "Barclays Center",
-      "city": "Brooklyn",
-      "state": "NY",
-      "capacity": 19000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-11T00:00:00Z",
-      "onsale_start": "2026-10-22T16:00:00Z",
-      "onsale_end": "2027-04-11T00:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-20T16:00:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist VIP Packages Presale",
-          "start": "2026-10-20T16:00:00Z",
-          "end": "2026-10-21T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-22T16:00:00Z",
-          "end": "2027-04-06T16:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
-      "score": 64,
-      "score_parts": {
-        "demand": 24.4,
-        "scarcity": 7.1,
-        "markup": 22.9,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.6,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "54 upcoming dates (heavy routing)",
-        "est. 1.6-2.6x face",
-        "5 presale(s)"
       ]
     },
     {
@@ -3393,7 +3551,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "TD Garden",
       "city": "Boston",
       "state": "MA",
@@ -3451,7 +3609,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 64,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 6.9,
         "markup": 22.9,
         "timing": 10.0
@@ -3465,167 +3623,9 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
-      ]
-    },
-    {
-      "id": "16YZk4K-yZA5e8kA",
-      "name": "Calvin Harris - North America Tour",
-      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-06-2027/event/30006553879A1F54",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Calvin Harris"
-      ],
-      "artist_upcoming": 54,
-      "venue": "Barclays Center",
-      "city": "Brooklyn",
-      "state": "NY",
-      "capacity": 19000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-07T00:00:00Z",
-      "onsale_start": "2026-10-22T16:00:00Z",
-      "onsale_end": "2027-04-07T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-20T16:45:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist VIP Packages Presale",
-          "start": "2026-10-20T16:45:00Z",
-          "end": "2026-10-21T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-22T16:00:00Z",
-          "end": "2027-04-02T16:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
-      "score": 64,
-      "score_parts": {
-        "demand": 24.4,
-        "scarcity": 7.1,
-        "markup": 22.9,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.6,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "54 upcoming dates (heavy routing)",
-        "est. 1.6-2.6x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "16dZZ_4C6G7nsW_",
-      "name": "Calvin Harris - North America Tour",
-      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-brooklyn-new-york-04-07-2027/event/3000655387AB1F59",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Calvin Harris"
-      ],
-      "artist_upcoming": 54,
-      "venue": "Barclays Center",
-      "city": "Brooklyn",
-      "state": "NY",
-      "capacity": 19000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-08T00:00:00Z",
-      "onsale_start": "2026-10-22T16:00:00Z",
-      "onsale_end": "2027-04-08T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-20T17:00:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist VIP Packages Presale",
-          "start": "2026-10-20T17:00:00Z",
-          "end": "2026-10-21T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-22T16:00:00Z",
-          "end": "2027-04-03T16:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-21T16:00:00Z",
-          "end": "2026-10-22T15:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
-      "score": 64,
-      "score_parts": {
-        "demand": 24.4,
-        "scarcity": 7.1,
-        "markup": 22.9,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.6,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "54 upcoming dates (heavy routing)",
-        "est. 1.6-2.6x face",
-        "5 presale(s)"
       ]
     },
     {
@@ -3637,7 +3637,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "TD Garden",
       "city": "Boston",
       "state": "MA",
@@ -3688,7 +3688,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 64,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 6.9,
         "markup": 22.9,
         "timing": 10.0
@@ -3702,7 +3702,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
       ]
@@ -3716,7 +3716,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "TD Garden",
       "city": "Boston",
       "state": "MA",
@@ -3739,7 +3739,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 64,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 6.9,
         "markup": 22.9,
         "timing": 10.0
@@ -3753,7 +3753,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "1 presale(s)"
       ]
@@ -3810,7 +3810,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Moody Center ATX",
       "city": "Austin",
       "state": "TX",
@@ -3868,7 +3868,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 68,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -3882,7 +3882,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
@@ -3897,7 +3897,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Dickies Arena",
       "city": "Fort Worth",
       "state": "TX",
@@ -3955,7 +3955,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -3969,7 +3969,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
@@ -3984,7 +3984,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Grand Casino Arena",
       "city": "Saint Paul",
       "state": "MN",
@@ -4014,7 +4014,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -4028,7 +4028,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "2 presale(s)"
@@ -4086,7 +4086,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "United Center",
       "city": "Chicago",
       "state": "IL",
@@ -4142,9 +4142,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 6.0,
         "markup": 22.9,
         "timing": 10.0
@@ -4158,7 +4158,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
       ]
@@ -4172,7 +4172,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "United Center",
       "city": "Chicago",
       "state": "IL",
@@ -4221,9 +4221,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 6.0,
         "markup": 22.9,
         "timing": 10.0
@@ -4237,7 +4237,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
       ]
@@ -4296,7 +4296,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Delta Center",
       "city": "Salt Lake City",
       "state": "UT",
@@ -4326,7 +4326,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 68,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -4340,10 +4340,62 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AaZk44GkdGR8BI",
+      "name": "Calvin Harris - North America Tour",
+      "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-anaheim-california-05-20-2027/event/09006555CCBD0EA8",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Calvin Harris"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Honda Center",
+      "city": "Anaheim",
+      "state": "CA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-21T03:00:00Z",
+      "onsale_start": "2026-10-22T19:00:00Z",
+      "onsale_end": "2027-05-21T03:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-22T19:00:00Z",
+          "end": "2027-05-16T19:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
+      "score": 68,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -4355,7 +4407,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Kia Forum",
       "city": "Inglewood",
       "state": "CA",
@@ -4413,7 +4465,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.5,
         "markup": 22.9,
         "timing": 10.0
@@ -4427,7 +4479,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
       ]
@@ -4441,7 +4493,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Kia Forum",
       "city": "Inglewood",
       "state": "CA",
@@ -4492,7 +4544,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.5,
         "markup": 22.9,
         "timing": 10.0
@@ -4506,7 +4558,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
       ]
@@ -4520,7 +4572,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Kia Forum",
       "city": "Inglewood",
       "state": "CA",
@@ -4571,7 +4623,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.5,
         "markup": 22.9,
         "timing": 10.0
@@ -4585,7 +4637,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
       ]
@@ -4599,7 +4651,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Kia Forum",
       "city": "Inglewood",
       "state": "CA",
@@ -4650,7 +4702,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.5,
         "markup": 22.9,
         "timing": 10.0
@@ -4664,7 +4716,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
       ]
@@ -4678,7 +4730,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Oakland Arena",
       "city": "Oakland",
       "state": "CA",
@@ -4736,7 +4788,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -4750,7 +4802,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
@@ -4765,7 +4817,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Climate Pledge Arena",
       "city": "Seattle",
       "state": "WA",
@@ -4823,7 +4875,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -4837,7 +4889,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
@@ -4852,7 +4904,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Oakland Arena",
       "city": "Oakland",
       "state": "CA",
@@ -4896,7 +4948,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -4910,7 +4962,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "4 presale(s)"
@@ -4925,7 +4977,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Oakland Arena",
       "city": "Oakland",
       "state": "CA",
@@ -4976,7 +5028,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -4990,7 +5042,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
@@ -5005,7 +5057,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Kia Forum",
       "city": "Inglewood",
       "state": "CA",
@@ -5028,7 +5080,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.5,
         "markup": 22.9,
         "timing": 10.0
@@ -5042,7 +5094,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "1 presale(s)"
       ]
@@ -5056,7 +5108,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Viejas Arena at Aztec Bowl San Diego State University",
       "city": "San Diego",
       "state": "CA",
@@ -5114,7 +5166,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -5128,7 +5180,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "6 presale(s)"
@@ -5143,7 +5195,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Viejas Arena at Aztec Bowl San Diego State University",
       "city": "San Diego",
       "state": "CA",
@@ -5194,7 +5246,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -5208,7 +5260,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
@@ -5223,7 +5275,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Viejas Arena at Aztec Bowl San Diego State University",
       "city": "San Diego",
       "state": "CA",
@@ -5274,7 +5326,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -5288,7 +5340,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "5 presale(s)"
@@ -5303,7 +5355,7 @@
       "artists": [
         "Calvin Harris"
       ],
-      "artist_upcoming": 54,
+      "artist_upcoming": 56,
       "venue": "Climate Pledge Arena",
       "city": "Seattle",
       "state": "WA",
@@ -5326,7 +5378,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Calvin+Harris",
       "score": 65,
       "score_parts": {
-        "demand": 24.4,
+        "demand": 24.6,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -5340,7 +5392,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "54 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "1 presale(s)"
@@ -9798,7 +9850,7 @@
       "artists": [
         "Our Last Night"
       ],
-      "artist_upcoming": 11,
+      "artist_upcoming": 12,
       "venue": "Hampton Beach Casino Ballroom",
       "city": "Hampton Beach",
       "state": "NH",
@@ -9835,7 +9887,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Our+Last+Night",
       "score": 61,
       "score_parts": {
-        "demand": 15.1,
+        "demand": 15.6,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 10.0
