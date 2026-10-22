@@ -1,4 +1,4 @@
-225 ticket drops scoring 60+ in the next 14 days.
+234 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   Charleston Coliseum, Charleston WV
@@ -12,7 +12,7 @@
   Event Mon 2 Nov, 3:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  70 - WWE, WWE Monday Night RAW
+  70 - WWE
   Save Mart Center, Fresno CA
   On sale Fri 24 Jul, 11:00 AM (passed)
   Event Mon 26 Oct, 5:30 PM

@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-22T14:38:46Z",
-    "generated_local": "Thu 22 Oct, 8:38 AM",
-    "scanned": 1004,
-    "surfaced": 225,
-    "new": 4,
+    "generated_utc": "2026-10-22T16:00:27Z",
+    "generated_local": "Thu 22 Oct, 10:00 AM",
+    "scanned": 1003,
+    "surfaced": 234,
+    "new": 9,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -191,8 +191,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
       "artist_upcoming": 37,
       "venue": "Save Mart Center",
@@ -227,7 +226,7 @@
         },
         {
           "name": "Club WWE Members Offer",
-          "start": "2026-10-23T17:00:00Z",
+          "start": "2026-10-22T17:00:00Z",
           "end": "2026-10-27T01:30:00Z",
           "url": "",
           "how": ""
@@ -2491,6 +2490,129 @@
       ]
     },
     {
+      "id": "vv17FZ_fGkXcAaHF",
+      "name": "Buffalo Traffic Jam: Pictures Of You Tour",
+      "url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-philadelphia-pennsylvania-02-27-2027/event/0200654FAD149F08",
+      "segment": "Music",
+      "genre": "Folk",
+      "artists": [
+        "Buffalo Traffic Jam",
+        "Jack Van Cleaf"
+      ],
+      "artist_upcoming": 37,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-28T01:00:00Z",
+      "onsale_start": "2026-10-22T14:00:00Z",
+      "onsale_end": "2027-02-28T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T14:00:00Z",
+          "end": "2026-10-22T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-20T14:00:00Z",
+          "end": "2026-10-22T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-22T14:00:00Z",
+          "end": "2027-02-21T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
+      "score": 64,
+      "score_parts": {
+        "demand": 22.1,
+        "scarcity": 20.9,
+        "markup": 10.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvfZ_fGkXqoMLW",
+      "name": "Buffalo Traffic Jam: Pictures Of You Tour",
+      "url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-silver-spring-maryland-02-26-2027/event/1500654F9D4777FD",
+      "segment": "Music",
+      "genre": "Folk",
+      "artists": [
+        "Buffalo Traffic Jam",
+        "Jack Van Cleaf"
+      ],
+      "artist_upcoming": 37,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-27T01:00:00Z",
+      "onsale_start": "2026-10-22T14:00:00Z",
+      "onsale_end": "2027-02-27T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-20T14:00:00Z",
+          "end": "2026-10-22T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-21T14:00:00Z",
+          "end": "2026-10-22T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
+      "score": 64,
+      "score_parts": {
+        "demand": 22.1,
+        "scarcity": 20.9,
+        "markup": 10.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1VZ_fNYiJg3",
       "name": "One Night Of Queen Performed By Gary Mullen And The Works",
       "url": "https://www.ticketmaster.com/one-night-of-queen-performed-by-ft-lauderdale-florida-05-15-2027/event/0D006548F0B26D52",
@@ -2535,129 +2657,6 @@
       ]
     },
     {
-      "id": "vv17FZ_fGkXcAaHF",
-      "name": "Buffalo Traffic Jam: Pictures Of You Tour",
-      "url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-philadelphia-pennsylvania-02-27-2027/event/0200654FAD149F08",
-      "segment": "Music",
-      "genre": "Folk",
-      "artists": [
-        "Buffalo Traffic Jam",
-        "Jack Van Cleaf"
-      ],
-      "artist_upcoming": 34,
-      "venue": "The Fillmore Philadelphia",
-      "city": "Philadelphia",
-      "state": "PA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-02-28T01:00:00Z",
-      "onsale_start": "2026-10-22T14:00:00Z",
-      "onsale_end": "2027-02-28T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-20T14:00:00Z",
-          "end": "2026-10-22T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-20T14:00:00Z",
-          "end": "2026-10-22T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-22T14:00:00Z",
-          "end": "2027-02-21T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
-      "score": 63,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 20.9,
-        "markup": 10.9,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1AvfZ_fGkXqoMLW",
-      "name": "Buffalo Traffic Jam: Pictures Of You Tour",
-      "url": "https://www.ticketmaster.com/buffalo-traffic-jam-pictures-of-you-silver-spring-maryland-02-26-2027/event/1500654F9D4777FD",
-      "segment": "Music",
-      "genre": "Folk",
-      "artists": [
-        "Buffalo Traffic Jam",
-        "Jack Van Cleaf"
-      ],
-      "artist_upcoming": 34,
-      "venue": "The Fillmore Silver Spring",
-      "city": "Silver Spring",
-      "state": "MD",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-02-27T01:00:00Z",
-      "onsale_start": "2026-10-22T14:00:00Z",
-      "onsale_end": "2027-02-27T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-20T14:00:00Z",
-          "end": "2026-10-22T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-21T14:00:00Z",
-          "end": "2026-10-22T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
-      "score": 63,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 20.9,
-        "markup": 10.9,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.8
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "16pZk4KJeZA57GG1",
       "name": "Buffalo Traffic Jam: Pictures Of You Tour",
       "url": "https://tickets.kentuckyperformingarts.org/26757",
@@ -2666,7 +2665,7 @@
       "artists": [
         "Buffalo Traffic Jam"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 37,
       "venue": "Old Forester's Paristown Hall",
       "city": "Louisville",
       "state": "KY",
@@ -2694,9 +2693,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
-      "score": 62,
+      "score": 63,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 22.1,
         "scarcity": 19.6,
         "markup": 10.9,
         "timing": 10.0
@@ -2775,7 +2774,7 @@
       "artists": [
         "Buffalo Traffic Jam"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 37,
       "venue": "Val Air Ballroom",
       "city": "West Des Moines",
       "state": "IA",
@@ -2803,9 +2802,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 22.1,
         "scarcity": 20.7,
         "markup": 10.9,
         "timing": 10.0
@@ -2834,7 +2833,7 @@
         "Buffalo Traffic Jam",
         "Jack Van Cleaf"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 37,
       "venue": "The Astro Theater",
       "city": "La Vista",
       "state": "NE",
@@ -2862,9 +2861,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
-      "score": 60,
+      "score": 61,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 22.1,
         "scarcity": 17.7,
         "markup": 10.9,
         "timing": 10.0
@@ -2892,7 +2891,7 @@
       "artists": [
         "Buffalo Traffic Jam"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 37,
       "venue": "Ryman Auditorium",
       "city": "Nashville",
       "state": "TN",
@@ -2922,7 +2921,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Buffalo+Traffic+Jam",
       "score": 60,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 22.1,
         "scarcity": 17.4,
         "markup": 10.9,
         "timing": 10.0
@@ -2938,6 +2937,60 @@
       "reasons": [
         "small room (2,362 cap)",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_49OPHiK",
+      "name": "Skilla Baby: The Price of Fame Tour (18+)",
+      "url": "https://www.ticketmaster.com/skilla-baby-the-price-of-fame-new-york-new-york-12-11-2026/event/00006555E097CB13",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Skilla Baby",
+        "Sada Baby",
+        "Funk Flex"
+      ],
+      "artist_upcoming": 23,
+      "venue": "Gramercy Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-12T00:00:00Z",
+      "onsale_start": "2026-10-22T16:00:00Z",
+      "onsale_end": "2026-12-12T02:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-22T16:00:00Z",
+          "end": "2026-11-14T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Skilla+Baby",
+      "score": 68,
+      "score_parts": {
+        "demand": 19.3,
+        "scarcity": 17.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -3119,6 +3172,51 @@
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk44GkdjuDa0",
+      "name": "Turnover - Down On Earth Tour",
+      "url": "https://www.ticketmaster.com/turnover-down-on-earth-tour-chicago-illinois-11-25-2026/event/04006555DC37B264",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Turnover",
+        "Nothing",
+        "Trauma Ray"
+      ],
+      "artist_upcoming": 40,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2026-11-26T00:30:00Z",
+      "onsale_start": "2026-10-22T16:00:00Z",
+      "onsale_end": "2026-11-26T00:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Turnover",
+      "score": 65,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face"
       ]
     },
     {
@@ -3661,6 +3759,49 @@
       ]
     },
     {
+      "id": "1ApZk4KGkdhhbUL",
+      "name": "feeble little horse - bitknot tour 2027",
+      "url": "https://www.ticketmaster.com/feeble-little-horse-bitknot-tour-2027-pittsburgh-pennsylvania-02-10-2027/event/16006553DB6D8D9F",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "feeble little horse"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Spirit Hall",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-11T00:00:00Z",
+      "onsale_start": "2026-10-22T16:00:00Z",
+      "onsale_end": "2027-02-11T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=feeble+little+horse",
+      "score": 60,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face"
+      ]
+    },
+    {
       "id": "G5dIZ_fJHNAQG",
       "name": "Calvin Harris - North America Tour",
       "url": "https://www.ticketmaster.com/calvin-harris-north-america-tour-austin-texas-04-25-2027/event/3A006549BC8C568C",
@@ -3891,6 +4032,49 @@
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1A4v34N",
+      "name": "AFTERLIFE AFTERPARTY: FROST CHILDREN (DJ SET)",
+      "url": "https://www.ticketweb.com/event/afterlife-afterparty-frost-children-dj-bardot-tickets/15052563",
+      "segment": "Music",
+      "genre": "Alternative",
+      "artists": [
+        "Frost Children"
+      ],
+      "artist_upcoming": 17,
+      "venue": "Bardot",
+      "city": "Hollywood",
+      "state": "CA",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-11T06:00:00Z",
+      "onsale_start": "2026-10-22T17:00:00Z",
+      "onsale_end": "2026-12-11T06:00:00Z",
+      "presales": [],
+      "price_min": 24.95,
+      "price_max": 24.95,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frost+Children",
+      "score": 64,
+      "score_parts": {
+        "demand": 17.6,
+        "scarcity": 25.0,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": 34,
+      "est_resale_max": 52,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)",
+        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -10574,6 +10758,58 @@
       ]
     },
     {
+      "id": "vvG1YZ_fG-TC9z",
+      "name": "Emily Ann Roberts",
+      "url": "https://www.ticketmaster.com/emily-ann-roberts-durant-oklahoma-04-09-2027/event/0C00654321FCE5F8",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Emily Ann Roberts"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Choctaw Grand Theater",
+      "city": "Durant",
+      "state": "OK",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-10T01:00:00Z",
+      "onsale_start": "2026-10-23T15:00:00Z",
+      "onsale_end": "2027-04-10T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-22T15:30:00Z",
+          "end": "2026-10-23T14:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Emily+Ann+Roberts",
+      "score": 71,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_4CqPQZv",
       "name": "Corey Smith: 21 After 21 Tour",
       "url": "https://www.ticketmaster.com/corey-smith-21-after-21-tour-baton-rouge-louisiana-03-26-2027/event/1B0065539D95A001",
@@ -11070,49 +11306,6 @@
         "~1,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1YZ_fG-TC9z",
-      "name": "Emily Ann Roberts",
-      "url": "https://www.ticketmaster.com/emily-ann-roberts-durant-oklahoma-04-09-2027/event/0C00654321FCE5F8",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Emily Ann Roberts"
-      ],
-      "artist_upcoming": 30,
-      "venue": "Choctaw Grand Theater",
-      "city": "Durant",
-      "state": "OK",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-10T01:00:00Z",
-      "onsale_start": "2026-10-23T15:00:00Z",
-      "onsale_end": "2027-04-10T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Emily+Ann+Roberts",
-      "score": 67,
-      "score_parts": {
-        "demand": 20.9,
-        "scarcity": 17.7,
-        "markup": 22.4,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.5-2.6x face"
       ]
     },
     {
@@ -15693,6 +15886,318 @@
       ]
     },
     {
+      "id": "vv1AeZk4KGkdydW4L",
+      "name": "2hollis: The Pirouette Tour",
+      "url": "https://www.ticketmaster.com/2hollis-the-pirouette-tour-philadelphia-pennsylvania-02-16-2027/event/02006553F90FD55F",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "2hollis",
+        "Lucy Bedroque",
+        "Conceal"
+      ],
+      "artist_upcoming": 21,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-17T01:00:00Z",
+      "onsale_start": "2026-10-28T14:00:00Z",
+      "onsale_end": "2027-02-17T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2027-02-10T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2027-02-10T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_fH5DVy2",
+      "name": "2hollis: The Pirouette Tour",
+      "url": "https://www.ticketmaster.com/2hollis-the-pirouette-tour-charlotte-north-carolina-02-19-2027/event/2D00654F0BEF4E4F",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "2hollis",
+        "Lucy Bedroque",
+        "Conceal"
+      ],
+      "artist_upcoming": 21,
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-20T01:00:00Z",
+      "onsale_start": "2026-10-28T14:00:00Z",
+      "onsale_end": "2027-02-20T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2027-02-13T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A8vPfaGA11aU1",
+      "name": "2hollis: The Pirouette Tour",
+      "url": "https://www.ticketmaster.com/2hollis-the-pirouette-tour-boston-massachusetts-02-15-2027/event/010065509A289D8A",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "2hollis",
+        "Lucy Bedroque",
+        "Conceal"
+      ],
+      "artist_upcoming": 21,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-16T01:00:00Z",
+      "onsale_start": "2026-10-28T14:00:00Z",
+      "onsale_end": "2027-02-16T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T12:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
+      "score": 60,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk48Gkd1bHjT",
+      "name": "2hollis",
+      "url": "https://www.ticketmaster.com/2hollis-chicago-illinois-02-09-2027/event/04006550CA63C73F",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "2hollis",
+        "Lucy Bedroque",
+        "Conceal"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Aragon Ballroom",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-10T02:00:00Z",
+      "onsale_start": "2026-10-28T15:00:00Z",
+      "onsale_end": "2027-02-10T02:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T13:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2027-01-26T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T13:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T13:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-29T01:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2027-02-03T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vv177Z_fGkT2t0AA",
       "name": "Angine de Poitrine",
       "url": "https://www.ticketmaster.com/angine-de-poitrine-boston-massachusetts-05-03-2027/event/0100654FCFA64145",
@@ -15809,6 +16314,65 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4aGMGrr",
+      "name": "Interpol - North America Tour 2027",
+      "url": "https://www.ticketmaster.com/interpol-north-america-tour-2027-memphis-tennessee-03-22-2027/event/1B0065524CDCC79E",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Interpol"
+      ],
+      "artist_upcoming": 28,
+      "venue": "Satellite Music Hall",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-23T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-23T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Interpol",
+      "score": 61,
+      "score_parts": {
+        "demand": 20.5,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
