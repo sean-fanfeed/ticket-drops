@@ -1,4 +1,4 @@
-252 ticket drops scoring 60+ in the next 14 days.
+215 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   Charleston Coliseum, Charleston WV
@@ -60,14 +60,14 @@
   Event Thu 19 Nov, 6:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  68 - WWE
-  Acrisure Arena at Greater Palm Springs, Palm Desert CA
-  On sale Fri 21 Aug, 11:00 AM (passed)
-  Event Thu 22 Oct, 8:30 PM
-  Face TBA - est. resale 1.3-2.25x face (low conf)
-
   70 - WWE
   Lenovo Center, Raleigh NC
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 16 Nov, 5:30 PM
+  Face TBA - est. resale 1.3-2.25x face (low conf)
+
+  70 - WWE
+  Huntington Center, Toledo OH
+  On sale Fri 11 Sep, 8:00 AM (passed)
+  Event Mon 7 Dec, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
