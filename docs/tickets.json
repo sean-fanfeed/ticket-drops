@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-23T17:25:28Z",
-    "generated_local": "Fri 23 Oct, 11:25 AM",
+    "generated_utc": "2026-10-23T17:54:04Z",
+    "generated_local": "Fri 23 Oct, 11:54 AM",
     "scanned": 1019,
-    "surfaced": 224,
-    "new": 5,
+    "surfaced": 223,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -13170,66 +13170,6 @@
         "~16,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "1A_Zk4AGkdsVqnI",
-      "name": "PBR World Finals: Unleash The Beast",
-      "url": "https://www.ticketmaster.com/pbr-world-finals-unleash-the-beast-glendale-arizona-05-22-2027/event/19006545F1D1DAA8",
-      "segment": "Sports",
-      "genre": "Rodeo",
-      "artists": [
-        "PBR: Unleash the Beast",
-        "PBR: Professional Bull Riders"
-      ],
-      "artist_upcoming": 112,
-      "venue": "Desert Diamond Arena",
-      "city": "Glendale",
-      "state": "AZ",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-23T01:45:00Z",
-      "onsale_start": "2026-10-26T17:00:00Z",
-      "onsale_end": "2027-05-23T03:45:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-19T17:00:00Z",
-          "end": "2026-10-26T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-26T17:00:00Z",
-          "end": "2027-05-14T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=PBR%3A+Unleash+the+Beast",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 7.9,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "112 upcoming dates (heavy routing)",
-        "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "2 presale(s)"
       ]
     },
     {
