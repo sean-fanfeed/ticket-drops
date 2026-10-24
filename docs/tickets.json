@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-24T13:34:16Z",
-    "generated_local": "Sat 24 Oct, 7:34 AM",
-    "scanned": 291,
+    "generated_utc": "2026-10-24T14:50:00Z",
+    "generated_local": "Sat 24 Oct, 8:50 AM",
+    "scanned": 292,
     "surfaced": 66,
     "new": 0,
     "threshold": 60,
@@ -2418,7 +2418,7 @@
         "PBR: Unleash the Beast",
         "PBR: Professional Bull Riders"
       ],
-      "artist_upcoming": 112,
+      "artist_upcoming": 111,
       "venue": "Desert Diamond Arena",
       "city": "Glendale",
       "state": "AZ",
@@ -2462,7 +2462,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "112 upcoming dates (heavy routing)",
+        "111 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "2 presale(s)"
@@ -2478,7 +2478,7 @@
         "PBR: Unleash the Beast",
         "PBR: Professional Bull Riders"
       ],
-      "artist_upcoming": 112,
+      "artist_upcoming": 111,
       "venue": "Desert Diamond Arena",
       "city": "Glendale",
       "state": "AZ",
@@ -2522,7 +2522,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "112 upcoming dates (heavy routing)",
+        "111 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "2 presale(s)"
@@ -2538,7 +2538,7 @@
         "PBR: Unleash the Beast",
         "PBR: Professional Bull Riders"
       ],
-      "artist_upcoming": 112,
+      "artist_upcoming": 111,
       "venue": "Desert Diamond Arena",
       "city": "Glendale",
       "state": "AZ",
@@ -2582,7 +2582,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "112 upcoming dates (heavy routing)",
+        "111 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "2 presale(s)"
@@ -2598,7 +2598,7 @@
         "PBR: Unleash the Beast",
         "PBR: Professional Bull Riders"
       ],
-      "artist_upcoming": 112,
+      "artist_upcoming": 111,
       "venue": "Desert Diamond Arena",
       "city": "Glendale",
       "state": "AZ",
@@ -2642,7 +2642,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "112 upcoming dates (heavy routing)",
+        "111 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "2 presale(s)"
@@ -3299,12 +3299,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 19.1,
         "scarcity": 20.9,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -3373,12 +3373,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 19.1,
         "scarcity": 20.9,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -3447,12 +3447,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 19.1,
         "scarcity": 18.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
