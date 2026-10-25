@@ -406,9 +406,9 @@ document.querySelectorAll("[data-open]").forEach(b =>
 
 // say plainly how old the underlying pull is, in case a scheduled run was missed
 (function freshness() {
-  const built = dt("2026-10-25T11:59:17Z");
+  const built = dt("2026-10-25T13:54:10Z");
   const el = document.getElementById("freshness");
-  if (!built) { el.textContent = "Sun 25 Oct, 5:59 AM"; return; }
+  if (!built) { el.textContent = "Sun 25 Oct, 7:54 AM"; return; }
   const mins = Math.round((Date.now() - built) / 60000);
   const age = mins < 90 ? mins + " min ago"
             : mins < 36 * 60 ? Math.round(mins / 60) + "h ago"
