@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-26T16:17:45Z",
-    "generated_local": "Mon 26 Oct, 10:17 AM",
-    "scanned": 553,
-    "surfaced": 131,
-    "new": 64,
+    "generated_utc": "2026-10-26T17:37:26Z",
+    "generated_local": "Mon 26 Oct, 11:37 AM",
+    "scanned": 620,
+    "surfaced": 145,
+    "new": 14,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -191,8 +191,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
       "artist_upcoming": 34,
       "venue": "Save Mart Center",
@@ -4574,6 +4573,99 @@
       ]
     },
     {
+      "id": "vv1AFZk4KGkdlk9Jd",
+      "name": "Wynonna Judd - The Hard Truth Tour",
+      "url": "https://www.ticketmaster.com/wynonna-judd-the-hard-truth-tour-detroit-michigan-03-06-2027/event/08006553EB197983",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Wynonna Judd"
+      ],
+      "artist_upcoming": 16,
+      "venue": "The Fillmore Detroit",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-06T23:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-07T01:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "To access the sale, use the first 6 digits of your eligible Citi\u00ae credit card or Citibank Debit Card as your presale code. You will also need to use your Citi\u00ae card to successfully"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-02-07T03:00:00Z",
+          "url": "",
+          "how": "To access the sale, use the first 6 digits of your eligible Citi\u00ae credit card or Citibank Debit Card as your presale code. You will also need to use your Citi\u00ae card to successfully"
+        },
+        {
+          "name": "Wynation Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Fan Club Bundle",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-02-21T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Wynonna+Judd",
+      "score": 70,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 20.9,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.5-2.6x face",
+        "7 presale(s)"
+      ]
+    },
+    {
       "id": "vv177Z_KGkMrc_d_",
       "name": "BUNT. - The Levi Did It Tour",
       "url": "https://www.ticketmaster.com/bunt-the-levi-did-it-tour-boston-massachusetts-05-14-2027/event/0100653DDEB590D9",
@@ -4582,7 +4674,7 @@
       "artists": [
         "BUNT."
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 27,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -4631,9 +4723,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=BUNT.",
-      "score": 64,
+      "score": 65,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 20.3,
         "scarcity": 18.7,
         "markup": 16.1,
         "timing": 10.0
@@ -4651,6 +4743,72 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4hxN_oZ",
+      "name": "NSQK PRESENTS: MOSCA",
+      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-charlotte-north-carolina-05-18-2027/event/2D006556E28D9440",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Neighborhood Theatre Main Room",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-19T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-19T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-05-12T03:55:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 65,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 17.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -5058,6 +5216,72 @@
       ]
     },
     {
+      "id": "vv1AeZk44Gkd4nV3a",
+      "name": "Jordan Davis",
+      "url": "https://www.ticketmaster.com/jordan-davis-atlantic-city-new-jersey-04-02-2027/event/02006555D5AB4489",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Jordan Davis"
+      ],
+      "artist_upcoming": 4,
+      "venue": "Ovation Hall at Ocean Casino Resort ",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-03T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-04-03T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Parish Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Parish Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Jordan+Davis",
+      "score": 62,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 19.6,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "1AxZk4FGkeXXIsI",
       "name": "Haken - In A Fever Dream Tour",
       "url": "https://www.ticketmaster.com/haken-in-a-fever-dream-tour-orlando-florida-03-31-2027/event/22006548BEFA8C68",
@@ -5386,6 +5610,92 @@
         "~1,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4QMMRPG",
+      "name": "Wynonna Judd - The Hard Truth Tour",
+      "url": "https://www.ticketmaster.com/wynonna-judd-the-hard-truth-tour-charlotte-north-carolina-03-19-2027/event/2D006556B7DEF94C",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Wynonna Judd"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Ovens Auditorium",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 4000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-19T23:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-19T23:00:00Z",
+      "presales": [
+        {
+          "name": "Wynation Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        },
+        {
+          "name": "Friends of Ovens Auditorium Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Fan Club Bundle",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-06T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Wynonna+Judd",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 14.8,
+        "markup": 17.7,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.4,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "~4,000 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -6156,6 +6466,304 @@
       ]
     },
     {
+      "id": "vv1AkZk4fGkdwZsFz",
+      "name": "Wynonna Judd - The Hard Truth Tour",
+      "url": "https://www.ticketmaster.com/wynonna-judd-the-hard-truth-tour-kansas-city-missouri-02-18-2027/event/06006554F2031238",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Wynonna Judd"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Uptown Theater",
+      "city": "Kansas City",
+      "state": "MO",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-19T02:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-02-19T04:00:00Z",
+      "presales": [
+        {
+          "name": "Wynation Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club Bundle",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-02-05T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Wynonna+Judd",
+      "score": 67,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_4hegN71",
+      "name": "NSQK PRESENTS: MOSCA",
+      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-houston-texas-05-25-2027/event/3A006556C2D6310A",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 12,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-26T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-26T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-05-19T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 66,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 18.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4hxmH1S",
+      "name": "NSQK PRESENTS: MOSCA",
+      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-dallas-texas-05-27-2027/event/0C006556E2BBC2B3",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 12,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-28T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-28T02:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-05-21T04:55:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 66,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 18.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk4KGkd4JMqg",
+      "name": "NSQK",
+      "url": "https://www.ticketmaster.com/nsqk-chicago-illinois-05-12-2027/event/04006553D59B7775",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 12,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-12T23:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-12T23:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-15T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-05-06T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 65,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_4aGMGrr",
       "name": "Interpol - North America Tour 2027",
       "url": "https://www.ticketmaster.com/interpol-north-america-tour-2027-memphis-tennessee-03-22-2027/event/1B0065524CDCC79E",
@@ -6569,7 +7177,7 @@
       "artists": [
         "Kansas"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "DECC Symphony Hall",
       "city": "Duluth",
       "state": "MN",
@@ -6620,7 +7228,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Kansas",
       "score": 62,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
@@ -7918,94 +8526,6 @@
       ]
     },
     {
-      "id": "vvG1HZ_42QhBeB",
-      "name": "Ashe: The Girl of Your Dreams Tour",
-      "url": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-seattle-washington-02-28-2027/event/0F006553DA6FA0BA",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Ashe",
-        "Claire Rosinkranz"
-      ],
-      "artist_upcoming": 27,
-      "venue": "Paramount Theatre",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-01T04:00:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-01T04:00:00Z",
-      "presales": [
-        {
-          "name": "Promoter Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local/Venue Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale Wave 1",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Artist Presale Wave 2",
-          "start": "2026-10-28T21:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-02-22T06:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ashe",
-      "score": 70,
-      "score_parts": {
-        "demand": 20.3,
-        "scarcity": 17.7,
-        "markup": 24.5,
-        "timing": 7.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AaZk4fGkdx6mKl",
       "name": "Ashe: The Girl of Your Dreams Tour",
       "url": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-los-angeles-california-02-24-2027/event/09006554E21EE4EB",
@@ -8071,12 +8591,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Ashe",
-      "score": 70,
+      "score": 73,
       "score_parts": {
         "demand": 20.3,
         "scarcity": 18.6,
         "markup": 24.5,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8088,6 +8608,94 @@
       "est_resale_max": null,
       "reasons": [
         "small room (1,850 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_42QhBeB",
+      "name": "Ashe: The Girl of Your Dreams Tour",
+      "url": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-seattle-washington-02-28-2027/event/0F006553DA6FA0BA",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ashe",
+        "Claire Rosinkranz"
+      ],
+      "artist_upcoming": 27,
+      "venue": "Paramount Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-01T04:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-01T04:00:00Z",
+      "presales": [
+        {
+          "name": "Promoter Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local/Venue Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale Wave 1",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Artist Presale Wave 2",
+          "start": "2026-10-28T21:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-02-22T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ashe",
+      "score": 72,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face",
         "6 presale(s)"
       ]
@@ -8151,12 +8759,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Ashe",
-      "score": 70,
+      "score": 72,
       "score_parts": {
         "demand": 20.3,
         "scarcity": 17.7,
         "markup": 24.5,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8224,12 +8832,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
-      "score": 65,
+      "score": 68,
       "score_parts": {
         "demand": 20.9,
         "scarcity": 21.6,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8296,12 +8904,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Brandi+Carlile",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 22.4,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8369,12 +8977,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Brandi+Carlile",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 22.4,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8442,12 +9050,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Brandi+Carlile",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 22.4,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8515,12 +9123,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Brandi+Carlile",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 22.4,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8583,12 +9191,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Haken",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 18.5,
         "scarcity": 21.6,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8602,6 +9210,262 @@
         "small room (1,000 cap)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_4hse4Cb",
+      "name": "NSQK",
+      "url": "https://www.ticketmaster.com/nsqk-san-diego-california-06-06-2027/event/0A006556F1095398",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 12,
+      "venue": "House of Blues San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-06-07T02:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-06-07T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-17T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 65,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_fT15QZN",
+      "name": "CHVRCHES - LIVE 2027",
+      "url": "https://www.ticketmaster.com/chvrches-live-2027-seattle-washington-03-06-2027/event/0F00654FCA2DA023",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "CHVRCHES"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Paramount Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T04:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-07T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Media Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_49QLT3X",
+      "name": "BUNT. The Levi Did It Tour",
+      "url": "https://www.ticketmaster.com/bunt-the-levi-did-it-tour-seattle-washington-05-27-2027/event/0F006555DA7FF4BE",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "BUNT."
+      ],
+      "artist_upcoming": 27,
+      "venue": "WAMU Theater",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-28T03:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-05-28T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AEG Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=BUNT.",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 17.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_fH0gQZ5",
+      "name": "CHVRCHES - LIVE 2027",
+      "url": "https://www.ticketmaster.com/chvrches-live-2027-oakland-california-03-10-2027/event/1C00654F24D5A00B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "CHVRCHES"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Fox Theater - Oakland",
+      "city": "Oakland",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-11T04:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-11T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "APE Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -8671,12 +9535,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Haken",
-      "score": 62,
+      "score": 64,
       "score_parts": {
         "demand": 18.5,
         "scarcity": 20.9,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8690,131 +9554,6 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1HZ_fT15QZN",
-      "name": "CHVRCHES - LIVE 2027",
-      "url": "https://www.ticketmaster.com/chvrches-live-2027-seattle-washington-03-06-2027/event/0F00654FCA2DA023",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "CHVRCHES"
-      ],
-      "artist_upcoming": 30,
-      "venue": "Paramount Theatre",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-07T04:00:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-07T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-27T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Media Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
-      "score": 61,
-      "score_parts": {
-        "demand": 20.9,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 7.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vYZ_fH0gQZ5",
-      "name": "CHVRCHES - LIVE 2027",
-      "url": "https://www.ticketmaster.com/chvrches-live-2027-oakland-california-03-10-2027/event/1C00654F24D5A00B",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "CHVRCHES"
-      ],
-      "artist_upcoming": 30,
-      "venue": "Fox Theater - Oakland",
-      "city": "Oakland",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-11T04:00:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-11T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-27T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "APE Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
-      "score": 61,
-      "score_parts": {
-        "demand": 20.9,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 7.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -8889,12 +9628,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Foreigner",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 19.8,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8983,12 +9722,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Foreigner",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 19.8,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -9077,12 +9816,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Foreigner",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 19.8,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -9171,12 +9910,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Foreigner",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 19.8,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -9265,12 +10004,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Foreigner",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 19.8,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -9359,12 +10098,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Foreigner",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 19.8,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -9379,72 +10118,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "7 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1HZ_49QLT3X",
-      "name": "BUNT. The Levi Did It Tour",
-      "url": "https://www.ticketmaster.com/bunt-the-levi-did-it-tour-seattle-washington-05-27-2027/event/0F006555DA7FF4BE",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "BUNT."
-      ],
-      "artist_upcoming": 24,
-      "venue": "WAMU Theater",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-28T03:00:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-05-28T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "AEG Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=BUNT.",
-      "score": 60,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 16.1,
-        "timing": 7.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -9527,12 +10200,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
-      "score": 60,
+      "score": 63,
       "score_parts": {
         "demand": 23.5,
         "scarcity": 8.6,
         "markup": 20.8,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -9547,6 +10220,375 @@
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "8 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_4pPR1wj",
+      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-seattle-washington-05-17-2027/event/0F006555A5BCAC9C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Two Door Cinema Club",
+        "Friendly Fires"
+      ],
+      "artist_upcoming": 24,
+      "venue": "Paramount Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-18T02:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-05-18T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "Promoter Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-11T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
+      "score": 62,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1k0Z_4r4G7w1uG",
+      "name": "Ocean Alley North America '27",
+      "url": "https://www.ticketmaster.com/ocean-alley-north-america-27-los-angeles-california-06-04-2027/event/0900655795C8A34C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Ocean Alley"
+      ],
+      "artist_upcoming": 18,
+      "venue": "The Wiltern",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1850,
+      "capacity_source": "exact",
+      "event_date": "2027-06-05T02:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-06-05T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-05T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ocean+Alley",
+      "score": 62,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 18.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,850 cap)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_48x4wje",
+      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-oakland-california-05-20-2027/event/1C00655422572702",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Two Door Cinema Club",
+        "Friendly Fires"
+      ],
+      "artist_upcoming": 24,
+      "venue": "Fox Theater - Oakland",
+      "city": "Oakland",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-21T03:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-05-21T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "APE Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-14T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
+      "score": 62,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_4h12ymv",
+      "name": "Ocean Alley North America '27",
+      "url": "https://www.ticketmaster.com/ocean-alley-north-america-27-oakland-california-05-05-2027/event/1C006556CA3F9B81",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Ocean Alley",
+        "Mild Orange"
+      ],
+      "artist_upcoming": 18,
+      "venue": "Fox Theater - Oakland",
+      "city": "Oakland",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-06T03:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-05-06T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "APE Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ocean+Alley",
+      "score": 61,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1ke8vP38GAG1idZ",
+      "name": "Haken - In A Fever Dream Tour",
+      "url": "https://www.ticketmaster.com/haken-in-a-fever-dream-tour-los-angeles-california-03-09-2027/event/090065490C2AC0C0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Haken",
+        "Thank You Scientist",
+        "Einar Solberg"
+      ],
+      "artist_upcoming": 20,
+      "venue": "The Regent Theater",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-10T03:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-10T06:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-26T18:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-10-26T18:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Knotfest Presale",
+          "start": "2026-10-27T18:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Blabbermouth Presale",
+          "start": "2026-10-27T18:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Blabbermouth Presale"
+        },
+        {
+          "name": "BandsInTown Presale",
+          "start": "2026-10-27T18:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "BandsInTown Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Haken",
+      "score": 61,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
       ]
     }
   ]
