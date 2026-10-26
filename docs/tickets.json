@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-26T18:51:07Z",
-    "generated_local": "Mon 26 Oct, 12:51 PM",
-    "scanned": 630,
+    "generated_utc": "2026-10-26T19:23:41Z",
+    "generated_local": "Mon 26 Oct, 1:23 PM",
+    "scanned": 637,
     "surfaced": 145,
     "new": 0,
     "threshold": 60,
@@ -191,7 +191,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Monday Night RAW"
       ],
       "artist_upcoming": 34,
       "venue": "Save Mart Center",
@@ -6162,6 +6163,228 @@
       ]
     },
     {
+      "id": "G5viZ_4pdkMNu",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-biloxi-mississippi-03-26-2027/event/1B006555831B78CD",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 42,
+      "venue": "Beau Rivage Theatre",
+      "city": "Biloxi",
+      "state": "MS",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-27T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-27T01:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T14:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-03-17T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4pd6MNp",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-biloxi-mississippi-03-27-2027/event/1B006555831F78D6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 42,
+      "venue": "Beau Rivage Theatre",
+      "city": "Biloxi",
+      "state": "MS",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-28T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-28T01:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T14:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-03-18T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4pda6NP",
+      "name": "Chicago",
+      "url": "https://www.ticketmaster.com/chicago-biloxi-mississippi-03-28-2027/event/1B006555832478E5",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Chicago"
+      ],
+      "artist_upcoming": 42,
+      "venue": "Beau Rivage Theatre",
+      "city": "Biloxi",
+      "state": "MS",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-29T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-29T01:00:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-28T14:45:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-03-19T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1YZ_4fG2uSe",
       "name": "Ashe - The Girl Of Your Dreams Tour",
       "url": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-dallas-texas-02-20-2027/event/0C0065550C3CDCC2",
@@ -6262,228 +6485,6 @@
         "~1,500 cap (from venue type)",
         "est. 1.4-2.3x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_4pdkMNu",
-      "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-biloxi-mississippi-03-26-2027/event/1B006555831B78CD",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chicago"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Beau Rivage Theatre",
-      "city": "Biloxi",
-      "state": "MS",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-27T01:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-03-27T01:00:00Z",
-      "presales": [
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-28T14:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-03-17T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
-      "score": 68,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 17.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_4pd6MNp",
-      "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-biloxi-mississippi-03-27-2027/event/1B006555831F78D6",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chicago"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Beau Rivage Theatre",
-      "city": "Biloxi",
-      "state": "MS",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-28T01:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-03-28T01:00:00Z",
-      "presales": [
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-28T14:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-03-18T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
-      "score": 68,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 17.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_4pda6NP",
-      "name": "Chicago",
-      "url": "https://www.ticketmaster.com/chicago-biloxi-mississippi-03-28-2027/event/1B006555832478E5",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Chicago"
-      ],
-      "artist_upcoming": 40,
-      "venue": "Beau Rivage Theatre",
-      "city": "Biloxi",
-      "state": "MS",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-29T01:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-03-29T01:00:00Z",
-      "presales": [
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-28T14:45:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-03-19T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Chicago",
-      "score": 68,
-      "score_parts": {
-        "demand": 22.6,
-        "scarcity": 17.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "40 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "4 presale(s)"
       ]
     },
     {
