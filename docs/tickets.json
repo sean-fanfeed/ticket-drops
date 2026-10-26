@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-26T17:37:26Z",
-    "generated_local": "Mon 26 Oct, 11:37 AM",
-    "scanned": 620,
+    "generated_utc": "2026-10-26T18:51:07Z",
+    "generated_local": "Mon 26 Oct, 12:51 PM",
+    "scanned": 630,
     "surfaced": 145,
-    "new": 14,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -4016,6 +4016,27 @@
           "end": "2026-10-28T15:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-28T15:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-28T15:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2027-02-23T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -4040,7 +4061,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -7562,6 +7583,13 @@
           "how": ""
         },
         {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
           "name": "Email List Presale",
           "start": "2026-10-29T16:00:00Z",
           "end": "2026-10-30T05:00:00Z",
@@ -7597,7 +7625,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -7634,6 +7662,13 @@
           "how": ""
         },
         {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
           "name": "Email List Presale",
           "start": "2026-10-29T16:00:00Z",
           "end": "2026-10-30T05:00:00Z",
@@ -7669,7 +7704,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -7706,6 +7741,13 @@
           "how": ""
         },
         {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
           "name": "Email List Presale",
           "start": "2026-10-29T16:00:00Z",
           "end": "2026-10-30T05:00:00Z",
@@ -7741,7 +7783,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -7778,6 +7820,13 @@
           "how": ""
         },
         {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
           "name": "Email List Presale",
           "start": "2026-10-29T16:00:00Z",
           "end": "2026-10-30T05:00:00Z",
@@ -7813,7 +7862,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -9251,6 +9300,20 @@
           "end": "2027-05-17T05:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-28T06:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -9274,7 +9337,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.5-2.5x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
