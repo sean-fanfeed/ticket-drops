@@ -1,4 +1,4 @@
-145 ticket drops scoring 60+ in the next 14 days.
+141 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   Charleston Coliseum, Charleston WV
@@ -10,12 +10,6 @@
   Barclays Center, Brooklyn NY
   On sale Fri 24 Jul, 8:00 AM (passed)
   Event Mon 2 Nov, 3:30 PM
-  Face TBA - est. resale 1.3-2.25x face (low conf)
-
-  70 - WWE, WWE Monday Night RAW
-  Save Mart Center, Fresno CA
-  On sale Fri 24 Jul, 11:00 AM (passed)
-  Event Mon 26 Oct, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
   60 - WWE, WWE Survivor Series
@@ -36,13 +30,13 @@
   Event Fri 6 Nov, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  68 - WWE, WWE Survivor Series
+  67 - WWE, WWE Survivor Series
   Cross Insurance Arena , Portland ME
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 5 Nov, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  68 - WWE, WWE Live
+  67 - WWE, WWE Live
   Hertz Arena, Estero FL
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Thu 12 Nov, 5:30 PM
@@ -66,8 +60,14 @@
   Event Mon 7 Dec, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  68 - WWE
+  67 - WWE
   Bon Secours Wellness Arena , Greenville SC
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 9 Nov, 5:30 PM
+  Face TBA - est. resale 1.3-2.25x face (low conf)
+
+  67 - WWE, WWE Friday Night SmackDown
+  Van Andel Arena, Grand Rapids MI
+  On sale Fri 11 Sep, 8:00 AM (passed)
+  Event Fri 4 Dec, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
