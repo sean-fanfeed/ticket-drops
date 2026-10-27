@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-27T15:31:46Z",
-    "generated_local": "Tue 27 Oct, 9:31 AM",
-    "scanned": 838,
-    "surfaced": 236,
-    "new": 95,
+    "generated_utc": "2026-10-27T16:50:14Z",
+    "generated_local": "Tue 27 Oct, 10:50 AM",
+    "scanned": 918,
+    "surfaced": 258,
+    "new": 22,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -482,6 +482,13 @@
           "end": "2026-10-28T14:00:00Z",
           "url": "",
           "how": "For 24 hours only, 2 ticket for the price of 1"
+        },
+        {
+          "name": "Very Nice, Very Evil Ticket Treat",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2026-11-02T04:59:00Z",
+          "url": "",
+          "how": "31% off select WWE tickets"
         }
       ],
       "price_min": null,
@@ -506,7 +513,7 @@
         "on your watchlist",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
-        "9 presale(s)"
+        "10 presale(s)"
       ]
     },
     {
@@ -2299,7 +2306,7 @@
       "artists": [
         "Gus Dapperton"
       ],
-      "artist_upcoming": 25,
+      "artist_upcoming": 29,
       "venue": "Paradise Rock Club presented by Citizens",
       "city": "Boston",
       "state": "MA",
@@ -2348,9 +2355,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Gus+Dapperton",
-      "score": 77,
+      "score": 78,
       "score_parts": {
-        "demand": 19.8,
+        "demand": 20.7,
         "scarcity": 22.7,
         "markup": 24.5,
         "timing": 10.0
@@ -2379,7 +2386,7 @@
       "artists": [
         "Gus Dapperton"
       ],
-      "artist_upcoming": 25,
+      "artist_upcoming": 29,
       "venue": "Bowery Ballroom",
       "city": "New York",
       "state": "NY",
@@ -2421,9 +2428,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Gus+Dapperton",
-      "score": 75,
+      "score": 76,
       "score_parts": {
-        "demand": 19.8,
+        "demand": 20.7,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -2830,7 +2837,7 @@
       "artists": [
         "Gus Dapperton"
       ],
-      "artist_upcoming": 25,
+      "artist_upcoming": 29,
       "venue": "The Bronze Peacock at House of Blues Houston",
       "city": "Houston",
       "state": "TX",
@@ -2872,9 +2879,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Gus+Dapperton",
-      "score": 72,
+      "score": 73,
       "score_parts": {
-        "demand": 19.8,
+        "demand": 20.7,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 10.0
@@ -3183,6 +3190,47 @@
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1Af8dP7",
+      "name": "Deja Vu",
+      "url": "https://www.ticketweb.com/event/deja-vu-sideouts-sports-tavern-tickets/14403944",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [],
+      "artist_upcoming": 0,
+      "venue": "Sideouts Sports Tavern",
+      "city": "Island Lake",
+      "state": "IL",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2026-11-22T02:30:00Z",
+      "onsale_start": "2026-10-27T15:00:00Z",
+      "onsale_end": "2026-11-22T02:30:00Z",
+      "presales": [],
+      "price_min": 12.25,
+      "price_max": 249.5,
+      "seatgeek_url": "https://seatgeek.com/search?search=Deja+Vu",
+      "score": 60,
+      "score_parts": {
+        "demand": 4.0,
+        "scarcity": 25.0,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": 20,
+      "est_resale_max": 674,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)",
+        "est. 1.6-2.7x face"
       ]
     },
     {
@@ -4547,7 +4595,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Fox Theatre Detroit",
       "city": "Detroit",
       "state": "MI",
@@ -4565,11 +4613,11 @@
           "how": ""
         },
         {
-          "name": "Artist Presale",
-          "start": "2026-10-28T17:00:00Z",
+          "name": "Donny Rewards Presale",
+          "start": "2026-10-28T13:00:00Z",
           "end": "2026-10-30T02:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "LIVE NATION PRESALE",
@@ -4577,6 +4625,34 @@
           "end": "2026-10-30T02:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Donny App Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Donny Rewards VIP Packages Presale",
+          "start": "2026-10-28T13:00:00Z",
+          "end": "2026-10-28T16:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-07-16T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -4598,11 +4674,176 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "3 presale(s)"
+        "7 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk44GkduXK17",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-philadelphia-pennsylvania-03-28-2027/event/02006555CDF93284",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-29T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-29T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T04:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-22T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-22T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 74,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 20.9,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_499VI0s",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-charlotte-north-carolina-03-21-2027/event/2D006555D7D28931",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-22T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-22T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-29T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-15T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 74,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 20.9,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.6-2.7x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -4614,7 +4855,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Au-Rene Theater at the Broward Center",
       "city": "Ft Lauderdale",
       "state": "FL",
@@ -4679,11 +4920,97 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk44GkeYh_60",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-silver-spring-maryland-03-23-2027/event/15006555B06D91E4",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-24T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-24T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-02-25T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-17T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 74,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 20.9,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -4695,7 +5022,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Boch Center Shubert Theatre",
       "city": "Boston",
       "state": "MA",
@@ -4774,11 +5101,83 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1VZ_fTXfLgs",
+      "name": "brakence",
+      "url": "https://www.ticketmaster.com/brakence-miami-beach-florida-03-14-2027/event/0D00654FFE51FD71",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "The Fillmore Miami Beach at Jackie Gleason Theater",
+      "city": "Miami Beach",
+      "state": "FL",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-15T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-15T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-08T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 74,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 20.9,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -5006,6 +5405,330 @@
         "~1,500 cap (from venue type)",
         "est. 1.4-2.3x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AFZk4KGkd5PANl",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-detroit-michigan-04-03-2027/event/08006553CB9458EB",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Saint Andrew's Hall",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-03T23:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-04-04T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-04-01T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-28T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 72,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A8vP4tGACq1fu",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-boston-massachusetts-03-24-2027/event/010065569E74A50D",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-24T23:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-25T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-18T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 71,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "16eFZ_4fpG7sFm3",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-orlando-florida-03-16-2027/event/2200655516C48B92",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "House of Blues Orlando",
+      "city": "Orlando",
+      "state": "FL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-16T23:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-17T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-10T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 71,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AAZk4pGkd-S2oz",
+      "name": "brakence -- the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-cleveland-ohio-04-04-2027/event/05006556E1CCF478",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "House of Blues Cleveland",
+      "city": "Cleveland",
+      "state": "OH",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-04T23:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-04-05T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T12:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-08T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T12:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-29T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 71,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -5410,7 +6133,7 @@
         "Testament",
         "Blood Incantation"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 43,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -5468,7 +6191,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Meshuggah",
       "score": 67,
       "score_parts": {
-        "demand": 22.9,
+        "demand": 23.0,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
@@ -5482,7 +6205,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "42 upcoming dates (heavy routing)",
+        "43 upcoming dates (heavy routing)",
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.4-2.1x face",
@@ -5556,6 +6279,117 @@
         "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4LGDD7Q",
+      "name": "Buena Vista Orchestra",
+      "url": "https://www.ticketmaster.com/buena-vista-orchestra-charleston-south-carolina-02-26-2027/event/2D006557CCEFB11A",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Buena Vista Orchestra"
+      ],
+      "artist_upcoming": 19,
+      "venue": "The Charleston Music Hall",
+      "city": "Charleston",
+      "state": "SC",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-27T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-27T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Buena+Vista+Orchestra",
+      "score": 66,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_4nJUAY7",
+      "name": "Katherine Li: I love you, or whatever Tour",
+      "url": "https://www.ticketmaster.com/katherine-li-i-love-you-or-new-york-new-york-03-03-2027/event/0000655AA6D85C04",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Katherine Li"
+      ],
+      "artist_upcoming": 5,
+      "venue": "Bowery Ballroom",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-04T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-04T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Katherine+Li",
+      "score": 66,
+      "score_parts": {
+        "demand": 10.9,
+        "scarcity": 20.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -5979,6 +6813,65 @@
         "small room (2,000 cap)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4t1E_3e",
+      "name": "Buena Vista Orchestra",
+      "url": "https://tickets.carolinatheatre.org/websales/pages/info.aspx?evtinfo=1043268~05de892e-fe79-4e77-8f75-9f03e89f9235&",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Buena Vista Orchestra"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Carolina Theatre - Durham",
+      "city": "Durham",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-26T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-26T01:00:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Buena+Vista+Orchestra",
+      "score": 65,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 17.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -7055,7 +7948,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Old National Centre",
       "city": "Indianapolis",
       "state": "IN",
@@ -7141,7 +8034,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "8 presale(s)"
@@ -7222,7 +8115,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Cobb Energy Performing Arts Centre",
       "city": "Atlanta",
       "state": "GA",
@@ -7301,7 +8194,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "7 presale(s)"
@@ -7316,7 +8209,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "The Wind Creek Event Center",
       "city": "Bethlehem",
       "state": "PA",
@@ -7416,7 +8309,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "10 presale(s)"
@@ -7564,7 +8457,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Borgata Event Center",
       "city": "Atlantic City",
       "state": "NJ",
@@ -7650,7 +8543,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "8 presale(s)"
@@ -7665,7 +8558,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Tilles Center Concert Hall",
       "city": "Brookville",
       "state": "NY",
@@ -7730,7 +8623,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -7745,7 +8638,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Northfield Park Racino - Center Stage",
       "city": "Northfield",
       "state": "OH",
@@ -7845,7 +8738,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "10 presale(s)"
@@ -7977,6 +8870,72 @@
       ]
     },
     {
+      "id": "vvG1VZ_4mNDfi8",
+      "name": "Donny Osmond - Crazy Horses 2027 Summer Tour",
+      "url": "https://www.strazcenter.org/events/2627-season/music/donny-osmond/",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Donny Osmond"
+      ],
+      "artist_upcoming": 126,
+      "venue": "David A. Straz, Jr. Center for the Performing Arts",
+      "city": "Tampa ",
+      "state": "FL",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-06-12T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-06-12T00:00:00Z",
+      "presales": [
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Donny Rewards",
+          "start": "2026-10-28T13:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Donny App Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Donny+Osmond",
+      "score": 62,
+      "score_parts": {
+        "demand": 28,
+        "scarcity": 10.2,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "126 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "1AvbZ_4GknqKfVB",
       "name": "Cigarettes @ Sunset",
       "url": "https://www.ticketmaster.com/cigarettes-sunset-lexington-kentucky-03-30-2027/event/1600655A9D4D4D3A",
@@ -8044,7 +9003,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "State Theatre",
       "city": "Portland",
       "state": "ME",
@@ -8081,7 +9040,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8469,13 +9428,6 @@
       "onsale_end": "2027-02-06T04:00:00Z",
       "presales": [
         {
-          "name": "Artist Presale",
-          "start": "2026-10-27T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
           "name": "Venue Presale",
           "start": "2026-10-29T14:00:00Z",
           "end": "2026-10-30T02:00:00Z",
@@ -8505,7 +9457,7 @@
         "small room (1,500 cap)",
         "~1,500 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "2 presale(s)"
+        "1 presale(s)"
       ]
     },
     {
@@ -8680,7 +9632,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "The Chicago Theatre",
       "city": "Chicago",
       "state": "IL",
@@ -8794,7 +9746,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -8810,7 +9762,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "State Theatre",
       "city": "Minneapolis",
       "state": "MN",
@@ -8822,14 +9774,14 @@
       "presales": [
         {
           "name": "Donny App Presale",
-          "start": "2026-10-28T14:00:00Z",
+          "start": "2026-10-28T18:00:00Z",
           "end": "2026-10-30T03:00:00Z",
           "url": "",
           "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
-          "name": "Artist Presale",
-          "start": "2026-10-28T18:00:00Z",
+          "name": "Donny Rewards Presale",
+          "start": "2026-10-28T14:00:00Z",
           "end": "2026-10-30T03:00:00Z",
           "url": "",
           "how": "Exclusive Presale for Fans invited by the Artist"
@@ -8842,7 +9794,7 @@
           "how": ""
         },
         {
-          "name": "Donny App VIP Packages Presale",
+          "name": "Donny Rewards VIP Packages Presale",
           "start": "2026-10-28T14:00:00Z",
           "end": "2026-10-28T17:59:00Z",
           "url": "",
@@ -8889,7 +9841,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -8905,7 +9857,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Stifel Theatre",
       "city": "Saint Louis",
       "state": "MO",
@@ -8977,7 +9929,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -9074,7 +10026,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Ryman Auditorium",
       "city": "Nashville",
       "state": "TN",
@@ -9118,7 +10070,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,362 cap)",
         "est. 1.4-2.3x face",
         "2 presale(s)"
@@ -9206,6 +10158,79 @@
       ]
     },
     {
+      "id": "vv1kvOvP4bGACyA_m",
+      "name": "brakence",
+      "url": "https://www.ticketmaster.com/brakence-lawrence-kansas-04-10-2027/event/060065558EE4566E",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Liberty Hall",
+      "city": "Lawrence",
+      "state": "KS",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-11T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-04-11T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-04T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 72,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_4phfW1t",
       "name": "Ashe: The Girl of Your Dreams Tour",
       "url": "https://www.axs.com/events/1638568/ashe-tickets?skin=ryman",
@@ -9261,6 +10286,179 @@
         "small room (2,362 cap)",
         "est. 1.6-2.7x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_49gNUt9",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-houston-texas-03-11-2027/event/3A006555F58F6A57",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-12T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-12T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-02-12T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-03-05T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 71,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk4pGkd_qmlF",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-minneapolis-minnesota-04-09-2027/event/06006556D976EAC8",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Varsity Theater",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-10T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-04-10T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-03-13T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-03T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 70,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -9539,7 +10737,7 @@
         "Testament",
         "Blood Incantation"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 43,
       "venue": "The Fillmore New Orleans",
       "city": "New Orleans",
       "state": "LA",
@@ -9597,7 +10795,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Meshuggah",
       "score": 69,
       "score_parts": {
-        "demand": 22.9,
+        "demand": 23.0,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -9611,7 +10809,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "42 upcoming dates (heavy routing)",
+        "43 upcoming dates (heavy routing)",
         "small room (1,150 cap)",
         "est. 1.4-2.1x face",
         "6 presale(s)"
@@ -9809,6 +11007,48 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4nv1xcS",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-dallas-texas-03-10-2027/event/0C00655A812A2B73",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-11T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-11T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 67,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face"
       ]
     },
     {
@@ -10353,7 +11593,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -10397,7 +11637,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 64,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -10651,6 +11891,78 @@
       ]
     },
     {
+      "id": "G5dIZ_4bZGWSo",
+      "name": "Katherine Li: I love you, or whatever Tour",
+      "url": "https://www.ticketmaster.com/katherine-li-i-love-you-or-houston-texas-03-13-2027/event/3A0065560033DCD1",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Katherine Li"
+      ],
+      "artist_upcoming": 5,
+      "venue": "The Bronze Peacock at House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-14T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-14T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-02-17T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Katherine+Li",
+      "score": 64,
+      "score_parts": {
+        "demand": 10.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv17jZ_4GkIW3BSr",
       "name": "Cigarettes @ Sunset",
       "url": "https://www.pabsttheatergroup.com/events/detail/cigarettes-sunset-2027",
@@ -10718,7 +12030,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Town Hall",
       "city": "New York",
       "state": "NY",
@@ -10762,7 +12074,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 63,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
@@ -11277,7 +12589,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "House of Blues Cleveland",
       "city": "Cleveland",
       "state": "OH",
@@ -11342,7 +12654,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 62,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
@@ -11474,7 +12786,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Smart Financial Centre at Sugar Land",
       "city": "Sugar Land",
       "state": "TX",
@@ -11532,10 +12844,62 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_44lgemZ",
+      "name": "Dillom",
+      "url": "https://www.ticketmaster.com/dillom-houston-texas-05-22-2027/event/3A0065556BD42B80",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Dillom"
+      ],
+      "artist_upcoming": 6,
+      "venue": "White Oak Music Hall - Upstairs ",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-23T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-23T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dillom",
+      "score": 62,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 18.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -11547,7 +12911,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Paramount Theatre",
       "city": "Denver",
       "state": "CO",
@@ -11584,7 +12948,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -11613,7 +12977,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Taft Theatre",
       "city": "Cincinnati",
       "state": "OH",
@@ -11643,7 +13007,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -11744,7 +13108,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -11781,7 +13145,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -11810,7 +13174,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Lincoln Theatre",
       "city": "Washington",
       "state": "DC",
@@ -11847,7 +13211,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -11935,7 +13299,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Orpheum Theater",
       "city": "Madison",
       "state": "WI",
@@ -11972,7 +13336,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -12001,7 +13365,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Avalon Theatre",
       "city": "Grand Junction",
       "state": "CO",
@@ -12059,7 +13423,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -12088,7 +13452,7 @@
       "artists": [
         "Mat Kearney"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 20,
       "venue": "Carolina Theatre - Durham",
       "city": "Durham",
       "state": "NC",
@@ -12118,7 +13482,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mat+Kearney",
       "score": 61,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -12565,7 +13929,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Paramount Theatre",
       "city": "Denver",
       "state": "CO",
@@ -12637,7 +14001,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -12653,7 +14017,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "The Plaza Theatre Performing Arts Center",
       "city": "El Paso",
       "state": "TX",
@@ -12725,7 +14089,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -13902,7 +15266,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Morrison Center for the Performing Arts",
       "city": "Boise",
       "state": "ID",
@@ -13967,7 +15331,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -13982,7 +15346,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "YouTube Theater",
       "city": "Inglewood",
       "state": "CA",
@@ -14061,7 +15425,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -14325,6 +15689,92 @@
       ]
     },
     {
+      "id": "vv16aZk4puoZA8F2vd",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-los-angeles-california-04-21-2027/event/09006556351F7E02",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 19,
+      "venue": "The Wiltern",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1850,
+      "capacity_source": "exact",
+      "event_date": "2027-04-22T02:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-04-22T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-03-22T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-04-15T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 71,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,850 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "G5vYZ_4hUd3wh",
       "name": "Greensky Bluegrass",
       "url": "https://www.ticketmaster.com/greensky-bluegrass-oakland-california-01-16-2027/event/1C006556F60D2C9B",
@@ -14467,7 +15917,7 @@
         "Testament",
         "Blood Incantation"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 43,
       "venue": "Paramount Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -14539,7 +15989,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Meshuggah",
       "score": 66,
       "score_parts": {
-        "demand": 22.9,
+        "demand": 23.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -14553,7 +16003,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "42 upcoming dates (heavy routing)",
+        "43 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.1x face",
@@ -14571,7 +16021,7 @@
         "Testament",
         "Blood Incantation"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 43,
       "venue": "YouTube Theater",
       "city": "Inglewood",
       "state": "CA",
@@ -14643,7 +16093,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Meshuggah",
       "score": 66,
       "score_parts": {
-        "demand": 22.9,
+        "demand": 23.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -14657,7 +16107,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "42 upcoming dates (heavy routing)",
+        "43 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.1x face",
@@ -14675,7 +16125,7 @@
         "Testament",
         "Blood Incantation"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 43,
       "venue": "Arizona Financial Theatre",
       "city": "Phoenix",
       "state": "AZ",
@@ -14733,7 +16183,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Meshuggah",
       "score": 66,
       "score_parts": {
-        "demand": 22.9,
+        "demand": 23.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -14747,7 +16197,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "42 upcoming dates (heavy routing)",
+        "43 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.1x face",
@@ -14832,7 +16282,7 @@
         "Testament",
         "Blood Incantation"
       ],
-      "artist_upcoming": 42,
+      "artist_upcoming": 43,
       "venue": "Fox Theater - Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -14890,7 +16340,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Meshuggah",
       "score": 66,
       "score_parts": {
-        "demand": 22.9,
+        "demand": 23.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -14904,7 +16354,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "42 upcoming dates (heavy routing)",
+        "43 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.1x face",
@@ -16955,7 +18405,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Tahoe Blue Event Center",
       "city": "Stateline",
       "state": "NV",
@@ -17027,7 +18477,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "6 presale(s)"
@@ -17042,7 +18492,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 125,
+      "artist_upcoming": 126,
       "venue": "Cerritos Center for the Performing Arts",
       "city": "Cerritos",
       "state": "CA",
@@ -17107,7 +18557,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "125 upcoming dates (heavy routing)",
+        "126 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -17342,6 +18792,153 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1AeFZ_4GkmS-dt6",
+      "name": "The String Cheese Incident: Say Cheese Tour",
+      "url": "https://www.axs.com/events/1671955/the-string-cheese-incident-say-cheese-tour-tickets",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "The String Cheese Incident"
+      ],
+      "artist_upcoming": 23,
+      "venue": "Florida Theatre Jacksonville",
+      "city": "Jacksonville",
+      "state": "FL",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-15T00:15:00Z",
+      "onsale_start": "2026-10-31T02:00:00Z",
+      "onsale_end": "2027-01-15T00:15:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-29T18:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=The+String+Cheese+Incident",
+      "score": 62,
+      "score_parts": {
+        "demand": 19.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "1a-Zk4p78v7ZeC6",
+      "name": "Zach Williams Live With Special Guest Emerson Day",
+      "url": "https://www.ticketmaster.com/zach-williams-live-with-special-guest-waukee-iowa-03-12-2027/event/21006556110044D6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Zach Williams",
+        "Emerson Day"
+      ],
+      "artist_upcoming": 36,
+      "venue": "Vibrant Music Hall",
+      "city": "Waukee",
+      "state": "IA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-13T01:00:00Z",
+      "onsale_start": "2026-11-04T17:00:00Z",
+      "onsale_end": "2027-03-13T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-02T17:00:00Z",
+          "end": "2026-11-04T17:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AE Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-04T17:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-02T17:00:00Z",
+          "end": "2026-11-04T17:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-04T17:00:00Z",
+          "end": "2027-02-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-05T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "T-Mobile Concert Perks + Fast Lane",
+          "start": "2026-11-04T17:00:00Z",
+          "end": "2027-03-10T04:00:00Z",
+          "url": "",
+          "how": "T-Mobile Concert Perks + Fast Lane"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Zach+Williams",
+      "score": 60,
+      "score_parts": {
+        "demand": 22.0,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
       ]
     }
   ]
