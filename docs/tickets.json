@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-28T13:31:09Z",
-    "generated_local": "Wed 28 Oct, 7:31 AM",
-    "scanned": 850,
-    "surfaced": 249,
-    "new": 1,
+    "generated_utc": "2026-10-28T16:15:42Z",
+    "generated_local": "Wed 28 Oct, 10:15 AM",
+    "scanned": 969,
+    "surfaced": 267,
+    "new": 18,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -1745,6 +1745,13 @@
           "end": "2026-10-13T03:59:00Z",
           "url": "",
           "how": "Cash In & Save Ticket Offer"
+        },
+        {
+          "name": "Very Nice, Very Evil Ticket Treat",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2026-11-02T04:59:00Z",
+          "url": "",
+          "how": "Very Nice, Very Evil Ticket Treat"
         }
       ],
       "price_min": null,
@@ -1769,7 +1776,7 @@
         "on your watchlist",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -2373,7 +2380,7 @@
         "Lucy Bedroque",
         "Conceal"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 26,
       "venue": "The Fillmore Philadelphia",
       "city": "Philadelphia",
       "state": "PA",
@@ -2429,9 +2436,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 65,
+      "score": 66,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 20.0,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -2461,7 +2468,7 @@
         "Lucy Bedroque",
         "Conceal"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 26,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -2503,9 +2510,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 65,
+      "score": 66,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 20.0,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -2535,7 +2542,7 @@
         "Lucy Bedroque",
         "Conceal"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 26,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -2577,9 +2584,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 20.0,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
@@ -2597,6 +2604,49 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvbZ_4GknLoVW2",
+      "name": "Creed Fisher",
+      "url": "https://www.ticketmaster.com/creed-fisher-lexington-kentucky-01-21-2027/event/1600655A9F474F4F",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Creed Fisher"
+      ],
+      "artist_upcoming": 10,
+      "venue": "Manchester Music Hall",
+      "city": "Lexington",
+      "state": "KY",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-22T01:00:00Z",
+      "onsale_start": "2026-10-28T14:00:00Z",
+      "onsale_end": "2027-01-22T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Creed+Fisher",
+      "score": 62,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 18.7,
+        "markup": 22.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.6x face"
       ]
     },
     {
@@ -2662,7 +2712,7 @@
         "Lucy Bedroque",
         "Conceal"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 26,
       "venue": "Aragon Ballroom",
       "city": "Chicago",
       "state": "IL",
@@ -2718,9 +2768,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 65,
+      "score": 66,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 20.0,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 10.0
@@ -2747,7 +2797,8 @@
       "segment": "Music",
       "genre": "Hip-Hop/Rap",
       "artists": [
-        "Key Glock"
+        "Key Glock",
+        "Zo Trapalot"
       ],
       "artist_upcoming": 7,
       "venue": "House of Blues Houston",
@@ -2941,6 +2992,51 @@
         "small room (2,000 cap)",
         "est. 1.5-2.5x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA70Ge",
+      "name": "2hollis w/ Lucy Bedroque",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA70Ge",
+      "segment": "Music",
+      "genre": "Alternative",
+      "artists": [
+        "2hollis",
+        "Lucy Bedroque",
+        "Conceal"
+      ],
+      "artist_upcoming": 26,
+      "venue": "United Heritage Hall",
+      "city": "Austin",
+      "state": "TX",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-28T02:00:00Z",
+      "onsale_start": "2026-10-28T15:00:00Z",
+      "onsale_end": "2027-02-28T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
+      "score": 61,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -3273,7 +3369,7 @@
         "Lucy Bedroque",
         "Conceal"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 26,
       "venue": "Arizona Financial Theatre",
       "city": "Phoenix",
       "state": "AZ",
@@ -3329,9 +3425,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 62,
+      "score": 63,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -3362,7 +3458,7 @@
         "Lucy Bedroque",
         "Conceal"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 26,
       "venue": "WAMU Theater",
       "city": "Seattle",
       "state": "WA",
@@ -3411,9 +3507,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=2hollis",
-      "score": 62,
+      "score": 63,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -3490,6 +3586,271 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.2x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4mABfSw",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-charlotte-north-carolina-02-06-2027/event/2D00655B85E94CF2",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-07T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-07T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 79,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 20.9,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.6-2.8x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17OZ_4GknK9x2w",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-detroit-michigan-01-23-2027/event/0800655A935E23F2",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "The Fillmore Detroit",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-01-24T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-01-24T02:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "To access the sale, use the first 6 digits of your eligible Citi\u00ae credit card or Citibank Debit Card as your presale code. You will also need to use your Citi\u00ae card to successfully"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2026-12-27T03:00:00Z",
+          "url": "",
+          "how": "To access the sale, use the first 6 digits of your eligible Citi\u00ae credit card or Citibank Debit Card as your presale code. You will also need to use your Citi\u00ae card to successfully"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 79,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 20.9,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.6-2.8x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvfZ_4GkIOhWq7",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-silver-spring-maryland-01-29-2027/event/1500655A206FD744",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-01-30T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-01-30T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-01-02T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 79,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 20.9,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.6-2.8x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1AdZZ_4GkidYqYC",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-allentown-pennsylvania-01-30-2027/event/3000655B03C1DC0E",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Archer Music Hall",
+      "city": "Allentown",
+      "state": "PA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-31T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-01-31T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "St. Luke's Concert Series Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 77,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 18.7,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.6-2.8x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -3925,6 +4286,72 @@
       ]
     },
     {
+      "id": "vv177Z_4Gkmow6a3",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-boston-massachusetts-01-28-2027/event/0100655B91C87252",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-29T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-01-29T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 76,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 18.2,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.6-2.8x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1VZ_fTXfLgs",
       "name": "brakence - the marroW tour",
       "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-miami-beach-florida-03-14-2027/event/0D00654FFE51FD71",
@@ -3993,6 +4420,79 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AAZk49Gkdp1nsB",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-cleveland-ohio-01-31-2027/event/05006557D62AAC7A",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "House of Blues Cleveland",
+      "city": "Cleveland",
+      "state": "OH",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-01T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-01T02:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-01-04T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 76,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 18.2,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.6-2.8x face",
         "4 presale(s)"
       ]
     },
@@ -4356,8 +4856,8 @@
     },
     {
       "id": "vv1AeZk4pGkdO-4e2",
-      "name": "Greensky Bluegrass",
-      "url": "https://www.ticketmaster.com/greensky-bluegrass-philadelphia-pennsylvania-02-12-2027/event/02006556E085508F",
+      "name": "WXPN\u00a0Welcomes: Greensky Bluegrass",
+      "url": "https://www.ticketmaster.com/wxpn-welcomes-greensky-bluegrass-philadelphia-pennsylvania-02-12-2027/event/02006556E085508F",
       "segment": "Music",
       "genre": "Country",
       "artists": [
@@ -5970,6 +6470,73 @@
       ]
     },
     {
+      "id": "vv1AvZk49GkdjzpuE",
+      "name": "Penelope Road: Maybe In Time Tour",
+      "url": "https://www.ticketmaster.com/penelope-road-maybe-in-time-tour-boston-massachusetts-02-11-2027/event/01006557DCE16367",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Penelope Road",
+        "Arts Fishing Club"
+      ],
+      "artist_upcoming": 15,
+      "venue": "Paradise Rock Club presented by Citizens",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-12T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-12T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Penelope+Road",
+      "score": 65,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 22.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AvZk4bGkdhixru",
       "name": "Katherine Li: I love you, or whatever Tour",
       "url": "https://www.ticketmaster.com/katherine-li-i-love-you-or-boston-massachusetts-03-02-2027/event/01006558DBB2278D",
@@ -6161,6 +6728,72 @@
       ]
     },
     {
+      "id": "vv16AZk4_ZxZAuGAaF",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-indianapolis-indiana-02-02-2027/event/05006559022CB487",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Old National Centre",
+      "city": "Indianapolis",
+      "state": "IN",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-03T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-03T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Old National Bank Sponsor Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 64,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 10.2,
+        "markup": 20.8,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.5,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "G5eVZ_4QMpLLf",
       "name": "Ocean Alley North America '27",
       "url": "https://www.ticketmaster.com/ocean-alley-north-america-27-charlotte-north-carolina-05-26-2027/event/2D006556B759F7D4",
@@ -6301,7 +6934,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 34,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -6338,7 +6971,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 64,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -6700,6 +7333,57 @@
         "~1,500 cap (from venue type)",
         "est. 1.5-2.6x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk44GkdrpWl8",
+      "name": "Penelope Road",
+      "url": "https://www.ticketmaster.com/penelope-road-washington-district-of-columbia-02-13-2027/event/15006555DE5BDAD0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Penelope Road"
+      ],
+      "artist_upcoming": 15,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2027-02-13T23:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-14T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Penelope+Road",
+      "score": 63,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -8777,45 +9461,52 @@
       ]
     },
     {
-      "id": "vv1AvZk49GkdjzpuE",
-      "name": "Penelope Road: Maybe In Time Tour",
-      "url": "https://www.ticketmaster.com/penelope-road-maybe-in-time-tour-boston-massachusetts-02-11-2027/event/01006557DCE16367",
+      "id": "vv1kvZvP4tGACYU6u",
+      "name": "Penelope Road",
+      "url": "https://www.ticketmaster.com/penelope-road-chicago-illinois-02-26-2027/event/040065569EC361CD",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
         "Penelope Road",
         "Arts Fishing Club"
       ],
-      "artist_upcoming": 7,
-      "venue": "Paradise Rock Club presented by Citizens",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-12T00:00:00Z",
+      "artist_upcoming": 15,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-27T01:00:00Z",
       "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-02-12T02:00:00Z",
+      "onsale_end": "2027-02-27T01:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
           "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
           "url": "",
           "how": ""
         },
         {
-          "name": "Citizens Bank Presale",
-          "start": "2026-10-29T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
           "name": "LIVE NATION PRESALE",
           "start": "2026-10-29T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-01-30T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
@@ -8823,8 +9514,8 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Penelope+Road",
       "score": 60,
       "score_parts": {
-        "demand": 12.6,
-        "scarcity": 22.7,
+        "demand": 16.9,
+        "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -8837,10 +9528,274 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
+        "small room (2,000 cap)",
         "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4lx2cNT",
+      "name": "Penelope Road: Maybe In Time Tour",
+      "url": "https://www.ticketmaster.com/penelope-road-maybe-in-time-tour-charlotte-north-carolina-02-06-2027/event/2D00655AE23ED8FF",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Penelope Road",
+        "Arts Fishing Club"
+      ],
+      "artist_upcoming": 15,
+      "venue": "Neighborhood Theatre Main Room",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-07T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-02-07T03:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Penelope+Road",
+      "score": 60,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17bZ_4GkRaPB42",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-minneapolis-minnesota-02-16-2027/event/0600655BC997A54F",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "The Fillmore Minneapolis presented by Affinity Plus",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-17T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-02-17T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Affinity Plus Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 79,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 20.9,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.6-2.8x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_4Riqxcw",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-houston-texas-02-09-2027/event/3A00655BEC762B72",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-10T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-02-10T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-01-13T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 76,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 18.2,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.6-2.8x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv178Z_4GklmgFrA",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-chicago-illinois-02-18-2027/event/0400655AEED48785",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-19T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-02-19T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-01-22T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 76,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 18.2,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.6-2.8x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -9502,6 +10457,27 @@
           "end": "2027-02-14T04:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-01-24T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
@@ -9525,7 +10501,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
-        "4 presale(s)"
+        "7 presale(s)"
       ]
     },
     {
@@ -9560,6 +10536,34 @@
           "end": "2027-03-04T04:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-02-11T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
@@ -9583,7 +10587,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
-        "2 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -9729,6 +10733,49 @@
         "small room (2,362 cap)",
         "est. 1.6-2.7x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4w6dSvt",
+      "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
+      "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-dallas-texas-02-11-2027/event/0C00655C870F3069",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Alexandra Kay"
+      ],
+      "artist_upcoming": 44,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-12T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-02-12T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Alexandra+Kay",
+      "score": 72,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 18.2,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.8
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.6-2.8x face"
       ]
     },
     {
@@ -10996,6 +12043,80 @@
       ]
     },
     {
+      "id": "G5dIZ_42WndML",
+      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-houston-texas-05-28-2027/event/3A006553FDA83DDF",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Two Door Cinema Club",
+        "Friendly Fires"
+      ],
+      "artist_upcoming": 25,
+      "venue": "White Oak Music Hall Lawn",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-28T23:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-29T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue/Local/Radio Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Venue/Local/Radio Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T15:00:00Z",
+          "end": "2026-10-30T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-05-22T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
+      "score": 64,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AkZk44GkeEXaZi",
       "name": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
       "url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-kansas-city-missouri-05-02-2027/event/06006555A7F8902C",
@@ -11302,6 +12423,78 @@
       ]
     },
     {
+      "id": "vvG1YZ_4nAG3zq",
+      "name": "LACI KAYE BOOTH - Love Letter 2 Texas TouR",
+      "url": "https://www.ticketmaster.com/laci-kaye-booth-love-letter-2-dallas-texas-02-10-2027/event/0C00655A85312E1D",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Laci Kaye Booth"
+      ],
+      "artist_upcoming": 8,
+      "venue": "The Cambridge Room at House Of Blues",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-11T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-02-11T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-01-14T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Laci+Kaye+Booth",
+      "score": 64,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 18.2,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.6x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv17jZ_4GkIW3BSr",
       "name": "Cigarettes @ Sunset",
       "url": "https://www.pabsttheatergroup.com/events/detail/cigarettes-sunset-2027",
@@ -11358,80 +12551,6 @@
         "~1,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_42WndML",
-      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
-      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-houston-texas-05-28-2027/event/3A006553FDA83DDF",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Two Door Cinema Club",
-        "Friendly Fires"
-      ],
-      "artist_upcoming": 24,
-      "venue": "White Oak Music Hall Lawn",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-28T23:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-05-29T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Venue/Local/Radio Presale",
-          "start": "2026-10-29T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "Venue/Local/Radio Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-27T15:00:00Z",
-          "end": "2026-10-30T14:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-05-22T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
-      "score": 63,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -13084,48 +14203,6 @@
       ]
     },
     {
-      "id": "vvG1YZ_4nAG3zq",
-      "name": "LACI KAYE BOOTH - Love Letter 2 Texas TouR",
-      "url": "https://www.ticketmaster.com/laci-kaye-booth-love-letter-2-dallas-texas-02-10-2027/event/0C00655A85312E1D",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Laci Kaye Booth"
-      ],
-      "artist_upcoming": 8,
-      "venue": "The Cambridge Room at House Of Blues",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-02-11T01:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-02-11T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Laci+Kaye+Booth",
-      "score": 60,
-      "score_parts": {
-        "demand": 13.4,
-        "scarcity": 18.2,
-        "markup": 22.4,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.5-2.6x face"
-      ]
-    },
-    {
       "id": "G5eVZ_4rwT7QT",
       "name": "Bumpin Uglies + Ballyhoo! ",
       "url": "https://www.ticketmaster.com/bumpin-uglies-ballyhoo-charlotte-north-carolina-03-05-2027/event/2D006557B2FC46BF",
@@ -13184,6 +14261,50 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7tCo",
+      "name": "Blake Whiten w/ Sunny Black",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7tCo",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Blake Whiten",
+        "Sunny Black"
+      ],
+      "artist_upcoming": 32,
+      "venue": "George's Majestic Lounge",
+      "city": "Fayetteville",
+      "state": "AR",
+      "capacity": 500,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-07T01:30:00Z",
+      "onsale_start": "2026-10-30T16:00:00Z",
+      "onsale_end": "2027-05-07T01:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Blake+Whiten",
+      "score": 75,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 25.0,
+        "markup": 22.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (500 cap)",
+        "~500 cap (from venue type)",
+        "est. 1.5-2.6x face"
       ]
     },
     {
@@ -15245,7 +16366,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 34,
       "venue": "The Observatory North Park",
       "city": "San Diego",
       "state": "CA",
@@ -15289,7 +16410,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 68,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.6,
         "scarcity": 21.6,
         "markup": 15.1,
         "timing": 10.0
@@ -15996,13 +17117,6 @@
           "end": "2026-10-30T05:00:00Z",
           "url": "",
           "how": ""
-        },
-        {
-          "name": "Promoter Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
         }
       ],
       "price_min": null,
@@ -16027,7 +17141,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -16062,13 +17176,6 @@
           "end": "2026-10-30T05:00:00Z",
           "url": "",
           "how": ""
-        },
-        {
-          "name": "Promoter Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
         }
       ],
       "price_min": null,
@@ -16093,7 +17200,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -16128,13 +17235,6 @@
           "end": "2026-10-30T05:00:00Z",
           "url": "",
           "how": ""
-        },
-        {
-          "name": "Promoter Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
         }
       ],
       "price_min": null,
@@ -16159,7 +17259,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -16194,13 +17294,6 @@
           "end": "2026-10-30T05:00:00Z",
           "url": "",
           "how": ""
-        },
-        {
-          "name": "Promoter Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
         }
       ],
       "price_min": null,
@@ -16225,7 +17318,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -16642,7 +17735,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 34,
       "venue": "Paramount Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -16679,7 +17772,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 64,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -16788,7 +17881,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 34,
       "venue": "Fox Theater - Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -16818,7 +17911,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 64,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -16896,6 +17989,87 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_4pPR1wj",
+      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-seattle-washington-05-17-2027/event/0F006555A5BCAC9C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Two Door Cinema Club",
+        "Friendly Fires"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Paramount Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-18T02:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-05-18T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "Promoter Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-11T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -17463,6 +18637,80 @@
       ]
     },
     {
+      "id": "G5vYZ_48x4wje",
+      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
+      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-oakland-california-05-20-2027/event/1C00655422572702",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Two Door Cinema Club",
+        "Friendly Fires"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Fox Theater - Oakland",
+      "city": "Oakland",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-21T03:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-05-21T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "APE Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-27T17:00:00Z",
+          "end": "2026-10-30T16:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-14T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1HZ_KwVCQCl",
       "name": "The Red Clay Strays",
       "url": "https://www.ticketmaster.com/the-red-clay-strays-bend-oregon-08-20-2027/event/0F00653CB439A3AB",
@@ -17565,87 +18813,6 @@
       ]
     },
     {
-      "id": "vvG1HZ_4pPR1wj",
-      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
-      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-seattle-washington-05-17-2027/event/0F006555A5BCAC9C",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Two Door Cinema Club",
-        "Friendly Fires"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Paramount Theatre",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-18T02:30:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-05-18T02:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-27T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-27T17:00:00Z",
-          "end": "2026-10-30T16:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "Promoter Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-05-11T05:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
-      ]
-    },
-    {
       "id": "vv1k0Z_4r4G7w1uG",
       "name": "Ocean Alley North America '27",
       "url": "https://www.ticketmaster.com/ocean-alley-north-america-27-los-angeles-california-06-04-2027/event/0900655795C8A34C",
@@ -17713,80 +18880,6 @@
       "est_resale_max": null,
       "reasons": [
         "small room (1,850 cap)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vYZ_48x4wje",
-      "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
-      "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-oakland-california-05-20-2027/event/1C00655422572702",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Two Door Cinema Club",
-        "Friendly Fires"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Fox Theater - Oakland",
-      "city": "Oakland",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-21T03:00:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-05-21T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-27T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "APE Presale",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-27T17:00:00Z",
-          "end": "2026-10-30T16:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-05-14T05:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Two+Door+Cinema+Club",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
       ]
@@ -18037,6 +19130,87 @@
         "125 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_4fqHxKB",
+      "name": "Penelope Road",
+      "url": "https://www.ticketmaster.com/penelope-road-san-francisco-california-03-11-2027/event/1C0065551DF224FA",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Penelope Road",
+        "The Takes"
+      ],
+      "artist_upcoming": 15,
+      "venue": "August Hall",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-12T04:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-12T06:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Mastercard Presale",
+          "start": "2026-10-28T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-02-12T06:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Penelope+Road",
+      "score": 62,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
         "5 presale(s)"
       ]
     },
