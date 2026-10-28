@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-28T17:20:02Z",
-    "generated_local": "Wed 28 Oct, 11:20 AM",
-    "scanned": 1013,
-    "surfaced": 273,
-    "new": 10,
+    "generated_utc": "2026-10-28T18:29:09Z",
+    "generated_local": "Wed 28 Oct, 12:29 PM",
+    "scanned": 1014,
+    "surfaced": 274,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2870,7 +2870,8 @@
       "segment": "Music",
       "genre": "Hip-Hop/Rap",
       "artists": [
-        "Key Glock"
+        "Key Glock",
+        "Zo Trapalot"
       ],
       "artist_upcoming": 7,
       "venue": "Aztec Theatre",
@@ -3671,7 +3672,7 @@
       "artists": [
         "Belly Gang Kushington"
       ],
-      "artist_upcoming": 6,
+      "artist_upcoming": 5,
       "venue": "House of Blues Houston",
       "city": "Houston",
       "state": "TX",
@@ -3692,9 +3693,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Belly+Gang+Kushington",
-      "score": 61,
+      "score": 60,
       "score_parts": {
-        "demand": 11.8,
+        "demand": 10.9,
         "scarcity": 18.2,
         "markup": 21.4,
         "timing": 10.0
@@ -5754,9 +5755,9 @@
       "state": "MA",
       "capacity": 2000,
       "capacity_source": "exact",
-      "event_date": "2027-02-21T00:00:00Z",
+      "event_date": "2027-02-20T23:30:00Z",
       "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-02-21T02:00:00Z",
+      "onsale_end": "2027-02-21T01:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -10481,7 +10482,7 @@
         "Claire Rosinkranz"
       ],
       "artist_upcoming": 29,
-      "venue": "White Oak Music Hall - Downstairs",
+      "venue": "White Oak Music Hall Lawn",
       "city": "Houston",
       "state": "TX",
       "capacity": 1800,
@@ -11526,7 +11527,7 @@
         "St. Paul and the Broken Bones",
         "The Point."
       ],
-      "artist_upcoming": 30,
+      "artist_upcoming": 31,
       "venue": "Duling Hall",
       "city": "Jackson",
       "state": "MS",
@@ -11556,7 +11557,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=St.+Paul+and+the+Broken+Bones",
       "score": 69,
       "score_parts": {
-        "demand": 20.9,
+        "demand": 21.1,
         "scarcity": 19.6,
         "markup": 18.2,
         "timing": 10.0
@@ -13772,6 +13773,20 @@
           "end": "2026-10-30T03:00:00Z",
           "url": "",
           "how": "Promoter Presale"
+        },
+        {
+          "name": "Acoustic VIP Experience",
+          "start": "2026-10-28T20:00:00Z",
+          "end": "2027-08-28T04:00:00Z",
+          "url": "",
+          "how": "Acoustic VIP Experience"
+        },
+        {
+          "name": "Early Entry VIP",
+          "start": "2026-10-28T20:00:00Z",
+          "end": "2027-08-28T04:00:00Z",
+          "url": "",
+          "how": "Early Entry VIP"
         }
       ],
       "price_min": null,
@@ -13796,7 +13811,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "6 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -14665,7 +14680,7 @@
         {
           "name": "VIP Packages Onsale",
           "start": "2026-10-30T16:00:00Z",
-          "end": "2027-06-23T04:00:00Z",
+          "end": "2027-08-06T04:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -19021,7 +19036,7 @@
         "The Red Clay Strays",
         "St. Paul and the Broken Bones"
       ],
-      "artist_upcoming": 47,
+      "artist_upcoming": 48,
       "venue": "Hayden Homes Amphitheater",
       "city": "Bend",
       "state": "OR",
@@ -19093,7 +19108,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Red+Clay+Strays",
       "score": 63,
       "score_parts": {
-        "demand": 23.5,
+        "demand": 23.7,
         "scarcity": 8.6,
         "markup": 20.8,
         "timing": 10.0
@@ -19107,7 +19122,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "47 upcoming dates (heavy routing)",
+        "48 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "8 presale(s)"
@@ -19861,6 +19876,80 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk4pGkeyzXKE",
+      "name": "Zach Williams Live With Special Guest Emerson Day",
+      "url": "https://www.ticketmaster.com/zach-williams-live-with-special-guest-hershey-pennsylvania-03-05-2027/event/02006556B9E3E4E7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Zach Williams",
+        "Emerson Day"
+      ],
+      "artist_upcoming": 36,
+      "venue": "Hershey Theatre",
+      "city": "Hershey",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T00:00:00Z",
+      "onsale_start": "2026-11-04T17:00:00Z",
+      "onsale_end": "2027-03-06T01:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Meet & Greet Experience",
+          "start": "2026-11-02T17:00:00Z",
+          "end": "2026-11-04T16:45:00Z",
+          "url": "",
+          "how": "VIP Meet & Greet Experience"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-02T17:00:00Z",
+          "end": "2026-11-04T16:45:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "AE Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-04T16:45:00Z",
+          "url": "",
+          "how": "AE Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-04T16:45:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Zach+Williams",
+      "score": 62,
+      "score_parts": {
+        "demand": 22.0,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     },
     {
