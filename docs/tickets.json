@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_utc": "2026-10-29T17:31:23Z",
-    "generated_local": "Thu 29 Oct, 11:31 AM",
-    "scanned": 979,
-    "surfaced": 263,
+    "generated_utc": "2026-10-29T18:38:22Z",
+    "generated_local": "Thu 29 Oct, 12:38 PM",
+    "scanned": 986,
+    "surfaced": 264,
     "new": 1,
     "threshold": 60,
     "days": 14,
@@ -77,6 +77,13 @@
           "end": "2026-10-13T03:59:00Z",
           "url": "",
           "how": "Money In the Bank Offer"
+        },
+        {
+          "name": "Very Nice, Very Evil Ticket Treat",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2026-10-31T01:30:00Z",
+          "url": "",
+          "how": "Very Nice, Very Evil Ticket Treat"
         }
       ],
       "price_min": null,
@@ -101,7 +108,7 @@
         "on your watchlist",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
-        "7 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -5082,6 +5089,72 @@
       ]
     },
     {
+      "id": "G5eVZ_4hxN_oZ",
+      "name": "NSQK PRESENTS: MOSCA",
+      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-charlotte-north-carolina-05-18-2027/event/2D006556E28D9440",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 14,
+      "venue": "Neighborhood Theatre Main Room",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-19T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-19T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T03:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-05-12T03:55:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 66,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 17.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vv177Z_KGkMrc_d_",
       "name": "BUNT. - The Levi Did It Tour",
       "url": "https://www.ticketmaster.com/bunt-the-levi-did-it-tour-boston-massachusetts-05-14-2027/event/0100653DDEB590D9",
@@ -5493,72 +5566,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.4x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_4hxN_oZ",
-      "name": "NSQK PRESENTS: MOSCA",
-      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-charlotte-north-carolina-05-18-2027/event/2D006556E28D9440",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "NSQK"
-      ],
-      "artist_upcoming": 12,
-      "venue": "Neighborhood Theatre Main Room",
-      "city": "Charlotte",
-      "state": "NC",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-19T00:00:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-05-19T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T03:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-05-12T03:55:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
-      "score": 65,
-      "score_parts": {
-        "demand": 15.6,
-        "scarcity": 17.7,
-        "markup": 21.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -10539,6 +10546,166 @@
       ]
     },
     {
+      "id": "G5dIZ_4hegN71",
+      "name": "NSQK PRESENTS: MOSCA",
+      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-houston-texas-05-25-2027/event/3A006556C2D6310A",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 14,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-26T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-26T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-05-19T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 67,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 18.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4hxmH1S",
+      "name": "NSQK PRESENTS: MOSCA",
+      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-dallas-texas-05-27-2027/event/0C006556E2BBC2B3",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 14,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-28T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-28T02:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-05-21T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-30T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 67,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 18.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vv1A7Zk4KGkdKzEbn",
       "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
       "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-chicago-illinois-05-07-2027/event/04006553D3E2762A",
@@ -10673,37 +10840,137 @@
       ]
     },
     {
-      "id": "G5dIZ_4hegN71",
-      "name": "NSQK PRESENTS: MOSCA",
-      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-houston-texas-05-25-2027/event/3A006556C2D6310A",
+      "id": "vv1A7Zk4KGkd4MErT",
+      "name": "NSQK",
+      "url": "https://www.ticketmaster.com/nsqk-chicago-illinois-05-11-2027/event/04006553D5DE77BF",
       "segment": "Music",
       "genre": "Hip-Hop/Rap",
       "artists": [
         "NSQK"
       ],
-      "artist_upcoming": 12,
-      "venue": "White Oak Music Hall - Downstairs",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-26T00:00:00Z",
+      "artist_upcoming": 14,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-11T23:00:00Z",
       "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-05-26T03:00:00Z",
+      "onsale_end": "2027-05-11T23:00:00Z",
       "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T19:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-14T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-29T19:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T19:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-29T19:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-05-05T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 66,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk4KGkd4JMqg",
+      "name": "NSQK",
+      "url": "https://www.ticketmaster.com/nsqk-chicago-illinois-05-12-2027/event/04006553D59B7775",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 14,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-12T23:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-12T23:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-15T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
         {
           "name": "Artist Presale",
           "start": "2026-10-28T15:00:00Z",
           "end": "2026-10-30T04:59:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": ""
         },
         {
-          "name": "Local Presale",
+          "name": "LIVE NATION PRESALE",
           "start": "2026-10-29T15:00:00Z",
           "end": "2026-10-30T04:59:00Z",
-          "url": "",
-          "how": "Local Presale"
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         },
         {
           "name": "VIP Packages Presale",
@@ -10715,7 +10982,7 @@
         {
           "name": "VIP Packages Onsale",
           "start": "2026-10-30T15:00:00Z",
-          "end": "2027-05-19T04:55:00Z",
+          "end": "2027-05-06T04:55:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -10725,8 +10992,8 @@
       "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
       "score": 66,
       "score_parts": {
-        "demand": 15.6,
-        "scarcity": 18.7,
+        "demand": 16.5,
+        "scarcity": 18.2,
         "markup": 21.4,
         "timing": 10.0
       },
@@ -10739,95 +11006,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1YZ_4hxmH1S",
-      "name": "NSQK PRESENTS: MOSCA",
-      "url": "https://www.ticketmaster.com/nsqk-presents-mosca-dallas-texas-05-27-2027/event/0C006556E2BBC2B3",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "NSQK"
-      ],
-      "artist_upcoming": 12,
-      "venue": "The Echo Lounge & Music Hall",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-28T00:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-05-28T02:00:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-05-21T04:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-04-30T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
-      "score": 66,
-      "score_parts": {
-        "demand": 15.6,
-        "scarcity": 18.7,
-        "markup": 21.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
+        "small room (2,000 cap)",
         "est. 1.5-2.5x face",
         "6 presale(s)"
       ]
@@ -10975,92 +11154,6 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A7Zk4KGkd4JMqg",
-      "name": "NSQK",
-      "url": "https://www.ticketmaster.com/nsqk-chicago-illinois-05-12-2027/event/04006553D59B7775",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "NSQK"
-      ],
-      "artist_upcoming": 12,
-      "venue": "House of Blues Chicago",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-05-12T23:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-05-12T23:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-04-15T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T04:59:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-05-06T04:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
-      "score": 65,
-      "score_parts": {
-        "demand": 15.6,
-        "scarcity": 18.2,
-        "markup": 21.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.5-2.5x face",
-        "6 presale(s)"
       ]
     },
     {
@@ -16477,6 +16570,92 @@
       ]
     },
     {
+      "id": "vvG1IZ_4hse4Cb",
+      "name": "NSQK",
+      "url": "https://www.ticketmaster.com/nsqk-san-diego-california-06-06-2027/event/0A006556F1095398",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "NSQK"
+      ],
+      "artist_upcoming": 14,
+      "venue": "House of Blues San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-06-07T02:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-06-07T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-17T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-05-28T06:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T06:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
+      "score": 66,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1HZ_44GNb5t",
       "name": "Brandi Carlile: Burn The Setlist (The All Request Tour)",
       "url": "https://www.ticketmaster.com/brandi-carlile-burn-the-setlist-the-seattle-washington-01-09-2027/event/0F0065554C8D82E9",
@@ -16876,92 +17055,6 @@
       ]
     },
     {
-      "id": "vvG1IZ_4hse4Cb",
-      "name": "NSQK",
-      "url": "https://www.ticketmaster.com/nsqk-san-diego-california-06-06-2027/event/0A006556F1095398",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "NSQK"
-      ],
-      "artist_upcoming": 12,
-      "venue": "House of Blues San Diego",
-      "city": "San Diego",
-      "state": "CA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-06-07T02:00:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-06-07T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T06:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T06:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-05-17T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T06:59:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-05-28T06:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T06:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=NSQK",
-      "score": 65,
-      "score_parts": {
-        "demand": 15.6,
-        "scarcity": 18.2,
-        "markup": 21.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.5-2.5x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "G5vYZ_4c933Lx",
       "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
       "url": "https://app.opendate.io/e/frank-turner-and-the-sleeping-souls-last-evenings-world-tour-march-06-2027-746361",
@@ -17324,8 +17417,8 @@
     },
     {
       "id": "vv170Z_4GkldpQiX",
-      "name": "DIIV",
-      "url": "https://www.ticketmaster.com/diiv-santa-ana-california-05-07-2027/event/0900655AC359AB3E",
+      "name": "DIIV - ZIRP! The World",
+      "url": "https://www.ticketmaster.com/diiv-zirp-the-world-santa-ana-california-05-07-2027/event/0900655AC359AB3E",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
