@@ -1,4 +1,4 @@
-264 ticket drops scoring 60+ in the next 14 days.
+267 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   Charleston Coliseum, Charleston WV
@@ -16,12 +16,6 @@
   Daikin Park, Houston TX
   On sale Fri 7 Aug, 9:00 AM (passed)
   Event Sat 28 Nov, 3:30 PM
-  Face TBA - est. resale 1.3-2.25x face (low conf)
-
-  70 - WWE
-  Covelli Centre, Youngstown OH
-  On sale Fri 21 Aug, 8:00 AM (passed)
-  Event Thu 29 Oct, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
   70 - WWE, WWE Survivor Series
@@ -70,4 +64,10 @@
   Van Andel Arena, Grand Rapids MI
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Fri 4 Dec, 5:30 PM
+  Face TBA - est. resale 1.3-2.25x face (low conf)
+
+  63 - WWE
+  Amerant Bank Arena, Sunrise FL
+  On sale Fri 11 Sep, 8:00 AM (passed)
+  Event Fri 13 Nov, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
