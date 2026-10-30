@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-30T16:12:35Z",
-    "generated_local": "Fri 30 Oct, 10:12 AM",
-    "scanned": 1001,
-    "surfaced": 306,
-    "new": 41,
+    "generated_utc": "2026-10-30T17:08:27Z",
+    "generated_local": "Fri 30 Oct, 11:08 AM",
+    "scanned": 1009,
+    "surfaced": 314,
+    "new": 8,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2190,6 +2190,260 @@
       ]
     },
     {
+      "id": "vv1AeZk44GkduXK17",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-philadelphia-pennsylvania-03-28-2027/event/02006555CDF93284",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 42,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-29T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-29T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T04:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-22T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-22T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 79,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 20.9,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.8-2.9x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk44GkeYh_60",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-silver-spring-maryland-03-23-2027/event/15006555B06D91E4",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 42,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-24T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-24T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-02-25T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-17T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 79,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 20.9,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.8-2.9x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_499VI0s",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-charlotte-north-carolina-03-21-2027/event/2D006555D7D28931",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 42,
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-22T00:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-22T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-29T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-03-15T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 79,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 20.9,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.8-2.9x face",
+        "5 presale(s)"
+      ]
+    },
+    {
       "id": "G5eVZ_4mABfSw",
       "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
       "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-charlotte-north-carolina-02-06-2027/event/2D00655B85E94CF2",
@@ -2395,48 +2649,34 @@
       ]
     },
     {
-      "id": "vv1AeZk44GkduXK17",
+      "id": "vvG1VZ_fTXfLgs",
       "name": "brakence - the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-philadelphia-pennsylvania-03-28-2027/event/02006555CDF93284",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-miami-beach-florida-03-14-2027/event/0D00654FFE51FD71",
       "segment": "Music",
       "genre": "Pop",
       "artists": [
         "brakence"
       ],
-      "artist_upcoming": 38,
-      "venue": "The Fillmore Philadelphia",
-      "city": "Philadelphia",
-      "state": "PA",
+      "artist_upcoming": 42,
+      "venue": "The Fillmore Miami Beach at Jackie Gleason Theater",
+      "city": "Miami Beach",
+      "state": "FL",
       "capacity": 1150,
       "capacity_source": "exact",
-      "event_date": "2027-03-29T00:00:00Z",
+      "event_date": "2027-03-15T00:00:00Z",
       "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-03-29T02:00:00Z",
+      "onsale_end": "2027-03-15T02:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
-          "start": "2026-10-28T04:00:00Z",
+          "start": "2026-10-28T14:00:00Z",
           "end": "2026-10-30T02:00:00Z",
           "url": "",
           "how": ""
         },
         {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-03-22T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
           "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T14:00:00Z",
+          "start": "2026-10-28T14:00:00Z",
           "end": "2026-10-30T02:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
@@ -2446,38 +2686,39 @@
           "start": "2026-10-28T14:00:00Z",
           "end": "2026-10-30T02:00:00Z",
           "url": "",
-          "how": ""
+          "how": "The artist is offering VIP Packages for this event."
         },
         {
           "name": "VIP Package Onsale",
           "start": "2026-10-30T14:00:00Z",
-          "end": "2027-03-22T02:00:00Z",
+          "end": "2027-03-08T03:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 78,
+      "score": 79,
       "score_parts": {
-        "demand": 22.3,
+        "demand": 22.9,
         "scarcity": 20.9,
-        "markup": 24.5,
+        "markup": 25,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.65,
-        2.7
+        1.75,
+        2.9
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
+        "42 upcoming dates (heavy routing)",
         "small room (1,150 cap)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
+        "est. 1.8-2.9x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -2662,23 +2903,23 @@
       ]
     },
     {
-      "id": "1A4Zk44GkeYh_60",
-      "name": "brakence - the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-silver-spring-maryland-03-23-2027/event/15006555B06D91E4",
+      "id": "vv1AFZk4KGkd5PANl",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-detroit-michigan-04-03-2027/event/08006553CB9458EB",
       "segment": "Music",
       "genre": "Pop",
       "artists": [
         "brakence"
       ],
-      "artist_upcoming": 38,
-      "venue": "The Fillmore Silver Spring",
-      "city": "Silver Spring",
-      "state": "MD",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-03-24T00:00:00Z",
+      "artist_upcoming": 42,
+      "venue": "Saint Andrew's Hall",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-03T23:00:00Z",
       "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-03-24T02:00:00Z",
+      "onsale_end": "2027-04-04T01:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -2686,175 +2927,24 @@
           "end": "2026-10-30T02:00:00Z",
           "url": "",
           "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-29T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
         },
         {
           "name": "Citi\u00ae Cardmember Preferred Tickets",
           "start": "2026-10-30T14:00:00Z",
-          "end": "2027-02-25T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-03-17T02:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 78,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 20.9,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_499VI0s",
-      "name": "brakence: the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-charlotte-north-carolina-03-21-2027/event/2D006555D7D28931",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "brakence"
-      ],
-      "artist_upcoming": 38,
-      "venue": "The Fillmore Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-03-22T00:00:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-03-22T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
+          "end": "2027-04-01T02:00:00Z",
           "url": "",
           "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
         },
         {
           "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-29T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-03-15T02:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 78,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 20.9,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.6-2.7x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1VZ_fTXfLgs",
-      "name": "brakence - the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-miami-beach-florida-03-14-2027/event/0D00654FFE51FD71",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "brakence"
-      ],
-      "artist_upcoming": 38,
-      "venue": "The Fillmore Miami Beach at Jackie Gleason Theater",
-      "city": "Miami Beach",
-      "state": "FL",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-03-15T00:00:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-03-15T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T14:00:00Z",
+          "start": "2026-10-29T14:00:00Z",
           "end": "2026-10-30T02:00:00Z",
           "url": "",
           "how": ""
         },
         {
           "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T14:00:00Z",
+          "start": "2026-10-29T14:00:00Z",
           "end": "2026-10-30T02:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
@@ -2869,7 +2959,7 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-10-30T14:00:00Z",
-          "end": "2027-03-08T03:00:00Z",
+          "end": "2027-03-28T02:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -2879,23 +2969,25 @@
       "seatgeek_url": "https://seatgeek.com/search?search=brakence",
       "score": 78,
       "score_parts": {
-        "demand": 22.3,
-        "scarcity": 20.9,
-        "markup": 24.5,
+        "demand": 22.9,
+        "scarcity": 19.6,
+        "markup": 25,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.65,
-        2.7
+        1.75,
+        2.9
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.6-2.7x face",
-        "4 presale(s)"
+        "42 upcoming dates (heavy routing)",
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.8-2.9x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -3046,7 +3138,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "American Music Theatre",
       "city": "Lancaster",
       "state": "PA",
@@ -3075,7 +3167,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -3223,93 +3315,6 @@
       ]
     },
     {
-      "id": "vv1AFZk4KGkd5PANl",
-      "name": "brakence: the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-detroit-michigan-04-03-2027/event/08006553CB9458EB",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "brakence"
-      ],
-      "artist_upcoming": 38,
-      "venue": "Saint Andrew's Hall",
-      "city": "Detroit",
-      "state": "MI",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-03T23:00:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-04-04T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-04-01T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-29T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-03-28T02:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 76,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 19.6,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "vv1A8vP4tGACq1fu",
       "name": "brakence: the marroW tour",
       "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-boston-massachusetts-03-24-2027/event/010065569E74A50D",
@@ -3318,7 +3323,7 @@
       "artists": [
         "brakence"
       ],
-      "artist_upcoming": 38,
+      "artist_upcoming": 42,
       "venue": "Citizens House of Blues Boston",
       "city": "Boston",
       "state": "MA",
@@ -3367,24 +3372,25 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 75,
+      "score": 76,
       "score_parts": {
-        "demand": 22.3,
+        "demand": 22.9,
         "scarcity": 18.2,
-        "markup": 24.5,
+        "markup": 25,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.65,
-        2.7
+        1.75,
+        2.9
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
+        "42 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
+        "est. 1.8-2.9x face",
         "5 presale(s)"
       ]
     },
@@ -3397,7 +3403,7 @@
       "artists": [
         "brakence"
       ],
-      "artist_upcoming": 38,
+      "artist_upcoming": 42,
       "venue": "House of Blues Orlando",
       "city": "Orlando",
       "state": "FL",
@@ -3439,24 +3445,25 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 75,
+      "score": 76,
       "score_parts": {
-        "demand": 22.3,
+        "demand": 22.9,
         "scarcity": 18.2,
-        "markup": 24.5,
+        "markup": 25,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.65,
-        2.7
+        1.75,
+        2.9
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
+        "42 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
+        "est. 1.8-2.9x face",
         "4 presale(s)"
       ]
     },
@@ -3469,7 +3476,7 @@
       "artists": [
         "brakence"
       ],
-      "artist_upcoming": 38,
+      "artist_upcoming": 42,
       "venue": "House of Blues Cleveland",
       "city": "Cleveland",
       "state": "OH",
@@ -3525,24 +3532,25 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 75,
+      "score": 76,
       "score_parts": {
-        "demand": 22.3,
+        "demand": 22.9,
         "scarcity": 18.2,
-        "markup": 24.5,
+        "markup": 25,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.65,
-        2.7
+        1.75,
+        2.9
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
+        "42 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
+        "est. 1.8-2.9x face",
         "6 presale(s)"
       ]
     },
@@ -3555,7 +3563,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Fox Theatre Detroit",
       "city": "Detroit",
       "state": "MI",
@@ -3634,7 +3642,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -3723,7 +3731,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Au-Rene Theater at the Broward Center",
       "city": "Ft Lauderdale",
       "state": "FL",
@@ -3788,7 +3796,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -3804,7 +3812,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Boch Center Shubert Theatre",
       "city": "Boston",
       "state": "MA",
@@ -3883,7 +3891,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -4048,6 +4056,74 @@
         "small room (1,150 cap)",
         "est. 1.5-2.6x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "1kA8vPfaGAG_JWE",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-silver-spring-maryland-05-18-2027/event/150065509C666F67",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-05-18T23:30:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-19T01:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-04-22T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 72,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 20.9,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -4236,7 +4312,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 35,
+      "artist_upcoming": 36,
       "venue": "Franklin Music Hall",
       "city": "Philadelphia",
       "state": "PA",
@@ -4251,7 +4327,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 71,
       "score_parts": {
-        "demand": 21.8,
+        "demand": 22.0,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 6.0
@@ -4324,6 +4400,212 @@
       ]
     },
     {
+      "id": "vv1AFZk4KGkd174jf",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-detroit-michigan-05-04-2027/event/08006553CA115714",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast",
+        "Nobro"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Saint Andrew's Hall",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-04T22:30:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-05T00:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-04-07T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 70,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 19.6,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4oGkddQeh8",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-boston-massachusetts-05-14-2027/event/01006551C36826D0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-14T22:30:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-15T00:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-04-15T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4oGkdd_3Qz",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-boston-massachusetts-05-13-2027/event/01006551C36526B8",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-13T22:30:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-14T00:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-04-14T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "k7vGF_KdIYlFh",
       "name": "The Amy Winehouse Band",
       "url": "https://www.ticketmaster.com/the-amy-winehouse-band-rochester-new-york-04-29-2027/event/00006530E8C2B21B",
@@ -4373,6 +4655,142 @@
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kfZ_4foG7llI-",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-cleveland-ohio-05-11-2027/event/0500655511AEBA21",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "House of Blues Cleveland",
+      "city": "Cleveland",
+      "state": "OH",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-11T22:30:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-05-12T00:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-04-14T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_4hFl2JV",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-san-diego-california-03-25-2027/event/0A006556C8ACF9B4",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "House of Blues San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-26T01:30:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-03-26T03:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-02-26T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -4466,9 +4884,9 @@
       ]
     },
     {
-      "id": "1kA8vPfaGAG_JWE",
+      "id": "1ApZk49Gkewy1dG",
       "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-silver-spring-maryland-05-18-2027/event/150065509C666F67",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-mckees-rocks-pennsylvania-05-16-2027/event/16006557B2E4A0CC",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -4476,36 +4894,43 @@
         "Skinny Lister",
         "Beans On Toast"
       ],
-      "artist_upcoming": 39,
-      "venue": "The Fillmore Silver Spring",
-      "city": "Silver Spring",
-      "state": "MD",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-05-18T23:30:00Z",
+      "artist_upcoming": 40,
+      "venue": "Roxian Theatre Presented By Citizens",
+      "city": "McKees Rocks",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-16T22:30:00Z",
       "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-05-19T01:30:00Z",
+      "onsale_end": "2027-05-17T00:30:00Z",
       "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-04-22T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
         {
           "name": "LIVE NATION PRESALE",
           "start": "2026-10-28T14:00:00Z",
           "end": "2026-10-30T02:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-10-28T14:00:00Z",
+          "end": "2026-10-30T02:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T14:00:00Z",
+          "end": "2027-04-19T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
@@ -4513,23 +4938,25 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
       "score": 68,
       "score_parts": {
-        "demand": 22.4,
-        "scarcity": 20.9,
-        "markup": 15.1,
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.45,
+        2.3
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -4541,7 +4968,7 @@
       "artists": [
         "BUNT."
       ],
-      "artist_upcoming": 38,
+      "artist_upcoming": 39,
       "venue": "MGM Music Hall at Fenway",
       "city": "Boston",
       "state": "MA",
@@ -4592,7 +5019,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=BUNT.",
       "score": 67,
       "score_parts": {
-        "demand": 22.3,
+        "demand": 22.4,
         "scarcity": 18.7,
         "markup": 16.1,
         "timing": 10.0
@@ -4724,75 +5151,6 @@
       ]
     },
     {
-      "id": "vv1AFZk4KGkd174jf",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-detroit-michigan-05-04-2027/event/08006553CA115714",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast",
-        "Nobro"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Saint Andrew's Hall",
-      "city": "Detroit",
-      "state": "MI",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-04T22:30:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-05-05T00:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-04-07T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 67,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 19.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AvZk49GkdjzpuE",
       "name": "Penelope Road: Maybe In Time Tour",
       "url": "https://www.ticketmaster.com/penelope-road-maybe-in-time-tour-boston-massachusetts-02-11-2027/event/01006557DCE16367",
@@ -4868,7 +5226,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "David A. Straz Center - Carol Morsani Hall",
       "city": "Tampa",
       "state": "FL",
@@ -4897,7 +5255,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face"
       ]
@@ -4911,7 +5269,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Blue Gate Performing Arts Center",
       "city": "Shipshewana",
       "state": "IN",
@@ -4940,277 +5298,9 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face"
-      ]
-    },
-    {
-      "id": "vv1AvZk4oGkddQeh8",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-boston-massachusetts-05-14-2027/event/01006551C36826D0",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Citizens House of Blues Boston",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-05-14T22:30:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-05-15T00:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-04-15T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZk4oGkdd_3Qz",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-boston-massachusetts-05-13-2027/event/01006551C36526B8",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Citizens House of Blues Boston",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-05-13T22:30:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-05-14T00:30:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-04-14T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1kfZ_4foG7llI-",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-cleveland-ohio-05-11-2027/event/0500655511AEBA21",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "House of Blues Cleveland",
-      "city": "Cleveland",
-      "state": "OH",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-05-11T22:30:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-05-12T00:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-04-14T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1IZ_4hFl2JV",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-san-diego-california-03-25-2027/event/0A006556C8ACF9B4",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "House of Blues San Diego",
-      "city": "San Diego",
-      "state": "CA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-26T01:30:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-03-26T03:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-02-26T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -5719,7 +5809,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 35,
+      "artist_upcoming": 36,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -5756,7 +5846,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 65,
       "score_parts": {
-        "demand": 21.8,
+        "demand": 22.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -5774,81 +5864,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1ApZk49Gkewy1dG",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-mckees-rocks-pennsylvania-05-16-2027/event/16006557B2E4A0CC",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Roxian Theatre Presented By Citizens",
-      "city": "McKees Rocks",
-      "state": "PA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-16T22:30:00Z",
-      "onsale_start": "2026-10-30T14:00:00Z",
-      "onsale_end": "2027-05-17T00:30:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-10-28T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T14:00:00Z",
-          "end": "2027-04-19T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 65,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -6288,7 +6303,7 @@
         "Portugal. The Man",
         "Anthony Green"
       ],
-      "artist_upcoming": 31,
+      "artist_upcoming": 32,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -6325,7 +6340,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Portugal.+The+Man",
       "score": 64,
       "score_parts": {
-        "demand": 21.1,
+        "demand": 21.3,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -7253,7 +7268,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Old National Centre",
       "city": "Indianapolis",
       "state": "IN",
@@ -7339,7 +7354,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "8 presale(s)"
@@ -7440,7 +7455,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Cobb Energy Performing Arts Centre",
       "city": "Atlanta",
       "state": "GA",
@@ -7519,7 +7534,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "7 presale(s)"
@@ -7534,7 +7549,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "The Wind Creek Event Center",
       "city": "Bethlehem",
       "state": "PA",
@@ -7634,7 +7649,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "10 presale(s)"
@@ -7715,7 +7730,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Borgata Event Center",
       "city": "Atlantic City",
       "state": "NJ",
@@ -7801,7 +7816,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "8 presale(s)"
@@ -7963,7 +7978,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Northfield Park Racino - Center Stage",
       "city": "Northfield",
       "state": "OH",
@@ -8063,7 +8078,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "10 presale(s)"
@@ -8078,7 +8093,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Tilles Center Concert Hall",
       "city": "Brookville",
       "state": "NY",
@@ -8143,7 +8158,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -8408,7 +8423,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "David A. Straz, Jr. Center for the Performing Arts",
       "city": "Tampa ",
       "state": "FL",
@@ -8459,7 +8474,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "3 presale(s)"
@@ -8738,7 +8753,7 @@
         "Portugal. The Man",
         "Anthony Green"
       ],
-      "artist_upcoming": 31,
+      "artist_upcoming": 32,
       "venue": "Brooklyn Steel",
       "city": "Brooklyn",
       "state": "NY",
@@ -8753,7 +8768,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Portugal.+The+Man",
       "score": 61,
       "score_parts": {
-        "demand": 21.1,
+        "demand": 21.3,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 6.0
@@ -9030,6 +9045,48 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AA7E48",
+      "name": "Zingara (18+ Event)",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7E48",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Zingara"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Town Ballroom",
+      "city": "Buffalo",
+      "state": "NY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-29T01:00:00Z",
+      "onsale_start": "2026-10-30T14:00:00Z",
+      "onsale_end": "2027-01-29T01:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Zingara",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 20.7,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)"
+      ]
+    },
+    {
       "id": "vv17bZ_4GkRaPB42",
       "name": "ALEXANDRA KAY - THE ONE WOMAN SHOW",
       "url": "https://www.ticketmaster.com/alexandra-kay-the-one-woman-show-minneapolis-minnesota-02-16-2027/event/0600655BC997A54F",
@@ -9104,7 +9161,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "H-E-B Performance Hall",
       "city": "San Antonio",
       "state": "TX",
@@ -9133,10 +9190,84 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (1,500 cap)",
         "~1,500 cap (from venue type)",
         "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "vv1kvOvP4bGACyA_m",
+      "name": "brakence",
+      "url": "https://www.ticketmaster.com/brakence-lawrence-kansas-04-10-2027/event/060065558EE4566E",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 42,
+      "venue": "Liberty Hall",
+      "city": "Lawrence",
+      "state": "KS",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-11T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-04-11T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-04T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 78,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 19.6,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.8-2.9x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -9360,7 +9491,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Texas Trust CU Theatre",
       "city": "Grand Prairie",
       "state": "TX",
@@ -9389,7 +9520,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -9404,7 +9535,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Riverside Theater - WI",
       "city": "Milwaukee",
       "state": "WI",
@@ -9433,7 +9564,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -9521,23 +9652,23 @@
       ]
     },
     {
-      "id": "vv1kvOvP4bGACyA_m",
-      "name": "brakence",
-      "url": "https://www.ticketmaster.com/brakence-lawrence-kansas-04-10-2027/event/060065558EE4566E",
+      "id": "G5dIZ_49gNUt9",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-houston-texas-03-11-2027/event/3A006555F58F6A57",
       "segment": "Music",
       "genre": "Pop",
       "artists": [
         "brakence"
       ],
-      "artist_upcoming": 38,
-      "venue": "Liberty Hall",
-      "city": "Lawrence",
-      "state": "KS",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-11T01:00:00Z",
+      "artist_upcoming": 42,
+      "venue": "House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-12T01:00:00Z",
       "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-04-11T03:00:00Z",
+      "onsale_end": "2027-03-12T03:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -9545,6 +9676,27 @@
           "end": "2026-10-30T03:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-02-12T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
         },
         {
           "name": "VIP Package Presale",
@@ -9556,16 +9708,9 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-10-30T15:00:00Z",
-          "end": "2027-04-04T03:00:00Z",
+          "end": "2027-03-05T04:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-10-29T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
         }
       ],
       "price_min": null,
@@ -9573,24 +9718,199 @@
       "seatgeek_url": "https://seatgeek.com/search?search=brakence",
       "score": 76,
       "score_parts": {
-        "demand": 22.3,
-        "scarcity": 19.6,
-        "markup": 24.5,
+        "demand": 22.9,
+        "scarcity": 18.2,
+        "markup": 25,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.65,
-        2.7
+        1.75,
+        2.9
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "4 presale(s)"
+        "42 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.8-2.9x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4nv1xcS",
+      "name": "brakence - the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-dallas-texas-03-10-2027/event/0C00655A812A2B73",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 42,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-11T01:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-03-11T03:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-03-04T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-02-11T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 76,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 18.2,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.8-2.9x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk4pGkd_qmlF",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-minneapolis-minnesota-04-09-2027/event/06006556D976EAC8",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 42,
+      "venue": "Varsity Theater",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-10T00:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-04-10T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-03-13T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-03T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 76,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -9602,7 +9922,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Ryman Auditorium",
       "city": "Nashville",
       "state": "TN",
@@ -9631,7 +9951,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,362 cap)",
         "est. 1.8-2.9x face"
       ]
@@ -9731,178 +10051,6 @@
       ]
     },
     {
-      "id": "G5dIZ_49gNUt9",
-      "name": "brakence - the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-houston-texas-03-11-2027/event/3A006555F58F6A57",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "brakence"
-      ],
-      "artist_upcoming": 38,
-      "venue": "House of Blues Houston",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-12T01:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-03-12T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-02-12T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-03-05T04:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 75,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1YZ_4nv1xcS",
-      "name": "brakence - the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-dallas-texas-03-10-2027/event/0C00655A812A2B73",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "brakence"
-      ],
-      "artist_upcoming": 38,
-      "venue": "House of Blues Dallas ",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-11T01:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-03-11T03:00:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-03-04T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-02-11T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 75,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "vv1A6Zk44GkdlLHME",
       "name": "Donny Osmond - Crazy Horses 2027 Summer Tour",
       "url": "https://www.ticketmaster.com/donny-osmond-crazy-horses-2027-summer-chicago-illinois-07-10-2027/event/07006555EB7FCDE7",
@@ -9911,7 +10059,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "The Chicago Theatre",
       "city": "Chicago",
       "state": "IL",
@@ -10025,7 +10173,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -10041,7 +10189,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "State Theatre",
       "city": "Minneapolis",
       "state": "MN",
@@ -10113,7 +10261,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -10129,7 +10277,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Stifel Theatre",
       "city": "Saint Louis",
       "state": "MO",
@@ -10201,97 +10349,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AkZk4pGkd_qmlF",
-      "name": "brakence: the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-minneapolis-minnesota-04-09-2027/event/06006556D976EAC8",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "brakence"
-      ],
-      "artist_upcoming": 38,
-      "venue": "Varsity Theater",
-      "city": "Minneapolis",
-      "state": "MN",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-10T00:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-04-10T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-03-13T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-04-03T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 74,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 17.7,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.7x face",
         "6 presale(s)"
       ]
     },
@@ -10304,7 +10365,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Ryman Auditorium",
       "city": "Nashville",
       "state": "TN",
@@ -10348,7 +10409,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,362 cap)",
         "est. 1.4-2.3x face",
         "2 presale(s)"
@@ -10468,6 +10529,81 @@
         "small room (2,362 cap)",
         "est. 1.6-2.7x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1FbZ_4paofZd5FC",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-minneapolis-minnesota-05-08-2027/event/0600655589454A7D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "The Fillmore Minneapolis presented by Affinity Plus",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-05-08T23:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-09T01:00:00Z",
+      "presales": [
+        {
+          "name": "Affinity Plus Presale",
+          "start": "2026-10-29T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-11T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 72,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 20.9,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -10923,6 +11059,142 @@
       ]
     },
     {
+      "id": "vv1A7Zk4KGkdKzEbn",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-chicago-illinois-05-07-2027/event/04006553D3E2762A",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-07T23:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-07T23:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-10T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk4KGkdKiMbd",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-chicago-illinois-05-06-2027/event/04006553D3B37603",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-06T22:00:00Z",
+      "onsale_start": "2026-10-30T15:00:00Z",
+      "onsale_end": "2027-05-06T22:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2027-04-09T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T15:00:00Z",
+          "end": "2026-10-30T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AkZk4fGkdwZsFz",
       "name": "Wynonna Judd - The Hard Truth Tour",
       "url": "https://www.ticketmaster.com/wynonna-judd-the-hard-truth-tour-kansas-city-missouri-02-18-2027/event/06006554F2031238",
@@ -11060,80 +11332,6 @@
         "~1,500 cap (from venue type)",
         "est. 1.4-2.3x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1FbZ_4paofZd5FC",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-minneapolis-minnesota-05-08-2027/event/0600655589454A7D",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "The Fillmore Minneapolis presented by Affinity Plus",
-      "city": "Minneapolis",
-      "state": "MN",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-05-08T23:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-05-09T01:00:00Z",
-      "presales": [
-        {
-          "name": "Affinity Plus Presale",
-          "start": "2026-10-29T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-04-11T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 68,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 20.9,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -11305,7 +11503,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Smart Financial Centre at Sugar Land",
       "city": "Sugar Land",
       "state": "TX",
@@ -11334,7 +11532,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face"
       ]
@@ -11348,7 +11546,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Holland Performing Arts Center",
       "city": "Omaha",
       "state": "NE",
@@ -11377,7 +11575,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face"
       ]
@@ -11581,140 +11779,6 @@
         "small room (2,000 cap)",
         "est. 1.5-2.5x face",
         "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A7Zk4KGkdKzEbn",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-chicago-illinois-05-07-2027/event/04006553D3E2762A",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "House of Blues Chicago",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-05-07T23:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-05-07T23:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-04-10T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A7Zk4KGkdKiMbd",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-chicago-illinois-05-06-2027/event/04006553D3B37603",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "House of Blues Chicago",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-05-06T22:00:00Z",
-      "onsale_start": "2026-10-30T15:00:00Z",
-      "onsale_end": "2027-05-06T22:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2027-04-09T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T15:00:00Z",
-          "end": "2026-10-30T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -12639,7 +12703,7 @@
       "artists": [
         "BUNT."
       ],
-      "artist_upcoming": 38,
+      "artist_upcoming": 39,
       "venue": "Festival Hall At Navy Pier",
       "city": "Chicago",
       "state": "IL",
@@ -12654,7 +12718,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=BUNT.",
       "score": 64,
       "score_parts": {
-        "demand": 22.3,
+        "demand": 22.4,
         "scarcity": 19.6,
         "markup": 16.1,
         "timing": 6.0
@@ -13349,7 +13413,7 @@
       "artists": [
         "The Plot In You"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "The Rave-Eagles Club",
       "city": "Milwaukee",
       "state": "WI",
@@ -13364,7 +13428,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Plot+In+You",
       "score": 63,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 22.7,
         "markup": 15.1,
         "timing": 6.0
@@ -13819,7 +13883,7 @@
       "artists": [
         "The Plot In You"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "The Astro Theater",
       "city": "La Vista",
       "state": "NE",
@@ -13863,7 +13927,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Plot+In+You",
       "score": 62,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -13892,7 +13956,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Smart Financial Centre at Sugar Land",
       "city": "Sugar Land",
       "state": "TX",
@@ -13950,7 +14014,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "4 presale(s)"
@@ -14985,7 +15049,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Eccles Theater - Salt Lake City",
       "city": "Salt Lake City",
       "state": "UT",
@@ -15014,7 +15078,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -15029,7 +15093,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Eccles Theater - Salt Lake City",
       "city": "Salt Lake City",
       "state": "UT",
@@ -15058,7 +15122,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -15073,7 +15137,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Paramount Theatre",
       "city": "Denver",
       "state": "CO",
@@ -15145,7 +15209,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -15161,7 +15225,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "The Plaza Theatre Performing Arts Center",
       "city": "El Paso",
       "state": "TX",
@@ -15233,11 +15297,149 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_4hbl9Wj",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-denver-colorado-03-18-2027/event/1E006556D8AD7F5C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Summit Music Hall",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-19T00:30:00Z",
+      "onsale_start": "2026-10-30T16:00:00Z",
+      "onsale_end": "2027-03-19T02:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T16:00:00Z",
+          "end": "2027-02-19T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T16:00:00Z",
+          "end": "2026-10-30T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 70,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_4hpy9gw",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-denver-colorado-03-17-2027/event/1E006556D6E57D72",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Summit Music Hall",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-18T00:30:00Z",
+      "onsale_start": "2026-10-30T16:00:00Z",
+      "onsale_end": "2027-03-18T02:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T16:00:00Z",
+          "end": "2026-10-30T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T16:00:00Z",
+          "end": "2027-02-18T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 70,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -15655,142 +15857,6 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "5 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vzZ_4hbl9Wj",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-denver-colorado-03-18-2027/event/1E006556D8AD7F5C",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Summit Music Hall",
-      "city": "Denver",
-      "state": "CO",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-19T00:30:00Z",
-      "onsale_start": "2026-10-30T16:00:00Z",
-      "onsale_end": "2027-03-19T02:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T16:00:00Z",
-          "end": "2027-02-19T05:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T16:00:00Z",
-          "end": "2026-10-30T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vzZ_4hpy9gw",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-denver-colorado-03-17-2027/event/1E006556D6E57D72",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Summit Music Hall",
-      "city": "Denver",
-      "state": "CO",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-18T00:30:00Z",
-      "onsale_start": "2026-10-30T16:00:00Z",
-      "onsale_end": "2027-03-18T02:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T16:00:00Z",
-          "end": "2026-10-30T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T16:00:00Z",
-          "end": "2027-02-18T05:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -16482,7 +16548,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Mountain America Center",
       "city": "Idaho Falls",
       "state": "ID",
@@ -16568,7 +16634,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "8 presale(s)"
@@ -16583,7 +16649,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Morrison Center for the Performing Arts",
       "city": "Boise",
       "state": "ID",
@@ -16655,7 +16721,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "6 presale(s)"
@@ -16713,7 +16779,7 @@
       "artists": [
         "The Plot In You"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Mission Ballroom",
       "city": "Denver",
       "state": "CO",
@@ -16728,7 +16794,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Plot+In+You",
       "score": 61,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 6.0
@@ -16819,6 +16885,94 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AA7wqS",
+      "name": "Donny Osmond",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7wqS",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Donny Osmond"
+      ],
+      "artist_upcoming": 138,
+      "venue": "Mary Stuart Rogers Theater",
+      "city": "Modesto",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-06-27T02:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-06-27T02:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Donny+Osmond",
+      "score": 77,
+      "score_parts": {
+        "demand": 28,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "138 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7wqV",
+      "name": "Donny Osmond",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7wqV",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Donny Osmond"
+      ],
+      "artist_upcoming": 138,
+      "venue": "Ruth Finley Person Theater- Luther Burbank Center",
+      "city": "Santa Rosa",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-02T02:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-07-02T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Donny+Osmond",
+      "score": 77,
+      "score_parts": {
+        "demand": 28,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "138 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
       "id": "vv1AaZk4fGkdx6mKl",
       "name": "Ashe: The Girl of Your Dreams Tour",
       "url": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-los-angeles-california-02-24-2027/event/09006554E21EE4EB",
@@ -16906,6 +17060,93 @@
       ]
     },
     {
+      "id": "vv16aZk4puoZA8F2vd",
+      "name": "brakence: the marroW tour",
+      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-los-angeles-california-04-21-2027/event/09006556351F7E02",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "brakence"
+      ],
+      "artist_upcoming": 42,
+      "venue": "The Wiltern",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1850,
+      "capacity_source": "exact",
+      "event_date": "2027-04-22T02:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-04-22T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-29T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-03-22T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-04-15T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
+      "score": 76,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 18.6,
+        "markup": 25,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "small room (1,850 cap)",
+        "est. 1.8-2.9x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1HZ_42QhBeB",
       "name": "Ashe: The Girl of Your Dreams Tour",
       "url": "https://www.ticketmaster.com/ashe-the-girl-of-your-dreams-seattle-washington-02-28-2027/event/0F006553DA6FA0BA",
@@ -16989,92 +17230,6 @@
       "reasons": [
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vv16aZk4puoZA8F2vd",
-      "name": "brakence: the marroW tour",
-      "url": "https://www.ticketmaster.com/brakence-the-marrow-tour-los-angeles-california-04-21-2027/event/09006556351F7E02",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "brakence"
-      ],
-      "artist_upcoming": 38,
-      "venue": "The Wiltern",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 1850,
-      "capacity_source": "exact",
-      "event_date": "2027-04-22T02:00:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-04-22T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-29T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-03-22T05:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-04-15T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=brakence",
-      "score": 75,
-      "score_parts": {
-        "demand": 22.3,
-        "scarcity": 18.6,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,850 cap)",
         "est. 1.6-2.7x face",
         "6 presale(s)"
       ]
@@ -17169,7 +17324,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "YouTube Theater",
       "city": "Inglewood",
       "state": "CA",
@@ -17248,11 +17403,54 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7NZo",
+      "name": "Chvrches",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7NZo",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "CHVRCHES"
+      ],
+      "artist_upcoming": 36,
+      "venue": "Revolution Hall - Portland",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-09T04:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-09T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
+      "score": 72,
+      "score_parts": {
+        "demand": 22.0,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face"
       ]
     },
     {
@@ -17360,6 +17558,142 @@
       ]
     },
     {
+      "id": "vv1AaZk49Gkd7yVq8",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-los-angeles-california-03-28-2027/event/09006557C4E74750",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "The Wiltern",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1850,
+      "capacity_source": "exact",
+      "event_date": "2027-03-29T01:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-29T03:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-03-01T06:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.6,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (1,850 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1k0Z_4AAG7HA-X",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-anaheim-california-03-05-2027/event/0900655145F0587E",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "House of Blues Anaheim",
+      "city": "Anaheim",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-06T02:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-06T04:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-02-06T06:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1iZ_fThlQCg",
       "name": "CHVRCHES - LIVE 2027",
       "url": "https://www.ticketmaster.com/chvrches-live-2027-san-diego-california-03-12-2027/event/0B00654FDBADA3B5",
@@ -17368,7 +17702,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 35,
+      "artist_upcoming": 36,
       "venue": "The Observatory North Park",
       "city": "San Diego",
       "state": "CA",
@@ -17410,9 +17744,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
-      "score": 68,
+      "score": 69,
       "score_parts": {
-        "demand": 21.8,
+        "demand": 22.0,
         "scarcity": 21.6,
         "markup": 15.1,
         "timing": 10.0
@@ -17429,6 +17763,233 @@
         "small room (1,000 cap)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9Zk4oGkdNT3tq",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-las-vegas-nevada-03-27-2027/event/17006551E3FD2A5D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls",
+        "Skinny Lister",
+        "Beans On Toast"
+      ],
+      "artist_upcoming": 40,
+      "venue": "House of Blues Las Vegas ",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-28T01:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-28T03:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-10-27T16:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-10-30T17:00:00Z",
+          "end": "2027-02-28T06:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_4c933Lx",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://app.opendate.io/e/frank-turner-and-the-sleeping-souls-last-evenings-world-tour-march-06-2027-746361",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls"
+      ],
+      "artist_upcoming": 40,
+      "venue": "The UC Theatre",
+      "city": "Berkeley",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T03:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-07T03:30:00Z",
+      "presales": [
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 68,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_4cbReZQ",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.etix.com/ticket/p/61884836/frank-turner-the-sleeping-soulslast-evenings-world-tour-portland-roseland-theater",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Roseland Theater",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-09T03:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-09T03:30:00Z",
+      "presales": [
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 68,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_4cQd3vB",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.etix.com/ticket/p/83625578/frank-turner-the-sleeping-soulslast-evenings-world-tour-portland-roseland-theater",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Frank Turner & the Sleeping Souls"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Roseland Theater",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-10T03:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-10T03:30:00Z",
+      "presales": [
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-10-28T17:00:00Z",
+          "end": "2026-10-30T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 68,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -17828,7 +18389,7 @@
       "artists": [
         "BUNT."
       ],
-      "artist_upcoming": 38,
+      "artist_upcoming": 39,
       "venue": "WAMU Theater",
       "city": "Seattle",
       "state": "WA",
@@ -17879,7 +18440,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=BUNT.",
       "score": 66,
       "score_parts": {
-        "demand": 22.3,
+        "demand": 22.4,
         "scarcity": 17.7,
         "markup": 16.1,
         "timing": 10.0
@@ -17897,140 +18458,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AaZk49Gkd7yVq8",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-los-angeles-california-03-28-2027/event/09006557C4E74750",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "The Wiltern",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 1850,
-      "capacity_source": "exact",
-      "event_date": "2027-03-29T01:30:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-29T03:30:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-03-01T06:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,850 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1k0Z_4AAG7HA-X",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-anaheim-california-03-05-2027/event/0900655145F0587E",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "House of Blues Anaheim",
-      "city": "Anaheim",
-      "state": "CA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-06T02:30:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-06T04:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-02-06T06:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -18096,73 +18523,6 @@
       "est_resale_max": null,
       "reasons": [
         "small room (1,000 cap)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1A9Zk4oGkdNT3tq",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.ticketmaster.com/frank-turner-the-sleeping-souls-last-las-vegas-nevada-03-27-2027/event/17006551E3FD2A5D",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls",
-        "Skinny Lister",
-        "Beans On Toast"
-      ],
-      "artist_upcoming": 39,
-      "venue": "House of Blues Las Vegas ",
-      "city": "Las Vegas",
-      "state": "NV",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-28T01:30:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-28T03:30:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-10-27T16:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-10-30T17:00:00Z",
-          "end": "2027-02-28T06:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
       ]
@@ -18498,7 +18858,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 35,
+      "artist_upcoming": 36,
       "venue": "Paramount Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -18535,7 +18895,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 65,
       "score_parts": {
-        "demand": 21.8,
+        "demand": 22.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -18564,7 +18924,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 35,
+      "artist_upcoming": 36,
       "venue": "Fox Theater - Oakland",
       "city": "Oakland",
       "state": "CA",
@@ -18594,7 +18954,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 65,
       "score_parts": {
-        "demand": 21.8,
+        "demand": 22.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -18910,162 +19270,6 @@
       ]
     },
     {
-      "id": "G5vYZ_4c933Lx",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://app.opendate.io/e/frank-turner-and-the-sleeping-souls-last-evenings-world-tour-march-06-2027-746361",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls"
-      ],
-      "artist_upcoming": 39,
-      "venue": "The UC Theatre",
-      "city": "Berkeley",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-07T03:30:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-07T03:30:00Z",
-      "presales": [
-        {
-          "name": "Live Nation Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 65,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1HZ_4cbReZQ",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.etix.com/ticket/p/61884836/frank-turner-the-sleeping-soulslast-evenings-world-tour-portland-roseland-theater",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Roseland Theater",
-      "city": "Portland",
-      "state": "OR",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-09T03:30:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-09T03:30:00Z",
-      "presales": [
-        {
-          "name": "Live Nation Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 65,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1HZ_4cQd3vB",
-      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
-      "url": "https://www.etix.com/ticket/p/83625578/frank-turner-the-sleeping-soulslast-evenings-world-tour-portland-roseland-theater",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Frank Turner & the Sleeping Souls"
-      ],
-      "artist_upcoming": 39,
-      "venue": "Roseland Theater",
-      "city": "Portland",
-      "state": "OR",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-10T03:30:00Z",
-      "onsale_start": "2026-10-30T17:00:00Z",
-      "onsale_end": "2027-03-10T03:30:00Z",
-      "presales": [
-        {
-          "name": "Live Nation Presale",
-          "start": "2026-10-28T17:00:00Z",
-          "end": "2026-10-30T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
-      "score": 65,
-      "score_parts": {
-        "demand": 22.4,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vvG1HZ_4pPR1wj",
       "name": "Two Door Cinema Club - Tourist History 15th Anniversary Tour",
       "url": "https://www.ticketmaster.com/two-door-cinema-club-tourist-history-seattle-washington-05-17-2027/event/0F006555A5BCAC9C",
@@ -19303,7 +19507,7 @@
         "Portugal. The Man",
         "Anthony Green"
       ],
-      "artist_upcoming": 31,
+      "artist_upcoming": 32,
       "venue": "The Castro Theatre",
       "city": "San Francisco",
       "state": "CA",
@@ -19333,7 +19537,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Portugal.+The+Man",
       "score": 64,
       "score_parts": {
-        "demand": 21.1,
+        "demand": 21.3,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -19606,6 +19810,49 @@
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
         "8 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7t0f",
+      "name": "Portugal the Man w/ Anthony Green",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7t0f",
+      "segment": "Music",
+      "genre": "Alternative",
+      "artists": [
+        "Portugal. The Man",
+        "Anthony Green"
+      ],
+      "artist_upcoming": 32,
+      "venue": "The Fonda Theatre",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2027-01-22T04:00:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-01-22T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Portugal.+The+Man",
+      "score": 63,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -20181,7 +20428,7 @@
       "artists": [
         "The Plot In You"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Arizona Financial Theatre",
       "city": "Phoenix",
       "state": "AZ",
@@ -20239,7 +20486,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Plot+In+You",
       "score": 62,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -20373,7 +20620,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Tahoe Blue Event Center",
       "city": "Stateline",
       "state": "NV",
@@ -20445,7 +20692,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "6 presale(s)"
@@ -20542,7 +20789,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Cerritos Center for the Performing Arts",
       "city": "Cerritos",
       "state": "CA",
@@ -20607,7 +20854,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "5 presale(s)"
@@ -20731,6 +20978,138 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AA7tG-",
+      "name": "Frank Turner & The Sleeping Souls: Last Evenings World Tour",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7tG-",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Frank Turner & the Sleeping Souls"
+      ],
+      "artist_upcoming": 40,
+      "venue": "The UC Theatre",
+      "city": "Berkeley",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T03:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-07T03:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 61,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.1x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7tGx",
+      "name": "Frank Turner & the Sleeping Souls",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7tGx",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Frank Turner & the Sleeping Souls"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Roseland Theater",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-09T03:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-09T03:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 61,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.1x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7tGN",
+      "name": "Frank Turner & the Sleeping Souls",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7tGN",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Frank Turner & the Sleeping Souls"
+      ],
+      "artist_upcoming": 40,
+      "venue": "Roseland Theater",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-10T03:30:00Z",
+      "onsale_start": "2026-10-30T17:00:00Z",
+      "onsale_end": "2027-03-10T03:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Frank+Turner+%26+the+Sleeping+Souls",
+      "score": 61,
+      "score_parts": {
+        "demand": 22.6,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "40 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.1x face"
+      ]
+    },
+    {
       "id": "vvG1IZ_4qPewBr",
       "name": "Black Flag",
       "url": "https://www.ticketmaster.com/black-flag-san-diego-california-01-10-2027/event/0A006557650B2E9E",
@@ -20806,7 +21185,7 @@
       "artists": [
         "Donny Osmond"
       ],
-      "artist_upcoming": 136,
+      "artist_upcoming": 138,
       "venue": "Blue Gate Performing Arts Center",
       "city": "Shipshewana",
       "state": "IN",
@@ -20835,7 +21214,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "136 upcoming dates (heavy routing)",
+        "138 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face"
       ]
@@ -21169,12 +21548,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Enjambre",
-      "score": 61,
+      "score": 64,
       "score_parts": {
         "demand": 16.9,
         "scarcity": 17.7,
         "markup": 19.3,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
