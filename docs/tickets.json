@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-30T18:11:14Z",
-    "generated_local": "Fri 30 Oct, 12:11 PM",
+    "generated_utc": "2026-10-30T18:40:17Z",
+    "generated_local": "Fri 30 Oct, 12:40 PM",
     "scanned": 1015,
     "surfaced": 315,
-    "new": 1,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -21836,8 +21836,8 @@
     },
     {
       "id": "G5viZ_4L5iuuS",
-      "name": "Zach Williams",
-      "url": "https://www.ticketmaster.com/zach-williams-baton-rouge-louisiana-03-20-2027/event/1B006557CBB0D373",
+      "name": "Zach Williams Live With Special Guest Emerson Day",
+      "url": "https://www.ticketmaster.com/zach-williams-live-with-special-guest-baton-rouge-louisiana-03-20-2027/event/1B006557CBB0D373",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
