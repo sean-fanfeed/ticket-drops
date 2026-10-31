@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-31T15:29:27Z",
-    "generated_local": "Sat 31 Oct, 9:29 AM",
-    "scanned": 270,
+    "generated_utc": "2026-10-31T16:17:50Z",
+    "generated_local": "Sat 31 Oct, 10:17 AM",
+    "scanned": 271,
     "surfaced": 39,
     "new": 0,
     "threshold": 60,
@@ -2542,12 +2542,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Bleech+9%3A3",
-      "score": 63,
+      "score": 66,
       "score_parts": {
         "demand": 22.4,
         "scarcity": 22.7,
         "markup": 15.1,
-        "timing": 3.0
+        "timing": 6.0
       },
       "confidence": "low",
       "on_watchlist": false,
