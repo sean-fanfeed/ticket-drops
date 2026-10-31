@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-10-31T13:03:42Z",
-    "generated_local": "Sat 31 Oct, 7:03 AM",
-    "scanned": 266,
+    "generated_utc": "2026-10-31T15:29:27Z",
+    "generated_local": "Sat 31 Oct, 9:29 AM",
+    "scanned": 270,
     "surfaced": 39,
-    "new": 3,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -28,7 +28,7 @@
       "capacity_source": "exact",
       "event_date": "2026-11-02T22:30:00Z",
       "onsale_start": "2026-07-24T14:00:00Z",
-      "onsale_end": "2026-11-03T00:30:00Z",
+      "onsale_end": "2026-11-03T01:30:00Z",
       "presales": [
         {
           "name": "WWE Presale",
