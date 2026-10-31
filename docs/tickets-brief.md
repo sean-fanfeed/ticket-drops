@@ -1,10 +1,4 @@
-315 ticket drops scoring 60+ in the next 14 days.
-
-  68 - WWE
-  Charleston Coliseum, Charleston WV
-  On sale Fri 24 Jul, 8:00 AM (passed)
-  Event Fri 30 Oct, 5:30 PM
-  Face TBA - est. resale 1.3-2.25x face (low conf)
+39 ticket drops scoring 60+ in the next 14 days.
 
   67 - WWE, WWE Monday Night RAW
   Barclays Center, Brooklyn NY
@@ -70,4 +64,10 @@
   Amerant Bank Arena, Sunrise FL
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Fri 13 Nov, 5:30 PM
+  Face TBA - est. resale 1.3-2.25x face (low conf)
+
+  70 - WWE
+  Ford Center, Evansville IN
+  On sale Fri 11 Sep, 9:00 AM (passed)
+  Event Fri 20 Nov, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
