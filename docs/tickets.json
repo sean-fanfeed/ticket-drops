@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-10-31T16:17:50Z",
-    "generated_local": "Sat 31 Oct, 10:17 AM",
-    "scanned": 271,
+    "generated_utc": "2026-10-31T17:21:27Z",
+    "generated_local": "Sat 31 Oct, 11:21 AM",
+    "scanned": 273,
     "surfaced": 39,
     "new": 0,
     "threshold": 60,
@@ -2629,12 +2629,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Zach+Williams",
-      "score": 62,
+      "score": 65,
       "score_parts": {
         "demand": 21.4,
         "scarcity": 18.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -2710,12 +2710,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Zach+Williams",
-      "score": 61,
+      "score": 64,
       "score_parts": {
         "demand": 21.4,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -2776,12 +2776,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Zach+Williams",
-      "score": 61,
+      "score": 64,
       "score_parts": {
         "demand": 21.4,
         "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
