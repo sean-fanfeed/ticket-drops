@@ -1,4 +1,4 @@
-82 ticket drops scoring 60+ in the next 14 days.
+83 ticket drops scoring 60+ in the next 14 days.
 
   67 - WWE, WWE Monday Night RAW
   Barclays Center, Brooklyn NY
