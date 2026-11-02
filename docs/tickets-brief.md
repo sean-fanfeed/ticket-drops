@@ -1,4 +1,4 @@
-39 ticket drops scoring 60+ in the next 14 days.
+54 ticket drops scoring 60+ in the next 14 days.
 
   67 - WWE, WWE Monday Night RAW
   Barclays Center, Brooklyn NY
@@ -48,7 +48,7 @@
   Event Mon 7 Dec, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  67 - WWE
+  67 - WWE, WWE Monday Night RAW
   Bon Secours Wellness Arena , Greenville SC
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 9 Nov, 5:30 PM
