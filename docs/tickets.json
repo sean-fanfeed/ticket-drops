@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-02T19:46:02Z",
-    "generated_local": "Mon 2 Nov, 12:46 PM",
-    "scanned": 546,
+    "generated_utc": "2026-11-02T20:52:49Z",
+    "generated_local": "Mon 2 Nov, 1:52 PM",
+    "scanned": 554,
     "surfaced": 82,
-    "new": 28,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2814,16 +2814,24 @@
       "event_date": "2026-12-27T03:30:00Z",
       "onsale_start": "2026-11-04T18:00:00Z",
       "onsale_end": "2026-12-27T05:30:00Z",
-      "presales": [],
+      "presales": [
+        {
+          "name": "PRE-SALE (Special Offer)",
+          "start": "2026-11-03T18:00:00Z",
+          "end": "2026-11-04T07:59:00Z",
+          "url": "",
+          "how": "PRE-SALE (Special Offer)"
+        }
+      ],
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 71,
+      "score": 75,
       "score_parts": {
         "demand": 33.8,
         "scarcity": 14.8,
         "markup": 16.1,
-        "timing": 6.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
@@ -2836,7 +2844,8 @@
       "reasons": [
         "on your watchlist",
         "~4,000 cap (from venue type)",
-        "est. 1.3-2.2x face"
+        "est. 1.3-2.2x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -3925,7 +3934,7 @@
         "Panchiko",
         "Clarion"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "The Fillmore Silver Spring",
       "city": "Silver Spring",
       "state": "MD",
@@ -3976,7 +3985,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Panchiko",
       "score": 61,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -4248,6 +4257,79 @@
       ]
     },
     {
+      "id": "G5viZ_4V7xGXy",
+      "name": "Dexter and The Moonrocks",
+      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-baton-rouge-louisiana-03-05-2027/event/1B00655D0488CFB9",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dexter and The Moonrocks"
+      ],
+      "artist_upcoming": 35,
+      "venue": "Texas Club",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T01:30:00Z",
+      "onsale_start": "2026-11-06T16:00:00Z",
+      "onsale_end": "2027-03-06T03:30:00Z",
+      "presales": [
+        {
+          "name": "Chorus Fan Club Presale",
+          "start": "2026-11-02T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "",
+          "how": "CHORUS"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-03T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "",
+          "how": "ARTIST"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-04T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-04T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "",
+          "how": "VENUE"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
+      "score": 70,
+      "score_parts": {
+        "demand": 21.8,
+        "scarcity": 22.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_4UO-E6z",
       "name": "Gracie Abrams: The Look at My Life Tour presented by Capital One",
       "url": "https://www.ticketmaster.com/gracie-abrams-the-look-at-my-austin-texas-02-06-2027/event/3A00655DA08671F8",
@@ -4306,79 +4388,6 @@
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_4V7xGXy",
-      "name": "Dexter and The Moonrocks",
-      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-baton-rouge-louisiana-03-05-2027/event/1B00655D0488CFB9",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Dexter and The Moonrocks"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Texas Club",
-      "city": "Baton Rouge",
-      "state": "LA",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-06T01:30:00Z",
-      "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-03-06T03:30:00Z",
-      "presales": [
-        {
-          "name": "Chorus Fan Club Presale",
-          "start": "2026-11-02T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
-          "url": "",
-          "how": "CHORUS"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-03T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
-          "url": "",
-          "how": "ARTIST"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-04T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-04T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
-          "url": "",
-          "how": "VENUE"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
-      "score": 69,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 22.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -4528,6 +4537,65 @@
       ]
     },
     {
+      "id": "G5viZ_4M2fx4i",
+      "name": "Dexter and The Moonrocks",
+      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-memphis-tennessee-04-12-2027/event/1B00655DCF52256C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dexter and The Moonrocks"
+      ],
+      "artist_upcoming": 35,
+      "venue": "Satellite Music Hall",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-13T00:00:00Z",
+      "onsale_start": "2026-11-06T16:00:00Z",
+      "onsale_end": "2027-04-13T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-02T16:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-04T16:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
+      "score": 66,
+      "score_parts": {
+        "demand": 21.8,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1YZ_4wSdJ6f",
       "name": "Koe Wetzel",
       "url": "https://www.ticketmaster.com/koe-wetzel-durant-oklahoma-01-29-2027/event/0C00655CB30E61D4",
@@ -4577,65 +4645,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_4M2fx4i",
-      "name": "Dexter and The Moonrocks",
-      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-memphis-tennessee-04-12-2027/event/1B00655DCF52256C",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Dexter and The Moonrocks"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Satellite Music Hall",
-      "city": "Memphis",
-      "state": "TN",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-13T00:00:00Z",
-      "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-04-13T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-02T16:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-04T16:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
-      "score": 65,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -4800,9 +4809,10 @@
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Panchiko"
+        "Panchiko",
+        "she's green"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "The Fillmore Minneapolis presented by Affinity Plus",
       "city": "Minneapolis",
       "state": "MN",
@@ -4860,7 +4870,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Panchiko",
       "score": 61,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
