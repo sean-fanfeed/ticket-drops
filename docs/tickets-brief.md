@@ -1,10 +1,4 @@
-83 ticket drops scoring 60+ in the next 14 days.
-
-  67 - WWE, WWE Monday Night RAW
-  Barclays Center, Brooklyn NY
-  On sale Fri 24 Jul, 8:00 AM (passed)
-  Event Mon 2 Nov, 3:30 PM
-  Face TBA - est. resale 1.3-2.25x face (low conf)
+79 ticket drops scoring 60+ in the next 14 days.
 
   60 - WWE, WWE Survivor Series
   Daikin Park, Houston TX
@@ -48,7 +42,7 @@
   Event Mon 7 Dec, 5:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
 
-  68 - WWE
+  68 - WWE, WWE Monday Night RAW
   Bon Secours Wellness Arena , Greenville SC
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 9 Nov, 5:30 PM
@@ -70,4 +64,10 @@
   Ford Center, Evansville IN
   On sale Fri 11 Sep, 9:00 AM (passed)
   Event Fri 20 Nov, 5:30 PM
+  Face TBA - est. resale 1.3-2.25x face (low conf)
+
+  68 - WWE
+  INTRUST Bank Arena, Wichita KS
+  On sale Fri 11 Sep, 9:00 AM (passed)
+  Event Mon 23 Nov, 3:30 PM
   Face TBA - est. resale 1.3-2.25x face (low conf)
