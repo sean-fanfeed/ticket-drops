@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-04T19:59:55Z",
-    "generated_local": "Wed 4 Nov, 12:59 PM",
-    "scanned": 740,
+    "generated_utc": "2026-11-04T20:27:16Z",
+    "generated_local": "Wed 4 Nov, 1:27 PM",
+    "scanned": 747,
     "surfaced": 131,
-    "new": 1,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2758,7 +2758,7 @@
       "artists": [
         "Los Tigres del Norte"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "WAMU Theater",
       "city": "Seattle",
       "state": "WA",
@@ -2802,7 +2802,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Los+Tigres+del+Norte",
       "score": 67,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 17.7,
         "markup": 19.3,
         "timing": 10.0
@@ -2832,7 +2832,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "The Fillmore Philadelphia",
       "city": "Philadelphia",
       "state": "PA",
@@ -2890,7 +2890,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 75,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.9,
         "markup": 24.5,
         "timing": 10.0
@@ -4865,7 +4865,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "The Anthem",
       "city": "Washington",
       "state": "DC",
@@ -4909,7 +4909,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 62,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 12.8,
         "markup": 19.8,
         "timing": 10.0
@@ -5842,7 +5842,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "South Side Ballroom",
       "city": "Dallas",
       "state": "TX",
@@ -5884,9 +5884,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
-      "score": 74,
+      "score": 75,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5916,7 +5916,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -5958,9 +5958,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
-      "score": 72,
+      "score": 73,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -8151,7 +8151,7 @@
         "COBRAH",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Red Rocks Amphitheatre",
       "city": "Morrison",
       "state": "CO",
@@ -8181,7 +8181,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 60,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 10.5,
         "markup": 19.8,
         "timing": 10.0
@@ -8788,6 +8788,13 @@
           "end": "2026-11-06T06:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
@@ -8811,7 +8818,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.4-2.4x face",
-        "1 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -8839,6 +8846,13 @@
           "end": "2026-11-06T06:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
@@ -8862,7 +8876,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.4-2.4x face",
-        "1 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
