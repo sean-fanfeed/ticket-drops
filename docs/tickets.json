@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-05T18:56:22Z",
-    "generated_local": "Thu 5 Nov, 11:56 AM",
-    "scanned": 810,
-    "surfaced": 149,
-    "new": 3,
+    "generated_utc": "2026-11-05T20:15:01Z",
+    "generated_local": "Thu 5 Nov, 1:15 PM",
+    "scanned": 833,
+    "surfaced": 151,
+    "new": 2,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2452,8 +2452,8 @@
     },
     {
       "id": "1AvbZ_4GkUSIzYN",
-      "name": "WWE Holiday Tour",
-      "url": "https://www.ticketmaster.com/wwe-holiday-tour-louisville-kentucky-12-05-2026/event/1600655DB3A38C23",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-louisville-kentucky-12-05-2026/event/1600655DB3A38C23",
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
@@ -2481,14 +2481,14 @@
           "start": "2026-11-05T15:00:00Z",
           "end": "2026-11-06T03:00:00Z",
           "url": "",
-          "how": ""
+          "how": "WWE is offering VIP Packages for this event."
         },
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-06T15:00:00Z",
           "end": "2026-11-29T03:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -3234,6 +3234,127 @@
       ]
     },
     {
+      "id": "vv17FZ_4GkUD7ILP",
+      "name": "Liquid\u00a0Stranger\u00a0Presents: Electric Helix\u00a0",
+      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-philadelphia-pennsylvania-02-06-2027/event/0200655DBB1287E5",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Liquid Stranger",
+        "Sully",
+        "CHOZEN"
+      ],
+      "artist_upcoming": 21,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-02-07T00:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-02-07T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T13:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T16:00:00Z",
+          "end": "2026-11-06T13:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
+      "score": 66,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4wQWM28",
+      "name": "Liquid Stranger Presents: Electric Helix",
+      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-charlotte-north-carolina-01-28-2027/event/2D00655C9AF773D0",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Liquid Stranger",
+        "Sully",
+        "Twopercent",
+        "CHOZEN"
+      ],
+      "artist_upcoming": 21,
+      "venue": "The Fillmore Charlotte",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-01-29T01:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-01-29T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T13:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T16:00:00Z",
+          "end": "2026-11-06T13:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
+      "score": 66,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1YZ_4zCjlsB",
       "name": "Gipsy Kings featuring Nicolas Reyes",
       "url": "https://www.ticketmaster.com/gipsy-kings-featuring-nicolas-reyes-dallas-texas-02-13-2027/event/0C00655E0E72BC7A",
@@ -3406,6 +3527,82 @@
       ]
     },
     {
+      "id": "1AvbZ_4GkBTRcpG",
+      "name": "Liquid Stranger Presents: Electric Helix",
+      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-louisville-kentucky-02-24-2027/event/1600655EBFBED58C",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Liquid Stranger",
+        "Sully",
+        "Twopercent",
+        "CHOZEN"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Mercury Ballroom",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-25T01:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-02-25T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T13:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T16:00:00Z",
+          "end": "2026-11-06T13:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T13:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-06T15:00:00Z",
+          "end": "2027-02-24T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
+      "score": 66,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 20.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "1kAOvP4yGACU9xM",
       "name": "Riley Green: That's Just Me Tour",
       "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-cincinnati-ohio-06-24-2027/event/160065579ED978B7",
@@ -3538,127 +3735,6 @@
       ]
     },
     {
-      "id": "vv17FZ_4GkUD7ILP",
-      "name": "Liquid\u00a0Stranger\u00a0Presents: Electric Helix\u00a0",
-      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-philadelphia-pennsylvania-02-06-2027/event/0200655DBB1287E5",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Liquid Stranger",
-        "Sully",
-        "CHOZEN"
-      ],
-      "artist_upcoming": 19,
-      "venue": "The Fillmore Philadelphia",
-      "city": "Philadelphia",
-      "state": "PA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-02-07T00:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-02-07T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T13:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-05T16:00:00Z",
-          "end": "2026-11-06T13:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
-      "score": 65,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 20.9,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.2x face",
-        "2 presale(s)"
-      ]
-    },
-    {
-      "id": "G5eVZ_4wQWM28",
-      "name": "Liquid Stranger Presents: Electric Helix",
-      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-charlotte-north-carolina-01-28-2027/event/2D00655C9AF773D0",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Liquid Stranger",
-        "Sully",
-        "Twopercent",
-        "CHOZEN"
-      ],
-      "artist_upcoming": 19,
-      "venue": "The Fillmore Charlotte",
-      "city": "Charlotte",
-      "state": "NC",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-01-29T01:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-01-29T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T13:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-05T16:00:00Z",
-          "end": "2026-11-06T13:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
-      "score": 65,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 20.9,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.2x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv177Z_4GkSdl9E6",
       "name": "Pepper (18+)",
       "url": "https://www.ticketmaster.com/pepper-18-boston-massachusetts-03-02-2027/event/0100655CC3AD79C7",
@@ -3723,82 +3799,6 @@
         "~800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1AvbZ_4GkBTRcpG",
-      "name": "Liquid Stranger Presents: Electric Helix",
-      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-louisville-kentucky-02-24-2027/event/1600655EBFBED58C",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Liquid Stranger",
-        "Sully",
-        "Twopercent",
-        "CHOZEN"
-      ],
-      "artist_upcoming": 19,
-      "venue": "Mercury Ballroom",
-      "city": "Louisville",
-      "state": "KY",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-25T01:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-02-25T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T13:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-05T16:00:00Z",
-          "end": "2026-11-06T13:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T13:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-06T15:00:00Z",
-          "end": "2027-02-24T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
-      "score": 65,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 20.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -6648,6 +6648,143 @@
       ]
     },
     {
+      "id": "vv17bZ_4GkDF2Wo5",
+      "name": "Liquid Stranger Presents: Electric Helix - 18+",
+      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-18-minneapolis-minnesota-02-20-2027/event/0600655EC83FD44B",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Liquid Stranger",
+        "Sully",
+        "Twopercent"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Uptown Theater Minneapolis",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-21T03:00:00Z",
+      "onsale_start": "2026-11-06T16:00:00Z",
+      "onsale_end": "2027-02-21T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-05T16:00:00Z",
+          "end": "2026-11-06T14:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T17:00:00Z",
+          "end": "2026-11-06T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-05T16:00:00Z",
+          "end": "2026-11-06T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-06T16:00:00Z",
+          "end": "2027-01-24T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
+      "score": 63,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 17.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4MvgRjY",
+      "name": "Liquid Stranger Presents: Electric Helix",
+      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-new-orleans-louisiana-01-31-2027/event/1B00655DC1D6F730",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Liquid Stranger",
+        "Sully",
+        "Twopercent",
+        "CHOZEN"
+      ],
+      "artist_upcoming": 21,
+      "venue": "The Joy Theater",
+      "city": "New Orleans",
+      "state": "LA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-01T02:00:00Z",
+      "onsale_start": "2026-11-06T16:00:00Z",
+      "onsale_end": "2027-02-01T06:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-05T16:00:00Z",
+          "end": "2026-11-06T14:00:00Z",
+          "url": "",
+          "how": "Artist Presale."
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-05T17:00:00Z",
+          "end": "2026-11-07T02:00:00Z",
+          "url": "",
+          "how": "Venue Presale."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
+      "score": 63,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 17.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv17bZ_4GkwYZzaq",
       "name": "Panchiko",
       "url": "https://www.ticketmaster.com/panchiko-minneapolis-minnesota-05-01-2027/event/0600655CB003825D",
@@ -6796,81 +6933,6 @@
       ]
     },
     {
-      "id": "vv17bZ_4GkDF2Wo5",
-      "name": "Liquid Stranger Presents: Electric Helix - 18+",
-      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-18-minneapolis-minnesota-02-20-2027/event/0600655EC83FD44B",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Liquid Stranger",
-        "Sully",
-        "Twopercent"
-      ],
-      "artist_upcoming": 19,
-      "venue": "Uptown Theater Minneapolis",
-      "city": "Minneapolis",
-      "state": "MN",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-21T03:00:00Z",
-      "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-02-21T05:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-05T16:00:00Z",
-          "end": "2026-11-06T14:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-05T17:00:00Z",
-          "end": "2026-11-06T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-05T16:00:00Z",
-          "end": "2026-11-06T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-06T16:00:00Z",
-          "end": "2027-01-24T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
-      "score": 62,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 17.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
-      ]
-    },
-    {
       "id": "vv17bZ_4GkwgDblb",
       "name": "Pepper",
       "url": "https://www.ticketmaster.com/pepper-saint-louis-missouri-03-10-2027/event/0600655CB5ED8AD8",
@@ -6920,68 +6982,6 @@
         "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_4MvgRjY",
-      "name": "Liquid Stranger Presents: Electric Helix",
-      "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-new-orleans-louisiana-01-31-2027/event/1B00655DC1D6F730",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Liquid Stranger",
-        "Sully",
-        "Twopercent",
-        "CHOZEN"
-      ],
-      "artist_upcoming": 19,
-      "venue": "The Joy Theater",
-      "city": "New Orleans",
-      "state": "LA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-01T02:00:00Z",
-      "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-02-01T06:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-05T16:00:00Z",
-          "end": "2026-11-06T14:00:00Z",
-          "url": "",
-          "how": "Artist Presale."
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T17:00:00Z",
-          "end": "2026-11-07T02:00:00Z",
-          "url": "",
-          "how": "Venue Presale."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
-      "score": 62,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 17.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -8136,7 +8136,7 @@
         "Liquid Stranger",
         "Sully"
       ],
-      "artist_upcoming": 19,
+      "artist_upcoming": 21,
       "venue": "WAMU Theater",
       "city": "Seattle",
       "state": "WA",
@@ -8171,9 +8171,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
-      "score": 62,
+      "score": 63,
       "score_parts": {
-        "demand": 18.2,
+        "demand": 18.8,
         "scarcity": 17.7,
         "markup": 16.1,
         "timing": 10.0
@@ -8190,6 +8190,140 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.2x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9Zk4fGkdfKNh8",
+      "name": "David Foster & Katharine Mcphee",
+      "url": "https://www.ticketmaster.com/david-foster-katharine-mcphee-las-vegas-nevada-03-05-2027/event/17006554D44E36D0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "David Foster",
+        "Katharine McPhee"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Encore Theater at Wynn Las Vegas",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T04:00:00Z",
+      "onsale_start": "2026-11-06T18:00:00Z",
+      "onsale_end": "2027-03-06T04:00:00Z",
+      "presales": [
+        {
+          "name": "Amex Presale Tickets",
+          "start": "2026-11-05T22:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for American Express Cardholders"
+        },
+        {
+          "name": "AEG Presale",
+          "start": "2026-11-05T22:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "AEG Presale"
+        },
+        {
+          "name": "Zero Bond Presale",
+          "start": "2026-11-05T22:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Zero Bond members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=David+Foster",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1A9Zk4fGkdffKh9",
+      "name": "David Foster & Katharine Mcphee",
+      "url": "https://www.ticketmaster.com/david-foster-katharine-mcphee-las-vegas-nevada-03-06-2027/event/17006554D45136D7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "David Foster",
+        "Katharine McPhee"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Encore Theater at Wynn Las Vegas",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T04:00:00Z",
+      "onsale_start": "2026-11-06T18:00:00Z",
+      "onsale_end": "2027-03-07T04:00:00Z",
+      "presales": [
+        {
+          "name": "Amex Presale Tickets",
+          "start": "2026-11-05T22:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for American Express Cardholders"
+        },
+        {
+          "name": "AEG Presale",
+          "start": "2026-11-05T22:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "AEG Presale"
+        },
+        {
+          "name": "Zero Bond Presale",
+          "start": "2026-11-05T22:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Zero Bond members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=David+Foster",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
         "3 presale(s)"
       ]
     },
@@ -9093,14 +9227,14 @@
         {
           "name": "VIP Package Presale",
           "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-11T04:59:00Z",
+          "end": "2026-11-11T03:00:00Z",
           "url": "",
           "how": "WWE is offering VIP Packages for this event."
         },
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-11T15:00:00Z",
-          "end": "2027-02-09T01:30:00Z",
+          "end": "2027-02-09T03:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -9424,6 +9558,20 @@
           "end": "2026-11-11T05:59:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T04:00:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2027-01-05T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -9448,7 +9596,7 @@
         "on your watchlist",
         "43 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
-        "1 presale(s)"
+        "3 presale(s)"
       ]
     },
     {
@@ -9754,7 +9902,7 @@
     },
     {
       "id": "vv17OZ_4GkRj_0yH",
-      "name": "Ricky Montgomery - The Monty Tour",
+      "name": "Ricky Montgomery: The Monty Tour",
       "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-detroit-michigan-04-21-2027/event/0800655BDC664E7C",
       "segment": "Music",
       "genre": "Pop",
@@ -9841,7 +9989,7 @@
     },
     {
       "id": "vv177Z_4GkMU6YcH",
-      "name": "Ricky Montgomery - The Monty Tour",
+      "name": "Ricky Montgomery: The Monty Tour",
       "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-boston-massachusetts-04-18-2027/event/0100655DF61F0B7C",
       "segment": "Music",
       "genre": "Pop",
@@ -9927,7 +10075,7 @@
     },
     {
       "id": "vv17FZ_fGkB6xSSD",
-      "name": "Ricky Montgomery - The Monty Tour",
+      "name": "Ricky Montgomery: The Monty Tour",
       "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-montclair-new-jersey-04-16-2027/event/0200654E878B3CFB",
       "segment": "Music",
       "genre": "Pop",
@@ -10234,7 +10382,7 @@
     },
     {
       "id": "G5dIZ_49DwMQo",
-      "name": "Ricky Montgomery - The Monty Tour",
+      "name": "Ricky Montgomery: The Monty Tour",
       "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-houston-texas-04-05-2027/event/3A006555FBCB7691",
       "segment": "Music",
       "genre": "Pop",
@@ -10573,13 +10721,12 @@
     },
     {
       "id": "vv170Z_4GkVvC0yc",
-      "name": "Ricky Montgomery - The Monty Tour",
+      "name": "Ricky Montgomery: The Monty Tour",
       "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-santa-ana-california-05-11-2027/event/0900655D013A4E6D",
       "segment": "Music",
       "genre": "Pop",
       "artists": [
-        "Ricky Montgomery",
-        "Dev Lemons"
+        "Ricky Montgomery"
       ],
       "artist_upcoming": 20,
       "venue": "The Observatory",
