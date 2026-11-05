@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-05T14:57:12Z",
-    "generated_local": "Thu 5 Nov, 7:57 AM",
-    "scanned": 709,
-    "surfaced": 122,
-    "new": 2,
+    "generated_utc": "2026-11-05T17:37:36Z",
+    "generated_local": "Thu 5 Nov, 10:37 AM",
+    "scanned": 780,
+    "surfaced": 146,
+    "new": 23,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -20,7 +20,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Daikin Park",
       "city": "Houston",
       "state": "TX",
@@ -76,24 +76,25 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 60,
+      "score": 64,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 0.0,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "est. 1.3-2.2x face",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
         "6 presale(s)"
       ]
     },
@@ -107,7 +108,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Cross Insurance Center",
       "city": "Bangor",
       "state": "ME",
@@ -191,25 +192,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "10 presale(s)"
       ]
     },
@@ -223,7 +225,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Cross Insurance Arena ",
       "city": "Portland",
       "state": "ME",
@@ -265,25 +267,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "4 presale(s)"
       ]
     },
@@ -297,7 +300,7 @@
         "WWE",
         "WWE Live"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Hertz Arena",
       "city": "Estero",
       "state": "FL",
@@ -325,25 +328,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "2 presale(s)"
       ]
     },
@@ -357,7 +361,7 @@
         "WWE",
         "WWE Survivor Series"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Von Braun Center Propst Arena",
       "city": "Huntsville",
       "state": "AL",
@@ -392,25 +396,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
     },
@@ -423,7 +428,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Lenovo Center",
       "city": "Raleigh",
       "state": "NC",
@@ -451,25 +456,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "2 presale(s)"
       ]
     },
@@ -482,7 +488,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Huntington Center",
       "city": "Toledo",
       "state": "OH",
@@ -517,25 +523,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
     },
@@ -546,10 +553,9 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Bon Secours Wellness Arena ",
       "city": "Greenville",
       "state": "SC",
@@ -584,25 +590,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
     },
@@ -616,7 +623,7 @@
         "WWE",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Van Andel Arena",
       "city": "Grand Rapids",
       "state": "MI",
@@ -651,25 +658,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
     },
@@ -682,7 +690,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Amerant Bank Arena",
       "city": "Sunrise",
       "state": "FL",
@@ -695,25 +703,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 64,
+      "score": 68,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 6.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face"
+        "est. 1.4-2.5x face"
       ]
     },
     {
@@ -725,7 +734,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Ford Center",
       "city": "Evansville",
       "state": "IN",
@@ -788,25 +797,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "7 presale(s)"
       ]
     },
@@ -819,7 +829,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "INTRUST Bank Arena",
       "city": "Wichita",
       "state": "KS",
@@ -868,25 +878,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "5 presale(s)"
       ]
     },
@@ -899,7 +910,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Simmons Bank Arena",
       "city": "North Little Rock",
       "state": "AR",
@@ -934,25 +945,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
     },
@@ -965,7 +977,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Riverside Municipal Auditorium",
       "city": "Riverside",
       "state": "CA",
@@ -1063,25 +1075,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 74,
+      "score": 79,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 14.8,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~4,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "12 presale(s)"
       ]
     },
@@ -1095,7 +1108,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Upstate Medical University Arena at The Oncenter War Memorial",
       "city": "Syracuse",
       "state": "NY",
@@ -1137,25 +1150,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "4 presale(s)"
       ]
     },
@@ -1169,7 +1183,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Columbus Civic Center",
       "city": "Columbus",
       "state": "GA",
@@ -1225,25 +1239,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "6 presale(s)"
       ]
     },
@@ -1257,7 +1272,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Mohegan Arena at Casey Plaza",
       "city": "Wilkes Barre",
       "state": "PA",
@@ -1299,25 +1314,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "4 presale(s)"
       ]
     },
@@ -1331,7 +1347,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Hampton Coliseum",
       "city": "Hampton",
       "state": "VA",
@@ -1366,25 +1382,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 8.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
     },
@@ -1399,7 +1416,7 @@
         "WWE Monday Night RAW",
         "WWE Friday Night SmackDown"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Benchmark International Arena",
       "city": "Tampa",
       "state": "FL",
@@ -1448,25 +1465,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "5 presale(s)"
       ]
     },
@@ -1480,7 +1498,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "PPG Paints Arena",
       "city": "Pittsburgh",
       "state": "PA",
@@ -1536,25 +1554,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 68,
+      "score": 72,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 7.9,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "6 presale(s)"
       ]
     },
@@ -1568,7 +1587,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Madison Square Garden",
       "city": "New York",
       "state": "NY",
@@ -1610,24 +1629,25 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 66,
+      "score": 71,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 6.6,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "est. 1.3-2.2x face",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
         "4 presale(s)"
       ]
     },
@@ -1641,7 +1661,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Little Caesars Arena",
       "city": "Detroit",
       "state": "MI",
@@ -1690,24 +1710,25 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 66,
+      "score": 71,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 6.7,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "est. 1.3-2.2x face",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
         "5 presale(s)"
       ]
     },
@@ -1721,7 +1742,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "BMO Center",
       "city": "Rockford",
       "state": "IL",
@@ -1798,25 +1819,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 70,
+      "score": 74,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 10.2,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "9 presale(s)"
       ]
     },
@@ -1830,7 +1852,7 @@
         "WWE Holiday Live Tour",
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "Bridgestone Arena",
       "city": "Nashville",
       "state": "TN",
@@ -1865,24 +1887,25 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE+Holiday+Live+Tour",
-      "score": 66,
+      "score": 71,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 6.8,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
-        "est. 1.3-2.2x face",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
         "3 presale(s)"
       ]
     },
@@ -1895,7 +1918,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -1986,26 +2009,27 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 83,
+      "score": 88,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 18.7,
-        "markup": 20.8,
+        "markup": 24.0,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.45,
-        2.55
+        1.55,
+        2.75
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
-        "est. 1.4-2.5x face",
+        "est. 1.6-2.8x face",
         "11 presale(s)"
       ]
     },
@@ -2018,7 +2042,7 @@
       "artists": [
         "WWE"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 43,
       "venue": "SACRAMENTO MEMORIAL AUDITORIUM",
       "city": "Sacramento",
       "state": "CA",
@@ -2046,25 +2070,26 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 74,
+      "score": 79,
       "score_parts": {
-        "demand": 33.6,
+        "demand": 35.0,
         "scarcity": 14.8,
-        "markup": 16.1,
+        "markup": 19.3,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
       "resale_multiple": [
-        1.3,
-        2.25
+        1.4,
+        2.45
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "on your watchlist",
+        "43 upcoming dates (heavy routing)",
         "~4,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
+        "est. 1.4-2.5x face",
         "2 presale(s)"
       ]
     },
@@ -2305,7 +2330,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 23,
       "venue": "The Fillmore Philadelphia",
       "city": "Philadelphia",
       "state": "PA",
@@ -2363,7 +2388,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 75,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 24.5,
         "timing": 10.0
@@ -2380,6 +2405,215 @@
         "small room (1,150 cap)",
         "est. 1.6-2.7x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvbZ_4GkUSIzYN",
+      "name": "WWE Holiday Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-tour-louisville-kentucky-12-05-2026/event/1600655DB3A38C23",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 43,
+      "venue": "KFC Yum! Center",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-06T00:30:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2026-12-06T02:30:00Z",
+      "presales": [
+        {
+          "name": "Presales",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T04:59:00Z",
+          "url": "",
+          "how": "Presales"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-06T15:00:00Z",
+          "end": "2026-11-29T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 74,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "k7v16k4_0-u3Ze2e",
+      "name": "WWE Holiday Live Tour",
+      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-trenton-new-jersey-12-17-2026/event/00006559921352E1",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Holiday Live Tour"
+      ],
+      "artist_upcoming": 43,
+      "venue": "CURE Insurance Arena",
+      "city": "Trenton",
+      "state": "NJ",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-18T00:30:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2026-12-18T00:30:00Z",
+      "presales": [
+        {
+          "name": "Pre-Sale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T04:59:00Z",
+          "url": "",
+          "how": "Pre-Sale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-06T15:00:00Z",
+          "end": "2026-12-11T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvfZ_4GkYvIUrZ",
+      "name": "Two Shows. One Night: WWE RAW & SmackDown",
+      "url": "https://www.ticketmaster.com/two-shows-one-night-wwe-raw-washington-district-of-columbia-12-21-2026/event/1500655C01A36780",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Monday Night RAW"
+      ],
+      "artist_upcoming": 43,
+      "venue": "Capital One Arena",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 20356,
+      "capacity_source": "exact",
+      "event_date": "2026-12-21T23:30:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2026-12-22T00:30:00Z",
+      "presales": [
+        {
+          "name": "Venue/WWE Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Aisle Seat Offer (Presale Period)",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T04:59:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-06T15:00:00Z",
+          "end": "2026-12-15T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 71,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 6.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -2576,7 +2810,7 @@
       "artists": [
         "LFO"
       ],
-      "artist_upcoming": 9,
+      "artist_upcoming": 10,
       "venue": "Arties Bar and Grill",
       "city": "Frenchtown",
       "state": "NJ",
@@ -2591,7 +2825,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=LFO",
       "score": 70,
       "score_parts": {
-        "demand": 14.0,
+        "demand": 14.6,
         "scarcity": 25.0,
         "markup": 24.5,
         "timing": 6.0
@@ -2619,7 +2853,7 @@
       "artists": [
         "LFO"
       ],
-      "artist_upcoming": 9,
+      "artist_upcoming": 10,
       "venue": "Halftime Sports Bar",
       "city": "Newark",
       "state": "DE",
@@ -2634,7 +2868,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=LFO",
       "score": 70,
       "score_parts": {
-        "demand": 14.0,
+        "demand": 14.6,
         "scarcity": 25.0,
         "markup": 24.5,
         "timing": 6.0
@@ -2651,72 +2885,6 @@
         "small room (300 cap)",
         "~300 cap (from venue type)",
         "est. 1.6-2.7x face"
-      ]
-    },
-    {
-      "id": "1AvbZ_4GkUSIzYN",
-      "name": "WWE Holiday Tour",
-      "url": "https://www.ticketmaster.com/wwe-holiday-tour-louisville-kentucky-12-05-2026/event/1600655DB3A38C23",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE"
-      ],
-      "artist_upcoming": 34,
-      "venue": "KFC Yum! Center",
-      "city": "Louisville",
-      "state": "KY",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2026-12-06T00:30:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2026-12-06T02:30:00Z",
-      "presales": [
-        {
-          "name": "Presales",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T04:59:00Z",
-          "url": "",
-          "how": "Presales"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-06T15:00:00Z",
-          "end": "2026-11-29T03:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 70,
-      "score_parts": {
-        "demand": 33.6,
-        "scarcity": 10.2,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.3,
-        2.25
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "~10,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -2938,73 +3106,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.5x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "k7v16k4_0-u3Ze2e",
-      "name": "WWE Holiday Live Tour",
-      "url": "https://www.ticketmaster.com/wwe-holiday-live-tour-trenton-new-jersey-12-17-2026/event/00006559921352E1",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE",
-        "WWE Holiday Live Tour"
-      ],
-      "artist_upcoming": 34,
-      "venue": "CURE Insurance Arena",
-      "city": "Trenton",
-      "state": "NJ",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2026-12-18T00:30:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2026-12-18T00:30:00Z",
-      "presales": [
-        {
-          "name": "Pre-Sale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T04:59:00Z",
-          "url": "",
-          "how": "Pre-Sale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": "WWE is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-06T15:00:00Z",
-          "end": "2026-12-11T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 68,
-      "score_parts": {
-        "demand": 33.6,
-        "scarcity": 7.9,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.3,
-        2.25
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -3262,79 +3363,6 @@
       ]
     },
     {
-      "id": "1AvfZ_4GkYvIUrZ",
-      "name": "Two Shows. One Night: WWE RAW & SmackDown",
-      "url": "https://www.ticketmaster.com/two-shows-one-night-wwe-raw-washington-district-of-columbia-12-21-2026/event/1500655C01A36780",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Capital One Arena",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 20356,
-      "capacity_source": "exact",
-      "event_date": "2026-12-21T23:30:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2026-12-22T00:30:00Z",
-      "presales": [
-        {
-          "name": "Venue/WWE Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Aisle Seat Offer (Presale Period)",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T04:59:00Z",
-          "url": "",
-          "how": "WWE is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-06T15:00:00Z",
-          "end": "2026-12-15T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 66,
-      "score_parts": {
-        "demand": 33.6,
-        "scarcity": 6.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.3,
-        2.25
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
-      ]
-    },
-    {
       "id": "1kAOvP4yGACU9xM",
       "name": "Riley Green: That's Just Me Tour",
       "url": "https://www.ticketmaster.com/riley-green-thats-just-me-tour-cincinnati-ohio-06-24-2027/event/160065579ED978B7",
@@ -3585,6 +3613,73 @@
         "small room (1,150 cap)",
         "est. 1.3-2.2x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_4GkSdl9E6",
+      "name": "Pepper (18+)",
+      "url": "https://www.ticketmaster.com/pepper-18-boston-massachusetts-03-02-2027/event/0100655CC3AD79C7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Pepper",
+        "SensaMotion"
+      ],
+      "artist_upcoming": 15,
+      "venue": "Paradise Rock Club presented by Citizens",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-03T00:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-03-03T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-04T14:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-04T17:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-04T17:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
+      "score": 65,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 22.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -3885,73 +3980,6 @@
       ]
     },
     {
-      "id": "vv177Z_4GkSdl9E6",
-      "name": "Pepper (18+)",
-      "url": "https://www.ticketmaster.com/pepper-18-boston-massachusetts-03-02-2027/event/0100655CC3AD79C7",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Pepper",
-        "SensaMotion"
-      ],
-      "artist_upcoming": 13,
-      "venue": "Paradise Rock Club presented by Citizens",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-03T00:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-03-03T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-04T14:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-04T17:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-04T17:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
-      "score": 64,
-      "score_parts": {
-        "demand": 16.0,
-        "scarcity": 22.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
       "id": "G5viZ_4r0IxhX",
       "name": "Marty Stuart And His Fabulous Superlatives",
       "url": "https://www.ticketmaster.com/marty-stuart-and-his-fabulous-superlatives-chattanooga-tennessee-03-11-2027/event/1B006557A4A226FE",
@@ -4164,7 +4192,7 @@
         "Stick To Your Guns",
         "Dreamwake"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 27,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -4222,7 +4250,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Currents",
       "score": 63,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.3,
         "scarcity": 20.9,
         "markup": 12.0,
         "timing": 10.0
@@ -4252,7 +4280,7 @@
         "Stick To Your Guns",
         "Dreamwake"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 27,
       "venue": "The Fillmore Detroit",
       "city": "Detroit",
       "state": "MI",
@@ -4310,7 +4338,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Currents",
       "score": 63,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.3,
         "scarcity": 20.9,
         "markup": 12.0,
         "timing": 10.0
@@ -4329,6 +4357,66 @@
       ]
     },
     {
+      "id": "vv17OZ_4GkDaw93S",
+      "name": "Pepper",
+      "url": "https://www.ticketmaster.com/pepper-pontiac-michigan-03-06-2027/event/0800655EC9C974B3",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Pepper",
+        "SensaMotion"
+      ],
+      "artist_upcoming": 15,
+      "venue": "The Crofoot Ballroom",
+      "city": "Pontiac",
+      "state": "MI",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T00:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-03-07T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-04T14:00:00Z",
+          "end": "2026-11-06T15:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-04T17:00:00Z",
+          "end": "2026-11-06T15:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
+      "score": 63,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "1AvfZ_4GkULqEN9",
       "name": "Tove Lo - ESTRUS TOUR ",
       "url": "https://www.ticketmaster.com/tove-lo-estrus-tour-washington-district-of-columbia-04-24-2027/event/1500655D9F7678D7",
@@ -4338,7 +4426,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 23,
       "venue": "The Anthem",
       "city": "Washington",
       "state": "DC",
@@ -4382,7 +4470,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 62,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.3,
         "scarcity": 12.8,
         "markup": 19.8,
         "timing": 10.0
@@ -4534,66 +4622,6 @@
       ]
     },
     {
-      "id": "vv17OZ_4GkDaw93S",
-      "name": "Pepper",
-      "url": "https://www.ticketmaster.com/pepper-pontiac-michigan-03-06-2027/event/0800655EC9C974B3",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Pepper",
-        "SensaMotion"
-      ],
-      "artist_upcoming": 13,
-      "venue": "The Crofoot Ballroom",
-      "city": "Pontiac",
-      "state": "MI",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-07T00:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-03-07T00:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-04T14:00:00Z",
-          "end": "2026-11-06T15:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-04T17:00:00Z",
-          "end": "2026-11-06T15:00:00Z",
-          "url": "",
-          "how": "Local Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
-      "score": 62,
-      "score_parts": {
-        "demand": 16.0,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AAZk4xGkdvVkap",
       "name": "Bingo Loco - Ages 21+",
       "url": "https://www.ticketmaster.com/bingo-loco-ages-21-indianapolis-indiana-12-27-2026/event/05006562C1D06256",
@@ -4649,87 +4677,6 @@
         "~10,000 cap (from venue type)",
         "est. 1.5-2.4x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv177Z_4GkSv4EAz",
-      "name": "CURRENTS: OUR FATES LIE IN TANDEM",
-      "url": "https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-boston-massachusetts-02-19-2027/event/0100655CC1567178",
-      "segment": "Music",
-      "genre": "Other",
-      "artists": [
-        "Currents",
-        "Vana",
-        "Vanna",
-        "Dreamwake"
-      ],
-      "artist_upcoming": 28,
-      "venue": "Citizens House of Blues Boston",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-02-19T23:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-02-20T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-03T17:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "KF Presale",
-          "start": "2026-11-04T19:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "BBM Presale",
-          "start": "2026-11-04T19:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-03T19:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-03T19:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Currents",
-      "score": 61,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
-        "markup": 12.0,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "5 presale(s)"
       ]
     },
     {
@@ -4797,101 +4744,6 @@
         "small room (2,000 cap)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv17fZ_4GkYJToXX",
-      "name": "CURRENTS: OUR FATES LIE IN TANDEM",
-      "url": "https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-cleveland-ohio-02-22-2027/event/0500655C26FD1FBE",
-      "segment": "Music",
-      "genre": "Other",
-      "artists": [
-        "Currents",
-        "Vana",
-        "Stick To Your Guns",
-        "Dreamwake"
-      ],
-      "artist_upcoming": 28,
-      "venue": "House of Blues Cleveland",
-      "city": "Cleveland",
-      "state": "OH",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-02-22T23:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-02-23T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-03T17:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "KF Pre Sale",
-          "start": "2026-11-04T19:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "BBM Pre Sale",
-          "start": "2026-11-04T19:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-03T19:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-03T17:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
-          "start": "2026-11-06T15:00:00Z",
-          "end": "2027-02-20T03:00:00Z",
-          "url": "",
-          "how": "T-Mobile\u00ae Concert Perks + Fast Lane"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-06T15:00:00Z",
-          "end": "2027-01-26T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Currents",
-      "score": 61,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
-        "markup": 12.0,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "7 presale(s)"
       ]
     },
     {
@@ -5065,6 +4917,92 @@
       ]
     },
     {
+      "id": "15e0Z_pFt_oFk",
+      "name": "Lfo and Trevor Penick of O-Town *Rich In Love Tour* Celebrating Ten Ye",
+      "url": "https://www.ticketweb.com/event/lfo-and-trevor-penick-of-arties-bar-and-grill-tickets/14413694?REFERRAL_ID=tmfeed",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "LFO"
+      ],
+      "artist_upcoming": 10,
+      "venue": "Artie's Bar and Grill",
+      "city": "Frenchtown",
+      "state": "NJ",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-30T00:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-01-30T00:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=LFO",
+      "score": 61,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 25.0,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)",
+        "est. 1.3-2.1x face"
+      ]
+    },
+    {
+      "id": "1AtZk4xGkdPZsdY",
+      "name": "Lfo with Trevor Penick From O-Town *Rich In Love Tour* Celebrating Ten",
+      "url": "https://www.ticketweb.com/event/lfo-with-trevor-penick-from-halftime-sports-bar-tickets/14412594?REFERRAL_ID=tmfeed",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "LFO"
+      ],
+      "artist_upcoming": 10,
+      "venue": "Halftime Sports Bar",
+      "city": "Newark",
+      "state": "DE",
+      "capacity": 300,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-31T23:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-01-31T23:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=LFO",
+      "score": 61,
+      "score_parts": {
+        "demand": 14.6,
+        "scarcity": 25.0,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (300 cap)",
+        "~300 cap (from venue type)",
+        "est. 1.3-2.1x face"
+      ]
+    },
+    {
       "id": "vv177Z_4GkRG_vCD",
       "name": "Panchiko",
       "url": "https://www.ticketmaster.com/panchiko-boston-massachusetts-04-24-2027/event/0100655BCC6413BB",
@@ -5139,6 +5077,182 @@
       ]
     },
     {
+      "id": "vv177Z_4GkSv4EAz",
+      "name": "CURRENTS: OUR FATES LIE IN TANDEM",
+      "url": "https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-boston-massachusetts-02-19-2027/event/0100655CC1567178",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Currents",
+        "Vana",
+        "Vanna",
+        "Dreamwake"
+      ],
+      "artist_upcoming": 27,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-19T23:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-02-20T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "KF Presale",
+          "start": "2026-11-04T19:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "BBM Presale",
+          "start": "2026-11-04T19:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-03T19:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-03T19:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Currents",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 18.2,
+        "markup": 12.0,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17fZ_4GkYJToXX",
+      "name": "CURRENTS: OUR FATES LIE IN TANDEM",
+      "url": "https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-cleveland-ohio-02-22-2027/event/0500655C26FD1FBE",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Currents",
+        "Vana",
+        "Stick To Your Guns",
+        "Dreamwake"
+      ],
+      "artist_upcoming": 27,
+      "venue": "House of Blues Cleveland",
+      "city": "Cleveland",
+      "state": "OH",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-22T23:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-02-23T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "KF Pre Sale",
+          "start": "2026-11-04T19:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "BBM Pre Sale",
+          "start": "2026-11-04T19:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-03T19:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
+          "start": "2026-11-06T15:00:00Z",
+          "end": "2027-02-20T03:00:00Z",
+          "url": "",
+          "how": "T-Mobile\u00ae Concert Perks + Fast Lane"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-06T15:00:00Z",
+          "end": "2027-01-26T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Currents",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 18.2,
+        "markup": 12.0,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "7 presale(s)"
+      ]
+    },
+    {
       "id": "G5vVZ_4Mcb7-L",
       "name": "CURRENTS: OUR FATES LIE IN TANDEM",
       "url": "https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-wallingford-connecticut-03-21-2027/event/1D00655DED60485F",
@@ -5150,7 +5264,7 @@
         "Stick To Your Guns",
         "Dreamwake"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 27,
       "venue": "Dome at Toyota Oakdale Theatre",
       "city": "Wallingford",
       "state": "CT",
@@ -5208,7 +5322,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Currents",
       "score": 60,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.3,
         "scarcity": 17.7,
         "markup": 12.0,
         "timing": 10.0
@@ -5228,33 +5342,49 @@
       ]
     },
     {
-      "id": "15e0Z_pFt_oFk",
-      "name": "Lfo and Trevor Penick of O-Town *Rich In Love Tour* Celebrating Ten Ye",
-      "url": "https://www.ticketweb.com/event/lfo-and-trevor-penick-of-arties-bar-and-grill-tickets/14413694?REFERRAL_ID=tmfeed",
+      "id": "G5eVZ_4D6rqDq",
+      "name": "PEPPER: 20 years of No Shame",
+      "url": "https://www.ticketmaster.com/pepper-20-years-of-no-shame-charlotte-north-carolina-02-21-2027/event/2D00655EC779DEDD",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "LFO"
+        "Pepper",
+        "Passafire"
       ],
-      "artist_upcoming": 9,
-      "venue": "Artie's Bar and Grill",
-      "city": "Frenchtown",
-      "state": "NJ",
-      "capacity": 300,
+      "artist_upcoming": 15,
+      "venue": "Neighborhood Theatre Main Room",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-01-30T00:00:00Z",
+      "event_date": "2027-02-22T01:00:00Z",
       "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-01-30T00:00:00Z",
-      "presales": [],
+      "onsale_end": "2027-02-22T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-04T14:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-04T17:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=LFO",
+      "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
       "score": 60,
       "score_parts": {
-        "demand": 14.0,
-        "scarcity": 25.0,
+        "demand": 16.9,
+        "scarcity": 17.7,
         "markup": 15.1,
-        "timing": 6.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -5265,52 +5395,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (300 cap)",
-        "~300 cap (from venue type)",
-        "est. 1.3-2.1x face"
-      ]
-    },
-    {
-      "id": "1AtZk4xGkdPZsdY",
-      "name": "Lfo with Trevor Penick From O-Town *Rich In Love Tour* Celebrating Ten",
-      "url": "https://www.ticketweb.com/event/lfo-with-trevor-penick-from-halftime-sports-bar-tickets/14412594?REFERRAL_ID=tmfeed",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "LFO"
-      ],
-      "artist_upcoming": 9,
-      "venue": "Halftime Sports Bar",
-      "city": "Newark",
-      "state": "DE",
-      "capacity": 300,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-31T23:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-01-31T23:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=LFO",
-      "score": 60,
-      "score_parts": {
-        "demand": 14.0,
-        "scarcity": 25.0,
-        "markup": 15.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (300 cap)",
-        "~300 cap (from venue type)",
-        "est. 1.3-2.1x face"
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -5389,7 +5477,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 23,
       "venue": "South Side Ballroom",
       "city": "Dallas",
       "state": "TX",
@@ -5431,9 +5519,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
-      "score": 75,
+      "score": 74,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.3,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5463,7 +5551,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 23,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -5505,9 +5593,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
-      "score": 73,
+      "score": 72,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.3,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5536,7 +5624,7 @@
       "artists": [
         "Dexter and The Moonrocks"
       ],
-      "artist_upcoming": 36,
+      "artist_upcoming": 37,
       "venue": "Texas Club",
       "city": "Baton Rouge",
       "state": "LA",
@@ -5580,7 +5668,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
       "score": 70,
       "score_parts": {
-        "demand": 22.0,
+        "demand": 22.1,
         "scarcity": 22.7,
         "markup": 15.1,
         "timing": 10.0
@@ -6072,7 +6160,7 @@
       "artists": [
         "Dexter and The Moonrocks"
       ],
-      "artist_upcoming": 36,
+      "artist_upcoming": 37,
       "venue": "Satellite Music Hall",
       "city": "Memphis",
       "state": "TN",
@@ -6102,7 +6190,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
       "score": 66,
       "score_parts": {
-        "demand": 22.0,
+        "demand": 22.1,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
@@ -6390,7 +6478,7 @@
         "Stick To Your Guns",
         "Dreamwake"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 27,
       "venue": "The Fillmore Minneapolis presented by Affinity Plus",
       "city": "Minneapolis",
       "state": "MN",
@@ -6455,7 +6543,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Currents",
       "score": 63,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.3,
         "scarcity": 20.9,
         "markup": 12.0,
         "timing": 10.0
@@ -6697,6 +6785,58 @@
       ]
     },
     {
+      "id": "vv17bZ_4GkwgDblb",
+      "name": "Pepper",
+      "url": "https://www.ticketmaster.com/pepper-saint-louis-missouri-03-10-2027/event/0600655CB5ED8AD8",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Pepper"
+      ],
+      "artist_upcoming": 15,
+      "venue": "Delmar Hall",
+      "city": "Saint Louis",
+      "state": "MO",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-11T02:00:00Z",
+      "onsale_start": "2026-11-06T16:00:00Z",
+      "onsale_end": "2027-03-11T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-04T15:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
+      "score": 62,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_4MvgRjY",
       "name": "Liquid Stranger Presents: Electric Helix",
       "url": "https://www.ticketmaster.com/liquid-stranger-presents-electric-helix-new-orleans-louisiana-01-31-2027/event/1B00655DC1D6F730",
@@ -6869,94 +7009,6 @@
       ]
     },
     {
-      "id": "G5dIZ_p1B8FPQ",
-      "name": "CURRENTS: OUR FATES LIE IN TANDEM",
-      "url": "https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-houston-texas-03-14-2027/event/3A006562BA40895A",
-      "segment": "Music",
-      "genre": "Other",
-      "artists": [
-        "Currents",
-        "Vana",
-        "Stick To Your Guns",
-        "Dreamwake"
-      ],
-      "artist_upcoming": 28,
-      "venue": "House of Blues Houston",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-14T23:00:00Z",
-      "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-03-15T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-03T17:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Knotfest Presale",
-          "start": "2026-11-04T19:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Blabbermouth Presale",
-          "start": "2026-11-04T19:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-03T19:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-03T17:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-06T16:00:00Z",
-          "end": "2027-02-15T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Currents",
-      "score": 61,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
-        "markup": 12.0,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "vv17bZ_4GkD47Cxw",
       "name": "ALEXISONFIRE & POISON THE WELL",
       "url": "https://www.ticketmaster.com/alexisonfire-poison-the-well-minneapolis-minnesota-04-09-2027/event/0600655ED510E8B2",
@@ -7032,30 +7084,52 @@
       ]
     },
     {
-      "id": "vv17bZ_4GkwgDblb",
-      "name": "Pepper",
-      "url": "https://www.ticketmaster.com/pepper-saint-louis-missouri-03-10-2027/event/0600655CB5ED8AD8",
+      "id": "vvG1YZ_4zAS75I",
+      "name": "Pepper 20th Anniversary Tour of 'No Shame'",
+      "url": "https://www.ticketmaster.com/pepper-20th-anniversary-tour-of-no-dallas-texas-03-14-2027/event/0C00655E05CC42E8",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Pepper"
+        "Pepper",
+        "Tunnel Vision"
       ],
-      "artist_upcoming": 13,
-      "venue": "Delmar Hall",
-      "city": "Saint Louis",
-      "state": "MO",
-      "capacity": 1500,
+      "artist_upcoming": 15,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
       "capacity_source": "venue type",
-      "event_date": "2027-03-11T02:00:00Z",
+      "event_date": "2027-03-15T00:00:00Z",
       "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-03-11T02:00:00Z",
+      "onsale_end": "2027-03-15T02:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
           "start": "2026-11-04T15:00:00Z",
           "end": "2026-11-06T04:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-04T15:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-04T18:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-06T16:00:00Z",
+          "end": "2027-02-15T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
@@ -7063,8 +7137,8 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
       "score": 61,
       "score_parts": {
-        "demand": 16.0,
-        "scarcity": 19.6,
+        "demand": 16.9,
+        "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -7077,10 +7151,98 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "1 presale(s)"
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_p1B8FPQ",
+      "name": "CURRENTS: OUR FATES LIE IN TANDEM",
+      "url": "https://www.ticketmaster.com/currents-our-fates-lie-in-tandem-houston-texas-03-14-2027/event/3A006562BA40895A",
+      "segment": "Music",
+      "genre": "Other",
+      "artists": [
+        "Currents",
+        "Vana",
+        "Stick To Your Guns",
+        "Dreamwake"
+      ],
+      "artist_upcoming": 27,
+      "venue": "House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-14T23:00:00Z",
+      "onsale_start": "2026-11-06T16:00:00Z",
+      "onsale_end": "2027-03-15T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Knotfest Presale",
+          "start": "2026-11-04T19:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Blabbermouth Presale",
+          "start": "2026-11-04T19:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-03T19:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-03T17:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-06T16:00:00Z",
+          "end": "2027-02-15T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Currents",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.3,
+        "scarcity": 18.2,
+        "markup": 12.0,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "6 presale(s)"
       ]
     },
     {
@@ -7209,51 +7371,38 @@
       ]
     },
     {
-      "id": "vvG1YZ_4zAS75I",
-      "name": "Pepper 20th Anniversary Tour of 'No Shame'",
-      "url": "https://www.ticketmaster.com/pepper-20th-anniversary-tour-of-no-dallas-texas-03-14-2027/event/0C00655E05CC42E8",
+      "id": "vv17bZ_4GknxYJKz",
+      "name": "Pepper",
+      "url": "https://www.ticketmaster.com/pepper-kansas-city-missouri-03-09-2027/event/0600655AA2C264F8",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Pepper"
+        "Pepper",
+        "SensaMotion"
       ],
-      "artist_upcoming": 13,
-      "venue": "The Echo Lounge & Music Hall",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1800,
+      "artist_upcoming": 15,
+      "venue": "Madrid Theatre",
+      "city": "Kansas City",
+      "state": "MO",
+      "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-03-15T00:00:00Z",
+      "event_date": "2027-03-10T02:00:00Z",
       "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-03-15T02:00:00Z",
+      "onsale_end": "2027-03-10T04:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
           "start": "2026-11-04T15:00:00Z",
           "end": "2026-11-06T04:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": ""
         },
         {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-04T15:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
+          "name": "Local Presale",
           "start": "2026-11-04T18:00:00Z",
           "end": "2026-11-06T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-06T16:00:00Z",
-          "end": "2027-02-15T04:00:00Z",
           "url": "",
-          "how": "For Citi\u00ae Cardmembers"
+          "how": ""
         }
       ],
       "price_min": null,
@@ -7261,8 +7410,8 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
       "score": 60,
       "score_parts": {
-        "demand": 16.0,
-        "scarcity": 18.7,
+        "demand": 16.9,
+        "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -7275,10 +7424,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -7469,7 +7618,7 @@
         "Stick To Your Guns",
         "Dreamwake"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 27,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -7527,7 +7676,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Currents",
       "score": 61,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.3,
         "scarcity": 18.7,
         "markup": 12.0,
         "timing": 10.0
@@ -7624,7 +7773,7 @@
         "Novelists",
         "Dreamwake"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 27,
       "venue": "Marquee Theatre",
       "city": "Tempe",
       "state": "AZ",
@@ -7668,7 +7817,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Currents",
       "score": 60,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.3,
         "scarcity": 17.7,
         "markup": 12.0,
         "timing": 10.0
@@ -7698,7 +7847,7 @@
         "COBRAH",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 23,
       "venue": "Red Rocks Amphitheatre",
       "city": "Morrison",
       "state": "CO",
@@ -7728,7 +7877,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 60,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.3,
         "scarcity": 10.5,
         "markup": 19.8,
         "timing": 10.0
@@ -8173,7 +8322,7 @@
         "Stick To Your Guns",
         "Dreamwake"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 27,
       "venue": "The Wiltern",
       "city": "Los Angeles",
       "state": "CA",
@@ -8231,7 +8380,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Currents",
       "score": 61,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.3,
         "scarcity": 18.6,
         "markup": 12.0,
         "timing": 10.0
@@ -8688,6 +8837,1714 @@
         "small room (1,850 cap)",
         "est. 1.6-2.7x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv170Z_4GkVuiMAf",
+      "name": "Pepper",
+      "url": "https://www.ticketmaster.com/pepper-anaheim-california-01-16-2027/event/0900655D0DB37154",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Pepper",
+        "Bumpin Uglies"
+      ],
+      "artist_upcoming": 15,
+      "venue": "House of Blues Anaheim",
+      "city": "Anaheim",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-17T03:00:00Z",
+      "onsale_start": "2026-11-06T18:00:00Z",
+      "onsale_end": "2027-01-17T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-04T17:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-04T20:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-06T18:00:00Z",
+          "end": "2026-12-17T06:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-04T20:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pepper",
+      "score": 60,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 18.2,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1zZ_4mjNJG9",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-atlanta-georgia-02-15-2027/event/0E00655B9C8E6317",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Monday Night RAW"
+      ],
+      "artist_upcoming": 43,
+      "venue": "State Farm Arena",
+      "city": "Atlanta",
+      "state": "GA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-16T00:30:00Z",
+      "onsale_start": "2026-11-11T15:00:00Z",
+      "onsale_end": "2027-02-16T01:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-11T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-11T04:59:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2027-02-09T01:30:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 69,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kv8vP_FGA15dvB",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-indianapolis-indiana-02-22-2027/event/050065648A2C307A",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 43,
+      "venue": "Gainbridge Fieldhouse",
+      "city": "Indianapolis",
+      "state": "IN",
+      "capacity": null,
+      "capacity_source": "unknown",
+      "event_date": "2027-02-23T00:30:00Z",
+      "onsale_start": "2026-11-11T15:00:00Z",
+      "onsale_end": "2027-02-23T02:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-11T03:00:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2027-02-16T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-11T04:59:00Z",
+          "url": "",
+          "how": "Internet Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 61,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 0.0,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4hSVuni",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-dallas-texas-02-12-2027/event/0C006556F3D0DAAC",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 43,
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 20000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-13T00:30:00Z",
+      "onsale_start": "2026-11-11T16:00:00Z",
+      "onsale_end": "2027-02-13T01:30:00Z",
+      "presales": [
+        {
+          "name": "Aisle Seat Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "Aisle Seat Offer"
+        },
+        {
+          "name": "WWE Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "WWE Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T04:00:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2027-02-06T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 68,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 6.8,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_pCyXFtX",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-san-antonio-texas-01-04-2027/event/3A006563B9F88A7E",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 43,
+      "venue": "Frost Bank Center",
+      "city": "San Antonio",
+      "state": "TX",
+      "capacity": 18418,
+      "capacity_source": "exact",
+      "event_date": "2027-01-05T00:30:00Z",
+      "onsale_start": "2026-11-11T16:00:00Z",
+      "onsale_end": "2027-01-05T00:30:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "WWE Partners Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "WWE Partners Presale"
+        },
+        {
+          "name": "WWE Talent Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "WWE Talent Presale"
+        },
+        {
+          "name": "IG Broadcast Channel Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "IG Broadcast Channel Presale"
+        },
+        {
+          "name": "WWE Eblast Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "WWE Eblast Presale"
+        },
+        {
+          "name": "What's App Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "What's App Presale"
+        },
+        {
+          "name": "Marketing Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "Marketing Presale"
+        },
+        {
+          "name": "Social Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "Social Presale"
+        },
+        {
+          "name": "TM CEN Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "TM CEN Presale"
+        },
+        {
+          "name": "Club WWE Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": "Club WWE Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T04:00:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-12-29T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 68,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 7.2,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "12 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk4NGkeS9ket",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-chicago-illinois-01-11-2027/event/04006563B35C60A9",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 43,
+      "venue": "United Center",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 23500,
+      "capacity_source": "exact",
+      "event_date": "2027-01-12T00:30:00Z",
+      "onsale_start": "2026-11-11T16:00:00Z",
+      "onsale_end": "2027-01-11T23:30:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 67,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 6.0,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_pKuUX5P",
+      "name": "WWE Friday Night SmackDown",
+      "url": "https://www.ticketmaster.com/wwe-friday-night-smackdown-memphis-tennessee-01-08-2027/event/1B006564CDDBE2E5",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Friday Night SmackDown"
+      ],
+      "artist_upcoming": 43,
+      "venue": "FedExForum",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": null,
+      "capacity_source": "unknown",
+      "event_date": "2027-01-09T00:30:00Z",
+      "onsale_start": "2026-11-11T16:00:00Z",
+      "onsale_end": "2027-01-09T01:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presales",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T04:00:00Z",
+          "url": "",
+          "how": "WWE is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2027-01-02T04:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 61,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 0.0,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv170Z_4GkwBUq4w",
+      "name": "WWE Monday Night RAW",
+      "url": "https://www.ticketmaster.com/wwe-monday-night-raw-anaheim-california-02-08-2027/event/0900655CBAD9D572",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE",
+        "WWE Raw"
+      ],
+      "artist_upcoming": 43,
+      "venue": "Honda Center",
+      "city": "Anaheim",
+      "state": "CA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-09T00:30:00Z",
+      "onsale_start": "2026-11-11T18:00:00Z",
+      "onsale_end": "2027-02-09T00:30:00Z",
+      "presales": [
+        {
+          "name": "PRESALE",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-11T07:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 72,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 10.2,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.5x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_4UMhF5Y",
+      "name": "WWE",
+      "url": "https://www.ticketmaster.com/wwe-portland-oregon-01-29-2027/event/0F00655DB76C82F0",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 43,
+      "venue": "Moda Center",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 19441,
+      "capacity_source": "exact",
+      "event_date": "2027-01-30T00:30:00Z",
+      "onsale_start": "2026-11-11T18:00:00Z",
+      "onsale_end": "2027-01-30T01:30:00Z",
+      "presales": [
+        {
+          "name": "WWE Presales",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-11T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-11T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-11T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-11T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2027-01-23T06:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 68,
+      "score_parts": {
+        "demand": 35.0,
+        "scarcity": 7.0,
+        "markup": 19.3,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "43 upcoming dates (heavy routing)",
+        "est. 1.4-2.5x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvfZ_4GklwNQIm",
+      "name": "Ricky Montgomery - The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-silver-spring-maryland-04-14-2027/event/1500655AF28DAA2E",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery",
+        "Dev Lemons"
+      ],
+      "artist_upcoming": 18,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-04-15T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-15T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-19T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-09T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 70,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 20.9,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.6-2.7x face",
+        "7 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17OZ_4GkRj_0yH",
+      "name": "Ricky Montgomery - The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-detroit-michigan-04-21-2027/event/0800655BDC664E7C",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 18,
+      "venue": "Saint Andrew's Hall",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-21T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-22T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-19T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-16T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 69,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_4GkMU6YcH",
+      "name": "Ricky Montgomery - The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-boston-massachusetts-04-18-2027/event/0100655DF61F0B7C",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 18,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-18T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-19T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-13T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 68,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17FZ_fGkB6xSSD",
+      "name": "Ricky Montgomery - The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-montclair-new-jersey-04-16-2027/event/0200654E878B3CFB",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery",
+        "Dev Lemons"
+      ],
+      "artist_upcoming": 18,
+      "venue": "The Wellmont Theater",
+      "city": "Montclair",
+      "state": "NJ",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-17T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-17T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-11T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 67,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk4fGkdilspl",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-philadelphia-pennsylvania-04-13-2027/event/02006554ECAF15AB",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 18,
+      "venue": "Theatre of Living Arts",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-14T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-14T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-14T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-08T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 67,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_Kh5vZTH",
+      "name": "Will Linley - Could This Be Forever?",
+      "url": "https://www.ticketmaster.com/will-linley-could-this-be-forever-new-york-new-york-04-08-2027/event/00006536CB040FFC",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Will Linley"
+      ],
+      "artist_upcoming": 6,
+      "venue": "Gramercy Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-08T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-09T01:00:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2026-11-10T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Will+Linley",
+      "score": 61,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17FZ_4GkDT0MwT",
+      "name": "LSDREAM: BEE HERE NOW TOUR",
+      "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-philadelphia-pennsylvania-03-12-2027/event/0200655EFF937CBF",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "LSDREAM",
+        "Sippy",
+        "HEADNOX"
+      ],
+      "artist_upcoming": 13,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-13T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-13T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-06T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-05T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=LSDREAM",
+      "score": 60,
+      "score_parts": {
+        "demand": 16.0,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_49DwMQo",
+      "name": "Ricky Montgomery - The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-houston-texas-04-05-2027/event/3A006555FBCB7691",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 18,
+      "venue": "House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-06T00:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-06T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-09T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-31T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 68,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk4aGkdZwy38",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-chicago-illinois-04-25-2027/event/04006549C0CB9490",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 18,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-25T23:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-25T23:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-28T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-04-20T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 68,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4H_XTpK",
+      "name": "Ricky Montgomery",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-dallas-texas-04-06-2027/event/0C00655F19FBF593",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery",
+        "Dev Lemons"
+      ],
+      "artist_upcoming": 18,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-07T00:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-07T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-10T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 68,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_p1NStxC",
+      "name": "LSDREAM: BEE HERE NOW TOUR",
+      "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-new-orleans-louisiana-04-07-2027/event/1B006562A3CE988E",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "LSDREAM",
+        "Sippy",
+        "Ozztin"
+      ],
+      "artist_upcoming": 13,
+      "venue": "The Fillmore New Orleans",
+      "city": "New Orleans",
+      "state": "LA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-04-08T02:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-08T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-31T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Riverbeats Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=LSDREAM",
+      "score": 60,
+      "score_parts": {
+        "demand": 16.0,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv170Z_4GkVvC0yc",
+      "name": "Ricky Montgomery - The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-santa-ana-california-05-11-2027/event/0900655D013A4E6D",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery",
+        "Dev Lemons"
+      ],
+      "artist_upcoming": 18,
+      "venue": "The Observatory",
+      "city": "Santa Ana",
+      "state": "CA",
+      "capacity": 1000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-12T02:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-12T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 68,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 21.6,
+        "markup": 24.5,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,000 cap)",
+        "est. 1.6-2.7x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_4yTqwy9",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-san-diego-california-04-02-2027/event/0A00655E7F772E57",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 18,
+      "venue": "House of Blues San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-03T02:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-04-03T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-06T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 65,
+      "score_parts": {
+        "demand": 17.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 4.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
       ]
     }
   ]
