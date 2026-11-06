@@ -1,4 +1,4 @@
-151 ticket drops scoring 60+ in the next 14 days.
+145 ticket drops scoring 60+ in the next 14 days.
 
   64 - WWE, WWE Survivor Series
   Daikin Park, Houston TX
@@ -10,12 +10,6 @@
   Cross Insurance Center, Bangor ME
   On sale Fri 21 Aug, 8:00 AM (passed)
   Event Fri 6 Nov, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  72 - WWE, WWE Survivor Series
-  Cross Insurance Arena , Portland ME
-  On sale Fri 21 Aug, 8:00 AM (passed)
-  Event Thu 5 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
   72 - WWE, WWE Live
@@ -42,7 +36,7 @@
   Event Mon 7 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  72 - WWE
+  72 - WWE, WWE Monday Night RAW
   Bon Secours Wellness Arena , Greenville SC
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 9 Nov, 5:30 PM
@@ -70,4 +64,10 @@
   INTRUST Bank Arena, Wichita KS
   On sale Fri 11 Sep, 9:00 AM (passed)
   Event Mon 23 Nov, 3:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  72 - WWE
+  Simmons Bank Arena, North Little Rock AR
+  On sale Fri 11 Sep, 9:00 AM (passed)
+  Event Mon 30 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)

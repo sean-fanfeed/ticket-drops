@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-05T20:42:40Z",
-    "generated_local": "Thu 5 Nov, 1:42 PM",
-    "scanned": 834,
-    "surfaced": 151,
-    "new": 0,
+    "generated_utc": "2026-11-06T14:36:43Z",
+    "generated_local": "Fri 6 Nov, 7:36 AM",
+    "scanned": 671,
+    "surfaced": 145,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -213,81 +213,6 @@
         "~10,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "10 presale(s)"
-      ]
-    },
-    {
-      "id": "vv177Z_8GkM4m_ie",
-      "name": "WWE Road To Survivor Series: WarGames",
-      "url": "https://www.ticketmaster.com/wwe-road-to-survivor-series-wargames-portland-maine-11-05-2026/event/0100650DD5B99B02",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE",
-        "WWE Survivor Series"
-      ],
-      "artist_upcoming": 43,
-      "venue": "Cross Insurance Arena ",
-      "city": "Portland",
-      "state": "ME",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2026-11-06T00:30:00Z",
-      "onsale_start": "2026-08-21T14:00:00Z",
-      "onsale_end": "2026-11-06T02:30:00Z",
-      "presales": [
-        {
-          "name": "Presale",
-          "start": "2026-08-20T14:00:00Z",
-          "end": "2026-08-21T03:59:00Z",
-          "url": "",
-          "how": "Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-08-20T14:00:00Z",
-          "end": "2026-08-21T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-08-21T14:00:00Z",
-          "end": "2026-10-30T02:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Money In the Bank Offer",
-          "start": "2026-10-05T14:00:00Z",
-          "end": "2026-10-13T03:59:00Z",
-          "url": "",
-          "how": "Money In the Bank Offer"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 72,
-      "score_parts": {
-        "demand": 35.0,
-        "scarcity": 7.9,
-        "markup": 19.3,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.4,
-        2.45
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "43 upcoming dates (heavy routing)",
-        "~16,000 cap (from venue type)",
-        "est. 1.4-2.5x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -553,7 +478,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Monday Night RAW"
       ],
       "artist_upcoming": 43,
       "venue": "Bon Secours Wellness Arena ",
@@ -2094,276 +2020,6 @@
       ]
     },
     {
-      "id": "k7vGF_4SULIGr",
-      "name": "Man/Woman/Chainsaw",
-      "url": "https://www.ticketmaster.com/manwomanchainsaw-new-york-new-york-02-18-2027/event/0000655CF67E831E",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Man/Woman/Chainsaw"
-      ],
-      "artist_upcoming": 9,
-      "venue": "Bowery Ballroom",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-19T00:00:00Z",
-      "onsale_start": "2026-11-05T15:00:00Z",
-      "onsale_end": "2027-02-19T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-04T15:00:00Z",
-          "end": "2026-11-05T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-04T15:00:00Z",
-          "end": "2026-11-05T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Man%2FWoman%2FChainsaw",
-      "score": 60,
-      "score_parts": {
-        "demand": 14.0,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
-      ]
-    },
-    {
-      "id": "rZ7HnEZ1Af8oCf",
-      "name": "Ekoh: Cloud Cover Tour",
-      "url": "https://www.ticketweb.com/event/ekoh-cloud-cover-tour-club-la-tickets/14411394",
-      "segment": "Music",
-      "genre": "Alternative",
-      "artists": [
-        "Ekoh",
-        "aurorawave"
-      ],
-      "artist_upcoming": 20,
-      "venue": "Club LA",
-      "city": "Destin",
-      "state": "FL",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-23T01:00:00Z",
-      "onsale_start": "2026-11-05T16:00:00Z",
-      "onsale_end": "2027-01-23T03:00:00Z",
-      "presales": [],
-      "price_min": 47.23,
-      "price_max": 59.59,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ekoh",
-      "score": 62,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 22.7,
-        "markup": 15.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": 64,
-      "est_resale_max": 125,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face"
-      ]
-    },
-    {
-      "id": "vvG1HZ_4zy3KxO",
-      "name": "Los Tigres del Norte",
-      "url": "https://www.ticketmaster.com/los-tigres-del-norte-seattle-washington-05-21-2027/event/0F00655E394938A0",
-      "segment": "Music",
-      "genre": "Latin",
-      "artists": [
-        "Los Tigres del Norte"
-      ],
-      "artist_upcoming": 26,
-      "venue": "WAMU Theater",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-22T03:00:00Z",
-      "onsale_start": "2026-11-05T17:00:00Z",
-      "onsale_end": "2027-05-22T03:00:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-04T17:00:00Z",
-          "end": "2026-11-05T06:00:00Z",
-          "url": "",
-          "how": "VIP Package Presale"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-04T17:00:00Z",
-          "end": "2026-11-05T06:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-04T17:00:00Z",
-          "end": "2026-11-05T06:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-05T17:00:00Z",
-          "end": "2027-05-21T00:00:00Z",
-          "url": "",
-          "how": "VIP Package Onsale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Los+Tigres+del+Norte",
-      "score": 67,
-      "score_parts": {
-        "demand": 20.0,
-        "scarcity": 17.7,
-        "markup": 19.3,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.4
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.4x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "k7vGF_pKPvTNq",
-      "name": "Ricky Chilton",
-      "url": "https://www.ticketmaster.com/ricky-chilton-new-york-new-york-03-27-2027/event/00006564E507F8DD",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Ricky Chilton"
-      ],
-      "artist_upcoming": 3,
-      "venue": "Mercury Lounge",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 500,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-28T01:00:00Z",
-      "onsale_start": "2026-11-05T18:00:00Z",
-      "onsale_end": "2027-03-28T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Chilton",
-      "score": 62,
-      "score_parts": {
-        "demand": 8.4,
-        "scarcity": 25.0,
-        "markup": 22.4,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (500 cap)",
-        "~500 cap (from venue type)",
-        "est. 1.5-2.6x face"
-      ]
-    },
-    {
-      "id": "G5vYZ_p1AKA02",
-      "name": "Jesse & Joy's \"El Amor de Mexico\" Tour",
-      "url": "https://www.ticketmaster.com/jesse-joys-el-amor-de-mexico-stockton-california-04-02-2027/event/1C006562854C590F",
-      "segment": "Music",
-      "genre": "Ballads/Romantic",
-      "artists": [
-        "Jesse & Joy"
-      ],
-      "artist_upcoming": 27,
-      "venue": "Bob Hope Theatre",
-      "city": "Stockton",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-03T03:00:00Z",
-      "onsale_start": "2026-11-05T18:00:00Z",
-      "onsale_end": "2027-04-03T05:00:00Z",
-      "presales": [
-        {
-          "name": "Platinum Onsale",
-          "start": "2026-11-05T18:00:00Z",
-          "end": "2027-04-03T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Jesse+%26+Joy",
-      "score": 60,
-      "score_parts": {
-        "demand": 20.3,
-        "scarcity": 17.7,
-        "markup": 12.0,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vv17FZ_4GknX9zDB",
       "name": "Tove Lo - ESTRUS TOUR ",
       "url": "https://www.ticketmaster.com/tove-lo-estrus-tour-philadelphia-pennsylvania-04-26-2027/event/0200655ABE5F8EFA",
@@ -2373,7 +2029,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 22,
       "venue": "The Fillmore Philadelphia",
       "city": "Philadelphia",
       "state": "PA",
@@ -2429,9 +2085,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
-      "score": 75,
+      "score": 74,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.1,
         "scarcity": 20.9,
         "markup": 24.5,
         "timing": 10.0
@@ -2728,7 +2384,7 @@
         "Chain Whip",
         "Gymshorts"
       ],
-      "artist_upcoming": 37,
+      "artist_upcoming": 38,
       "venue": "Paradise Rock Club presented by Citizens",
       "city": "Boston",
       "state": "MA",
@@ -2772,7 +2428,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Chats",
       "score": 70,
       "score_parts": {
-        "demand": 22.1,
+        "demand": 22.3,
         "scarcity": 22.7,
         "markup": 15.1,
         "timing": 10.0
@@ -3162,7 +2818,7 @@
         "Chain Whip",
         "Gymshorts"
       ],
-      "artist_upcoming": 37,
+      "artist_upcoming": 38,
       "venue": "Saint Andrew's Hall",
       "city": "Detroit",
       "state": "MI",
@@ -3213,7 +2869,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Chats",
       "score": 67,
       "score_parts": {
-        "demand": 22.1,
+        "demand": 22.3,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
@@ -3244,7 +2900,7 @@
         "Sully",
         "CHOZEN"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "The Fillmore Philadelphia",
       "city": "Philadelphia",
       "state": "PA",
@@ -3274,7 +2930,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
       "score": 66,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 20.9,
         "markup": 16.1,
         "timing": 10.0
@@ -3305,7 +2961,7 @@
         "Twopercent",
         "CHOZEN"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -3335,7 +2991,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
       "score": 66,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 20.9,
         "markup": 16.1,
         "timing": 10.0
@@ -3538,7 +3194,7 @@
         "Twopercent",
         "CHOZEN"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "Mercury Ballroom",
       "city": "Louisville",
       "state": "KY",
@@ -3582,7 +3238,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
       "score": 66,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 20.7,
         "markup": 16.1,
         "timing": 10.0
@@ -3799,79 +3455,6 @@
         "~800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv17FZ_4GkV1Vshj",
-      "name": "Styx",
-      "url": "https://www.ticketmaster.com/styx-atlantic-city-new-jersey-04-03-2027/event/0200655D0AD316DC",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Styx"
-      ],
-      "artist_upcoming": 21,
-      "venue": "Ovation Hall at Ocean Casino Resort ",
-      "city": "Atlantic City",
-      "state": "NJ",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-04T00:00:00Z",
-      "onsale_start": "2026-11-06T15:00:00Z",
-      "onsale_end": "2027-04-04T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-06T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-06T15:00:00Z",
-          "end": "2027-03-28T02:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Styx",
-      "score": 64,
-      "score_parts": {
-        "demand": 18.8,
-        "scarcity": 19.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -4221,6 +3804,79 @@
       ]
     },
     {
+      "id": "vv17FZ_4GkV1Vshj",
+      "name": "Styx",
+      "url": "https://www.ticketmaster.com/styx-atlantic-city-new-jersey-04-03-2027/event/0200655D0AD316DC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Styx"
+      ],
+      "artist_upcoming": 20,
+      "venue": "Ovation Hall at Ocean Casino Resort ",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-04T00:00:00Z",
+      "onsale_start": "2026-11-06T15:00:00Z",
+      "onsale_end": "2027-04-04T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-03T15:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-05T15:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-03T15:00:00Z",
+          "end": "2026-11-06T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-06T15:00:00Z",
+          "end": "2027-03-28T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Styx",
+      "score": 63,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "k7vGF_p5e9_GO",
       "name": "Power 105.1 Power Sessions",
       "url": "https://www.ticketmaster.com/power-1051-power-sessions-new-york-new-york-12-13-2026/event/00006562C25D9320",
@@ -4512,7 +4168,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 22,
       "venue": "The Anthem",
       "city": "Washington",
       "state": "DC",
@@ -4556,7 +4212,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 62,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.1,
         "scarcity": 12.8,
         "markup": 19.8,
         "timing": 10.0
@@ -4664,7 +4320,7 @@
         "Elder",
         "Blackwater Holylight"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "Spirit Hall",
       "city": "Pittsburgh",
       "state": "PA",
@@ -4687,7 +4343,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Elder",
       "score": 62,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
@@ -5496,7 +5152,7 @@
       "artists": [
         "The Amy Winehouse Band"
       ],
-      "artist_upcoming": 67,
+      "artist_upcoming": 66,
       "venue": "House of Blues Chicago",
       "city": "Chicago",
       "state": "IL",
@@ -5533,7 +5189,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Amy+Winehouse+Band",
       "score": 79,
       "score_parts": {
-        "demand": 25.7,
+        "demand": 25.6,
         "scarcity": 18.2,
         "markup": 25,
         "timing": 10.0
@@ -5547,10 +5203,84 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "67 upcoming dates (heavy routing)",
+        "66 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.8-2.9x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4V7xGXy",
+      "name": "Dexter and The Moonrocks",
+      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-baton-rouge-louisiana-03-05-2027/event/1B00655D0488CFB9",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Dexter and The Moonrocks"
+      ],
+      "artist_upcoming": 49,
+      "venue": "Texas Club",
+      "city": "Baton Rouge",
+      "state": "LA",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T01:30:00Z",
+      "onsale_start": "2026-11-06T16:00:00Z",
+      "onsale_end": "2027-03-06T03:30:00Z",
+      "presales": [
+        {
+          "name": "Chorus Fan Club Presale",
+          "start": "2026-11-02T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "",
+          "how": "CHORUS"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-03T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "",
+          "how": "ARTIST"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-04T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-04T16:00:00Z",
+          "end": "2026-11-05T04:00:00Z",
+          "url": "",
+          "how": "VENUE"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
+      "score": 75,
+      "score_parts": {
+        "demand": 23.8,
+        "scarcity": 22.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "49 upcoming dates (heavy routing)",
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -5563,7 +5293,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 22,
       "venue": "South Side Ballroom",
       "city": "Dallas",
       "state": "TX",
@@ -5607,7 +5337,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 74,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.1,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5637,7 +5367,7 @@
         "Tove Lo",
         "Coco & Clair Clair"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 22,
       "venue": "713 Music Hall",
       "city": "Houston",
       "state": "TX",
@@ -5681,7 +5411,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
       "score": 72,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.1,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5702,76 +5432,63 @@
       ]
     },
     {
-      "id": "G5viZ_4V7xGXy",
+      "id": "G5viZ_4M2fx4i",
       "name": "Dexter and The Moonrocks",
-      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-baton-rouge-louisiana-03-05-2027/event/1B00655D0488CFB9",
+      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-memphis-tennessee-04-12-2027/event/1B00655DCF52256C",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
         "Dexter and The Moonrocks"
       ],
-      "artist_upcoming": 37,
-      "venue": "Texas Club",
-      "city": "Baton Rouge",
-      "state": "LA",
-      "capacity": 800,
+      "artist_upcoming": 49,
+      "venue": "Satellite Music Hall",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": 1800,
       "capacity_source": "venue type",
-      "event_date": "2027-03-06T01:30:00Z",
+      "event_date": "2027-04-13T00:00:00Z",
       "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-03-06T03:30:00Z",
+      "onsale_end": "2027-04-13T02:00:00Z",
       "presales": [
         {
-          "name": "Chorus Fan Club Presale",
-          "start": "2026-11-02T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
-          "url": "",
-          "how": "CHORUS"
-        },
-        {
           "name": "Artist Presale",
-          "start": "2026-11-03T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
+          "start": "2026-11-02T16:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
           "url": "",
-          "how": "ARTIST"
+          "how": ""
         },
         {
           "name": "LIVE NATION PRESALE",
           "start": "2026-11-04T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
+          "end": "2026-11-06T04:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-04T16:00:00Z",
-          "end": "2026-11-05T04:00:00Z",
-          "url": "",
-          "how": "VENUE"
         }
       ],
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
-      "score": 70,
+      "score": 71,
       "score_parts": {
-        "demand": 22.1,
-        "scarcity": 22.7,
-        "markup": 15.1,
+        "demand": 23.8,
+        "scarcity": 18.7,
+        "markup": 18.2,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.45,
+        2.3
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "49 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -5874,7 +5591,7 @@
         "Chain Whip",
         "Gymshorts"
       ],
-      "artist_upcoming": 37,
+      "artist_upcoming": 38,
       "venue": "The Fillmore Minneapolis presented by Affinity Plus",
       "city": "Minneapolis",
       "state": "MN",
@@ -5932,7 +5649,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Chats",
       "score": 68,
       "score_parts": {
-        "demand": 22.1,
+        "demand": 22.3,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -6238,65 +5955,6 @@
       ]
     },
     {
-      "id": "G5viZ_4M2fx4i",
-      "name": "Dexter and The Moonrocks",
-      "url": "https://www.ticketmaster.com/dexter-and-the-moonrocks-memphis-tennessee-04-12-2027/event/1B00655DCF52256C",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Dexter and The Moonrocks"
-      ],
-      "artist_upcoming": 37,
-      "venue": "Satellite Music Hall",
-      "city": "Memphis",
-      "state": "TN",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-13T00:00:00Z",
-      "onsale_start": "2026-11-06T16:00:00Z",
-      "onsale_end": "2027-04-13T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-02T16:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-04T16:00:00Z",
-          "end": "2026-11-06T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dexter+and+The+Moonrocks",
-      "score": 66,
-      "score_parts": {
-        "demand": 22.1,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vvG1YZ_4wSdJ6f",
       "name": "Koe Wetzel",
       "url": "https://www.ticketmaster.com/koe-wetzel-durant-oklahoma-01-29-2027/event/0C00655CB30E61D4",
@@ -6359,7 +6017,7 @@
         "Chain Whip",
         "Gymshorts"
       ],
-      "artist_upcoming": 37,
+      "artist_upcoming": 38,
       "venue": "Madrid Theatre",
       "city": "Kansas City",
       "state": "MO",
@@ -6396,7 +6054,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Chats",
       "score": 65,
       "score_parts": {
-        "demand": 22.1,
+        "demand": 22.3,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -6658,7 +6316,7 @@
         "Sully",
         "Twopercent"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "Uptown Theater Minneapolis",
       "city": "Minneapolis",
       "state": "MN",
@@ -6702,7 +6360,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
       "score": 63,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 17.7,
         "markup": 16.1,
         "timing": 10.0
@@ -6734,7 +6392,7 @@
         "Twopercent",
         "CHOZEN"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "The Joy Theater",
       "city": "New Orleans",
       "state": "LA",
@@ -6764,7 +6422,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
       "score": 63,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 17.7,
         "markup": 16.1,
         "timing": 10.0
@@ -7923,65 +7581,6 @@
       ]
     },
     {
-      "id": "G5vzZ_p3iWNlh",
-      "name": "Tove Lo - ESTRUS TOUR ",
-      "url": "https://www.axs.com/events/1680093/tove-lo-tickets",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Tove Lo",
-        "COBRAH",
-        "Coco & Clair Clair"
-      ],
-      "artist_upcoming": 23,
-      "venue": "Red Rocks Amphitheatre",
-      "city": "Morrison",
-      "state": "CO",
-      "capacity": 9525,
-      "capacity_source": "exact",
-      "event_date": "2027-05-08T01:30:00Z",
-      "onsale_start": "2026-11-06T17:00:00Z",
-      "onsale_end": "2027-05-08T01:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-04T17:00:00Z",
-          "end": "2026-11-06T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local Presales",
-          "start": "2026-11-05T19:00:00Z",
-          "end": "2026-11-06T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Tove+Lo",
-      "score": 60,
-      "score_parts": {
-        "demand": 19.3,
-        "scarcity": 10.5,
-        "markup": 19.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.4
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "est. 1.5-2.4x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv170Z_4GkBSGnqS",
       "name": "Boy Throb's Real Tour",
       "url": "https://www.ticketmaster.com/boy-throbs-real-tour-los-angeles-california-04-02-2027/event/0900655EB332A773",
@@ -8136,7 +7735,7 @@
         "Liquid Stranger",
         "Sully"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 22,
       "venue": "WAMU Theater",
       "city": "Seattle",
       "state": "WA",
@@ -8173,7 +7772,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Liquid+Stranger",
       "score": 63,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.1,
         "scarcity": 17.7,
         "markup": 16.1,
         "timing": 10.0
@@ -8190,6 +7789,71 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.2x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AaZk49Gkd9Oa0S",
+      "name": "King Gnu",
+      "url": "https://www.ticketmaster.com/king-gnu-los-angeles-california-03-26-2027/event/09006557D7809933",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "King Gnu"
+      ],
+      "artist_upcoming": 3,
+      "venue": "The Wiltern",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1850,
+      "capacity_source": "exact",
+      "event_date": "2027-03-27T01:30:00Z",
+      "onsale_start": "2026-11-06T18:00:00Z",
+      "onsale_end": "2027-03-27T04:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-04T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-06T18:00:00Z",
+          "end": "2027-03-06T06:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=King+Gnu",
+      "score": 62,
+      "score_parts": {
+        "demand": 8.4,
+        "scarcity": 18.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,850 cap)",
+        "est. 1.6-2.7x face",
         "3 presale(s)"
       ]
     },
@@ -8336,7 +8000,7 @@
       "artists": [
         "Jack Johnson"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 23,
       "venue": "Encore Theater at Wynn Las Vegas",
       "city": "Las Vegas",
       "state": "NV",
@@ -8387,7 +8051,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jack+Johnson",
       "score": 62,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 19.3,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8416,7 +8080,7 @@
       "artists": [
         "Jack Johnson"
       ],
-      "artist_upcoming": 22,
+      "artist_upcoming": 23,
       "venue": "Encore Theater at Wynn Las Vegas",
       "city": "Las Vegas",
       "state": "NV",
@@ -8467,7 +8131,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Jack+Johnson",
       "score": 62,
       "score_parts": {
-        "demand": 19.1,
+        "demand": 19.3,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8810,6 +8474,73 @@
       ]
     },
     {
+      "id": "vv1AaZk4xGkd2I5EF",
+      "name": " galdive & rum.gold: A Friend Tour: A Friend Tour",
+      "url": "https://www.ticketmaster.com/galdive-rumgold-a-friend-tour-a-los-angeles-california-02-06-2027/event/09006562CFA0B9C8",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Galdive",
+        "rum.gold"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Teragram Ballroom",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-07T03:00:00Z",
+      "onsale_start": "2026-11-06T18:00:00Z",
+      "onsale_end": "2027-02-07T05:00:00Z",
+      "presales": [
+        {
+          "name": "Rum.gold Artist Presale:",
+          "start": "2026-11-04T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Rum.gold Artist Presale:"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-05T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Galdive Artist Presale",
+          "start": "2026-11-04T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": "Galdive Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Galdive",
+      "score": 61,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1IZ_4Bk4Kho",
       "name": "Punchis! Punchis! Banda Rave (18+ w/ID)",
       "url": "https://www.ticketmaster.com/punchis-punchis-banda-rave-18-wid-san-diego-california-12-18-2026/event/0A00655E865536D1",
@@ -8926,205 +8657,6 @@
       ]
     },
     {
-      "id": "vv1AaZk4xGkd2I5EF",
-      "name": " galdive & rum.gold: A Friend Tour: A Friend Tour",
-      "url": "https://www.ticketmaster.com/galdive-rumgold-a-friend-tour-a-los-angeles-california-02-06-2027/event/09006562CFA0B9C8",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Galdive",
-        "rum.gold"
-      ],
-      "artist_upcoming": 9,
-      "venue": "Teragram Ballroom",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-07T03:00:00Z",
-      "onsale_start": "2026-11-06T18:00:00Z",
-      "onsale_end": "2027-02-07T05:00:00Z",
-      "presales": [
-        {
-          "name": "Rum.gold Artist Presale:",
-          "start": "2026-11-04T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "",
-          "how": "Rum.gold Artist Presale:"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "Galdive Artist Presale",
-          "start": "2026-11-04T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "",
-          "how": "Galdive Artist Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Galdive",
-      "score": 61,
-      "score_parts": {
-        "demand": 14.0,
-        "scarcity": 20.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1IZ_4VceGCi",
-      "name": "Conjunto Primavera",
-      "url": "https://www.ticketmaster.com/conjunto-primavera-inglewood-california-02-19-2027/event/0A00655D2D08C3AC",
-      "segment": "Music",
-      "genre": "Latin",
-      "artists": [
-        "Conjunto Primavera",
-        "Montez De Durango"
-      ],
-      "artist_upcoming": 7,
-      "venue": "YouTube Theater",
-      "city": "Inglewood",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-20T04:00:00Z",
-      "onsale_start": "2026-11-06T18:00:00Z",
-      "onsale_end": "2027-02-20T05:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-05T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-05T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Conjunto+Primavera",
-      "score": 60,
-      "score_parts": {
-        "demand": 12.6,
-        "scarcity": 17.7,
-        "markup": 19.3,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.4
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.4x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AaZk49Gkd9Oa0S",
-      "name": "King Gnu",
-      "url": "https://www.ticketmaster.com/king-gnu-los-angeles-california-03-26-2027/event/09006557D7809933",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "King Gnu"
-      ],
-      "artist_upcoming": 2,
-      "venue": "The Wiltern",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 1850,
-      "capacity_source": "exact",
-      "event_date": "2027-03-27T01:30:00Z",
-      "onsale_start": "2026-11-06T18:00:00Z",
-      "onsale_end": "2027-03-27T04:30:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-05T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-04T18:00:00Z",
-          "end": "2026-11-06T06:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-06T18:00:00Z",
-          "end": "2027-03-06T06:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=King+Gnu",
-      "score": 60,
-      "score_parts": {
-        "demand": 6.7,
-        "scarcity": 18.6,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,850 cap)",
-        "est. 1.6-2.7x face",
-        "3 presale(s)"
-      ]
-    },
-    {
       "id": "vv170Z_4GkVuiMAf",
       "name": "Pepper",
       "url": "https://www.ticketmaster.com/pepper-anaheim-california-01-16-2027/event/0900655D0DB37154",
@@ -9195,6 +8727,73 @@
         "small room (2,000 cap)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_4VceGCi",
+      "name": "Conjunto Primavera",
+      "url": "https://www.ticketmaster.com/conjunto-primavera-inglewood-california-02-19-2027/event/0A00655D2D08C3AC",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Conjunto Primavera",
+        "Montez De Durango"
+      ],
+      "artist_upcoming": 7,
+      "venue": "YouTube Theater",
+      "city": "Inglewood",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-20T04:00:00Z",
+      "onsale_start": "2026-11-06T18:00:00Z",
+      "onsale_end": "2027-02-20T05:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-05T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-05T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-05T18:00:00Z",
+          "end": "2026-11-06T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conjunto+Primavera",
+      "score": 60,
+      "score_parts": {
+        "demand": 12.6,
+        "scarcity": 17.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -9606,8 +9205,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Friday Night SmackDown"
+        "WWE"
       ],
       "artist_upcoming": 43,
       "venue": "FedExForum",
@@ -9805,6 +9403,96 @@
         "43 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AFZk4PGkdF_fBN",
+      "name": "Kings of Leon",
+      "url": "https://www.ticketmaster.com/kings-of-leon-clarkston-michigan-05-23-2027/event/08006565C8654EA3",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Kings of Leon",
+        "Band of Horses",
+        "Dexter and The Moonrocks"
+      ],
+      "artist_upcoming": 49,
+      "venue": "Pine Knob Music Theatre",
+      "city": "Clarkston",
+      "state": "MI",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-23T23:30:00Z",
+      "onsale_start": "2026-11-13T14:00:00Z",
+      "onsale_end": "2027-05-23T23:30:00Z",
+      "presales": [
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-11-09T14:00:00Z",
+          "end": "2026-11-10T13:00:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T14:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T14:00:00Z",
+          "end": "2027-04-26T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T14:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T14:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Support Presale",
+          "start": "2026-11-11T14:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Support Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Kings+of+Leon",
+      "score": 67,
+      "score_parts": {
+        "demand": 23.8,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "49 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -10758,6 +10446,20 @@
           "end": "2026-11-13T07:59:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-05-07T00:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -10781,7 +10483,7 @@
       "reasons": [
         "small room (1,000 cap)",
         "est. 1.6-2.7x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -10830,6 +10532,20 @@
           "end": "2026-11-13T07:59:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-29T00:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -10853,7 +10569,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
-        "4 presale(s)"
+        "6 presale(s)"
       ]
     }
   ]
