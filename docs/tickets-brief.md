@@ -1,4 +1,4 @@
-145 ticket drops scoring 60+ in the next 14 days.
+174 ticket drops scoring 60+ in the next 14 days.
 
   64 - WWE, WWE Survivor Series
   Daikin Park, Houston TX
@@ -30,13 +30,13 @@
   Event Mon 16 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  74 - WWE
+  74 - WWE, WWE Monday Night RAW
   Huntington Center, Toledo OH
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 7 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  72 - WWE, WWE Monday Night RAW
+  72 - WWE
   Bon Secours Wellness Arena , Greenville SC
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 9 Nov, 5:30 PM
