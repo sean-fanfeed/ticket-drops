@@ -1,4 +1,4 @@
-65 ticket drops scoring 60+ in the next 14 days.
+58 ticket drops scoring 60+ in the next 14 days.
 
   64 - WWE, WWE Survivor Series
   Daikin Park, Houston TX
