@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-11-07T13:32:19Z",
-    "generated_local": "Sat 7 Nov, 6:32 AM",
-    "scanned": 306,
+    "generated_utc": "2026-11-07T15:54:00Z",
+    "generated_local": "Sat 7 Nov, 8:54 AM",
+    "scanned": 310,
     "surfaced": 65,
     "new": 0,
     "threshold": 60,
@@ -2765,12 +2765,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 69,
+      "score": 72,
       "score_parts": {
         "demand": 34.9,
         "scarcity": 7.9,
         "markup": 19.3,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
@@ -2832,12 +2832,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 61,
+      "score": 64,
       "score_parts": {
         "demand": 34.9,
         "scarcity": 0.0,
         "markup": 19.3,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": true,
