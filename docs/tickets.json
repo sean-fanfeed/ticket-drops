@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-11-07T18:05:20Z",
-    "generated_local": "Sat 7 Nov, 11:05 AM",
-    "scanned": 329,
+    "generated_utc": "2026-11-08T13:51:29Z",
+    "generated_local": "Sun 8 Nov, 6:51 AM",
+    "scanned": 325,
     "surfaced": 65,
     "new": 0,
     "threshold": 60,
@@ -2128,7 +2128,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 237,
+      "artist_upcoming": 236,
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
@@ -2193,7 +2193,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "237 upcoming dates (heavy routing)",
+        "236 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -2208,7 +2208,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 237,
+      "artist_upcoming": 236,
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
@@ -2273,7 +2273,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "237 upcoming dates (heavy routing)",
+        "236 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -2288,7 +2288,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 237,
+      "artist_upcoming": 236,
       "venue": "MVP Arena",
       "city": "Albany",
       "state": "NY",
@@ -2353,7 +2353,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "237 upcoming dates (heavy routing)",
+        "236 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -2368,7 +2368,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 237,
+      "artist_upcoming": 236,
       "venue": "Macon Coliseum",
       "city": "Macon",
       "state": "GA",
@@ -2433,7 +2433,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "237 upcoming dates (heavy routing)",
+        "236 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -2448,7 +2448,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 237,
+      "artist_upcoming": 236,
       "venue": "Macon Coliseum",
       "city": "Macon",
       "state": "GA",
@@ -2513,7 +2513,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "237 upcoming dates (heavy routing)",
+        "236 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -2528,7 +2528,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 237,
+      "artist_upcoming": 236,
       "venue": "Macon Coliseum",
       "city": "Macon",
       "state": "GA",
@@ -2593,7 +2593,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "237 upcoming dates (heavy routing)",
+        "236 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -2608,7 +2608,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 237,
+      "artist_upcoming": 236,
       "venue": "Macon Coliseum",
       "city": "Macon",
       "state": "GA",
@@ -2673,7 +2673,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "237 upcoming dates (heavy routing)",
+        "236 upcoming dates (heavy routing)",
         "~15,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "5 presale(s)"
@@ -4742,7 +4742,7 @@
         {
           "name": "Verizon Shine Select Seats",
           "start": "2026-11-13T17:00:00Z",
-          "end": "2027-04-20T04:00:00Z",
+          "end": "2027-03-24T04:00:00Z",
           "url": "",
           "how": "For Verizon Shine Members"
         },
