@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-09T20:01:49Z",
-    "generated_local": "Mon 9 Nov, 1:01 PM",
-    "scanned": 754,
+    "generated_utc": "2026-11-09T21:36:47Z",
+    "generated_local": "Mon 9 Nov, 2:36 PM",
+    "scanned": 772,
     "surfaced": 137,
-    "new": 25,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3598,14 +3598,14 @@
           "start": "2026-11-10T18:00:00Z",
           "end": "2026-11-11T06:00:00Z",
           "url": "",
-          "how": ""
+          "how": "WWE is offering VIP Packages for this event."
         },
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-11T18:00:00Z",
           "end": "2027-02-02T06:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -4078,7 +4078,7 @@
     },
     {
       "id": "vvG1zZ_4RQ6HnQ",
-      "name": "The Voice Of Whitney: A Symphonic Cinematic Celebration",
+      "name": "The Voice Of Whitney: A Symphonic Cinematic Celebration With The ASO",
       "url": "https://www.ticketmaster.com/the-voice-of-whitney-a-symphonic-atlanta-georgia-02-05-2027/event/0E00655BDA1FCA9A",
       "segment": "Music",
       "genre": "Pop",
@@ -4788,6 +4788,20 @@
           "end": "2026-11-13T03:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-12T14:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-15T03:59:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -4811,7 +4825,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
-        "2 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -5569,9 +5583,9 @@
       "state": "DC",
       "capacity": 1200,
       "capacity_source": "exact",
-      "event_date": "2027-03-07T00:00:00Z",
+      "event_date": "2027-03-06T23:30:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-07T02:00:00Z",
+      "onsale_end": "2027-03-07T01:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -8902,7 +8916,7 @@
           "how": "Available exclusively to Live Nation All Access members"
         },
         {
-          "name": "Verified Strays Fanclub Presale",
+          "name": "Verified Strays Presale",
           "start": "2026-11-10T21:00:00Z",
           "end": "2026-11-13T06:00:00Z",
           "url": "",
