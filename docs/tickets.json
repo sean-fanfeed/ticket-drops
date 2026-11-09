@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-11-09T22:41:14Z",
-    "generated_local": "Mon 9 Nov, 3:41 PM",
-    "scanned": 779,
+    "generated_utc": "2026-11-09T23:01:11Z",
+    "generated_local": "Mon 9 Nov, 4:01 PM",
+    "scanned": 781,
     "surfaced": 137,
     "new": 0,
     "threshold": 60,
@@ -8902,13 +8902,6 @@
           "how": ""
         },
         {
-          "name": "Preferred Seating Presale",
-          "start": "2026-11-10T08:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
           "name": "LIVE NATION PRESALE",
           "start": "2026-11-12T18:00:00Z",
           "end": "2026-11-13T06:00:00Z",
@@ -8952,7 +8945,7 @@
         "43 upcoming dates (heavy routing)",
         "~14,000 cap (from venue type)",
         "est. 1.5-2.5x face",
-        "6 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
