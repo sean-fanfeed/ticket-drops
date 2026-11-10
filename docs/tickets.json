@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-10T18:47:54Z",
-    "generated_local": "Tue 10 Nov, 11:47 AM",
+    "generated_utc": "2026-11-10T19:59:15Z",
+    "generated_local": "Tue 10 Nov, 12:59 PM",
     "scanned": 1297,
     "surfaced": 235,
-    "new": 11,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3262,7 +3262,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Friday Night SmackDown"
       ],
       "artist_upcoming": 42,
       "venue": "FedExForum",
@@ -6395,6 +6396,65 @@
       ]
     },
     {
+      "id": "k7vGF_Kh5vZTH",
+      "name": "Will Linley - Could This Be Forever?",
+      "url": "https://www.ticketmaster.com/will-linley-could-this-be-forever-new-york-new-york-04-08-2027/event/00006536CB040FFC",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Will Linley"
+      ],
+      "artist_upcoming": 8,
+      "venue": "Gramercy Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-08T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-09T01:00:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-10-30T15:00:00Z",
+          "end": "2026-11-10T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Will+Linley",
+      "score": 66,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_p1gx50S",
       "name": "Steep Canyon Rangers",
       "url": "https://www.ticketmaster.com/steep-canyon-rangers-chattanooga-tennessee-02-12-2027/event/1B006562B588B933",
@@ -6825,65 +6885,6 @@
       ]
     },
     {
-      "id": "k7vGF_Kh5vZTH",
-      "name": "Will Linley - Could This Be Forever?",
-      "url": "https://www.ticketmaster.com/will-linley-could-this-be-forever-new-york-new-york-04-08-2027/event/00006536CB040FFC",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Will Linley"
-      ],
-      "artist_upcoming": 7,
-      "venue": "Gramercy Theatre",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-08T23:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-09T01:00:00Z",
-      "presales": [
-        {
-          "name": "Presale",
-          "start": "2026-10-30T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Will+Linley",
-      "score": 65,
-      "score_parts": {
-        "demand": 12.6,
-        "scarcity": 17.7,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AvZk40GkeYFzRE",
       "name": "Midnight Generation - Rooted Tour 2027",
       "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-boston-massachusetts-05-03-2027/event/01006564B0238BE7",
@@ -7253,8 +7254,8 @@
     },
     {
       "id": "1ApZk4JGkdpsGhe",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-mckees-rocks-pennsylvania-01-20-2027/event/16006566D6C4C6C2",
+      "name": "Grace Potter & The Trespassers, with Pokey LaFarge The Trespasser Tour",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-pokey-mckees-rocks-pennsylvania-01-20-2027/event/16006566D6C4C6C2",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -8788,6 +8789,20 @@
           "end": "2026-11-13T03:00:00Z",
           "url": "",
           "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-11T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -8812,7 +8827,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face",
-        "1 presale(s)"
+        "3 presale(s)"
       ]
     },
     {
@@ -13441,6 +13456,13 @@
           "end": "2026-11-13T05:00:00Z",
           "url": "",
           "how": "Venue Presale"
+        },
+        {
+          "name": "TMNTX Offer",
+          "start": "2026-11-27T17:00:00Z",
+          "end": "2027-01-01T05:00:00Z",
+          "url": "",
+          "how": "TMNTX Offer"
         }
       ],
       "price_min": null,
@@ -13465,7 +13487,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
-        "3 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -14391,7 +14413,7 @@
           "start": "2026-11-11T18:00:00Z",
           "end": "2026-11-13T06:00:00Z",
           "url": "",
-          "how": ""
+          "how": "The tour is offering VIP Packages for this event."
         },
         {
           "name": "LIVE NATION PRESALE",
@@ -14412,7 +14434,7 @@
           "start": "2026-11-13T18:00:00Z",
           "end": "2027-03-05T06:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -14982,6 +15004,20 @@
           "end": "2026-11-13T06:00:00Z",
           "url": "",
           "how": "Artist Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-04T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -15006,7 +15042,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "2 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -16022,7 +16058,7 @@
       "artists": [
         "Trampled By Turtles"
       ],
-      "artist_upcoming": 16,
+      "artist_upcoming": 17,
       "venue": "The Observatory",
       "city": "Santa Ana",
       "state": "CA",
@@ -16059,7 +16095,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Trampled+By+Turtles",
       "score": 60,
       "score_parts": {
-        "demand": 17.2,
+        "demand": 17.6,
         "scarcity": 21.6,
         "markup": 10.9,
         "timing": 10.0
