@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-10T15:14:09Z",
-    "generated_local": "Tue 10 Nov, 8:14 AM",
-    "scanned": 1017,
-    "surfaced": 184,
-    "new": 53,
+    "generated_utc": "2026-11-10T17:16:20Z",
+    "generated_local": "Tue 10 Nov, 10:16 AM",
+    "scanned": 1167,
+    "surfaced": 226,
+    "new": 46,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -1305,6 +1305,13 @@
           "end": "2026-11-02T04:59:00Z",
           "url": "",
           "how": "Very Nice, Very Evil Ticket Treat"
+        },
+        {
+          "name": "TM Holiday Offer",
+          "start": "2026-11-27T05:00:00Z",
+          "end": "2026-12-30T04:59:00Z",
+          "url": "",
+          "how": "TM Holiday Offer"
         }
       ],
       "price_min": null,
@@ -1330,7 +1337,7 @@
         "42 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "6 presale(s)"
+        "7 presale(s)"
       ]
     },
     {
@@ -2660,33 +2667,42 @@
       ]
     },
     {
-      "id": "rZ7HnEZ1Af8-bf",
-      "name": "MIDNIGHT GENERATION - \u200b\u200b\u200b\u200b\u200b\u200b\u200bROOTED TOUR 2027",
-      "url": "https://www.ticketweb.com/event/midnight-generation-rooted-crescent-ballroom-tickets/14421614",
+      "id": "17A8v0G65F4Ejtr",
+      "name": "SiM - HOOMAN WORLD TOUR",
+      "url": "https://www.ticketmaster.com/sim-hooman-world-tour-silver-spring-maryland-05-06-2027/event/150064B2159DCA5E",
       "segment": "Music",
-      "genre": "World",
+      "genre": "Metal",
       "artists": [
-        "Midnight Generation"
+        "SiM",
+        "aurorawave"
       ],
-      "artist_upcoming": 31,
-      "venue": "Crescent Ballroom",
-      "city": "Phoenix",
-      "state": "AZ",
-      "capacity": 550,
+      "artist_upcoming": 35,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
       "capacity_source": "exact",
-      "event_date": "2027-05-24T02:30:00Z",
+      "event_date": "2027-05-06T23:30:00Z",
       "onsale_start": "2026-11-10T17:00:00Z",
-      "onsale_end": "2027-05-24T04:30:00Z",
-      "presales": [],
-      "price_min": 0.0,
-      "price_max": 0.0,
-      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
-      "score": 64,
+      "onsale_end": "2027-05-07T01:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2027-04-10T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=SiM",
+      "score": 65,
       "score_parts": {
-        "demand": 21.1,
-        "scarcity": 24.5,
+        "demand": 21.8,
+        "scarcity": 20.9,
         "markup": 12.0,
-        "timing": 6.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -2697,7 +2713,8 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (550 cap)"
+        "small room (1,150 cap)",
+        "1 presale(s)"
       ]
     },
     {
@@ -3294,47 +3311,6 @@
       ]
     },
     {
-      "id": "rZ7HnEZ1Af8tff",
-      "name": "NOAH RINKER",
-      "url": "https://www.ticketweb.com/event/noah-rinker-crescent-ballroom-tickets/14429514",
-      "segment": "Music",
-      "genre": "Other",
-      "artists": [
-        "Noah Rinker"
-      ],
-      "artist_upcoming": 19,
-      "venue": "Crescent Ballroom",
-      "city": "Phoenix",
-      "state": "AZ",
-      "capacity": 550,
-      "capacity_source": "exact",
-      "event_date": "2027-03-23T02:30:00Z",
-      "onsale_start": "2026-11-11T17:00:00Z",
-      "onsale_end": "2027-03-23T04:30:00Z",
-      "presales": [],
-      "price_min": 0.0,
-      "price_max": 0.0,
-      "seatgeek_url": "https://seatgeek.com/search?search=Noah+Rinker",
-      "score": 61,
-      "score_parts": {
-        "demand": 18.2,
-        "scarcity": 24.5,
-        "markup": 12.0,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (550 cap)"
-      ]
-    },
-    {
       "id": "vv170Z_4GkwBUq4w",
       "name": "WWE Monday Night RAW",
       "url": "https://www.ticketmaster.com/wwe-monday-night-raw-anaheim-california-02-08-2027/event/0900655CBAD9D572",
@@ -3608,7 +3584,7 @@
       "artists": [
         "Earlybirds Club"
       ],
-      "artist_upcoming": 17,
+      "artist_upcoming": 18,
       "venue": "9:30 CLUB",
       "city": "Washington",
       "state": "DC",
@@ -3621,9 +3597,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Earlybirds+Club",
-      "score": 60,
+      "score": 61,
       "score_parts": {
-        "demand": 17.6,
+        "demand": 17.9,
         "scarcity": 20.7,
         "markup": 16.1,
         "timing": 6.0
@@ -3698,50 +3674,6 @@
         "~1,200 cap (from venue type)",
         "est. 1.6-2.7x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "rZ7HnEZ1Af8-F7",
-      "name": "Getdown Services with Antony Szmierek",
-      "url": "https://www.ticketweb.com/event/getdown-services-with-antony-szmierek-thalia-hall-tickets/14421204",
-      "segment": "Music",
-      "genre": "Alternative",
-      "artists": [
-        "Getdown Services",
-        "Antony Szmierek"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Thalia Hall",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-05T01:00:00Z",
-      "onsale_start": "2026-11-12T16:00:00Z",
-      "onsale_end": "2027-05-05T01:00:00Z",
-      "presales": [],
-      "price_min": 0.0,
-      "price_max": 0.0,
-      "seatgeek_url": "https://seatgeek.com/search?search=Getdown+Services",
-      "score": 60,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 19.6,
-        "markup": 15.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -4002,7 +3934,7 @@
       "artists": [
         "The Amy Winehouse Band"
       ],
-      "artist_upcoming": 64,
+      "artist_upcoming": 65,
       "venue": "Lexington Opera House",
       "city": "Lexington",
       "state": "KY",
@@ -4032,7 +3964,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Amy+Winehouse+Band",
       "score": 78,
       "score_parts": {
-        "demand": 25.4,
+        "demand": 25.5,
         "scarcity": 17.1,
         "markup": 25,
         "timing": 10.0
@@ -4046,7 +3978,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "64 upcoming dates (heavy routing)",
+        "65 upcoming dates (heavy routing)",
         "small room (2,500 cap)",
         "~2,500 cap (from venue type)",
         "est. 1.8-2.9x face",
@@ -4063,7 +3995,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "9:30 CLUB",
       "city": "Washington",
       "state": "DC",
@@ -4086,7 +4018,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 75,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -4115,7 +4047,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "Mercury Ballroom",
       "city": "Louisville",
       "state": "KY",
@@ -4152,7 +4084,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 75,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 20.7,
         "markup": 24.5,
         "timing": 10.0
@@ -4275,7 +4207,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "Saint Andrew's Hall",
       "city": "Detroit",
       "state": "MI",
@@ -4319,7 +4251,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 74,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 19.6,
         "markup": 24.5,
         "timing": 10.0
@@ -4341,7 +4273,7 @@
     },
     {
       "id": "vv1AvZk4xGkdSA3R_",
-      "name": "The Funeral Portrait: A Hex On The Nation",
+      "name": "The Funeral Portrait - A Hex On The Nation",
       "url": "https://www.ticketmaster.com/the-funeral-portrait-a-hex-on-boston-massachusetts-03-11-2027/event/01006562F3152BD9",
       "segment": "Music",
       "genre": "Rock",
@@ -4528,7 +4460,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "The Charleston Music Hall",
       "city": "Charleston",
       "state": "SC",
@@ -4558,7 +4490,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 73,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -4761,7 +4693,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "Citizens House of Blues Boston",
       "city": "Boston",
       "state": "MA",
@@ -4798,7 +4730,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 72,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 10.0
@@ -4827,7 +4759,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "Buckhead Theatre by SCANA Energy",
       "city": "Atlanta",
       "state": "GA",
@@ -4871,7 +4803,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 72,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -5506,6 +5438,65 @@
       ]
     },
     {
+      "id": "vv1AAZk40GkeyJIhN",
+      "name": "Clint Black: Number 1s Live On Tour",
+      "url": "https://www.ticketmaster.com/clint-black-number-1s-live-on-akron-ohio-02-12-2027/event/05006564B99A86E3",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Clint Black"
+      ],
+      "artist_upcoming": 20,
+      "venue": "Goodyear Theater",
+      "city": "Akron",
+      "state": "OH",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-13T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-13T00:30:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Clint+Black",
+      "score": 69,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv1a8vP_oqKAzvC",
       "name": "One Night of Queen",
       "url": "https://www.ticketmaster.com/one-night-of-queen-hampton-beach-new-hampshire-04-16-2027/event/010065651753178D",
@@ -5617,6 +5608,126 @@
       ]
     },
     {
+      "id": "vvG1VZ_p9ckWtG",
+      "name": "Lyle Lovett and Hayes Carll - Together On Stage",
+      "url": "https://www.ticketmaster.com/lyle-lovett-and-hayes-carll-together-ft-lauderdale-florida-02-06-2027/event/0D006565ED1BDA4C",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Lyle Lovett",
+        "Hayes Carll"
+      ],
+      "artist_upcoming": 14,
+      "venue": "Wells Hall at The Parker",
+      "city": "Ft Lauderdale",
+      "state": "FL",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-07T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-07T00:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-14T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "AEG Presale",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-14T03:00:00Z",
+          "url": "",
+          "how": "AEG Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Lyle+Lovett",
+      "score": 68,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 19.6,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_pCx2b4Z",
+      "name": "Lyle Lovett and Hayes Carll - Together On Stage",
+      "url": "https://www.ticketmaster.com/lyle-lovett-and-hayes-carll-together-charleston-south-carolina-02-16-2027/event/2D006563A23D8540",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Lyle Lovett",
+        "Hayes Carll"
+      ],
+      "artist_upcoming": 14,
+      "venue": "The Charleston Music Hall",
+      "city": "Charleston",
+      "state": "SC",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-17T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-17T03:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Lyle+Lovett",
+      "score": 68,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 18.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AOvP__GA5qAW1",
       "name": "Dashboard Confessional - Unplugged 25th Anniversary",
       "url": "https://www.ticketmaster.com/dashboard-confessional-unplugged-25th-anniversary-philadelphia-pennsylvania-03-21-2027/event/020065659B745F4A",
@@ -5689,66 +5800,6 @@
       ]
     },
     {
-      "id": "vvG1VZ_p9ckWtG",
-      "name": "Lyle Lovett and Hayes Carll - Together On Stage",
-      "url": "https://www.ticketmaster.com/lyle-lovett-and-hayes-carll-together-ft-lauderdale-florida-02-06-2027/event/0D006565ED1BDA4C",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Lyle Lovett",
-        "Hayes Carll"
-      ],
-      "artist_upcoming": 11,
-      "venue": "Wells Hall at The Parker",
-      "city": "Ft Lauderdale",
-      "state": "FL",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-07T00:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-02-07T00:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-14T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "AEG Presale",
-          "start": "2026-11-12T17:00:00Z",
-          "end": "2026-11-14T03:00:00Z",
-          "url": "",
-          "how": "AEG Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Lyle+Lovett",
-      "score": 67,
-      "score_parts": {
-        "demand": 15.1,
-        "scarcity": 19.6,
-        "markup": 22.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.5-2.6x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv17fZ_4GkmSqfDr",
       "name": "Lee Brice : Live",
       "url": "https://www.ticketmaster.com/lee-brice-live-french-lick-indiana-02-13-2027/event/0500655BB3754EDE",
@@ -5757,7 +5808,7 @@
       "artists": [
         "Lee Brice"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "The Exhibition Hall at French Lick Resort",
       "city": "French Lick",
       "state": "IN",
@@ -5787,7 +5838,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Lee+Brice",
       "score": 67,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 19.6,
         "markup": 22.4,
         "timing": 10.0
@@ -5871,6 +5922,66 @@
         "~1,500 cap (from venue type)",
         "est. 1.5-2.6x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_pEIdRCc",
+      "name": "Lyle Lovett and Hayes Carll - Together On Stage",
+      "url": "https://tickets.carolinatheatre.org/websales/pages/info.aspx?evtinfo=1046036~05de892e-fe79-4e77-8f75-9f03e89f9235&",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Lyle Lovett",
+        "Hayes Carll"
+      ],
+      "artist_upcoming": 14,
+      "venue": "Carolina Theatre - Durham",
+      "city": "Durham",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-12T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-12T01:00:00Z",
+      "presales": [
+        {
+          "name": "Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Live Nation Presale",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Lyle+Lovett",
+      "score": 67,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -5986,6 +6097,20 @@
           "end": "2026-11-13T03:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-28T04:59:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -6010,7 +6135,7 @@
         "small room (800 cap)",
         "~800 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -6064,6 +6189,82 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.1x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AFZk4JGkemp0h4",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-detroit-michigan-03-19-2027/event/08006566AE5A46D5",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Saint Andrew's Hall",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-19T22:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-20T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-17T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 66,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -6232,13 +6433,6 @@
           "how": ""
         },
         {
-          "name": "Aisle Seat Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
           "name": "LIVE NATION PRESALE",
           "start": "2026-11-12T17:00:00Z",
           "end": "2026-11-13T03:00:00Z",
@@ -6251,6 +6445,13 @@
           "end": "2026-11-13T03:00:00Z",
           "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
           "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Packages",
+          "start": "2026-11-12T14:00:00Z",
+          "end": "2027-05-25T20:00:00Z",
+          "url": "",
+          "how": "VIP Packages"
         }
       ],
       "price_min": null,
@@ -6276,6 +6477,86 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4PGkd0q4Bh",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-boston-massachusetts-01-16-2027/event/01006565E4755E9B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-16T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-17T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-10T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 65,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 18.2,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -6556,6 +6837,161 @@
       ]
     },
     {
+      "id": "1ApZk4JGkegT_ia",
+      "name": "Fox N' Vead Featuring Rob Langdon",
+      "url": "https://www.ticketmaster.com/fox-n-vead-featuring-rob-langdon-louisville-kentucky-02-12-2027/event/16006566B5FD9B09",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Fox N' Vead",
+        "Rob Langdon"
+      ],
+      "artist_upcoming": 6,
+      "venue": "Mercury Ballroom",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-13T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-13T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-12T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Fox+N%27+Vead",
+      "score": 65,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 20.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk4JGkdhzTfh",
+      "name": "Grace Potter & The Trespassers, with Pokey LaFarge",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-pokey-hershey-pennsylvania-01-27-2027/event/02006566DBE3F51B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Hershey Theatre",
+      "city": "Hershey",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-28T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-28T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "SLP Concerts Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-21T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
+      ]
+    },
+    {
       "id": "1AvfZ_4Gkw440du",
       "name": "Silversun Pickups - Tenterhooks Tour",
       "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-washington-district-of-columbia-03-06-2027/event/1500655C955640CD",
@@ -6617,6 +7053,140 @@
       "est_resale_max": null,
       "reasons": [
         "small room (1,200 cap)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk4IGkdfr9ax",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-cincinnati-ohio-02-06-2027/event/16006568D4797262",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Taft Theatre",
+      "city": "Cincinnati",
+      "state": "OH",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-07T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-07T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Artist"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-31T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk4JGkdpsGhe",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-mckees-rocks-pennsylvania-01-20-2027/event/16006566D6C4C6C2",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Roxian Theatre Presented By Citizens",
+      "city": "McKees Rocks",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-20T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-21T01:30:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
       ]
@@ -6695,6 +7265,189 @@
       ]
     },
     {
+      "id": "k7vGF_phNeVSk",
+      "name": "Radio Free Alice",
+      "url": "https://www.ticketmaster.com/radio-free-alice-new-york-new-york-03-15-2027/event/00006566E30B4CC6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Radio Free Alice"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Bowery Ballroom",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-15T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-16T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Radio+Free+Alice",
+      "score": 64,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4JGkeBFXBX",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-portland-maine-01-15-2027/event/01006566BA23EEBE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 32,
+      "venue": "State Theatre",
+      "city": "Portland",
+      "state": "ME",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-16T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-16T00:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-09T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_pn-0jS6",
+      "name": "Jack Armbrust, Alaina May, Molly Frances",
+      "url": "https://www.ticketmaster.com/jack-armbrust-alaina-may-molly-frances-new-york-new-york-12-15-2026/event/0000656AA191CCC7",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [],
+      "artist_upcoming": 0,
+      "venue": "Mercury Lounge",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 500,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-16T02:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2026-12-16T04:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T16:45:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Jack+Armbrust%2C+Alaina+May%2C+Molly+Frances",
+      "score": 64,
+      "score_parts": {
+        "demand": 4.0,
+        "scarcity": 25.0,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (500 cap)",
+        "~500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "k7vGF_p0nhJBc",
       "name": "hailo",
       "url": "https://www.ticketmaster.com/hailo-new-york-new-york-12-16-2026/event/000065692A6E6EAD",
@@ -6742,6 +7495,82 @@
         "~500 cap (from venue type)",
         "est. 1.6-2.7x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv16OvP_v7dZ78F22",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-philadelphia-pennsylvania-03-26-2027/event/020065641103F7EE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Theatre of Living Arts",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-26T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-27T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-27T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -6867,6 +7696,166 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk4tGkeJhp_1",
+      "name": "Roar",
+      "url": "https://www.ticketmaster.com/roar-pittsburgh-pennsylvania-03-13-2027/event/16006569A66D664A",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Roar"
+      ],
+      "artist_upcoming": 4,
+      "venue": "Spirit Hall",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-14T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-14T02:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Roar",
+      "score": 64,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5diZ_pQp7KdD",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-new-york-new-york-01-23-2027/event/3B006566961130FB",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2894,
+      "capacity_source": "exact",
+      "event_date": "2027-01-24T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-24T01:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u2122",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Bowery Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "City National Bank Preferred Seating",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Verizon Shine Featured Venues",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2026-12-13T15:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-17T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 63,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 16.4,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,894 cap)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
       ]
     },
     {
@@ -7340,62 +8329,144 @@
       ]
     },
     {
-      "id": "1ApZk4tGkeJhp_1",
-      "name": "Roar",
-      "url": "https://www.ticketmaster.com/roar-pittsburgh-pennsylvania-03-13-2027/event/16006569A66D664A",
+      "id": "k7v17_p0IG7VURe",
+      "name": "Cloverdale Records: Low Gap, Jack Barksdale, Tori Miller",
+      "url": "https://www.ticketmaster.com/cloverdale-records-low-gap-jack-barksdale-new-york-new-york-02-23-2027/event/0000656928D36BC2",
       "segment": "Music",
-      "genre": "Pop",
+      "genre": "Country",
       "artists": [
-        "Roar"
+        "Low Gap",
+        "Jack Barksdale"
       ],
-      "artist_upcoming": 3,
-      "venue": "Spirit Hall",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "capacity": 1500,
+      "artist_upcoming": 1,
+      "venue": "Mercury Lounge",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 500,
       "capacity_source": "venue type",
-      "event_date": "2027-03-14T00:00:00Z",
+      "event_date": "2027-02-23T23:00:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-14T02:00:00Z",
+      "onsale_end": "2027-02-24T01:00:00Z",
       "presales": [
         {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T17:00:00Z",
           "end": "2026-11-13T03:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Roar",
+      "seatgeek_url": "https://seatgeek.com/search?search=Low+Gap",
       "score": 62,
       "score_parts": {
-        "demand": 8.4,
-        "scarcity": 19.6,
-        "markup": 24.5,
+        "demand": 4.2,
+        "scarcity": 25.0,
+        "markup": 22.4,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.65,
-        2.7
+        1.55,
+        2.6
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "2 presale(s)"
+        "small room (500 cap)",
+        "~500 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "16pZk4xu6ZACCA1e",
+      "name": "Marcy Playground & Wheatus",
+      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-louisville-kentucky-04-03-2027/event/16006562347DD491",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Marcy Playground",
+        "Wheatus"
+      ],
+      "artist_upcoming": 13,
+      "venue": "Mercury Ballroom",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-04T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-04T02:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-28T02:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-03T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
+      "score": 62,
+      "score_parts": {
+        "demand": 16.0,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -7757,6 +8828,123 @@
       ]
     },
     {
+      "id": "vvG1zZ_p2ItdK-",
+      "name": "Clint Black: Number 1s Live On Tour",
+      "url": "https://www.ticketmaster.com/clint-black-number-1s-live-on-augusta-georgia-02-18-2027/event/0E006563E8A434E1",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Clint Black"
+      ],
+      "artist_upcoming": 20,
+      "venue": "Bell Auditorium",
+      "city": "Augusta",
+      "state": "GA",
+      "capacity": 4000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-19T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-19T01:30:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Fan Club Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Clint+Black",
+      "score": 61,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 14.8,
+        "markup": 17.7,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.4,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "~4,000 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_4GkDjc_OM",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-charlottesville-virginia-03-08-2027/event/0100655EDCB59837",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Jefferson Theater",
+      "city": "Charlottesville",
+      "state": "VA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-09T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-09T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 61,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv1A8vPQ8GAG2Exk",
       "name": "POP DIVAS and the Women Who Shaped Them",
       "url": "https://www.ticketmaster.com/pop-divas-and-the-women-who-portsmouth-new-hampshire-01-23-2027/event/010065690C3E7886",
@@ -7818,6 +9006,65 @@
         "~800 cap (from venue type)",
         "est. 1.6-2.7x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_4M0wNCV",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-charlotte-north-carolina-03-13-2027/event/2D00655DE4CA33B4",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Neighborhood Theatre Main Room",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-14T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-14T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 61,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -8154,6 +9401,65 @@
       ]
     },
     {
+      "id": "k7vGF_p9wvKTG",
+      "name": "Flower Face",
+      "url": "https://www.ticketmaster.com/flower-face-new-york-new-york-03-10-2027/event/00006565F2053FCC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Flower Face"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Bowery Ballroom",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-11T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-11T02:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Flower+Face",
+      "score": 60,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AvZk4xGkeT8h5W",
       "name": "LSDREAM: BEE HERE NOW TOUR",
       "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-portland-maine-03-21-2027/event/01006562BF41B2FD",
@@ -8229,6 +9535,87 @@
       ]
     },
     {
+      "id": "vv1AvZk4NGkeY3z0_",
+      "name": "Marcy Playground & Wheatus (18+)",
+      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-18-boston-massachusetts-03-25-2027/event/01006563B04B8919",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Marcy Playground",
+        "Wheatus"
+      ],
+      "artist_upcoming": 13,
+      "venue": "Brighton Music Hall presented by Citizens",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-25T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-26T01:00:00Z",
+      "presales": [
+        {
+          "name": "Wheatus Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-19T02:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
+      "score": 60,
+      "score_parts": {
+        "demand": 16.0,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_ppU8jNW",
       "name": "Todd Rundgren: DAMNED IF I DO TOUR",
       "url": "https://www.ticketmaster.com/todd-rundgren-damned-if-i-do-knoxville-tennessee-04-18-2027/event/1B006565B641C8FD",
@@ -8297,6 +9684,79 @@
       "reasons": [
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk40GkdROBJR",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-lexington-kentucky-03-14-2027/event/16006564EF83A9AF",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Lexington Opera House",
+      "city": "Lexington",
+      "state": "KY",
+      "capacity": 2500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-15T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-15T00:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "Promoter Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "Promoter Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 60,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 17.1,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,500 cap)",
+        "~2,500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
       ]
@@ -8377,7 +9837,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "White Oak Music Hall - Downstairs",
       "city": "Houston",
       "state": "TX",
@@ -8407,7 +9867,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 73,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -8425,6 +9885,80 @@
         "~1,800 cap (from venue type)",
         "est. 1.6-2.7x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_pji-vvL",
+      "name": "Beach Bunny: Out of Office Tour with special guest Daisy Grenade",
+      "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-dallas-texas-03-04-2027/event/0C0065672C84105F",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Beach Bunny",
+        "Daisy Grenade"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-05T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-05T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-02-05T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
+      "score": 73,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 18.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -8940,50 +10474,6 @@
       ]
     },
     {
-      "id": "vvG1YZ_pji-vvL",
-      "name": "Beach Bunny: Out of Office Tour with special guest Daisy Grenade",
-      "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-dallas-texas-03-04-2027/event/0C0065672C84105F",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Beach Bunny",
-        "Daisy Grenade"
-      ],
-      "artist_upcoming": 24,
-      "venue": "The Echo Lounge & Music Hall",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-05T01:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-03-05T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
-      "score": 69,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 18.7,
-        "markup": 24.5,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.6-2.7x face"
-      ]
-    },
-    {
       "id": "G5dIZ_pQ_K6sb",
       "name": "Getdown Services w/ Antony Szmierek",
       "url": "https://www.ticketmaster.com/getdown-services-w-antony-szmierek-austin-texas-04-13-2027/event/3A006566994C7C58",
@@ -9207,6 +10697,118 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_p32opYV",
+      "name": "Lyle Lovett and Hayes Carll - Together On Stage",
+      "url": "https://www.ticketmaster.com/lyle-lovett-and-hayes-carll-together-philadelphia-mississippi-01-30-2027/event/1B0065648F456C34",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Lyle Lovett",
+        "Hayes Carll"
+      ],
+      "artist_upcoming": 14,
+      "venue": "The Ellis Theater",
+      "city": "Philadelphia",
+      "state": "MS",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-31T01:30:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-01-31T03:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-06T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": "Local Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Lyle+Lovett",
+      "score": 67,
+      "score_parts": {
+        "demand": 16.5,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_4mRUn28",
+      "name": "Fox N' Vead featuring Logan Jahnke",
+      "url": "https://www.ticketmaster.com/fox-n-vead-featuring-logan-jahnke-austin-texas-02-04-2027/event/3A00655BAFDAA3D0",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Fox N' Vead"
+      ],
+      "artist_upcoming": 6,
+      "venue": "Antone's Nightclub",
+      "city": "Austin",
+      "state": "TX",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-05T02:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-02-05T06:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Fox+N%27+Vead",
+      "score": 67,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 22.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -9509,66 +11111,6 @@
       ]
     },
     {
-      "id": "G5viZ_p32opYV",
-      "name": "Lyle Lovett and Hayes Carll - Together On Stage",
-      "url": "https://www.ticketmaster.com/lyle-lovett-and-hayes-carll-together-philadelphia-mississippi-01-30-2027/event/1B0065648F456C34",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Lyle Lovett",
-        "Hayes Carll"
-      ],
-      "artist_upcoming": 11,
-      "venue": "The Ellis Theater",
-      "city": "Philadelphia",
-      "state": "MS",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-31T01:30:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-01-31T03:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-06T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "",
-          "how": "Local Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Lyle+Lovett",
-      "score": 65,
-      "score_parts": {
-        "demand": 15.1,
-        "scarcity": 17.7,
-        "markup": 22.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.5-2.6x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "G5viZ_4Q8ciS7",
       "name": "Hannah Harper - Behind this Guitar",
       "url": "https://www.ticketmaster.com/hannah-harper-behind-this-guitar-philadelphia-mississippi-04-02-2027/event/1B00655690B6CCC4",
@@ -9721,6 +11263,81 @@
       ]
     },
     {
+      "id": "vv1A7Zk40Gkd4dBdD",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-chicago-illinois-03-17-2027/event/04006564D50FA0FB",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
+      ],
+      "artist_upcoming": 30,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-17T23:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-17T23:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-02-18T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.2,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv1kvZvPb-GA2v5eQ",
       "name": "Midnight Generation - Rooted Tour 2027",
       "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-chicago-illinois-05-08-2027/event/040065621F04B09A",
@@ -9800,6 +11417,200 @@
       ]
     },
     {
+      "id": "vv1kbZ_pfNG7MZcq",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-minneapolis-minnesota-03-16-2027/event/0600656523DC0B5D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Varsity Theater",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-16T23:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-17T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-02-17T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk4NGkdOJCv3",
+      "name": "Roar",
+      "url": "https://www.ticketmaster.com/roar-saint-paul-minnesota-03-10-2027/event/06006563E098E052",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Roar"
+      ],
+      "artist_upcoming": 4,
+      "venue": "Amsterdam Bar & Hall",
+      "city": "Saint Paul",
+      "state": "MN",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-11T00:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-11T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Roar",
+      "score": 64,
+      "score_parts": {
+        "demand": 9.8,
+        "scarcity": 19.6,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_p2JgjIj",
+      "name": "Fox N' Vead featuring Logan Jahnke",
+      "url": "https://www.ticketmaster.com/fox-n-vead-featuring-logan-jahnke-fort-worth-texas-01-21-2027/event/0C006563E6D5CA1C",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Fox N' Vead"
+      ],
+      "artist_upcoming": 6,
+      "venue": "Tannahill's Music Hall & Lounge",
+      "city": "Fort Worth",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-22T03:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-01-22T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Fox+N%27+Vead",
+      "score": 63,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 18.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "G5viZ_p1NStxC",
       "name": "LSDREAM: BEE HERE NOW TOUR",
       "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-new-orleans-louisiana-04-07-2027/event/1B006562A3CE988E",
@@ -9871,6 +11682,183 @@
         "small room (1,150 cap)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kbZ_p13G7XgCh",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-lawrence-kansas-02-19-2027/event/0600656292FB539B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Liberty Hall",
+      "city": "Lawrence",
+      "state": "KS",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-20T02:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-02-20T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presales",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 63,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4Rb17B0",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-jackson-mississippi-02-23-2027/event/1B00655BD8284EA4",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Duling Hall",
+      "city": "Jackson",
+      "state": "MS",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-24T01:30:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-02-24T03:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 63,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4VIHSH7",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-memphis-tennessee-03-20-2027/event/1B00655D28F33F04",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Minglewood Hall",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-21T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-21T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 63,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -10019,6 +12007,130 @@
       ]
     },
     {
+      "id": "G5dIZ_4O7OC5h",
+      "name": "Fox N' Vead featuring Logan Jahnke",
+      "url": "https://www.ticketmaster.com/fox-n-vead-featuring-logan-jahnke-houston-texas-01-22-2027/event/3A0065580480E2DB",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Fox N' Vead"
+      ],
+      "artist_upcoming": 6,
+      "venue": "The Bronze Peacock at House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-23T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-01-23T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-01-02T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Fox+N%27+Vead",
+      "score": 62,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 18.2,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.6x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_pJcO9Jr",
+      "name": "Radio Free Alice",
+      "url": "https://www.ticketmaster.com/radio-free-alice-houston-texas-03-05-2027/event/3A006569AD81799E",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Radio Free Alice"
+      ],
+      "artist_upcoming": 19,
+      "venue": "White Oak Music Hall - Upstairs ",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-06T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Pre Sale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Artist Pre Sale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Radio+Free+Alice",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1YZ_p2m-u8u",
       "name": "Presley Regier - Sensitive to the room, sensitive to the sound: Tour",
       "url": "https://www.ticketmaster.com/presley-regier-sensitive-to-the-room-dallas-texas-01-27-2027/event/0C006563EE84D40D",
@@ -10088,6 +12200,48 @@
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_pjIr8Dt",
+      "name": "Bone Thugs-N-Harmony",
+      "url": "https://www.ticketmaster.com/bone-thugsnharmony-dallas-texas-01-22-2027/event/0C00656728790EE9",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Bone Thugs-N-Harmony"
+      ],
+      "artist_upcoming": 11,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-23T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-01-23T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
+      "score": 61,
+      "score_parts": {
+        "demand": 15.1,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face"
       ]
     },
     {
@@ -10422,6 +12576,79 @@
       ]
     },
     {
+      "id": "vv1kvOvP_oGAutL9i",
+      "name": "Leo Middea - Not\u00edcias De Puglia Tour",
+      "url": "https://www.ticketmaster.com/leo-middea-noticias-de-puglia-tour-minneapolis-minnesota-05-08-2027/event/060065651DA5F5EC",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Leo Middea"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Varsity Theater",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-09T00:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-05-09T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-04-11T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Leo+Middea",
+      "score": 61,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 17.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1YZ_pKCWqb8",
       "name": "CLUTCH: Give the People What They Want",
       "url": "https://www.ticketmaster.com/clutch-give-the-people-what-they-dallas-texas-03-24-2027/event/0C006564CEF5D610",
@@ -10641,6 +12868,60 @@
       ]
     },
     {
+      "id": "vv1AkZk4JGkdLlUO2",
+      "name": "Capstan",
+      "url": "https://www.ticketmaster.com/capstan-saint-paul-minnesota-03-06-2027/event/06006566DFAF680F",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Capstan",
+        "Fire From the Gods",
+        "Midwinter"
+      ],
+      "artist_upcoming": 11,
+      "venue": "Amsterdam Bar & Hall",
+      "city": "Saint Paul",
+      "state": "MN",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-07T00:30:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-07T02:30:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Capstan",
+      "score": 60,
+      "score_parts": {
+        "demand": 15.1,
+        "scarcity": 19.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "G5vzZ_p5OIpD1",
       "name": "Beach Bunny: Out of Office Tour",
       "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-denver-colorado-03-21-2027/event/1E006562E0A16ECA",
@@ -10650,7 +12931,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -10694,7 +12975,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 73,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -10711,6 +12992,149 @@
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.6-2.7x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_4BwjAlL",
+      "name": "Clint Black: Number 1s Live On Tour",
+      "url": "https://www.ticketmaster.com/clint-black-number-1s-live-on-grand-junction-colorado-04-08-2027/event/1E00655EB2705ADF",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Clint Black",
+        "Mae Estes"
+      ],
+      "artist_upcoming": 20,
+      "venue": "Avalon Theatre",
+      "city": "Grand Junction",
+      "state": "CO",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-09T01:30:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-04-09T03:30:00Z",
+      "presales": [
+        {
+          "name": "Aisle Pre Sale Offer",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": "Aisle Pre Sale Offer"
+        },
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": "Fan Club Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Clint+Black",
+      "score": 69,
+      "score_parts": {
+        "demand": 18.5,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_pp88eEO",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-denver-colorado-03-13-2027/event/1E006565904029E0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Summit Music Hall",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-14T01:00:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-03-14T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T17:00:00Z",
+          "end": "2027-02-14T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 65,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
         "4 presale(s)"
       ]
     },
@@ -10806,6 +13230,58 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "1A_Zk4JGkdj3Ibg",
+      "name": "Grace Potter & The Trespassers: The Trespassers Tour @ Rialto Theatre",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-the-trespassers-tucson-arizona-03-04-2027/event/19006566DC4A8635",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Rialto Theatre-Tucson",
+      "city": "Tucson",
+      "state": "AZ",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-05T03:00:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-03-05T08:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -11017,7 +13493,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "The Observatory North Park",
       "city": "San Diego",
       "state": "CA",
@@ -11061,7 +13537,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 76,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 21.6,
         "markup": 24.5,
         "timing": 10.0
@@ -11169,7 +13645,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -11213,7 +13689,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 75,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 20.9,
         "markup": 24.5,
         "timing": 10.0
@@ -11242,7 +13718,7 @@
         "Beach Bunny",
         "Daisy Grenade"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "The Wiltern",
       "city": "Los Angeles",
       "state": "CA",
@@ -11286,7 +13762,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Beach+Bunny",
       "score": 73,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 18.6,
         "markup": 24.5,
         "timing": 10.0
@@ -11552,6 +14028,93 @@
       ]
     },
     {
+      "id": "G5vYZ_php4sdr",
+      "name": "Grace Potter & The Trespassers w/ Langhorne Slim - The Trespasser Tour",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-w-langhorne-san-francisco-california-03-11-2027/event/1C006566D65710DE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 32,
+      "venue": "The Fillmore",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-12T04:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-12T06:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-02-26T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-05T06:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 67,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 20.9,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "G5vYZ_p2T2wl5",
       "name": "Getdown Services",
       "url": "https://www.ticketmaster.com/getdown-services-san-francisco-california-04-23-2027/event/1C006563FF3F2ACB",
@@ -11704,46 +14267,63 @@
       ]
     },
     {
-      "id": "vvG1HZ_ppsgQv0",
-      "name": "Midnight Generation - Rooted Tour 2027",
-      "url": "https://www.etix.com/ticket/p/84156917/midnight-generation-rooted-tour-2027-portland-revolution-hall",
+      "id": "vv1AaZk4PGkewBH3b",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-anaheim-california-03-06-2027/event/09006565B2EBC498",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Midnight Generation"
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
       ],
-      "artist_upcoming": 31,
-      "venue": "Revolution Hall",
-      "city": "Portland",
-      "state": "OR",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-15T03:00:00Z",
+      "artist_upcoming": 30,
+      "venue": "House of Blues Anaheim",
+      "city": "Anaheim",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-07T02:00:00Z",
       "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-05-15T03:00:00Z",
+      "onsale_end": "2027-03-07T04:00:00Z",
       "presales": [
         {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
           "name": "Artist Presale",
-          "start": "2026-11-10T18:00:00Z",
-          "end": "2026-11-11T06:00:00Z",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
           "url": "",
           "how": ""
         },
         {
-          "name": "Live Nation Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-02-07T06:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
-      "score": 66,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 64,
       "score_parts": {
-        "demand": 21.1,
-        "scarcity": 19.6,
+        "demand": 20.9,
+        "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -11756,10 +14336,9 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
+        "small room (2,000 cap)",
         "est. 1.3-2.1x face",
-        "2 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -11843,6 +14422,78 @@
       ]
     },
     {
+      "id": "G5vYZ_p1_n68s",
+      "name": "Leo Middea",
+      "url": "https://www.ticketmaster.com/leo-middea-san-francisco-california-05-16-2027/event/1C00656299A87431",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Leo Middea"
+      ],
+      "artist_upcoming": 9,
+      "venue": "The Fillmore",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-05-17T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-17T05:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-05-03T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Leo+Middea",
+      "score": 64,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.9,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.4-2.4x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AaZk4PGkezpudX",
       "name": "s0rrow",
       "url": "https://www.ticketmaster.com/s0rrow-los-angeles-california-01-15-2027/event/09006565B858D0FE",
@@ -11892,6 +14543,154 @@
         "~500 cap (from venue type)",
         "est. 1.6-2.7x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_pPQswad",
+      "name": "Grace Potter & The Tresspassers, with Support",
+      "url": "https://www.ticketmaster.com/grace-potter-the-tresspassers-with-support-napa-california-03-13-2027/event/1C0065695AC72243",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter"
+      ],
+      "artist_upcoming": 32,
+      "venue": "Uptown Theatre Napa",
+      "city": "Napa",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-14T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-14T05:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Membership Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.uptowntheatrenapa.com/membership/",
+          "how": "Members only access."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 21.3,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1iZ_pQK8eU8",
+      "name": "JOYCE WRICE - THE MACHIKO TOUR",
+      "url": "https://www.ticketmaster.com/joyce-wrice-the-machiko-tour-san-diego-california-02-27-2027/event/0B00656693402D90",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Joyce Wrice",
+        "Girlfriend",
+        "rjtheweirdo",
+        "Mixed Feelings"
+      ],
+      "artist_upcoming": 8,
+      "venue": "The Observatory North Park",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 1000,
+      "capacity_source": "exact",
+      "event_date": "2027-02-28T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-02-28T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-01-28T06:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-02-20T07:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Joyce+Wrice",
+      "score": 63,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 21.6,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,000 cap)",
+        "est. 1.4-2.3x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -12063,95 +14862,6 @@
       ]
     },
     {
-      "id": "vvG1iZ_pQK8eU8",
-      "name": "JOYCE WRICE - THE MACHIKO TOUR",
-      "url": "https://www.ticketmaster.com/joyce-wrice-the-machiko-tour-san-diego-california-02-27-2027/event/0B00656693402D90",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Joyce Wrice",
-        "Girlfriend",
-        "rjtheweirdo",
-        "Mixed Feelings"
-      ],
-      "artist_upcoming": 7,
-      "venue": "The Observatory North Park",
-      "city": "San Diego",
-      "state": "CA",
-      "capacity": 1000,
-      "capacity_source": "exact",
-      "event_date": "2027-02-28T03:00:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-02-28T05:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T07:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T07:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T07:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-01-28T06:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T07:59:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-02-20T07:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Joyce+Wrice",
-      "score": 62,
-      "score_parts": {
-        "demand": 12.6,
-        "scarcity": 21.6,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,000 cap)",
-        "est. 1.4-2.3x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "G5vYZ_4DHlaIc",
       "name": "ROYAL BLOOD: North America 2027",
       "url": "https://www.ticketmaster.com/royal-blood-north-america-2027-san-francisco-california-04-20-2027/event/1C00655EFCAC9A2D",
@@ -12295,6 +15005,124 @@
         "~10,000 cap (from venue type)",
         "est. 1.5-2.4x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_p3PBEUu",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-seattle-washington-05-09-2027/event/0F006564A5EA7D8D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Neptune Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-10T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-10T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local/Media Presales",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 61,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_pKKlQod",
+      "name": "Leo Middea",
+      "url": "https://www.ticketmaster.com/leo-middea-seattle-washington-05-13-2027/event/0F006564D3ADA443",
+      "segment": "Music",
+      "genre": "Latin",
+      "artists": [
+        "Leo Middea"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Neptune Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-14T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-14T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local/Media Presales",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Leo+Middea",
+      "score": 61,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 17.7,
+        "markup": 19.3,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.4x face",
+        "2 presale(s)"
       ]
     },
     {
@@ -12482,6 +15310,146 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_p5sP29G",
+      "name": "An Alleged Evening with Conor Oberst",
+      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-san-francisco-california-05-02-2027/event/1C006562F194F5CC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Conor Oberst"
+      ],
+      "artist_upcoming": 19,
+      "venue": "The Castro Theatre",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-03T02:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-03T03:00:00Z",
+      "presales": [
+        {
+          "name": "APE Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": "APE Presale"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
+      "score": 61,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vYZ_prqUMLW",
+      "name": "JOYCE WRICE - THE MACHIKO TOUR",
+      "url": "https://www.ticketmaster.com/joyce-wrice-the-machiko-tour-san-francisco-california-02-23-2027/event/1C0065679DDB77FD",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Joyce Wrice",
+        "Girlfriend"
+      ],
+      "artist_upcoming": 8,
+      "venue": "August Hall",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-24T04:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-02-24T06:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Mastercard Presale",
+          "start": "2026-11-10T19:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-01-27T06:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Joyce+Wrice",
+      "score": 61,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 19.6,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -12687,87 +15655,6 @@
         "~1,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vYZ_prqUMLW",
-      "name": "JOYCE WRICE - THE MACHIKO TOUR",
-      "url": "https://www.ticketmaster.com/joyce-wrice-the-machiko-tour-san-francisco-california-02-23-2027/event/1C0065679DDB77FD",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Joyce Wrice",
-        "Girlfriend"
-      ],
-      "artist_upcoming": 7,
-      "venue": "August Hall",
-      "city": "San Francisco",
-      "state": "CA",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-24T04:00:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-02-24T06:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Mastercard Presale",
-          "start": "2026-11-10T19:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Mastercard Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-01-27T06:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Joyce+Wrice",
-      "score": 60,
-      "score_parts": {
-        "demand": 12.6,
-        "scarcity": 19.6,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "5 presale(s)"
       ]
     },
     {
