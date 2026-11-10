@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-11-10T19:59:15Z",
-    "generated_local": "Tue 10 Nov, 12:59 PM",
-    "scanned": 1297,
+    "generated_utc": "2026-11-10T20:29:42Z",
+    "generated_local": "Tue 10 Nov, 1:29 PM",
+    "scanned": 1300,
     "surfaced": 235,
     "new": 0,
     "threshold": 60,
@@ -7996,8 +7996,8 @@
           "name": "Amex Presale Tickets\u2122",
           "start": "2026-11-12T15:00:00Z",
           "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
         },
         {
           "name": "Bowery Presale",
@@ -8025,7 +8025,7 @@
           "start": "2026-11-13T15:00:00Z",
           "end": "2026-12-13T15:00:00Z",
           "url": "",
-          "how": ""
+          "how": "For Verizon Shine Members"
         },
         {
           "name": "VIP Package Onsale",
@@ -15008,14 +15008,14 @@
         {
           "name": "VIP Package Presale",
           "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
           "url": "",
           "how": "The tour is offering VIP Packages for this event."
         },
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-13T18:00:00Z",
-          "end": "2027-03-04T06:00:00Z",
+          "end": "2027-03-07T06:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
