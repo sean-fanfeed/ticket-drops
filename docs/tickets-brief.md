@@ -1,4 +1,4 @@
-255 ticket drops scoring 60+ in the next 14 days.
+253 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   PeoplesBank Arena, Hartford CT
@@ -30,7 +30,7 @@
   Event Mon 16 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  74 - WWE, WWE Monday Night RAW
+  74 - WWE
   Huntington Center, Toledo OH
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 7 Dec, 5:30 PM
