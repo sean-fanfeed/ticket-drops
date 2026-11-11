@@ -1,15 +1,59 @@
 {
   "meta": {
-    "generated_utc": "2026-11-10T20:29:42Z",
-    "generated_local": "Tue 10 Nov, 1:29 PM",
-    "scanned": 1300,
-    "surfaced": 235,
-    "new": 0,
+    "generated_utc": "2026-11-11T14:42:45Z",
+    "generated_local": "Wed 11 Nov, 7:42 AM",
+    "scanned": 1293,
+    "surfaced": 248,
+    "new": 22,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
   },
   "events": [
+    {
+      "id": "Z7r9jZ1AA7zbt",
+      "name": "WWE Smackdown",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7zbt",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 42,
+      "venue": "PeoplesBank Arena",
+      "city": "Hartford",
+      "state": "CT",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-19T00:30:00Z",
+      "onsale_start": "1900-01-01T06:00:00Z",
+      "onsale_end": "2026-12-19T00:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 68,
+      "score_parts": {
+        "demand": 34.9,
+        "scarcity": 7.9,
+        "markup": 19.3,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "42 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face"
+      ]
+    },
     {
       "id": "G5dIZ_88MInXt",
       "name": "WWE Survivor Series: WarGames",
@@ -2073,669 +2117,6 @@
       ]
     },
     {
-      "id": "k7vGF_fQyVJD9",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-albany-new-york-04-10-2027/event/00006546B9D26ED7",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 246,
-      "venue": "MVP Arena",
-      "city": "Albany",
-      "state": "NY",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-10T16:00:00Z",
-      "onsale_start": "2026-11-10T15:00:00Z",
-      "onsale_end": "2027-04-10T17:00:00Z",
-      "presales": [
-        {
-          "name": "Feld Preferred",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-04-10T17:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 7.9,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "246 upcoming dates (heavy routing)",
-        "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "k7vGF_fQySUDC",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-albany-new-york-04-10-2027/event/00006546B9CF6ECE",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 246,
-      "venue": "MVP Arena",
-      "city": "Albany",
-      "state": "NY",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-10T22:00:00Z",
-      "onsale_start": "2026-11-10T15:00:00Z",
-      "onsale_end": "2027-04-10T23:00:00Z",
-      "presales": [
-        {
-          "name": "Feld Preferred",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-04-10T23:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 7.9,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "246 upcoming dates (heavy routing)",
-        "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "k7vGF_fQygJDq",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-albany-new-york-04-11-2027/event/00006546B9D66EDD",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 246,
-      "venue": "MVP Arena",
-      "city": "Albany",
-      "state": "NY",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-11T16:00:00Z",
-      "onsale_start": "2026-11-10T15:00:00Z",
-      "onsale_end": "2027-04-11T17:00:00Z",
-      "presales": [
-        {
-          "name": "Feld Preferred",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-04-11T17:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 7.9,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "246 upcoming dates (heavy routing)",
-        "~16,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1zZ_4GdgoT3",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-macon-georgia-05-15-2027/event/0E00655303D51FD2",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 246,
-      "venue": "Macon Coliseum",
-      "city": "Macon",
-      "state": "GA",
-      "capacity": 15000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-15T16:00:00Z",
-      "onsale_start": "2026-11-10T15:00:00Z",
-      "onsale_end": "2027-05-15T18:00:00Z",
-      "presales": [
-        {
-          "name": "Feld Preferred Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Feld Preferred Presale"
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Ticketmaster Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-05-15T18:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 8.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "246 upcoming dates (heavy routing)",
-        "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1zZ_42HP2Lx",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-macon-georgia-05-15-2027/event/0E006553FC94F7E2",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 246,
-      "venue": "Macon Coliseum",
-      "city": "Macon",
-      "state": "GA",
-      "capacity": 15000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-15T22:00:00Z",
-      "onsale_start": "2026-11-10T15:00:00Z",
-      "onsale_end": "2027-05-16T00:00:00Z",
-      "presales": [
-        {
-          "name": "Feld Preferred Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Feld Preferred Presale"
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Ticketmaster Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-05-16T00:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 8.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "246 upcoming dates (heavy routing)",
-        "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1zZ_42HETLs",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-macon-georgia-05-16-2027/event/0E006553FC9FF7F1",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 246,
-      "venue": "Macon Coliseum",
-      "city": "Macon",
-      "state": "GA",
-      "capacity": 15000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-16T18:00:00Z",
-      "onsale_start": "2026-11-10T15:00:00Z",
-      "onsale_end": "2027-05-16T20:00:00Z",
-      "presales": [
-        {
-          "name": "Feld Preferred Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Feld Preferred Presale"
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Ticketmaster Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-05-16T20:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 8.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "246 upcoming dates (heavy routing)",
-        "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1zZ_42HNRLb",
-      "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-macon-georgia-05-14-2027/event/0E006553FC8EF7D8",
-      "segment": "Sports",
-      "genre": "Motorsports/Racing",
-      "artists": [
-        "Monster Jam"
-      ],
-      "artist_upcoming": 246,
-      "venue": "Macon Coliseum",
-      "city": "Macon",
-      "state": "GA",
-      "capacity": 15000,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-14T23:00:00Z",
-      "onsale_start": "2026-11-10T15:00:00Z",
-      "onsale_end": "2027-05-15T01:00:00Z",
-      "presales": [
-        {
-          "name": "Feld Preferred Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Feld Preferred Presale"
-        },
-        {
-          "name": "Ticketmaster Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Ticketmaster Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-05T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-03T15:00:00Z",
-          "end": "2026-11-10T04:59:00Z",
-          "url": "",
-          "how": "Monster Jam is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-05-15T01:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Monster+Jam",
-      "score": 62,
-      "score_parts": {
-        "demand": 28,
-        "scarcity": 8.2,
-        "markup": 15.6,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "246 upcoming dates (heavy routing)",
-        "~15,000 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "17A8v0G65F4Ejtr",
-      "name": "SiM - HOOMAN AFTER ALL WORLD TOUR",
-      "url": "https://www.ticketmaster.com/sim-hooman-after-all-world-tour-silver-spring-maryland-05-06-2027/event/150064B2159DCA5E",
-      "segment": "Music",
-      "genre": "Metal",
-      "artists": [
-        "SiM",
-        "aurorawave"
-      ],
-      "artist_upcoming": 35,
-      "venue": "The Fillmore Silver Spring",
-      "city": "Silver Spring",
-      "state": "MD",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-05-06T23:30:00Z",
-      "onsale_start": "2026-11-10T17:00:00Z",
-      "onsale_end": "2027-05-07T01:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2027-04-10T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=SiM",
-      "score": 65,
-      "score_parts": {
-        "demand": 21.8,
-        "scarcity": 20.9,
-        "markup": 12.0,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vzZ_ph5CpQg",
-      "name": "Emo Nite - 21+",
-      "url": "https://www.ticketmaster.com/emo-nite-21-denver-colorado-12-31-2026/event/1E006566CB3966B5",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Emo Nite"
-      ],
-      "artist_upcoming": 20,
-      "venue": "Summit Music Hall",
-      "city": "Denver",
-      "state": "CO",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-01T04:00:00Z",
-      "onsale_start": "2026-11-10T19:00:00Z",
-      "onsale_end": "2027-01-01T06:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-10T19:00:00Z",
-          "end": "2026-12-04T05:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Emo+Nite",
-      "score": 62,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vvG1zZ_4mjNJG9",
       "name": "WWE Monday Night RAW",
       "url": "https://www.ticketmaster.com/wwe-monday-night-raw-atlanta-georgia-02-15-2027/event/0E00655B9C8E6317",
@@ -3330,6 +2711,49 @@
       ]
     },
     {
+      "id": "16tZk4tu0ZAue6dF",
+      "name": "King Gizzard & the Lizard Wizard",
+      "url": "https://www.ticketweb.com/event/king-gizzard-the-lizard-club-underground-tickets/14435954?REFERRAL_ID=tmfeed",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "King Gizzard and the Lizard Wizard"
+      ],
+      "artist_upcoming": 19,
+      "venue": "Club Underground",
+      "city": "Reno",
+      "state": "NV",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-08-18T00:00:00Z",
+      "onsale_start": "2026-11-11T17:00:00Z",
+      "onsale_end": "2027-08-18T05:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=King+Gizzard+and+the+Lizard+Wizard",
+      "score": 62,
+      "score_parts": {
+        "demand": 18.2,
+        "scarcity": 22.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.3-2.1x face"
+      ]
+    },
+    {
       "id": "vv170Z_4GkwBUq4w",
       "name": "WWE Monday Night RAW",
       "url": "https://www.ticketmaster.com/wwe-monday-night-raw-anaheim-california-02-08-2027/event/0900655CBAD9D572",
@@ -3524,6 +2948,13 @@
           "end": "2027-01-23T06:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Ticketmaster Holiday Offer",
+          "start": "2026-11-27T11:00:00Z",
+          "end": "2027-01-01T07:59:00Z",
+          "url": "",
+          "how": "Ticketmaster Holiday Offer"
         }
       ],
       "price_min": null,
@@ -3548,7 +2979,7 @@
         "on your watchlist",
         "42 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
-        "5 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -3853,7 +3284,7 @@
         "Band of Horses",
         "Dexter and The Moonrocks"
       ],
-      "artist_upcoming": 53,
+      "artist_upcoming": 54,
       "venue": "Pine Knob Music Theatre",
       "city": "Clarkston",
       "state": "MI",
@@ -3911,7 +3342,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Kings+of+Leon",
       "score": 70,
       "score_parts": {
-        "demand": 24.3,
+        "demand": 24.4,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -3925,7 +3356,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "53 upcoming dates (heavy routing)",
+        "54 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -4345,7 +3776,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "Paradise Rock Club presented by Citizens",
       "city": "Boston",
       "state": "MA",
@@ -4403,7 +3834,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 74,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 22.7,
         "markup": 18.2,
         "timing": 10.0
@@ -4417,7 +3848,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (800 cap)",
         "~800 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -4897,7 +4328,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "Mercury Ballroom",
       "city": "Louisville",
       "state": "KY",
@@ -4955,7 +4386,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 72,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 20.7,
         "markup": 18.2,
         "timing": 10.0
@@ -4969,11 +4400,92 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (1,200 cap)",
         "~1,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4PGkd0q4Bh",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-boston-massachusetts-01-16-2027/event/01006565E4755E9B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-16T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-17T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-10T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 71,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -5149,7 +4661,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "Saint Andrew's Hall",
       "city": "Detroit",
       "state": "MI",
@@ -5207,7 +4719,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 71,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 19.6,
         "markup": 18.2,
         "timing": 10.0
@@ -5221,11 +4733,318 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (1,500 cap)",
         "~1,500 cap (from venue type)",
         "est. 1.4-2.3x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk4JGkdhzTfh",
+      "name": "Grace Potter & The Trespassers, with Pokey LaFarge",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-pokey-hershey-pennsylvania-01-27-2027/event/02006566DBE3F51B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Hershey Theatre",
+      "city": "Hershey",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-28T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-28T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "SLP Concerts Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-21T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 70,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk4IGkdfr9ax",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-cincinnati-ohio-02-06-2027/event/16006568D4797262",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Taft Theatre",
+      "city": "Cincinnati",
+      "state": "OH",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-07T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-02-07T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Artist"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-31T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 70,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk4JGkdpsGhe",
+      "name": "Grace Potter & The Trespassers, with Pokey LaFarge The Trespasser Tour",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-pokey-mckees-rocks-pennsylvania-01-20-2027/event/16006566D6C4C6C2",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Roxian Theatre Presented By Citizens",
+      "city": "McKees Rocks",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-20T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-21T01:30:00Z",
+      "presales": [
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-14T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 70,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk4JGkeBFXBX",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-portland-maine-01-15-2027/event/01006566BA23EEBE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "State Theatre",
+      "city": "Portland",
+      "state": "ME",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-16T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-16T00:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-09T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 70,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -5241,7 +5060,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "Archer Music Hall",
       "city": "Allentown",
       "state": "PA",
@@ -5299,7 +5118,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 70,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 18.7,
         "markup": 18.2,
         "timing": 10.0
@@ -5313,11 +5132,113 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.4-2.3x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "G5diZ_pQp7KdD",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-new-york-new-york-01-23-2027/event/3B006566961130FB",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2894,
+      "capacity_source": "exact",
+      "event_date": "2027-01-24T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-24T01:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u2122",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
+        },
+        {
+          "name": "Bowery Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "City National Bank Preferred Seating",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Verizon Shine Featured Venues",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2026-12-13T15:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-17T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 69,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 16.4,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,894 cap)",
+        "est. 1.4-2.3x face",
+        "8 presale(s)"
       ]
     },
     {
@@ -5412,7 +5333,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -5477,7 +5398,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 69,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -5491,7 +5412,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -5626,7 +5547,7 @@
       "artists": [
         "Hannah Harper"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "The Fillmore Charlotte",
       "city": "Charlotte",
       "state": "NC",
@@ -5656,7 +5577,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hannah+Harper",
       "score": 68,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 20.9,
         "markup": 22.4,
         "timing": 10.0
@@ -5995,7 +5916,7 @@
       "artists": [
         "Hannah Harper"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "Piedmont Hall",
       "city": "Greensboro",
       "state": "NC",
@@ -6032,7 +5953,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hannah+Harper",
       "score": 67,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 19.6,
         "markup": 22.4,
         "timing": 10.0
@@ -6615,21 +6536,21 @@
         {
           "name": "Artist Presale",
           "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
           "url": "",
           "how": ""
         },
         {
           "name": "LIVE NATION PRESALE",
           "start": "2026-11-12T17:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
         },
         {
           "name": "Citizens Bank Presale",
           "start": "2026-11-12T17:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
           "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
           "how": "Exclusive Presale for Citizens Bank Cardholders"
         },
@@ -6664,86 +6585,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZk4PGkd0q4Bh",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-boston-massachusetts-01-16-2027/event/01006565E4755E9B",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 32,
-      "venue": "Citizens House of Blues Boston",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-01-16T23:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-17T01:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-10T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 65,
-      "score_parts": {
-        "demand": 21.3,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
       ]
     },
     {
@@ -7039,83 +6880,82 @@
       ]
     },
     {
-      "id": "vv1AeZk4JGkdhzTfh",
-      "name": "Grace Potter & The Trespassers, with Pokey LaFarge",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-pokey-hershey-pennsylvania-01-27-2027/event/02006566DBE3F51B",
+      "id": "vv17fZ_pGkcRHw1M",
+      "name": "Hannah Harper - Behind This Guitar Tour 2027",
+      "url": "https://www.ticketmaster.com/hannah-harper-behind-this-guitar-tour-anderson-indiana-03-04-2027/event/0500656B6FF322B7",
       "segment": "Music",
-      "genre": "Rock",
+      "genre": "Country",
       "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
+        "Hannah Harper"
       ],
-      "artist_upcoming": 32,
-      "venue": "Hershey Theatre",
-      "city": "Hershey",
-      "state": "PA",
+      "artist_upcoming": 11,
+      "venue": "Paramount Theatre",
+      "city": "Anderson",
+      "state": "IN",
       "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-01-28T00:30:00Z",
+      "event_date": "2027-03-05T00:00:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-28T01:30:00Z",
+      "onsale_end": "2027-03-05T01:00:00Z",
       "presales": [
         {
-          "name": "Artist Presale",
+          "name": "Ticketmaster Pre-Sale",
           "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
           "url": "",
-          "how": ""
+          "how": "Ticketmaster Pre-Sale"
         },
         {
-          "name": "VIP Package Presale",
+          "name": "Paramount Venue Pre-Sale",
           "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
           "url": "",
-          "how": "The tour is offering VIP Packages for this event."
+          "how": "Paramount Venue Pre-Sale"
         },
         {
-          "name": "SLP Concerts Presale",
+          "name": "Paramount Season Partner & Partners",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2027-03-04T23:30:00Z",
+          "url": "",
+          "how": "Paramount Season Partner & Partners"
+        },
+        {
+          "name": "MCC Executive Level Members",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2027-03-04T23:30:00Z",
+          "url": "",
+          "how": "MCC Executive Level Members"
+        },
+        {
+          "name": "Madison County Alliance Pre-Sale",
           "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
           "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-21T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
+          "how": "Madison County Alliance Pre-Sale"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 64,
+      "seatgeek_url": "https://seatgeek.com/search?search=Hannah+Harper",
+      "score": 65,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 15.1,
         "scarcity": 17.7,
-        "markup": 15.1,
+        "markup": 22.4,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.55,
+        2.6
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
+        "est. 1.5-2.6x face",
         "5 presale(s)"
       ]
     },
@@ -7183,154 +7023,6 @@
         "small room (1,200 cap)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1ApZk4IGkdfr9ax",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-cincinnati-ohio-02-06-2027/event/16006568D4797262",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 32,
-      "venue": "Taft Theatre",
-      "city": "Cincinnati",
-      "state": "OH",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-07T01:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-02-07T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Artist"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-31T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 64,
-      "score_parts": {
-        "demand": 21.3,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1ApZk4JGkdpsGhe",
-      "name": "Grace Potter & The Trespassers, with Pokey LaFarge The Trespasser Tour",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-pokey-mckees-rocks-pennsylvania-01-20-2027/event/16006566D6C4C6C2",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 32,
-      "venue": "Roxian Theatre Presented By Citizens",
-      "city": "McKees Rocks",
-      "state": "PA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-20T23:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-21T01:30:00Z",
-      "presales": [
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-14T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 64,
-      "score_parts": {
-        "demand": 21.3,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
       ]
     },
     {
@@ -7463,80 +7155,6 @@
         "~1,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZk4JGkeBFXBX",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-portland-maine-01-15-2027/event/01006566BA23EEBE",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 32,
-      "venue": "State Theatre",
-      "city": "Portland",
-      "state": "ME",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-16T00:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-16T00:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-09T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 64,
-      "score_parts": {
-        "demand": 21.3,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -7959,107 +7577,6 @@
       ]
     },
     {
-      "id": "G5diZ_pQp7KdD",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-new-york-new-york-01-23-2027/event/3B006566961130FB",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 32,
-      "venue": "Beacon Theatre",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 2894,
-      "capacity_source": "exact",
-      "event_date": "2027-01-24T01:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-24T01:30:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Amex Presale Tickets\u2122",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
-          "how": "Exclusive Presale for American Express Cardholders"
-        },
-        {
-          "name": "Bowery Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "City National Bank Preferred Seating",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Verizon Shine Featured Venues",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2026-12-13T15:00:00Z",
-          "url": "",
-          "how": "For Verizon Shine Members"
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-17T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 63,
-      "score_parts": {
-        "demand": 21.3,
-        "scarcity": 16.4,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,894 cap)",
-        "est. 1.3-2.1x face",
-        "8 presale(s)"
-      ]
-    },
-    {
       "id": "vv17FZ_4GkDT0MwT",
       "name": "LSDREAM: BEE HERE NOW TOUR",
       "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-philadelphia-pennsylvania-03-12-2027/event/0200655EFF937CBF",
@@ -8310,7 +7827,7 @@
         "The Menzingers",
         "Weakened Friends"
       ],
-      "artist_upcoming": 26,
+      "artist_upcoming": 25,
       "venue": "Jefferson Theater",
       "city": "Charlottesville",
       "state": "VA",
@@ -8333,7 +7850,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Menzingers",
       "score": 63,
       "score_parts": {
-        "demand": 20.0,
+        "demand": 19.8,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8668,6 +8185,86 @@
         "~1,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk4JGkey_Jxg",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-washington-district-of-columbia-01-30-2027/event/15006566B96668B5",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "The Anthem",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 6000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-31T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-31T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AGP Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "I.M.P. Email Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-24T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 61,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 12.8,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -10229,6 +9826,51 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AAAk_E",
+      "name": "Grace Potter & The Trespassers - Ages 18+",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_E",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Palace Theatre-MN",
+      "city": "St. Paul",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-13T01:30:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-02-13T01:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
       "id": "G5dIZ_49DwMQo",
       "name": "Ricky Montgomery: The Monty Tour",
       "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-houston-texas-04-05-2027/event/3A006555FBCB7691",
@@ -10506,7 +10148,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "Turner Hall Ballroom",
       "city": "Milwaukee",
       "state": "WI",
@@ -10536,7 +10178,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 72,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 20.7,
         "markup": 18.2,
         "timing": 10.0
@@ -10550,7 +10192,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (1,200 cap)",
         "~1,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -10570,7 +10212,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "House of Blues Chicago",
       "city": "Chicago",
       "state": "IL",
@@ -10628,7 +10270,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 69,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -10642,7 +10284,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
         "6 presale(s)"
@@ -10661,7 +10303,7 @@
         "If Not For Me",
         "FKA Rayne"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 42,
       "venue": "Varsity Theater",
       "city": "Minneapolis",
       "state": "MN",
@@ -10719,7 +10361,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Funeral+Portrait",
       "score": 69,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 22.9,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -10733,7 +10375,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "42 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -11226,7 +10868,7 @@
       "artists": [
         "Hannah Harper"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "VBC Mars Music Hall",
       "city": "Huntsville",
       "state": "AL",
@@ -11256,7 +10898,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hannah+Harper",
       "score": 66,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 18.7,
         "markup": 22.4,
         "timing": 10.0
@@ -11326,6 +10968,72 @@
         "~500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_pjIr8Dt",
+      "name": "Bone Thugs-N-Harmony",
+      "url": "https://www.ticketmaster.com/bone-thugsnharmony-dallas-texas-01-22-2027/event/0C00656728790EE9",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Bone Thugs-N-Harmony",
+        "DJ Quik"
+      ],
+      "artist_upcoming": 11,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-23T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-01-23T03:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2026-12-26T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
+      "score": 65,
+      "score_parts": {
+        "demand": 15.1,
+        "scarcity": 18.2,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -11438,7 +11146,7 @@
       "artists": [
         "Hannah Harper"
       ],
-      "artist_upcoming": 10,
+      "artist_upcoming": 11,
       "venue": "The Ellis Theater",
       "city": "Philadelphia",
       "state": "MS",
@@ -11468,7 +11176,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Hannah+Harper",
       "score": 65,
       "score_parts": {
-        "demand": 14.6,
+        "demand": 15.1,
         "scarcity": 17.7,
         "markup": 22.4,
         "timing": 10.0
@@ -11582,81 +11290,6 @@
       ]
     },
     {
-      "id": "vv1A7Zk40Gkd4dBdD",
-      "name": "Boundaries",
-      "url": "https://www.ticketmaster.com/boundaries-chicago-illinois-03-17-2027/event/04006564D50FA0FB",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Boundaries",
-        "Spite",
-        "The Callous Daoboys",
-        "Your Spirit Dies"
-      ],
-      "artist_upcoming": 30,
-      "venue": "House of Blues Chicago",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-17T23:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-03-17T23:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-02-18T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
-      "score": 64,
-      "score_parts": {
-        "demand": 20.9,
-        "scarcity": 18.2,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
-      ]
-    },
-    {
       "id": "vv1kvZvPb-GA2v5eQ",
       "name": "Midnight Generation - Rooted Tour 2027",
       "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-chicago-illinois-05-08-2027/event/040065621F04B09A",
@@ -11733,6 +11366,81 @@
         "small room (2,000 cap)",
         "est. 1.3-2.1x face",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk40Gkd4dBdD",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-chicago-illinois-03-17-2027/event/04006564D50FA0FB",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
+      ],
+      "artist_upcoming": 30,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-03-17T23:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-03-17T23:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-02-18T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.2,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -12581,48 +12289,6 @@
       ]
     },
     {
-      "id": "vvG1YZ_pjIr8Dt",
-      "name": "Bone Thugs-N-Harmony",
-      "url": "https://www.ticketmaster.com/bone-thugsnharmony-dallas-texas-01-22-2027/event/0C00656728790EE9",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "Bone Thugs-N-Harmony"
-      ],
-      "artist_upcoming": 11,
-      "venue": "House of Blues Dallas ",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-01-23T01:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-01-23T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Bone+Thugs-N-Harmony",
-      "score": 61,
-      "score_parts": {
-        "demand": 15.1,
-        "scarcity": 18.2,
-        "markup": 21.4,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.5-2.5x face"
-      ]
-    },
-    {
       "id": "11F8v0jyjya8vC",
       "name": "Todd Rundgren: DAMNED IF I DO TOUR",
       "url": "https://www.ticketmaster.com/todd-rundgren-damned-if-i-do-waukee-iowa-04-13-2027/event/210064739739250D",
@@ -13149,7 +12815,7 @@
         },
         {
           "name": "VIP Packages Presale",
-          "start": "2026-11-11T16:00:00Z",
+          "start": "2026-11-11T15:00:00Z",
           "end": "2026-11-13T04:00:00Z",
           "url": "",
           "how": "The artist is offering VIP Packages for this event."
@@ -13343,6 +13009,51 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AAAk_S",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_S",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Treefort Music Hall",
+      "city": "Boise",
+      "state": "ID",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-17T01:30:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-03-17T01:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 74,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 18.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
       "id": "G5vzZ_p5OIpD1",
       "name": "Beach Bunny: Out of Office Tour",
       "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-denver-colorado-03-21-2027/event/1E006562E0A16ECA",
@@ -13417,6 +13128,73 @@
       ]
     },
     {
+      "id": "1A_Zk4JGkdj3Ibg",
+      "name": "Grace Potter & The Trespassers: The Trespassers Tour @ Rialto Theatre",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-the-trespassers-tucson-arizona-03-04-2027/event/19006566DC4A8635",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Rialto Theatre-Tucson",
+      "city": "Tucson",
+      "state": "AZ",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-05T03:00:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-03-05T08:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T16:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T17:00:00Z",
+          "end": "2027-02-26T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 70,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "G5vzZ_4BwjAlL",
       "name": "Clint Black: Number 1s Live On Tour",
       "url": "https://www.ticketmaster.com/clint-black-number-1s-live-on-grand-junction-colorado-04-08-2027/event/1E00655EB2705ADF",
@@ -13487,82 +13265,6 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vzZ_pp88eEO",
-      "name": "Boundaries",
-      "url": "https://www.ticketmaster.com/boundaries-denver-colorado-03-13-2027/event/1E006565904029E0",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Boundaries",
-        "Spite",
-        "The Callous Daoboys",
-        "Your Spirit Dies"
-      ],
-      "artist_upcoming": 30,
-      "venue": "Summit Music Hall",
-      "city": "Denver",
-      "state": "CO",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-14T01:00:00Z",
-      "onsale_start": "2026-11-13T17:00:00Z",
-      "onsale_end": "2027-03-14T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T17:00:00Z",
-          "end": "2026-11-13T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T17:00:00Z",
-          "end": "2026-11-13T05:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T17:00:00Z",
-          "end": "2027-02-14T05:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T17:00:00Z",
-          "end": "2026-11-13T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
-      "score": 65,
-      "score_parts": {
-        "demand": 20.9,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
         "4 presale(s)"
       ]
     },
@@ -13661,39 +13363,63 @@
       ]
     },
     {
-      "id": "1A_Zk4JGkdj3Ibg",
-      "name": "Grace Potter & The Trespassers: The Trespassers Tour @ Rialto Theatre",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-the-trespassers-tucson-arizona-03-04-2027/event/19006566DC4A8635",
+      "id": "G5vzZ_pp88eEO",
+      "name": "Boundaries",
+      "url": "https://www.ticketmaster.com/boundaries-denver-colorado-03-13-2027/event/1E006565904029E0",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Grace Potter"
+        "Boundaries",
+        "Spite",
+        "The Callous Daoboys",
+        "Your Spirit Dies"
       ],
-      "artist_upcoming": 32,
-      "venue": "Rialto Theatre-Tucson",
-      "city": "Tucson",
-      "state": "AZ",
-      "capacity": 2200,
+      "artist_upcoming": 30,
+      "venue": "Summit Music Hall",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1800,
       "capacity_source": "venue type",
-      "event_date": "2027-03-05T03:00:00Z",
+      "event_date": "2027-03-14T01:00:00Z",
       "onsale_start": "2026-11-13T17:00:00Z",
-      "onsale_end": "2027-03-05T08:00:00Z",
+      "onsale_end": "2027-03-14T03:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
           "start": "2026-11-11T17:00:00Z",
           "end": "2026-11-13T05:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T17:00:00Z",
+          "end": "2027-02-14T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 64,
+      "seatgeek_url": "https://seatgeek.com/search?search=Boundaries",
+      "score": 65,
       "score_parts": {
-        "demand": 21.3,
-        "scarcity": 17.7,
+        "demand": 20.9,
+        "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -13706,10 +13432,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "1 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -13776,6 +13502,188 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk_s",
+      "name": "Grace Potter",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_s",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Lensic Performing Arts Center",
+      "city": "Santa Fe",
+      "state": "NM",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-03T02:30:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-03-03T02:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk_V",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_V",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Jackson Hole Center For The Arts",
+      "city": "Jackson",
+      "state": "WY",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-18T01:30:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-03-18T01:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face"
+      ]
+    },
+    {
+      "id": "G5vzZ_phLM6bi",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-denver-colorado-02-27-2027/event/1E006566DFDC762C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Fillmore Auditorium (Denver)",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 4000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-28T01:30:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-02-28T03:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T17:00:00Z",
+          "end": "2027-02-14T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Denver Presale",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T17:00:00Z",
+          "end": "2026-11-13T16:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T17:00:00Z",
+          "end": "2027-02-21T05:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 63,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 14.8,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "~4,000 cap (from venue type)",
+        "est. 1.3-2.0x face",
+        "7 presale(s)"
       ]
     },
     {
@@ -13985,6 +13893,51 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AAA64s",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA64s",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "McMenamins Crystal Ballroom",
+      "city": "Portland",
+      "state": "OR",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-27T02:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-27T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 76,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 20.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
       "id": "vv170Z_4GkVvC0yc",
       "name": "Ricky Montgomery: The Monty Tour",
       "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-santa-ana-california-05-11-2027/event/0900655D013A4E6D",
@@ -14137,6 +14090,139 @@
       ]
     },
     {
+      "id": "G5vYZ_php4sdr",
+      "name": "Grace Potter & The Trespassers w/ Langhorne Slim - The Trespasser Tour",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-w-langhorne-san-francisco-california-03-11-2027/event/1C006566D65710DE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "The Fillmore",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-12T04:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-12T06:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-02-26T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-05T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 74,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 20.9,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.4-2.3x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk_O",
+      "name": "Grace Potter w/ Pokey LaFarge",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_O",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "College Street Music Hall",
+      "city": "New Haven",
+      "state": "CT",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-18T00:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-01-18T00:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 74,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 18.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
       "id": "vv1AaZk40GkeWzDJH",
       "name": "Beach Bunny: Out of Office Tour",
       "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-los-angeles-california-03-12-2027/event/09006564BDE3B9BC",
@@ -14207,6 +14293,410 @@
         "small room (1,850 cap)",
         "est. 1.6-2.7x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk_-",
+      "name": "Grace Potter w/ Pokey LaFarge",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_-",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "The Capitol Theatre - Rome",
+      "city": "Rome",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-23T01:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-01-23T01:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk_x",
+      "name": "Grace Potter w/ Pokey LaFarge",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_x",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Patchogue Theater",
+      "city": "Patchogue",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-25T00:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-01-25T00:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk_P",
+      "name": "Grace Potter w/ Pokey LaFarge",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_P",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Capitol Theatre - IA",
+      "city": "Davenport",
+      "state": "IA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-11T01:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-02-11T01:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk_J",
+      "name": "Grace Potter w/ Pokey LaFarge",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_J",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Pabst Theater",
+      "city": "Milwaukee",
+      "state": "WI",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-12T01:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-02-12T01:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk__",
+      "name": "Grace Potter",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk__",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Paramount Theatre - VT",
+      "city": "Rutland",
+      "state": "VT",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-15T01:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-01-15T01:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAA64E",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA64E",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Golden State Theatre",
+      "city": "Monterey",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-11T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-11T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAA64I",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA64I",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Cascade Theater",
+      "city": "Redding",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-15T02:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-15T02:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAA64t",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA64t",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Holly Theatre",
+      "city": "Medford",
+      "state": "OR",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-25T02:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-25T02:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAA64Y",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAA64Y",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "McDonald Theatre",
+      "city": "Eugene",
+      "state": "OR",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-26T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-26T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 73,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 25,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.75,
+        2.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.8-2.9x face"
       ]
     },
     {
@@ -14296,6 +14786,80 @@
       ]
     },
     {
+      "id": "G5vYZ_pPQswad",
+      "name": "Grace Potter & The Trespassers, with Support",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-support-napa-california-03-13-2027/event/1C0065695AC72243",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Uptown Theatre Napa",
+      "city": "Napa",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-14T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-14T05:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Membership Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.uptowntheatrenapa.com/membership/",
+          "how": "Members only access."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-07T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 70,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1iZ_pCNBxBG",
       "name": "Midnight Generation - Rooted Tour 2027",
       "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-san-diego-california-05-22-2027/event/0B006563A3EA2E8C",
@@ -14375,163 +14939,47 @@
       ]
     },
     {
-      "id": "G5vYZ_php4sdr",
-      "name": "Grace Potter & The Trespassers w/ Langhorne Slim - The Trespasser Tour",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-w-langhorne-san-francisco-california-03-11-2027/event/1C006566D65710DE",
+      "id": "Z7r9jZ1AAAk_w",
+      "name": "Grace Potter w/ Langhorne Slim",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_w",
       "segment": "Music",
-      "genre": "Rock",
+      "genre": "Pop",
       "artists": [
         "Grace Potter",
         "Langhorne Slim"
       ],
-      "artist_upcoming": 32,
-      "venue": "The Fillmore",
-      "city": "San Francisco",
+      "artist_upcoming": 56,
+      "venue": "Bridges Auditorium - Pomona College",
+      "city": "Claremont",
       "state": "CA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-03-12T04:00:00Z",
+      "capacity": 4000,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-10T03:00:00Z",
       "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-03-12T06:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-02-26T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-03-05T06:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
+      "onsale_end": "2027-03-10T03:00:00Z",
+      "presales": [],
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 67,
+      "score": 68,
       "score_parts": {
-        "demand": 21.3,
-        "scarcity": 20.9,
-        "markup": 15.1,
-        "timing": 10.0
+        "demand": 24.6,
+        "scarcity": 14.8,
+        "markup": 22.9,
+        "timing": 6.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.6,
+        2.6
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vYZ_p2T2wl5",
-      "name": "Getdown Services",
-      "url": "https://www.ticketmaster.com/getdown-services-san-francisco-california-04-23-2027/event/1C006563FF3F2ACB",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "Getdown Services",
-        "Antony Szmierek"
-      ],
-      "artist_upcoming": 24,
-      "venue": "The Fillmore",
-      "city": "San Francisco",
-      "state": "CA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-04-24T03:00:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-04-24T05:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T20:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-04-10T05:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Getdown+Services",
-      "score": 67,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 20.9,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
+        "56 upcoming dates (heavy routing)",
+        "~4,000 cap (from venue type)",
+        "est. 1.6-2.6x face"
       ]
     },
     {
@@ -14614,6 +15062,79 @@
       ]
     },
     {
+      "id": "G5vYZ_p2T2wl5",
+      "name": "Getdown Services",
+      "url": "https://www.ticketmaster.com/getdown-services-san-francisco-california-04-23-2027/event/1C006563FF3F2ACB",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "Getdown Services",
+        "Antony Szmierek"
+      ],
+      "artist_upcoming": 24,
+      "venue": "The Fillmore",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-04-24T03:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-04-24T05:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T20:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-04-10T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Getdown+Services",
+      "score": 67,
+      "score_parts": {
+        "demand": 19.6,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AaZk40GkdFmGts",
       "name": "Scott Bradlee's Postmodern Jukebox - The Future Is Vintage World Tour",
       "url": "https://www.ticketmaster.com/scott-bradlees-postmodern-jukebox-the-future-los-angeles-california-05-19-2027/event/09006564C8B8CA71",
@@ -14648,7 +15169,7 @@
         },
         {
           "name": "VIP Package Presale",
-          "start": "2026-11-11T20:00:00Z",
+          "start": "2026-11-11T18:00:00Z",
           "end": "2026-11-13T06:00:00Z",
           "url": "",
           "how": "The artist is offering VIP Packages for this event."
@@ -14662,7 +15183,7 @@
         },
         {
           "name": "Artist Presale",
-          "start": "2026-11-11T20:00:00Z",
+          "start": "2026-11-11T18:00:00Z",
           "end": "2026-11-13T06:00:00Z",
           "url": "",
           "how": "Artist Presale"
@@ -14973,76 +15494,47 @@
       ]
     },
     {
-      "id": "G5vYZ_pPQswad",
-      "name": "Grace Potter & The Tresspassers, with Support",
-      "url": "https://www.ticketmaster.com/grace-potter-the-tresspassers-with-support-napa-california-03-13-2027/event/1C0065695AC72243",
+      "id": "Z7r9jZ1AAAk_N",
+      "name": "Grace Potter & The Trespassers - Ages 21+",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_N",
       "segment": "Music",
-      "genre": "Rock",
+      "genre": "Pop",
       "artists": [
-        "Grace Potter"
+        "Grace Potter",
+        "Pokey LaFarge"
       ],
-      "artist_upcoming": 32,
-      "venue": "Uptown Theatre Napa",
-      "city": "Napa",
-      "state": "CA",
-      "capacity": 2200,
+      "artist_upcoming": 56,
+      "venue": "Xcite Center",
+      "city": "Bensalem",
+      "state": "PA",
+      "capacity": 10000,
       "capacity_source": "venue type",
-      "event_date": "2027-03-14T03:00:00Z",
+      "event_date": "2027-01-30T01:00:00Z",
       "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-03-14T05:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Membership Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.uptowntheatrenapa.com/membership/",
-          "how": "Members only access."
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T17:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-03-07T06:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
+      "onsale_end": "2027-01-30T01:00:00Z",
+      "presales": [],
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 64,
       "score_parts": {
-        "demand": 21.3,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
+        "demand": 24.6,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 6.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.6,
+        2.6
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "56 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face"
       ]
     },
     {
@@ -16453,9 +16945,9 @@
       ]
     },
     {
-      "id": "vv1AAZk43Gkdu1c7x",
+      "id": "vv1AAZk43Gkdu5W7i",
       "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-evansville-indiana-04-24-2027/event/05006552CD2AD122",
+      "url": "https://www.ticketmaster.com/monster-jam-evansville-indiana-04-25-2027/event/05006552CD2FD12C",
       "segment": "Sports",
       "genre": "Motorsports/Racing",
       "artists": [
@@ -16467,9 +16959,9 @@
       "state": "IN",
       "capacity": 10000,
       "capacity_source": "venue type",
-      "event_date": "2027-04-25T00:00:00Z",
+      "event_date": "2027-04-25T18:00:00Z",
       "onsale_start": "2026-11-17T16:00:00Z",
-      "onsale_end": "2027-04-25T00:00:00Z",
+      "onsale_end": "2027-04-25T18:00:00Z",
       "presales": [
         {
           "name": "Cyber Week",
@@ -16509,7 +17001,7 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-17T16:00:00Z",
-          "end": "2027-04-25T00:00:00Z",
+          "end": "2027-04-25T18:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -16627,9 +17119,9 @@
       ]
     },
     {
-      "id": "vv1AAZk43Gkdu5W7i",
+      "id": "vv1AAZk43Gkdu1c7x",
       "name": "Monster Jam",
-      "url": "https://www.ticketmaster.com/monster-jam-evansville-indiana-04-25-2027/event/05006552CD2FD12C",
+      "url": "https://www.ticketmaster.com/monster-jam-evansville-indiana-04-24-2027/event/05006552CD2AD122",
       "segment": "Sports",
       "genre": "Motorsports/Racing",
       "artists": [
@@ -16641,9 +17133,9 @@
       "state": "IN",
       "capacity": 10000,
       "capacity_source": "venue type",
-      "event_date": "2027-04-25T18:00:00Z",
+      "event_date": "2027-04-25T00:00:00Z",
       "onsale_start": "2026-11-17T16:00:00Z",
-      "onsale_end": "2027-04-25T18:00:00Z",
+      "onsale_end": "2027-04-25T00:00:00Z",
       "presales": [
         {
           "name": "Cyber Week",
@@ -16683,7 +17175,7 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-17T16:00:00Z",
-          "end": "2027-04-25T18:00:00Z",
+          "end": "2027-04-25T00:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -16722,7 +17214,7 @@
       "artists": [
         "Straight No Chaser"
       ],
-      "artist_upcoming": 48,
+      "artist_upcoming": 45,
       "venue": "McCallum Theatre",
       "city": "Palm Desert",
       "state": "CA",
@@ -16737,7 +17229,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Straight+No+Chaser",
       "score": 66,
       "score_parts": {
-        "demand": 23.7,
+        "demand": 23.3,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 0.0
@@ -16751,7 +17243,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "48 upcoming dates (heavy routing)",
+        "45 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
