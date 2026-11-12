@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-12T15:35:49Z",
-    "generated_local": "Thu 12 Nov, 8:35 AM",
-    "scanned": 1301,
-    "surfaced": 242,
-    "new": 19,
+    "generated_utc": "2026-11-12T17:43:33Z",
+    "generated_local": "Thu 12 Nov, 10:43 AM",
+    "scanned": 1303,
+    "surfaced": 246,
+    "new": 7,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2943,7 +2943,7 @@
       "artists": [
         "Pecos & The Rooftops"
       ],
-      "artist_upcoming": 6,
+      "artist_upcoming": 8,
       "venue": "Varsity Theater",
       "city": "Minneapolis",
       "state": "MN",
@@ -2964,9 +2964,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Pecos+%26+The+Rooftops",
-      "score": 62,
+      "score": 64,
       "score_parts": {
-        "demand": 11.8,
+        "demand": 13.4,
         "scarcity": 17.7,
         "markup": 22.4,
         "timing": 10.0
@@ -2984,6 +2984,49 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17jZ_pGkm2YwBn",
+      "name": "Pecos & The Rooftops",
+      "url": "https://www.ticketmaster.com/pecos-the-rooftops-madison-wisconsin-03-05-2027/event/0700656B8FC32EAA",
+      "segment": "Music",
+      "genre": "Country",
+      "artists": [
+        "Pecos & The Rooftops"
+      ],
+      "artist_upcoming": 8,
+      "venue": "Majestic Theatre",
+      "city": "Madison",
+      "state": "WI",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-06T02:00:00Z",
+      "onsale_start": "2026-11-12T16:01:00Z",
+      "onsale_end": "2027-03-06T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Pecos+%26+The+Rooftops",
+      "score": 60,
+      "score_parts": {
+        "demand": 13.4,
+        "scarcity": 17.7,
+        "markup": 22.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.6x face"
       ]
     },
     {
@@ -7720,6 +7763,94 @@
       ]
     },
     {
+      "id": "16pZk4xu6ZACCA1e",
+      "name": "Marcy Playground & Wheatus",
+      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-louisville-kentucky-04-03-2027/event/16006562347DD491",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Marcy Playground",
+        "Wheatus"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Mercury Ballroom",
+      "city": "Louisville",
+      "state": "KY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-04T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-04T02:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-28T02:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-03T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
+      "score": 63,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AeZk4xGke-O4L5",
       "name": "CLUTCH: Give the People What They Want!",
       "url": "https://www.ticketmaster.com/clutch-give-the-people-what-they-philadelphia-pennsylvania-04-02-2027/event/02006562A18157CB",
@@ -7946,94 +8077,6 @@
         "~500 cap (from venue type)",
         "est. 1.5-2.6x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "16pZk4xu6ZACCA1e",
-      "name": "Marcy Playground & Wheatus",
-      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-louisville-kentucky-04-03-2027/event/16006562347DD491",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Marcy Playground",
-        "Wheatus"
-      ],
-      "artist_upcoming": 14,
-      "venue": "Mercury Ballroom",
-      "city": "Louisville",
-      "state": "KY",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-04T00:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-04T02:00:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-28T02:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-04-03T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
-      "score": 62,
-      "score_parts": {
-        "demand": 16.5,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
       ]
     },
     {
@@ -8620,6 +8663,87 @@
       ]
     },
     {
+      "id": "vv1AvZk4NGkeY3z0_",
+      "name": "Marcy Playground & Wheatus (18+)",
+      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-18-boston-massachusetts-03-25-2027/event/01006563B04B8919",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Marcy Playground",
+        "Wheatus"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Brighton Music Hall presented by Citizens",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-25T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-26T01:00:00Z",
+      "presales": [
+        {
+          "name": "Wheatus Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-19T02:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
+      "score": 61,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
+      ]
+    },
+    {
       "id": "vv177Z_4GkDjc_OM",
       "name": "An Alleged Evening with Conor Oberst",
       "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-charlottesville-virginia-03-08-2027/event/0100655EDCB59837",
@@ -8676,70 +8800,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A8vPQ8GAG2Exk",
-      "name": "POP DIVAS and the Women Who Shaped Them",
-      "url": "https://www.ticketmaster.com/pop-divas-and-the-women-who-portsmouth-new-hampshire-01-23-2027/event/010065690C3E7886",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [],
-      "artist_upcoming": 0,
-      "venue": "Jimmy's Jazz and Blues Club",
-      "city": "Portsmouth",
-      "state": "NH",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-24T00:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-24T02:30:00Z",
-      "presales": [
-        {
-          "name": "Inner Circle & Benefactor Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "Inner Circle & Benefactor Presale"
-        },
-        {
-          "name": "Patron Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "Patron Presale"
-        },
-        {
-          "name": "Friends Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "Friends Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=POP+DIVAS+and+the+Women+Who+Shaped+Them",
-      "score": 61,
-      "score_parts": {
-        "demand": 4.0,
-        "scarcity": 22.7,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.6-2.7x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -8959,6 +9019,108 @@
       ]
     },
     {
+      "id": "vvG1zZ_p2TWpmp",
+      "name": "Marcy Playground & Wheatus",
+      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-atlanta-georgia-04-09-2027/event/0E006563FFF56B96",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Marcy Playground",
+        "Wheatus"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Buckhead Theatre by SCANA Energy",
+      "city": "Atlanta",
+      "state": "GA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-10T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-10T02:00:00Z",
+      "presales": [
+        {
+          "name": "WHEATUS PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "T-Mobile\u00ae Concert Perks",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-07T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LOCAL PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-03T02:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1VZ_4DkP1Or",
       "name": "Till Lindemann - World Tour 2027 (18+)",
       "url": "https://www.ticketmaster.com/till-lindemann-world-tour-2027-18-miami-beach-florida-05-06-2027/event/0D00655EC694A81E",
@@ -9068,6 +9230,94 @@
       ]
     },
     {
+      "id": "k7v1Ak4JZbZACGkkk",
+      "name": "Marcy Playground & Wheatus",
+      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-new-york-new-york-03-23-2027/event/00006566018DB555",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Marcy Playground",
+        "Wheatus"
+      ],
+      "artist_upcoming": 16,
+      "venue": "Gramercy Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-23T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-24T01:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-07T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Wheatus Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-17T02:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
+      "score": 60,
+      "score_parts": {
+        "demand": 17.2,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AAZk4xGkdZFJdA",
       "name": "Marcy Playgound & Wheatus",
       "url": "https://www.ticketmaster.com/marcy-playgound-wheatus-cleveland-ohio-03-30-2027/event/05006562C02260C5",
@@ -9077,7 +9327,7 @@
         "Marcy Playground",
         "Wheatus"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 16,
       "venue": "House of Blues Cleveland",
       "city": "Cleveland",
       "state": "OH",
@@ -9135,7 +9385,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
       "score": 60,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 17.2,
         "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
@@ -9227,87 +9477,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZk4NGkeY3z0_",
-      "name": "Marcy Playground & Wheatus (18+)",
-      "url": "https://www.ticketmaster.com/marcy-playground-wheatus-18-boston-massachusetts-03-25-2027/event/01006563B04B8919",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Marcy Playground",
-        "Wheatus"
-      ],
-      "artist_upcoming": 14,
-      "venue": "Brighton Music Hall presented by Citizens",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-25T23:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-26T01:00:00Z",
-      "presales": [
-        {
-          "name": "Wheatus Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-19T02:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
-      "score": 60,
-      "score_parts": {
-        "demand": 16.5,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
       ]
     },
     {
@@ -9513,72 +9682,6 @@
         "~2,500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A8vPQ8GA56ECd",
-      "name": "The Smithereens",
-      "url": "https://www.ticketmaster.com/the-smithereens-portsmouth-new-hampshire-01-22-2027/event/010065690B1E7383",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Smithereens"
-      ],
-      "artist_upcoming": 7,
-      "venue": "Jimmy's Jazz and Blues Club",
-      "city": "Portsmouth",
-      "state": "NH",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-23T00:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-23T02:30:00Z",
-      "presales": [
-        {
-          "name": "Inner Circle & Benefactor Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "Inner Circle & Benefactor Presale"
-        },
-        {
-          "name": "Patron Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "Patron Presale"
-        },
-        {
-          "name": "Friends Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "Friends Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Smithereens",
-      "score": 60,
-      "score_parts": {
-        "demand": 12.6,
-        "scarcity": 22.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -10700,55 +10803,76 @@
       ]
     },
     {
-      "id": "G5viZ_pfe4Qsh",
-      "name": "An Evening With the Mountain Goats (SOLO)",
-      "url": "https://www.ticketmaster.com/an-evening-with-the-mountain-goats-memphis-tennessee-01-23-2027/event/1B0065650255AC5B",
+      "id": "vv16kZk4EaAZA8F1GC",
+      "name": "comehelpglo",
+      "url": "https://www.ticketmaster.com/comehelpglo-minneapolis-minnesota-02-26-2027/event/06006567245F79BD",
       "segment": "Music",
-      "genre": "Rock",
+      "genre": "Hip-Hop/Rap",
       "artists": [
-        "The Mountain Goats"
+        "comehelpglo"
       ],
-      "artist_upcoming": 12,
-      "venue": "1884 Lounge",
-      "city": "Memphis",
-      "state": "TN",
-      "capacity": 500,
+      "artist_upcoming": 14,
+      "venue": "Varsity Theater",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-01-24T02:00:00Z",
+      "event_date": "2027-02-27T01:00:00Z",
       "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-01-24T06:00:00Z",
+      "onsale_end": "2027-02-27T03:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
-          "start": "2026-11-12T16:00:00Z",
+          "start": "2026-11-12T18:00:00Z",
           "end": "2026-11-13T16:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T16:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T16:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-01-30T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=The+Mountain+Goats",
+      "seatgeek_url": "https://seatgeek.com/search?search=comehelpglo",
       "score": 66,
       "score_parts": {
-        "demand": 15.6,
-        "scarcity": 25.0,
-        "markup": 15.1,
+        "demand": 16.5,
+        "scarcity": 17.7,
+        "markup": 21.4,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.1
+        1.55,
+        2.5
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (500 cap)",
-        "~500 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -12276,7 +12400,7 @@
         "Marcy Playground",
         "Wheatus"
       ],
-      "artist_upcoming": 14,
+      "artist_upcoming": 16,
       "venue": "House of Blues Chicago",
       "city": "Chicago",
       "state": "IL",
@@ -12334,7 +12458,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Marcy+Playground",
       "score": 60,
       "score_parts": {
-        "demand": 16.5,
+        "demand": 17.2,
         "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
@@ -13900,7 +14024,7 @@
         {
           "name": "VIP Packages Presale",
           "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
           "url": "",
           "how": "The tour is offering VIP Packages for this event."
         },
@@ -14191,7 +14315,7 @@
       "artists": [
         "The Offspring"
       ],
-      "artist_upcoming": 35,
+      "artist_upcoming": 38,
       "venue": "The Venetian Theatre at The Venetian Resort",
       "city": "Las Vegas",
       "state": "NV",
@@ -14242,7 +14366,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Offspring",
       "score": 65,
       "score_parts": {
-        "demand": 21.8,
+        "demand": 22.3,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -15781,12 +15905,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=John+Michael+Howell",
-      "score": 64,
+      "score": 67,
       "score_parts": {
         "demand": 14.0,
         "scarcity": 18.7,
         "markup": 24.5,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -16284,6 +16408,140 @@
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_p9JLP2j",
+      "name": "The Rock Orchestra",
+      "url": "https://www.ticketmaster.com/the-rock-orchestra-dallas-texas-04-08-2027/event/0C006565E67E53DC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "The Rock Orchestra",
+        "Broadway Dallas"
+      ],
+      "artist_upcoming": 141,
+      "venue": "Music Hall At Fair Park",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-09T01:00:00Z",
+      "onsale_start": "2026-11-18T16:00:00Z",
+      "onsale_end": "2027-04-09T01:00:00Z",
+      "presales": [
+        {
+          "name": "Venue/ATTPAC Presale",
+          "start": "2026-11-16T16:00:00Z",
+          "end": "2026-11-18T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Marketing and Radio Presales",
+          "start": "2026-11-16T16:00:00Z",
+          "end": "2026-11-18T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Marketing and Past Buyer Presale",
+          "start": "2026-11-17T16:00:00Z",
+          "end": "2026-11-18T05:59:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=The+Rock+Orchestra",
+      "score": 72,
+      "score_parts": {
+        "demand": 28,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "141 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1k7Z_pbvG7sogY",
+      "name": "Sam Fender: North America Tour '27",
+      "url": "https://www.ticketmaster.com/sam-fender-north-america-tour-27-boston-massachusetts-04-20-2027/event/0100656601C51D70",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Sam Fender"
+      ],
+      "artist_upcoming": 28,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-21T00:00:00Z",
+      "onsale_start": "2026-11-19T15:00:00Z",
+      "onsale_end": "2027-04-21T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-17T15:00:00Z",
+          "end": "2026-11-19T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Discord Presale",
+          "start": "2026-11-17T17:00:00Z",
+          "end": "2026-11-19T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sam+Fender",
+      "score": 61,
+      "score_parts": {
+        "demand": 20.5,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -16982,6 +17240,79 @@
       ]
     },
     {
+      "id": "vvG1HZ_pmBC1YG",
+      "name": "Sam Fender: North America Tour '27",
+      "url": "https://www.ticketmaster.com/sam-fender-north-america-tour-27-seattle-washington-05-07-2027/event/0F00656BBA38AC0C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Sam Fender"
+      ],
+      "artist_upcoming": 28,
+      "venue": "WAMU Theater",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-08T03:00:00Z",
+      "onsale_start": "2026-11-19T18:00:00Z",
+      "onsale_end": "2027-05-08T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-17T18:00:00Z",
+          "end": "2026-11-19T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Discord Presale",
+          "start": "2026-11-17T20:00:00Z",
+          "end": "2026-11-19T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AEG Presale",
+          "start": "2026-11-18T18:00:00Z",
+          "end": "2026-11-19T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-18T18:00:00Z",
+          "end": "2026-11-19T06:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sam+Fender",
+      "score": 60,
+      "score_parts": {
+        "demand": 20.5,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 7.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AeZk4tGkeYVMEy",
       "name": "Haute & Freddy - Bigger Disgrace Tour",
       "url": "https://www.ticketmaster.com/haute-freddy-bigger-disgrace-tour-philadelphia-pennsylvania-05-04-2027/event/02006569B0D379F9",
@@ -16990,7 +17321,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "The Fillmore Philadelphia",
       "city": "Philadelphia",
       "state": "PA",
@@ -17005,7 +17336,7 @@
           "start": "2026-11-17T15:00:00Z",
           "end": "2026-11-20T03:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "Reserved by Spotify",
@@ -17034,6 +17365,20 @@
           "end": "2026-11-20T03:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-16T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-30T16:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -17041,7 +17386,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
       "score": 72,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.9,
         "markup": 24.5,
         "timing": 7.0
@@ -17057,7 +17402,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.6-2.7x face",
-        "5 presale(s)"
+        "7 presale(s)"
       ]
     },
     {
@@ -17069,7 +17414,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Citizens House of Blues Boston",
       "city": "Boston",
       "state": "MA",
@@ -17120,7 +17465,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
       "score": 69,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 7.0
@@ -17148,7 +17493,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "House of Blues Orlando",
       "city": "Orlando",
       "state": "FL",
@@ -17213,7 +17558,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
       "score": 69,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 7.0
@@ -17241,7 +17586,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "House of Blues Cleveland",
       "city": "Cleveland",
       "state": "OH",
@@ -17299,7 +17644,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
       "score": 69,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 7.0
@@ -17327,7 +17672,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "The Fillmore Minneapolis presented by Affinity Plus",
       "city": "Minneapolis",
       "state": "MN",
@@ -17342,7 +17687,7 @@
           "start": "2026-11-17T16:00:00Z",
           "end": "2026-11-20T04:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "Affinity Plus Credit Union Presale",
@@ -17378,17 +17723,31 @@
           "end": "2027-04-14T03:00:00Z",
           "url": "",
           "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-16T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-05-07T17:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
-      "score": 69,
+      "score": 72,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 20.9,
         "markup": 24.5,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -17401,7 +17760,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.6-2.7x face",
-        "6 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -17413,7 +17772,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "House of Blues Houston",
       "city": "Houston",
       "state": "TX",
@@ -17462,12 +17821,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
-      "score": 66,
+      "score": 69,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 18.2,
         "markup": 24.5,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -17492,7 +17851,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "House of Blues Dallas ",
       "city": "Dallas",
       "state": "TX",
@@ -17541,12 +17900,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
-      "score": 66,
+      "score": 69,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 18.2,
         "markup": 24.5,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -17571,7 +17930,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -17634,12 +17993,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
-      "score": 66,
+      "score": 70,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 18.7,
         "markup": 24.5,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -17665,7 +18024,7 @@
       "artists": [
         "Haute & Freddy"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 24,
       "venue": "Neptune Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -17709,7 +18068,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Haute+%26+Freddy",
       "score": 66,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 4.0
