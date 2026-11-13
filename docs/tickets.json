@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-13T17:21:59Z",
-    "generated_local": "Fri 13 Nov, 10:21 AM",
-    "scanned": 1290,
+    "generated_utc": "2026-11-13T18:42:43Z",
+    "generated_local": "Fri 13 Nov, 11:42 AM",
+    "scanned": 1301,
     "surfaced": 305,
-    "new": 60,
+    "new": 2,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2985,7 +2985,7 @@
       "artists": [
         "Ricky Montgomery"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "The Fillmore Silver Spring",
       "city": "Silver Spring",
       "state": "MD",
@@ -3050,7 +3050,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
       "score": 76,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 20.9,
         "markup": 24.5,
         "timing": 10.0
@@ -3197,7 +3197,7 @@
       "artists": [
         "Ricky Montgomery"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "Saint Andrew's Hall",
       "city": "Detroit",
       "state": "MI",
@@ -3255,7 +3255,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
       "score": 75,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 19.6,
         "markup": 24.5,
         "timing": 10.0
@@ -3358,6 +3358,92 @@
       "reasons": [
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_4GkMU6YcH",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-boston-massachusetts-04-18-2027/event/0100655DF61F0B7C",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-18T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-19T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-13T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 74,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
         "est. 1.6-2.7x face",
         "6 presale(s)"
       ]
@@ -3589,92 +3675,6 @@
       ]
     },
     {
-      "id": "vv177Z_4GkMU6YcH",
-      "name": "Ricky Montgomery: The Monty Tour",
-      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-boston-massachusetts-04-18-2027/event/0100655DF61F0B7C",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Ricky Montgomery"
-      ],
-      "artist_upcoming": 28,
-      "venue": "Citizens House of Blues Boston",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-18T23:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-19T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-04-13T21:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
-      "score": 73,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AvZk40GkdoXjON",
       "name": "Beach Bunny: Out of Office Tour with special guest Daisy Grenade",
       "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-boston-massachusetts-04-12-2027/event/01006564D1F9C823",
@@ -3749,7 +3749,7 @@
       "artists": [
         "Ricky Montgomery"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "The Wellmont Theater",
       "city": "Montclair",
       "state": "NJ",
@@ -3793,7 +3793,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
       "score": 73,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -3822,7 +3822,7 @@
       "artists": [
         "Ricky Montgomery"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "Theatre of Living Arts",
       "city": "Philadelphia",
       "state": "PA",
@@ -3880,7 +3880,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
       "score": 73,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -4127,6 +4127,87 @@
       ]
     },
     {
+      "id": "vv1AvZk4PGkd0q4Bh",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-boston-massachusetts-01-16-2027/event/01006565E4755E9B",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Citizens House of Blues Boston",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-16T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-17T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-10T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 71,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 18.2,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.3x face",
+        "5 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AFZk4xGketddmE",
       "name": "WRIF Presents: The Funeral Portrait - A Hex On The Nation",
       "url": "https://www.ticketmaster.com/wrif-presents-the-funeral-portrait-a-detroit-michigan-03-18-2027/event/08006562A90C3BA7",
@@ -4219,87 +4300,6 @@
       ]
     },
     {
-      "id": "vv1AvZk4PGkd0q4Bh",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-boston-massachusetts-01-16-2027/event/01006565E4755E9B",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 49,
-      "venue": "Citizens House of Blues Boston",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-01-16T23:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-17T01:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-10T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 70,
-      "score_parts": {
-        "demand": 23.8,
-        "scarcity": 18.2,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "49 upcoming dates (heavy routing)",
-        "small room (2,000 cap)",
-        "est. 1.4-2.3x face",
-        "5 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AeZk4JGkdhzTfh",
       "name": "Grace Potter & The Trespassers, with Pokey LaFarge",
       "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-with-pokey-hershey-pennsylvania-01-27-2027/event/02006566DBE3F51B",
@@ -4309,7 +4309,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Hershey Theatre",
       "city": "Hershey",
       "state": "PA",
@@ -4360,7 +4360,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 70,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -4374,7 +4374,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -4391,7 +4391,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Taft Theatre",
       "city": "Cincinnati",
       "state": "OH",
@@ -4428,7 +4428,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 70,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -4442,7 +4442,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -4459,7 +4459,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Roxian Theatre Presented By Citizens",
       "city": "McKees Rocks",
       "state": "PA",
@@ -4510,7 +4510,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 70,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -4524,7 +4524,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -4541,7 +4541,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "State Theatre",
       "city": "Portland",
       "state": "ME",
@@ -4585,7 +4585,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 70,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -4599,11 +4599,201 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5diZ_pQp7KdD",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-new-york-new-york-01-23-2027/event/3B006566961130FB",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Beacon Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2894,
+      "capacity_source": "exact",
+      "event_date": "2027-01-24T01:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-24T01:30:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Amex Presale Tickets\u2122",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
+          "how": "Exclusive Presale for American Express Cardholders"
+        },
+        {
+          "name": "Bowery Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "City National Bank Preferred Seating",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Verizon Shine Featured Venues",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2026-12-13T15:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-17T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 69,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 16.4,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (2,894 cap)",
+        "est. 1.4-2.3x face",
+        "8 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17FZ_4GkDT0MwT",
+      "name": "LSDREAM: BEE HERE NOW TOUR",
+      "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-philadelphia-pennsylvania-03-12-2027/event/0200655EFF937CBF",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "LSDREAM",
+        "Sippy",
+        "HEADNOX"
+      ],
+      "artist_upcoming": 34,
+      "venue": "The Fillmore Philadelphia",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-13T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-13T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-06T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-05T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=LSDREAM",
+      "score": 69,
+      "score_parts": {
+        "demand": 21.6,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -4741,6 +4931,87 @@
         "small room (1,150 cap)",
         "est. 1.5-2.6x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_4GkS4SHMh",
+      "name": "Silversun Pickups: Tenterhooks Tour (18+)",
+      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-18-boston-massachusetts-03-09-2027/event/0100655CD5CFCDDB",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Silversun Pickups",
+        "Hannah Cole"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Paradise Rock Club presented by Citizens",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-09T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-10T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citizens Bank Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
+          "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-28T04:59:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
+      "score": 69,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 22.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -4962,108 +5233,6 @@
       ]
     },
     {
-      "id": "G5diZ_pQp7KdD",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-new-york-new-york-01-23-2027/event/3B006566961130FB",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 49,
-      "venue": "Beacon Theatre",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 2894,
-      "capacity_source": "exact",
-      "event_date": "2027-01-24T01:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-24T01:30:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Amex Presale Tickets\u2122",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.americanexpress.com/en-us/benefits/entertainment/",
-          "how": "Exclusive Presale for American Express Cardholders"
-        },
-        {
-          "name": "Bowery Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "City National Bank Preferred Seating",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Verizon Shine Featured Venues",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2026-12-13T15:00:00Z",
-          "url": "",
-          "how": "For Verizon Shine Members"
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-17T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 68,
-      "score_parts": {
-        "demand": 23.8,
-        "scarcity": 16.4,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "49 upcoming dates (heavy routing)",
-        "small room (2,894 cap)",
-        "est. 1.4-2.3x face",
-        "8 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AOvP__GA5qAW1",
       "name": "Dashboard Confessional - Unplugged 25th Anniversary",
       "url": "https://www.ticketmaster.com/dashboard-confessional-unplugged-25th-anniversary-philadelphia-pennsylvania-03-21-2027/event/020065659B745F4A",
@@ -5136,43 +5305,35 @@
       ]
     },
     {
-      "id": "vv17FZ_4GkDT0MwT",
-      "name": "LSDREAM: BEE HERE NOW TOUR",
-      "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-philadelphia-pennsylvania-03-12-2027/event/0200655EFF937CBF",
+      "id": "1AvfZ_4GkTP2lU0",
+      "name": "THE DEAD SOUTH SILENCE, PLEASE TOUR 2027",
+      "url": "https://www.ticketmaster.com/the-dead-south-silence-please-tour-silver-spring-maryland-04-19-2027/event/1500655FE53EBDA4",
       "segment": "Music",
-      "genre": "Dance/Electronic",
+      "genre": "Rock",
       "artists": [
-        "LSDREAM",
-        "Sippy",
-        "HEADNOX"
+        "The Dead South",
+        "Amigo The Devil"
       ],
-      "artist_upcoming": 32,
-      "venue": "The Fillmore Philadelphia",
-      "city": "Philadelphia",
-      "state": "PA",
+      "artist_upcoming": 34,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
       "capacity": 1150,
       "capacity_source": "exact",
-      "event_date": "2027-03-13T00:00:00Z",
+      "event_date": "2027-04-20T00:00:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-13T02:00:00Z",
+      "onsale_end": "2027-04-20T02:00:00Z",
       "presales": [
         {
           "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
+          "start": "2026-11-10T15:00:00Z",
           "end": "2026-11-13T03:00:00Z",
           "url": "",
           "how": ""
         },
         {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
           "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T15:00:00Z",
+          "start": "2026-11-10T15:00:00Z",
           "end": "2026-11-13T03:00:00Z",
           "url": "",
           "how": "Exclusive Presale for Citi\u00ae Cardmembers"
@@ -5180,47 +5341,40 @@
         {
           "name": "Citi\u00ae Cardmember Preferred Tickets",
           "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-06T03:00:00Z",
+          "end": "2027-03-24T02:00:00Z",
           "url": "",
           "how": "For Citi\u00ae Cardmembers"
         },
         {
-          "name": "VIP Package Presale",
+          "name": "LIVE NATION PRESALE",
           "start": "2026-11-11T15:00:00Z",
           "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-05T04:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=LSDREAM",
+      "seatgeek_url": "https://seatgeek.com/search?search=The+Dead+South",
       "score": 68,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.6,
         "scarcity": 20.9,
-        "markup": 16.1,
+        "markup": 15.1,
         "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
         1.35,
-        2.2
+        2.1
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
         "small room (1,150 cap)",
-        "est. 1.3-2.2x face",
-        "6 presale(s)"
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -5404,87 +5558,6 @@
       ]
     },
     {
-      "id": "vv177Z_4GkS4SHMh",
-      "name": "Silversun Pickups: Tenterhooks Tour (18+)",
-      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-18-boston-massachusetts-03-09-2027/event/0100655CD5CFCDDB",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Silversun Pickups",
-        "Hannah Cole"
-      ],
-      "artist_upcoming": 27,
-      "venue": "Paradise Rock Club presented by Citizens",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-09T23:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-10T01:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citizens Bank Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
-          "how": "Exclusive Presale for Citizens Bank Cardholders"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-02-28T04:59:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
-      "score": 68,
-      "score_parts": {
-        "demand": 20.3,
-        "scarcity": 22.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
-      ]
-    },
-    {
       "id": "G5eVZ_4U2TPlb",
       "name": "Hannah Harper: Behind This Guitar",
       "url": "https://www.ticketmaster.com/hannah-harper-behind-this-guitar-greensboro-north-carolina-04-30-2027/event/2D00655D8FFE5AD8",
@@ -5559,7 +5632,7 @@
       "artists": [
         "Melissa Etheridge"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 26,
       "venue": "Alabama Theatre - Myrtle Beach",
       "city": "North Myrtle Beach",
       "state": "SC",
@@ -5574,7 +5647,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
       "score": 68,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 6.0
@@ -5594,61 +5667,54 @@
       ]
     },
     {
-      "id": "1AvfZ_4GkTP2lU0",
-      "name": "THE DEAD SOUTH SILENCE, PLEASE TOUR 2027",
-      "url": "https://www.ticketmaster.com/the-dead-south-silence-please-tour-silver-spring-maryland-04-19-2027/event/1500655FE53EBDA4",
+      "id": "1AvfZ_4Gkw440du",
+      "name": "Silversun Pickups - Tenterhooks Tour",
+      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-washington-district-of-columbia-03-06-2027/event/1500655C955640CD",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "The Dead South",
-        "Amigo The Devil"
+        "Silversun Pickups",
+        "Hannah Cole"
       ],
-      "artist_upcoming": 33,
-      "venue": "The Fillmore Silver Spring",
-      "city": "Silver Spring",
-      "state": "MD",
-      "capacity": 1150,
+      "artist_upcoming": 30,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
       "capacity_source": "exact",
-      "event_date": "2027-04-20T00:00:00Z",
+      "event_date": "2027-03-06T23:30:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-20T02:00:00Z",
+      "onsale_end": "2027-03-07T01:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-24T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
           "start": "2026-11-11T15:00:00Z",
           "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-25T04:59:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=The+Dead+South",
+      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
       "score": 67,
       "score_parts": {
-        "demand": 21.4,
-        "scarcity": 20.9,
+        "demand": 20.9,
+        "scarcity": 20.7,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -5661,9 +5727,9 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,150 cap)",
+        "small room (1,200 cap)",
         "est. 1.3-2.1x face",
-        "4 presale(s)"
+        "3 presale(s)"
       ]
     },
     {
@@ -5953,31 +6019,51 @@
       ]
     },
     {
-      "id": "1AvfZ_4Gkw440du",
-      "name": "Silversun Pickups - Tenterhooks Tour",
-      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-washington-district-of-columbia-03-06-2027/event/1500655C955640CD",
+      "id": "vv17OZ_4GkmKX3hH",
+      "name": "Silversun Pickups: Tenterhooks Tour",
+      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-detroit-michigan-03-14-2027/event/0800655B93F926FC",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Silversun Pickups",
-        "Hannah Cole"
+        "Silversun Pickups"
       ],
-      "artist_upcoming": 27,
-      "venue": "9:30 CLUB",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 1200,
-      "capacity_source": "exact",
-      "event_date": "2027-03-06T23:30:00Z",
+      "artist_upcoming": 30,
+      "venue": "Saint Andrew's Hall",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-14T22:30:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-07T01:30:00Z",
+      "onsale_end": "2027-03-15T00:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
           "start": "2026-11-11T15:00:00Z",
           "end": "2026-11-13T03:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-12T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
         },
         {
           "name": "VIP Package Presale",
@@ -5989,7 +6075,7 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-13T15:00:00Z",
-          "end": "2027-02-25T04:59:00Z",
+          "end": "2027-03-05T04:59:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
@@ -5999,8 +6085,8 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
       "score": 66,
       "score_parts": {
-        "demand": 20.3,
-        "scarcity": 20.7,
+        "demand": 20.9,
+        "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
       },
@@ -6013,9 +6099,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,200 cap)",
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
@@ -6204,6 +6291,86 @@
         "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AvZk40GkeYFzRE",
+      "name": "Midnight Generation - Rooted Tour 2027",
+      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-boston-massachusetts-05-03-2027/event/01006564B0238BE7",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_upcoming": 36,
+      "venue": "Brighton Music Hall presented by Citizens",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-03T23:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-05-04T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-11T03:00:00Z",
+          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
+          "how": "Available for All Fans - Sign Up in Advance"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-11-09T15:00:00Z",
+          "end": "2026-11-10T14:45:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-09T15:00:00Z",
+          "end": "2026-11-10T14:45:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-06T02:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
+      "score": 66,
+      "score_parts": {
+        "demand": 22.0,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -6425,93 +6592,6 @@
       ]
     },
     {
-      "id": "vv17OZ_4GkmKX3hH",
-      "name": "Silversun Pickups: Tenterhooks Tour",
-      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-detroit-michigan-03-14-2027/event/0800655B93F926FC",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Silversun Pickups"
-      ],
-      "artist_upcoming": 27,
-      "venue": "Saint Andrew's Hall",
-      "city": "Detroit",
-      "state": "MI",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-14T22:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-15T00:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-12T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-05T04:59:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
-      "score": 65,
-      "score_parts": {
-        "demand": 20.3,
-        "scarcity": 19.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "vv1AvZk4xGkeT8h5W",
       "name": "LSDREAM: BEE HERE NOW TOUR",
       "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-portland-maine-03-21-2027/event/01006562BF41B2FD",
@@ -6522,7 +6602,7 @@
         "Vincent Antone",
         "Moceans"
       ],
-      "artist_upcoming": 32,
+      "artist_upcoming": 34,
       "venue": "State Theatre",
       "city": "Portland",
       "state": "ME",
@@ -6566,7 +6646,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=LSDREAM",
       "score": 65,
       "score_parts": {
-        "demand": 21.3,
+        "demand": 21.6,
         "scarcity": 17.7,
         "markup": 16.1,
         "timing": 10.0
@@ -6650,86 +6730,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.5-2.6x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AvZk40GkeYFzRE",
-      "name": "Midnight Generation - Rooted Tour 2027",
-      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-boston-massachusetts-05-03-2027/event/01006564B0238BE7",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Midnight Generation"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Brighton Music Hall presented by Citizens",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-03T23:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-05-04T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-11T03:00:00Z",
-          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
-          "how": "Available for All Fans - Sign Up in Advance"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Reserved by Spotify",
-          "start": "2026-11-09T15:00:00Z",
-          "end": "2026-11-10T14:45:00Z",
-          "url": "",
-          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-09T15:00:00Z",
-          "end": "2026-11-10T14:45:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-04-06T02:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
-      "score": 65,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
       ]
     },
     {
@@ -6947,7 +6947,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "Atlanta Symphony Hall",
       "city": "Atlanta",
       "state": "GA",
@@ -6970,7 +6970,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 64,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
@@ -6988,6 +6988,187 @@
         "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5eVZ_pCYAhcW",
+      "name": "Melissa Etheridge - Rise Again 2027",
+      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-charleston-south-carolina-04-11-2027/event/2D006563B015BB7D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Melissa Etheridge"
+      ],
+      "artist_upcoming": 26,
+      "venue": "The Charleston Music Hall",
+      "city": "Charleston",
+      "state": "SC",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-12T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-12T02:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-11T03:00:00Z",
+          "url": "",
+          "how": "Exclusive VIP Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-05T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Fan Club Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1zZ_4iFJS2U",
+      "name": "Silversun Pickups - Tenterhooks Tour",
+      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-atlanta-georgia-03-03-2027/event/0E00655B089B33F6",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Silversun Pickups"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Buckhead Theatre by SCANA Energy",
+      "city": "Atlanta",
+      "state": "GA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-04T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-03-04T02:30:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-04T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-03-01T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "ARTIST PRESALE",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-02-22T04:59:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "7 presale(s)"
       ]
     },
     {
@@ -7833,37 +8014,51 @@
       ]
     },
     {
-      "id": "G5eVZ_pCYAhcW",
+      "id": "G5viZ_p14C6_a",
       "name": "Melissa Etheridge - Rise Again 2027",
-      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-charleston-south-carolina-04-11-2027/event/2D006563B015BB7D",
+      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-knoxville-tennessee-04-07-2027/event/1B00656295387649",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
         "Melissa Etheridge"
       ],
-      "artist_upcoming": 24,
-      "venue": "The Charleston Music Hall",
-      "city": "Charleston",
-      "state": "SC",
-      "capacity": 1800,
+      "artist_upcoming": 26,
+      "venue": "Tennessee Theatre",
+      "city": "Knoxville",
+      "state": "TN",
+      "capacity": 2200,
       "capacity_source": "venue type",
-      "event_date": "2027-04-12T00:00:00Z",
+      "event_date": "2027-04-07T23:30:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-12T02:00:00Z",
+      "onsale_end": "2027-04-07T22:30:00Z",
       "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
         {
           "name": "LIVE NATION PRESALE",
           "start": "2026-11-12T15:00:00Z",
           "end": "2026-11-13T03:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
         },
         {
           "name": "Fan Club VIP Package Presale",
@@ -7882,16 +8077,9 @@
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-13T15:00:00Z",
-          "end": "2027-04-05T02:00:00Z",
+          "end": "2027-04-01T02:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Fan Club Presale"
         }
       ],
       "price_min": null,
@@ -7899,101 +8087,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
       "score": 63,
       "score_parts": {
-        "demand": 19.6,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1zZ_4iFJS2U",
-      "name": "Silversun Pickups - Tenterhooks Tour",
-      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-atlanta-georgia-03-03-2027/event/0E00655B089B33F6",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Silversun Pickups"
-      ],
-      "artist_upcoming": 27,
-      "venue": "Buckhead Theatre by SCANA Energy",
-      "city": "Atlanta",
-      "state": "GA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-04T00:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-03-04T02:30:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-02-04T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "T-Mobile\u00ae Concert Perks + Fast Lane",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-03-01T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "ARTIST PRESALE",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-02-22T04:59:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
-      "score": 63,
-      "score_parts": {
-        "demand": 20.3,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8080,6 +8174,65 @@
       ]
     },
     {
+      "id": "G5eVZ_pJ9kADM",
+      "name": "Melissa Etheridge - Rise Again 2027",
+      "url": "https://tix.blumenthalarts.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=769F495D-B6DD-4541-AA59-DF4A813CFCBD",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Melissa Etheridge"
+      ],
+      "artist_upcoming": 26,
+      "venue": "Belk Theater at Blumenthal Arts Center",
+      "city": "Charlotte",
+      "state": "NC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-14T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-14T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Live Nation / Venue",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
+      "score": 63,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv177Z_4Gklqy7Vx",
       "name": "The Menzingers: Everything I Ever Saw North American Tour",
       "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-charlottesville-virginia-05-27-2027/event/0100655ADDE44D22",
@@ -8133,83 +8286,34 @@
       ]
     },
     {
-      "id": "G5viZ_p14C6_a",
-      "name": "Melissa Etheridge - Rise Again 2027",
-      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-knoxville-tennessee-04-07-2027/event/1B00656295387649",
+      "id": "1A4Zk40Gkd9p12E",
+      "name": "ROYAL BLOOD: North America 2027",
+      "url": "https://www.ticketmaster.com/royal-blood-north-america-2027-washington-district-of-columbia-04-04-2027/event/15006564D758A3E7",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Melissa Etheridge"
+        "Royal Blood",
+        "Bodega"
       ],
-      "artist_upcoming": 24,
-      "venue": "Tennessee Theatre",
-      "city": "Knoxville",
-      "state": "TN",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-07T23:30:00Z",
+      "artist_upcoming": 25,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2027-04-04T23:00:00Z",
       "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-07T22:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-11T03:00:00Z",
-          "url": "",
-          "how": "Exclusive VIP Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-04-01T02:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
+      "onsale_end": "2027-04-05T01:00:00Z",
+      "presales": [],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
+      "seatgeek_url": "https://seatgeek.com/search?search=Royal+Blood",
       "score": 62,
       "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
+        "demand": 19.8,
+        "scarcity": 20.7,
         "markup": 15.1,
-        "timing": 10.0
+        "timing": 6.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -8220,10 +8324,8 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "7 presale(s)"
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -8235,7 +8337,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "Lincoln Theatre",
       "city": "Washington",
       "state": "DC",
@@ -8258,7 +8360,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8287,7 +8389,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "Boch Center Shubert Theatre",
       "city": "Boston",
       "state": "MA",
@@ -8310,7 +8412,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8339,7 +8441,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "Boch Center Shubert Theatre",
       "city": "Boston",
       "state": "MA",
@@ -8362,7 +8464,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -8735,65 +8837,6 @@
       ]
     },
     {
-      "id": "G5eVZ_pJ9kADM",
-      "name": "Melissa Etheridge - Rise Again 2027",
-      "url": "https://tix.blumenthalarts.org/online/default.asp?doWork::WScontent::loadArticle=Load&BOparam::WScontent::loadArticle::article_id=769F495D-B6DD-4541-AA59-DF4A813CFCBD",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Melissa Etheridge"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Belk Theater at Blumenthal Arts Center",
-      "city": "Charlotte",
-      "state": "NC",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-14T00:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-14T00:00:00Z",
-      "presales": [
-        {
-          "name": "Artist",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Live Nation / Venue",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv177Z_4GkDjc_OM",
       "name": "An Alleged Evening with Conor Oberst",
       "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-charlottesville-virginia-03-08-2027/event/0100655EDCB59837",
@@ -8850,6 +8893,172 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk4JGkey_Jxg",
+      "name": "Grace Potter & The Trespassers",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-washington-district-of-columbia-01-30-2027/event/15006566B96668B5",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "The Anthem",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 6000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-31T00:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-01-31T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AGP Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "I.M.P. Email Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-01-24T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 61,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 12.8,
+        "markup": 13.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.3,
+        2.0
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "est. 1.3-2.0x face",
+        "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17fZ_4GkSJyDHi",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-indianapolis-indiana-04-24-2027/event/0500655CE6E7BF2C",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 30,
+      "venue": "Old National Centre",
+      "city": "Indianapolis",
+      "state": "IN",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-25T00:00:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-04-25T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Old National Bank Sponsor Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T15:00:00Z",
+          "end": "2026-11-13T04:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-10T15:00:00Z",
+          "end": "2026-11-13T14:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T15:00:00Z",
+          "end": "2027-04-19T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 61,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 10.2,
+        "markup": 19.8,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.5,
+        2.4
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "~10,000 cap (from venue type)",
+        "est. 1.5-2.4x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -9031,49 +9240,6 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "1A4Zk40Gkd9p12E",
-      "name": "ROYAL BLOOD: North America 2027",
-      "url": "https://www.ticketmaster.com/royal-blood-north-america-2027-washington-district-of-columbia-04-04-2027/event/15006564D758A3E7",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Royal Blood",
-        "Bodega"
-      ],
-      "artist_upcoming": 24,
-      "venue": "9:30 CLUB",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 1200,
-      "capacity_source": "exact",
-      "event_date": "2027-04-04T23:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-05T01:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Royal+Blood",
-      "score": 61,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -9402,172 +9568,6 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "1A4Zk4JGkey_Jxg",
-      "name": "Grace Potter & The Trespassers",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-washington-district-of-columbia-01-30-2027/event/15006566B96668B5",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 49,
-      "venue": "The Anthem",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 6000,
-      "capacity_source": "exact",
-      "event_date": "2027-01-31T00:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-01-31T01:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "AGP Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "I.M.P. Email Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-01-24T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 60,
-      "score_parts": {
-        "demand": 23.8,
-        "scarcity": 12.8,
-        "markup": 13.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.3,
-        2.0
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "49 upcoming dates (heavy routing)",
-        "est. 1.3-2.0x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vv17fZ_4GkSJyDHi",
-      "name": "Ricky Montgomery: The Monty Tour",
-      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-indianapolis-indiana-04-24-2027/event/0500655CE6E7BF2C",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Ricky Montgomery"
-      ],
-      "artist_upcoming": 28,
-      "venue": "Old National Centre",
-      "city": "Indianapolis",
-      "state": "IN",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-25T00:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-25T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Old National Bank Sponsor Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T15:00:00Z",
-          "end": "2026-11-13T04:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-10T15:00:00Z",
-          "end": "2026-11-13T14:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T15:00:00Z",
-          "end": "2027-04-19T21:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
-      "score": 60,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 10.2,
-        "markup": 19.8,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.5,
-        2.4
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "~10,000 cap (from venue type)",
-        "est. 1.5-2.4x face",
         "6 presale(s)"
       ]
     },
@@ -10116,6 +10116,271 @@
       ]
     },
     {
+      "id": "G5dIZ_49DwMQo",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-houston-texas-04-05-2027/event/3A006555FBCB7691",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 30,
+      "venue": "House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-06T00:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-06T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-09T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-31T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 74,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A7Zk4aGkdZwy38",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-chicago-illinois-04-25-2027/event/04006549C0CB9490",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 30,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-25T23:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-25T23:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-28T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T05:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-04-20T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 74,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_4H_XTpK",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-dallas-texas-04-06-2027/event/0C00655F19FBF593",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 30,
+      "venue": "House of Blues Dallas ",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-07T00:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-07T02:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-10T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T15:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-04-01T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 74,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "7 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_phnJAlN",
       "name": "Beach Bunny: Out of Office Tour",
       "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-houston-texas-03-05-2027/event/3A006566EA985AE3",
@@ -10259,7 +10524,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "College Street Music Hall",
       "city": "New Haven",
       "state": "CT",
@@ -10274,7 +10539,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 74,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 18.7,
         "markup": 25,
         "timing": 6.0
@@ -10288,275 +10553,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.8-2.9x face"
-      ]
-    },
-    {
-      "id": "G5dIZ_49DwMQo",
-      "name": "Ricky Montgomery: The Monty Tour",
-      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-houston-texas-04-05-2027/event/3A006555FBCB7691",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Ricky Montgomery"
-      ],
-      "artist_upcoming": 28,
-      "venue": "House of Blues Houston",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-06T00:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-06T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-09T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-31T22:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
-      "score": 73,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A7Zk4aGkdZwy38",
-      "name": "Ricky Montgomery: The Monty Tour",
-      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-chicago-illinois-04-25-2027/event/04006549C0CB9490",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Ricky Montgomery"
-      ],
-      "artist_upcoming": 28,
-      "venue": "House of Blues Chicago",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-25T23:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-25T23:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-28T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-04-20T22:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
-      "score": 73,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1YZ_4H_XTpK",
-      "name": "Ricky Montgomery: The Monty Tour",
-      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-dallas-texas-04-06-2027/event/0C00655F19FBF593",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Ricky Montgomery"
-      ],
-      "artist_upcoming": 28,
-      "venue": "House of Blues Dallas ",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-07T00:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-07T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Local Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-10T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-04-01T22:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
-      "score": 73,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
-        "7 presale(s)"
       ]
     },
     {
@@ -10569,7 +10569,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Patchogue Theater",
       "city": "Patchogue",
       "state": "NY",
@@ -10582,9 +10582,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 72,
+      "score": 73,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 6.0
@@ -10598,7 +10598,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -10614,7 +10614,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Palace Theatre-MN",
       "city": "St. Paul",
       "state": "MN",
@@ -10627,9 +10627,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 72,
+      "score": 73,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 6.0
@@ -10643,7 +10643,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -10659,7 +10659,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Capitol Theatre - IA",
       "city": "Davenport",
       "state": "IA",
@@ -10672,9 +10672,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 72,
+      "score": 73,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 6.0
@@ -10688,7 +10688,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -10704,7 +10704,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Pabst Theater",
       "city": "Milwaukee",
       "state": "WI",
@@ -10717,9 +10717,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 72,
+      "score": 73,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 6.0
@@ -10733,7 +10733,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -10749,7 +10749,7 @@
         "Grace Potter",
         "Pokey LaFarge"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "The Capitol Theatre - Rome",
       "city": "Rome",
       "state": "NY",
@@ -10762,9 +10762,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 72,
+      "score": 73,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 25,
         "timing": 6.0
@@ -10778,7 +10778,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.8-2.9x face"
@@ -10968,6 +10968,80 @@
       ]
     },
     {
+      "id": "G5viZ_p1NStxC",
+      "name": "LSDREAM: BEE HERE NOW TOUR",
+      "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-new-orleans-louisiana-04-07-2027/event/1B006562A3CE988E",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "LSDREAM",
+        "Sippy",
+        "Ozztin"
+      ],
+      "artist_upcoming": 34,
+      "venue": "The Fillmore New Orleans",
+      "city": "New Orleans",
+      "state": "LA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-04-08T02:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-08T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-31T04:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Riverbeats Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=LSDREAM",
+      "score": 69,
+      "score_parts": {
+        "demand": 21.6,
+        "scarcity": 20.9,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AkZk4PGkegwWrd",
       "name": "Dashboard Confessional - Unplugged 25th Anniversary",
       "url": "https://www.ticketmaster.com/dashboard-confessional-unplugged-25th-anniversary-minneapolis-minnesota-03-13-2027/event/06006565B5CBD783",
@@ -11069,7 +11143,7 @@
       "artists": [
         "Melissa Etheridge"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 26,
       "venue": "Pabst Theater",
       "city": "Milwaukee",
       "state": "WI",
@@ -11084,7 +11158,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
       "score": 68,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 6.0
@@ -11112,7 +11186,7 @@
       "artists": [
         "Melissa Etheridge"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 26,
       "venue": "Gillioz Theatre",
       "city": "Springfield",
       "state": "MO",
@@ -11127,7 +11201,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
       "score": 68,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 6.0
@@ -11144,80 +11218,6 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face"
-      ]
-    },
-    {
-      "id": "G5viZ_p1NStxC",
-      "name": "LSDREAM: BEE HERE NOW TOUR",
-      "url": "https://www.ticketmaster.com/lsdream-bee-here-now-tour-new-orleans-louisiana-04-07-2027/event/1B006562A3CE988E",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "LSDREAM",
-        "Sippy",
-        "Ozztin"
-      ],
-      "artist_upcoming": 32,
-      "venue": "The Fillmore New Orleans",
-      "city": "New Orleans",
-      "state": "LA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-04-08T02:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-08T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-31T04:55:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Riverbeats Presale",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=LSDREAM",
-      "score": 68,
-      "score_parts": {
-        "demand": 21.3,
-        "scarcity": 20.9,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -11572,6 +11572,107 @@
       ]
     },
     {
+      "id": "vvG1YZ_pKmVxFM",
+      "name": "Midnight Generation - Rooted Tour 2027",
+      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-dallas-texas-04-23-2027/event/0C006564EED22237",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_upcoming": 36,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-24T00:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-24T02:00:00Z",
+      "presales": [
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-11-09T16:00:00Z",
+          "end": "2026-11-10T15:45:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T04:00:00Z",
+          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
+          "how": "Available for All Fans - Sign Up in Advance"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-09T16:00:00Z",
+          "end": "2026-11-10T15:45:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Verizon Shine Presale Tickets",
+          "start": "2026-11-09T16:00:00Z",
+          "end": "2026-11-10T15:45:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Verizon Shine Members"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-27T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Verizon Shine Select Seats",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-27T03:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "Official Platinum Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-04-24T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
+      "score": 66,
+      "score_parts": {
+        "demand": 22.0,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "8 presale(s)"
+      ]
+    },
+    {
       "id": "G5dIZ_pKZ6zHT",
       "name": "Midnight Generation - Rooted Tour 2027",
       "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-houston-texas-04-25-2027/event/3A006564C01F8F3F",
@@ -11580,7 +11681,7 @@
       "artists": [
         "Midnight Generation"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 36,
       "venue": "House of Blues Houston",
       "city": "Houston",
       "state": "TX",
@@ -11645,7 +11746,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
       "score": 65,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 22.0,
         "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
@@ -11814,7 +11915,7 @@
       "artists": [
         "Midnight Generation"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 36,
       "venue": "House of Blues Chicago",
       "city": "Chicago",
       "state": "IL",
@@ -11865,7 +11966,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
       "score": 65,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 22.0,
         "scarcity": 18.2,
         "markup": 15.1,
         "timing": 10.0
@@ -11885,87 +11986,59 @@
       ]
     },
     {
-      "id": "vvG1YZ_pKmVxFM",
-      "name": "Midnight Generation - Rooted Tour 2027",
-      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-dallas-texas-04-23-2027/event/0C006564EED22237",
+      "id": "G5dIZ_ph1Mrgx",
+      "name": "Silversun Pickups: Tenterhooks Tour",
+      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-houston-texas-02-28-2027/event/3A006566CADDED62",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Midnight Generation"
+        "Silversun Pickups"
       ],
-      "artist_upcoming": 34,
-      "venue": "The Echo Lounge & Music Hall",
-      "city": "Dallas",
+      "artist_upcoming": 30,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
       "state": "TX",
       "capacity": 1800,
       "capacity_source": "venue type",
-      "event_date": "2027-04-24T00:00:00Z",
+      "event_date": "2027-03-01T00:30:00Z",
       "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-24T02:00:00Z",
+      "onsale_end": "2027-03-01T03:30:00Z",
       "presales": [
         {
-          "name": "Reserved by Spotify",
-          "start": "2026-11-09T16:00:00Z",
-          "end": "2026-11-10T15:45:00Z",
-          "url": "",
-          "how": "Available to eligible Spotify Premium subscribers. Terms apply."
-        },
-        {
           "name": "Artist Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-11T04:00:00Z",
-          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
-          "how": "Available for All Fans - Sign Up in Advance"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-09T16:00:00Z",
-          "end": "2026-11-10T15:45:00Z",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
           "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+          "how": "Artist Presale"
         },
         {
-          "name": "Verizon Shine Presale Tickets",
-          "start": "2026-11-09T16:00:00Z",
-          "end": "2026-11-10T15:45:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Verizon Shine Members"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
+          "name": "Venue Presale",
           "start": "2026-11-12T16:00:00Z",
           "end": "2026-11-13T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
+          "url": "",
+          "how": "Venue Presale"
         },
         {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-27T03:00:00Z",
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
           "url": "",
-          "how": "For Citi\u00ae Cardmembers"
+          "how": "The artist is offering VIP Packages for this event."
         },
         {
-          "name": "Verizon Shine Select Seats",
+          "name": "VIP Package Onsale",
           "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-27T03:00:00Z",
+          "end": "2027-02-19T05:59:00Z",
           "url": "",
-          "how": "For Verizon Shine Members"
-        },
-        {
-          "name": "Official Platinum Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-04-24T02:00:00Z",
-          "url": "",
-          "how": ""
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
+      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
       "score": 65,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 20.9,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
@@ -11982,7 +12055,7 @@
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "8 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -12098,79 +12171,6 @@
       "reasons": [
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_ph1Mrgx",
-      "name": "Silversun Pickups: Tenterhooks Tour",
-      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-houston-texas-02-28-2027/event/3A006566CADDED62",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Silversun Pickups"
-      ],
-      "artist_upcoming": 27,
-      "venue": "White Oak Music Hall - Downstairs",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-01T00:30:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-03-01T03:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-02-19T05:59:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
-      "score": 64,
-      "score_parts": {
-        "demand": 20.3,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
       ]
@@ -12346,6 +12346,50 @@
       ]
     },
     {
+      "id": "Z7r9jZ1AAAk_N",
+      "name": "Grace Potter & The Trespassers - Ages 21+",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_N",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Grace Potter",
+        "Pokey LaFarge"
+      ],
+      "artist_upcoming": 56,
+      "venue": "Xcite Center",
+      "city": "Bensalem",
+      "state": "PA",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-30T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-01-30T01:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 64,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face"
+      ]
+    },
+    {
       "id": "vv1kbZ_p13G7XgCh",
       "name": "An Alleged Evening with Conor Oberst",
       "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-lawrence-kansas-02-19-2027/event/0600656292FB539B",
@@ -12402,6 +12446,187 @@
         "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1A6Zk4NGkd9d6LZ",
+      "name": "Melissa Etheridge - Rise Again 2027",
+      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-madison-wisconsin-04-03-2027/event/07006563D70C77C0",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Melissa Etheridge"
+      ],
+      "artist_upcoming": 26,
+      "venue": "Orpheum Theater",
+      "city": "Madison",
+      "state": "WI",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-04T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-04T02:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Fan Club Presale"
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-03-28T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
+      "score": 63,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "7 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1kbZ_pfVG7Sw9z",
+      "name": "Melissa Etheridge: Rise Again 2027",
+      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-wichita-kansas-04-21-2027/event/0600656534CF25F8",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Melissa Etheridge"
+      ],
+      "artist_upcoming": 26,
+      "venue": "Wichita Orpheum Theatre",
+      "city": "Wichita",
+      "state": "KS",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-22T00:30:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-22T00:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-12T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Fan Club Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Fan Club Presale"
+        },
+        {
+          "name": "Fan Club VIP Package Presale",
+          "start": "2026-11-10T16:00:00Z",
+          "end": "2026-11-11T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-04-15T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
+      "score": 63,
+      "score_parts": {
+        "demand": 20.0,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -12464,50 +12689,6 @@
       ]
     },
     {
-      "id": "Z7r9jZ1AAAk_N",
-      "name": "Grace Potter & The Trespassers - Ages 21+",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk_N",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Grace Potter",
-        "Pokey LaFarge"
-      ],
-      "artist_upcoming": 49,
-      "venue": "Xcite Center",
-      "city": "Bensalem",
-      "state": "PA",
-      "capacity": 10000,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-30T01:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-01-30T01:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 63,
-      "score_parts": {
-        "demand": 23.8,
-        "scarcity": 10.2,
-        "markup": 22.9,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.6,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "49 upcoming dates (heavy routing)",
-        "~10,000 cap (from venue type)",
-        "est. 1.6-2.6x face"
-      ]
-    },
-    {
       "id": "vv1kvYvPbyGAuJd8k",
       "name": "Conversations With Nick Cave",
       "url": "https://www.ticketmaster.com/conversations-with-nick-cave-chicago-illinois-04-26-2027/event/070065639D983406",
@@ -12516,7 +12697,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "The Chicago Theatre",
       "city": "Chicago",
       "state": "IL",
@@ -12553,7 +12734,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -12582,7 +12763,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "State Theatre",
       "city": "Minneapolis",
       "state": "MN",
@@ -12605,7 +12786,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -12721,7 +12902,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "The Orpheum Theatre Memphis",
       "city": "Memphis",
       "state": "TN",
@@ -12744,100 +12925,6 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1A6Zk4NGkd9d6LZ",
-      "name": "Melissa Etheridge - Rise Again 2027",
-      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-madison-wisconsin-04-03-2027/event/07006563D70C77C0",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Melissa Etheridge"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Orpheum Theater",
-      "city": "Madison",
-      "state": "WI",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-04T01:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-04T02:00:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Fan Club Presale"
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-11T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-03-28T03:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
-      "score": 62,
-      "score_parts": {
         "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
@@ -12855,7 +12942,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "7 presale(s)"
+        "1 presale(s)"
       ]
     },
     {
@@ -12899,93 +12986,6 @@
         "small room (1,500 cap)",
         "~1,500 cap (from venue type)",
         "est. 1.3-2.1x face"
-      ]
-    },
-    {
-      "id": "vv1kbZ_pfVG7Sw9z",
-      "name": "Melissa Etheridge: Rise Again 2027",
-      "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-wichita-kansas-04-21-2027/event/0600656534CF25F8",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Melissa Etheridge"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Wichita Orpheum Theatre",
-      "city": "Wichita",
-      "state": "KS",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-22T00:30:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-22T00:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Venue Presale"
-        },
-        {
-          "name": "Fan Club Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Fan Club Presale"
-        },
-        {
-          "name": "Fan Club VIP Package Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-11T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-04-15T03:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
       ]
     },
     {
@@ -13960,9 +13960,10 @@
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Grace Potter"
+        "Grace Potter",
+        "Langhorne Slim"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Rialto Theatre-Tucson",
       "city": "Tucson",
       "state": "AZ",
@@ -13999,7 +14000,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 70,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -14013,7 +14014,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
@@ -14103,7 +14104,7 @@
       "artists": [
         "Melissa Etheridge"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 26,
       "venue": "Fox Tucson Theatre",
       "city": "Tucson",
       "state": "AZ",
@@ -14118,7 +14119,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Melissa+Etheridge",
       "score": 68,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 20.0,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 6.0
@@ -14135,6 +14136,100 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face"
+      ]
+    },
+    {
+      "id": "G5vzZ_p2o8PKu",
+      "name": "Midnight Generation - Rooted Tour 2027",
+      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-denver-colorado-04-20-2027/event/1E006563D14254CD",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_upcoming": 36,
+      "venue": "Summit Music Hall",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-21T01:00:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-04-21T03:00:00Z",
+      "presales": [
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-11-09T17:00:00Z",
+          "end": "2026-11-10T16:45:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-09T17:00:00Z",
+          "end": "2026-11-10T16:45:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T17:00:00Z",
+          "end": "2027-03-24T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T17:00:00Z",
+          "end": "2026-11-13T05:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Verizon Shine Presale Tickets",
+          "start": "2026-11-09T17:00:00Z",
+          "end": "2026-11-10T16:45:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Verizon Shine Members"
+        },
+        {
+          "name": "Verizon Shine Select Seats",
+          "start": "2026-11-13T17:00:00Z",
+          "end": "2027-03-24T04:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T17:00:00Z",
+          "end": "2026-11-11T05:00:00Z",
+          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
+          "how": "Available for All Fans - Sign Up in Advance"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
+      "score": 66,
+      "score_parts": {
+        "demand": 22.0,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "7 presale(s)"
       ]
     },
     {
@@ -14211,100 +14306,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vzZ_p2o8PKu",
-      "name": "Midnight Generation - Rooted Tour 2027",
-      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-denver-colorado-04-20-2027/event/1E006563D14254CD",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Midnight Generation"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Summit Music Hall",
-      "city": "Denver",
-      "state": "CO",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-21T01:00:00Z",
-      "onsale_start": "2026-11-13T17:00:00Z",
-      "onsale_end": "2027-04-21T03:00:00Z",
-      "presales": [
-        {
-          "name": "Reserved by Spotify",
-          "start": "2026-11-09T17:00:00Z",
-          "end": "2026-11-10T16:45:00Z",
-          "url": "",
-          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-09T17:00:00Z",
-          "end": "2026-11-10T16:45:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T17:00:00Z",
-          "end": "2027-03-24T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T17:00:00Z",
-          "end": "2026-11-13T05:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Verizon Shine Presale Tickets",
-          "start": "2026-11-09T17:00:00Z",
-          "end": "2026-11-10T16:45:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Verizon Shine Members"
-        },
-        {
-          "name": "Verizon Shine Select Seats",
-          "start": "2026-11-13T17:00:00Z",
-          "end": "2027-03-24T04:00:00Z",
-          "url": "",
-          "how": "For Verizon Shine Members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T17:00:00Z",
-          "end": "2026-11-11T05:00:00Z",
-          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
-          "how": "Available for All Fans - Sign Up in Advance"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
-      "score": 65,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "7 presale(s)"
       ]
     },
     {
@@ -14417,49 +14418,6 @@
       ]
     },
     {
-      "id": "Z7r9jZ1AAAk83",
-      "name": "Dashboard Confessional",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk83",
-      "segment": "Music",
-      "genre": "Alternative",
-      "artists": [
-        "Dashboard Confessional"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Mission Ballroom",
-      "city": "Denver",
-      "state": "CO",
-      "capacity": 1200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-30T02:00:00Z",
-      "onsale_start": "2026-11-13T17:00:00Z",
-      "onsale_end": "2027-03-30T02:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Dashboard+Confessional",
-      "score": 63,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 20.7,
-        "markup": 15.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,200 cap)",
-        "~1,200 cap (from venue type)",
-        "est. 1.3-2.1x face"
-      ]
-    },
-    {
       "id": "1Av0Z_4GkSOk62b",
       "name": "Silversun Pickups : Tenterhooks Tour",
       "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-tempe-arizona-05-18-2027/event/1900655CE01873D8",
@@ -14468,7 +14426,7 @@
       "artists": [
         "Silversun Pickups"
       ],
-      "artist_upcoming": 27,
+      "artist_upcoming": 30,
       "venue": "Marquee Theatre",
       "city": "Tempe",
       "state": "AZ",
@@ -14510,9 +14468,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 20.3,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -14542,7 +14500,7 @@
         "Grace Potter",
         "Langhorne Slim"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Fillmore Auditorium (Denver)",
       "city": "Denver",
       "state": "CO",
@@ -14605,9 +14563,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 62,
+      "score": 63,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 14.8,
         "markup": 13.5,
         "timing": 10.0
@@ -14621,10 +14579,53 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "~4,000 cap (from venue type)",
         "est. 1.3-2.0x face",
         "7 presale(s)"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AAAk83",
+      "name": "Dashboard Confessional",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AAAk83",
+      "segment": "Music",
+      "genre": "Alternative",
+      "artists": [
+        "Dashboard Confessional"
+      ],
+      "artist_upcoming": 34,
+      "venue": "Mission Ballroom",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-30T02:00:00Z",
+      "onsale_start": "2026-11-13T17:00:00Z",
+      "onsale_end": "2027-03-30T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Dashboard+Confessional",
+      "score": 63,
+      "score_parts": {
+        "demand": 21.6,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -14782,7 +14783,7 @@
       "artists": [
         "Ricky Montgomery"
       ],
-      "artist_upcoming": 28,
+      "artist_upcoming": 30,
       "venue": "The Observatory",
       "city": "Santa Ana",
       "state": "CA",
@@ -14833,7 +14834,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
       "score": 77,
       "score_parts": {
-        "demand": 20.5,
+        "demand": 20.9,
         "scarcity": 21.6,
         "markup": 24.5,
         "timing": 10.0
@@ -14999,6 +15000,180 @@
       ]
     },
     {
+      "id": "G5vYZ_php4sdr",
+      "name": "Grace Potter & The Trespassers w/ Langhorne Slim - The Trespasser Tour",
+      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-w-langhorne-san-francisco-california-03-11-2027/event/1C006566D65710DE",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Grace Potter",
+        "Langhorne Slim"
+      ],
+      "artist_upcoming": 56,
+      "venue": "The Fillmore",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-03-12T04:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-03-12T06:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-02-26T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-05T06:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
+      "score": 74,
+      "score_parts": {
+        "demand": 24.6,
+        "scarcity": 20.9,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "56 upcoming dates (heavy routing)",
+        "small room (1,150 cap)",
+        "est. 1.4-2.3x face",
+        "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1IZ_4yTqwy9",
+      "name": "Ricky Montgomery: The Monty Tour",
+      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-san-diego-california-04-02-2027/event/0A00655E7F772E57",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Ricky Montgomery"
+      ],
+      "artist_upcoming": 30,
+      "venue": "House of Blues San Diego",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-04-03T02:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-04-03T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-06T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T07:59:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-13T17:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-03-29T00:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
+      "score": 74,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AaZk40GkeWzDJH",
       "name": "Beach Bunny: Out of Office Tour",
       "url": "https://www.ticketmaster.com/beach-bunny-out-of-office-tour-los-angeles-california-03-12-2027/event/09006564BDE3B9BC",
@@ -15072,162 +15247,39 @@
       ]
     },
     {
-      "id": "G5vYZ_php4sdr",
-      "name": "Grace Potter & The Trespassers w/ Langhorne Slim - The Trespasser Tour",
-      "url": "https://www.ticketmaster.com/grace-potter-the-trespassers-w-langhorne-san-francisco-california-03-11-2027/event/1C006566D65710DE",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Grace Potter",
-        "Langhorne Slim"
-      ],
-      "artist_upcoming": 49,
-      "venue": "The Fillmore",
-      "city": "San Francisco",
-      "state": "CA",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-03-12T04:00:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-03-12T06:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T17:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-02-26T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-03-05T06:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
-      "score": 73,
-      "score_parts": {
-        "demand": 23.8,
-        "scarcity": 20.9,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "49 upcoming dates (heavy routing)",
-        "small room (1,150 cap)",
-        "est. 1.4-2.3x face",
-        "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1IZ_4yTqwy9",
-      "name": "Ricky Montgomery: The Monty Tour",
-      "url": "https://www.ticketmaster.com/ricky-montgomery-the-monty-tour-san-diego-california-04-02-2027/event/0A00655E7F772E57",
+      "id": "vvG1HZ_pljJc5Y",
+      "name": "Victoria Mon\u00e9t: Frequency Of Love Tour",
+      "url": "https://www.ticketmaster.com/victoria-monet-frequency-of-love-tour-seattle-washington-12-14-2026/event/0F00656ADC9AD2F0",
       "segment": "Music",
       "genre": "Pop",
       "artists": [
-        "Ricky Montgomery"
+        "Victoria Mon\u00e9t"
       ],
-      "artist_upcoming": 28,
-      "venue": "House of Blues San Diego",
-      "city": "San Diego",
-      "state": "CA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-04-03T02:00:00Z",
+      "artist_upcoming": 21,
+      "venue": "Paramount Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-15T05:00:00Z",
       "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-04-03T04:00:00Z",
+      "onsale_end": "2026-12-15T05:00:00Z",
       "presales": [
         {
-          "name": "Artist Presale",
-          "start": "2026-11-10T18:00:00Z",
-          "end": "2026-11-13T07:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-10T18:00:00Z",
-          "end": "2026-11-13T07:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "name": "VIP Packages Public Onsale",
           "start": "2026-11-13T18:00:00Z",
-          "end": "2027-03-06T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T07:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-10T18:00:00Z",
-          "end": "2026-11-13T17:00:00Z",
-          "url": "",
-          "how": "The tour is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-03-29T00:00:00Z",
+          "end": "2026-12-08T06:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Ricky+Montgomery",
-      "score": 73,
+      "seatgeek_url": "https://seatgeek.com/search?search=Victoria+Mon%C3%A9t",
+      "score": 71,
       "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.2,
+        "demand": 18.8,
+        "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
       },
@@ -15240,9 +15292,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (2,000 cap)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
         "est. 1.6-2.7x face",
-        "6 presale(s)"
+        "1 presale(s)"
       ]
     },
     {
@@ -15254,7 +15307,7 @@
       "artists": [
         "Grace Potter"
       ],
-      "artist_upcoming": 49,
+      "artist_upcoming": 56,
       "venue": "Uptown Theatre Napa",
       "city": "Napa",
       "state": "CA",
@@ -15298,7 +15351,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Grace+Potter",
       "score": 70,
       "score_parts": {
-        "demand": 23.8,
+        "demand": 24.6,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -15312,11 +15365,90 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "49 upcoming dates (heavy routing)",
+        "56 upcoming dates (heavy routing)",
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1iZ_pCNBxBG",
+      "name": "Midnight Generation - Rooted Tour 2027",
+      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-san-diego-california-05-22-2027/event/0B006563A3EA2E8C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Midnight Generation"
+      ],
+      "artist_upcoming": 36,
+      "venue": "The Observatory North Park",
+      "city": "San Diego",
+      "state": "CA",
+      "capacity": 1000,
+      "capacity_source": "exact",
+      "event_date": "2027-05-23T02:00:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-23T04:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-09T18:00:00Z",
+          "end": "2026-11-10T17:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-04-25T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-10T18:00:00Z",
+          "end": "2026-11-11T06:00:00Z",
+          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
+          "how": "Available for All Fans - Sign Up in Advance"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Reserved by Spotify",
+          "start": "2026-11-09T18:00:00Z",
+          "end": "2026-11-10T17:45:00Z",
+          "url": "",
+          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
+      "score": 69,
+      "score_parts": {
+        "demand": 22.0,
+        "scarcity": 21.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,000 cap)",
+        "est. 1.3-2.1x face",
+        "5 presale(s)"
       ]
     },
     {
@@ -15328,7 +15460,7 @@
       "artists": [
         "Midnight Generation"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 36,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -15379,7 +15511,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
       "score": 68,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 22.0,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -15394,85 +15526,6 @@
       "est_resale_max": null,
       "reasons": [
         "small room (1,150 cap)",
-        "est. 1.3-2.1x face",
-        "5 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1iZ_pCNBxBG",
-      "name": "Midnight Generation - Rooted Tour 2027",
-      "url": "https://www.ticketmaster.com/midnight-generation-rooted-tour-2027-san-diego-california-05-22-2027/event/0B006563A3EA2E8C",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Midnight Generation"
-      ],
-      "artist_upcoming": 34,
-      "venue": "The Observatory North Park",
-      "city": "San Diego",
-      "state": "CA",
-      "capacity": 1000,
-      "capacity_source": "exact",
-      "event_date": "2027-05-23T02:00:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-05-23T04:00:00Z",
-      "presales": [
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-09T18:00:00Z",
-          "end": "2026-11-10T17:45:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-04-25T05:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T18:00:00Z",
-          "end": "2026-11-11T06:00:00Z",
-          "url": "https://signup.livenation.com/midnightgeneration?ac_link=NTM_MidnightGeneration27-3_edposinfo",
-          "how": "Available for All Fans - Sign Up in Advance"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Reserved by Spotify",
-          "start": "2026-11-09T18:00:00Z",
-          "end": "2026-11-10T17:45:00Z",
-          "url": "",
-          "how": "Available to eligible Spotify Premium subscribers. Terms apply"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Midnight+Generation",
-      "score": 68,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 21.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,000 cap)",
         "est. 1.3-2.1x face",
         "5 presale(s)"
       ]
@@ -15548,6 +15601,52 @@
         "small room (1,150 cap)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_pR0a0xi",
+      "name": "Beartooth: Pure Ecstasy World Tour",
+      "url": "https://www.ticketmaster.com/beartooth-pure-ecstasy-world-tour-new-orleans-louisiana-12-07-2026/event/1B00656BE42648AC",
+      "segment": "Music",
+      "genre": "Metal",
+      "artists": [
+        "Beartooth",
+        "Don Broco",
+        "Magnolia Park",
+        "Windwaker"
+      ],
+      "artist_upcoming": 97,
+      "venue": "House of Blues New Orleans ",
+      "city": "New Orleans",
+      "state": "LA",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2026-12-07T23:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2026-12-08T01:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Beartooth",
+      "score": 67,
+      "score_parts": {
+        "demand": 27.9,
+        "scarcity": 18.2,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "97 upcoming dates (heavy routing)",
+        "small room (2,000 cap)",
+        "est. 1.4-2.1x face"
       ]
     },
     {
@@ -15628,6 +15727,93 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "5 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1k0Z_pG3G7I721",
+      "name": "Silversun Pickups: Tenterhooks Tour",
+      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-los-angeles-california-05-22-2027/event/0900656312A043CA",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Silversun Pickups",
+        "Hannah Cole"
+      ],
+      "artist_upcoming": 30,
+      "venue": "The Wiltern",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1850,
+      "capacity_source": "exact",
+      "event_date": "2027-05-23T01:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-23T03:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-05-13T06:59:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-04-23T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
+      "score": 65,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.6,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,850 cap)",
+        "est. 1.3-2.1x face",
+        "6 presale(s)"
       ]
     },
     {
@@ -15786,93 +15972,6 @@
       ]
     },
     {
-      "id": "vv1k0Z_pG3G7I721",
-      "name": "Silversun Pickups: Tenterhooks Tour",
-      "url": "https://www.ticketmaster.com/silversun-pickups-tenterhooks-tour-los-angeles-california-05-22-2027/event/0900656312A043CA",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Silversun Pickups",
-        "Hannah Cole"
-      ],
-      "artist_upcoming": 27,
-      "venue": "The Wiltern",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 1850,
-      "capacity_source": "exact",
-      "event_date": "2027-05-23T01:30:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-05-23T03:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-05-13T06:59:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-04-23T05:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
-      "score": 64,
-      "score_parts": {
-        "demand": 20.3,
-        "scarcity": 18.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,850 cap)",
-        "est. 1.3-2.1x face",
-        "6 presale(s)"
-      ]
-    },
-    {
       "id": "G5vYZ_p1_n68s",
       "name": "Leo Middea",
       "url": "https://www.ticketmaster.com/leo-middea-san-francisco-california-05-16-2027/event/1C00656299A87431",
@@ -15997,6 +16096,80 @@
       ]
     },
     {
+      "id": "G5vYZ_4MakcWY",
+      "name": "Silversun Pickups",
+      "url": "https://www.ticketmaster.com/silversun-pickups-san-francisco-california-05-07-2027/event/1C00655DC91ADF70",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Silversun Pickups",
+        "Hannah Cole"
+      ],
+      "artist_upcoming": 30,
+      "venue": "The Castro Theatre",
+      "city": "San Francisco",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-08T02:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-05-08T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "APE Presale",
+          "start": "2026-11-12T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "APE Presale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-13T18:00:00Z",
+          "end": "2027-04-28T06:59:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
+      "score": 64,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "4 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1iZ_pQK8eU8",
       "name": "JOYCE WRICE - THE MACHIKO TOUR",
       "url": "https://www.ticketmaster.com/joyce-wrice-the-machiko-tour-san-diego-california-02-27-2027/event/0B00656693402D90",
@@ -16083,132 +16256,6 @@
         "small room (1,000 cap)",
         "est. 1.4-2.3x face",
         "6 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vYZ_4MakcWY",
-      "name": "Silversun Pickups",
-      "url": "https://www.ticketmaster.com/silversun-pickups-san-francisco-california-05-07-2027/event/1C00655DC91ADF70",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Silversun Pickups",
-        "Hannah Cole"
-      ],
-      "artist_upcoming": 27,
-      "venue": "The Castro Theatre",
-      "city": "San Francisco",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-08T02:30:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-05-08T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "APE Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "APE Presale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-04-28T06:59:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Silversun+Pickups",
-      "score": 63,
-      "score_parts": {
-        "demand": 20.3,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5vYZ_4gz27Xa",
-      "name": "Tony Hadley",
-      "url": "https://www.ticketmaster.com/tony-hadley-napa-california-05-06-2027/event/1C00655D783C4F89",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Tony Hadley"
-      ],
-      "artist_upcoming": 28,
-      "venue": "Uptown Theatre Napa",
-      "city": "Napa",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-07T03:00:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-05-07T05:00:00Z",
-      "presales": [
-        {
-          "name": "Venue Membership Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.uptowntheatrenapa.com/membership/",
-          "how": "Members only access."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Tony+Hadley",
-      "score": 63,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
       ]
     },
     {
@@ -16301,7 +16348,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "Orpheum Theatre",
       "city": "Los Angeles",
       "state": "CA",
@@ -16324,7 +16371,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -16353,7 +16400,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "Orpheum Theatre",
       "city": "Los Angeles",
       "state": "CA",
@@ -16376,7 +16423,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -16464,7 +16511,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "The 5th Avenue Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -16487,7 +16534,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -16516,7 +16563,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 24,
       "venue": "The 5th Avenue Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -16539,7 +16586,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.6,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -16704,87 +16751,6 @@
       "reasons": [
         "small room (1,850 cap)",
         "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AaZk4JGkd1bVsP",
-      "name": "Celebrating David Bowie",
-      "url": "https://www.ticketmaster.com/celebrating-david-bowie-los-angeles-california-01-16-2027/event/09006566CA634C65",
-      "segment": "Music",
-      "genre": "Undefined",
-      "artists": [
-        "Celebrating David Bowie",
-        "Tony Hadley",
-        "Lady Blackbird",
-        "Steve Hogarth"
-      ],
-      "artist_upcoming": 28,
-      "venue": "The Wiltern",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 1850,
-      "capacity_source": "exact",
-      "event_date": "2027-01-17T03:00:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-01-17T05:00:00Z",
-      "presales": [
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2026-12-21T06:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "VIP Presale",
-          "start": "2026-11-12T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Onsale",
-          "start": "2026-11-13T18:00:00Z",
-          "end": "2027-01-10T06:00:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Celebrating+David+Bowie",
-      "score": 61,
-      "score_parts": {
-        "demand": 20.5,
-        "scarcity": 18.6,
-        "markup": 12.0,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,850 cap)",
-        "5 presale(s)"
       ]
     },
     {
@@ -19802,7 +19768,7 @@
       "capacity_source": "venue type",
       "event_date": "2027-04-16T23:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-04-17T01:20:00Z",
+      "onsale_end": "2027-04-17T01:30:00Z",
       "presales": [
         {
           "name": "LIVE NATION PRESALE",
@@ -20145,7 +20111,7 @@
       "state": "FL",
       "capacity": 16000,
       "capacity_source": "venue type",
-      "event_date": "2027-04-12T23:00:00Z",
+      "event_date": "2027-04-12T23:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
       "onsale_end": "2027-04-13T01:00:00Z",
       "presales": [
@@ -20395,7 +20361,7 @@
       "state": "CT",
       "capacity": 16000,
       "capacity_source": "venue type",
-      "event_date": "2027-05-08T23:45:00Z",
+      "event_date": "2027-05-08T23:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
       "onsale_end": "2027-05-09T03:00:00Z",
       "presales": [
@@ -20548,7 +20514,7 @@
           "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
-          "name": "Local Venue/Radio Presale",
+          "name": "Venue Presale",
           "start": "2026-11-19T15:00:00Z",
           "end": "2026-11-20T03:00:00Z",
           "url": "",
@@ -20560,6 +20526,20 @@
           "end": "2026-11-20T03:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-19T21:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -20584,7 +20564,7 @@
         "56 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -20605,7 +20585,7 @@
       "capacity_source": "venue type",
       "event_date": "2027-05-04T23:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-05-05T01:00:00Z",
+      "onsale_end": "2027-05-05T01:45:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -21390,6 +21370,20 @@
           "end": "2026-11-20T04:00:00Z",
           "url": "",
           "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-17T16:00:00Z",
+          "end": "2026-11-20T05:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-03-21T03:00:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -21413,7 +21407,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.3-2.2x face",
-        "5 presale(s)"
+        "7 presale(s)"
       ]
     },
     {
