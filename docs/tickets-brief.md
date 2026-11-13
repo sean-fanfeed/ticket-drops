@@ -1,4 +1,4 @@
-246 ticket drops scoring 60+ in the next 14 days.
+258 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   PeoplesBank Arena, Hartford CT
@@ -10,12 +10,6 @@
   Daikin Park, Houston TX
   On sale Fri 7 Aug, 9:00 AM (passed)
   Event Sat 28 Nov, 3:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  72 - WWE, WWE Live
-  Hertz Arena, Estero FL
-  On sale Fri 21 Aug, 8:00 AM (passed)
-  Event Thu 12 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
   74 - WWE, WWE Survivor Series
@@ -70,4 +64,10 @@
   Riverside Municipal Auditorium, Riverside CA
   On sale Wed 30 Sep, 11:00 AM (passed)
   Event Sat 5 Dec, 8:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  74 - WWE Holiday Live Tour, WWE
+  Upstate Medical University Arena at The Oncenter War Memorial, Syracuse NY
+  On sale Fri 2 Oct, 8:00 AM (passed)
+  Event Sun 27 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
