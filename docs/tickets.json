@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_utc": "2026-11-13T19:59:58Z",
-    "generated_local": "Fri 13 Nov, 12:59 PM",
+    "generated_utc": "2026-11-13T20:30:59Z",
+    "generated_local": "Fri 13 Nov, 1:30 PM",
     "scanned": 1301,
-    "surfaced": 303,
+    "surfaced": 301,
     "new": 0,
     "threshold": 60,
     "days": 14,
@@ -6851,94 +6851,6 @@
       ]
     },
     {
-      "id": "Z7r9jZ1AA7sbt",
-      "name": "Scott Bradlee's Postmodern Jukebox",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7sbt",
-      "segment": "Music",
-      "genre": "Other",
-      "artists": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ],
-      "artist_upcoming": 76,
-      "venue": "Colonial Theatre Laconia",
-      "city": "Laconia",
-      "state": "NH",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-11T23:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-11T23:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Scott+Bradlee%27s+Postmodern+Jukebox",
-      "score": 65,
-      "score_parts": {
-        "demand": 26.4,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "76 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.1x face"
-      ]
-    },
-    {
-      "id": "Z7r9jZ1AA7sbV",
-      "name": "Scott Bradlee's Postmodern Jukebox",
-      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7sbV",
-      "segment": "Music",
-      "genre": "Other",
-      "artists": [
-        "Scott Bradlee's Postmodern Jukebox"
-      ],
-      "artist_upcoming": 76,
-      "venue": "Agora Theatre",
-      "city": "Cleveland",
-      "state": "OH",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-24T00:00:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-04-24T00:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Scott+Bradlee%27s+Postmodern+Jukebox",
-      "score": 65,
-      "score_parts": {
-        "demand": 26.4,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "76 upcoming dates (heavy routing)",
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.1x face"
-      ]
-    },
-    {
       "id": "vvG1zZ_p53oWcR",
       "name": "Conversations With Nick Cave",
       "url": "https://www.ticketmaster.com/conversations-with-nick-cave-atlanta-georgia-05-14-2027/event/0E006562D247DB6F",
@@ -6947,7 +6859,7 @@
       "artists": [
         "Nick Cave"
       ],
-      "artist_upcoming": 24,
+      "artist_upcoming": 25,
       "venue": "Atlanta Symphony Hall",
       "city": "Atlanta",
       "state": "GA",
@@ -6970,7 +6882,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
       "score": 64,
       "score_parts": {
-        "demand": 19.6,
+        "demand": 19.8,
         "scarcity": 19.6,
         "markup": 15.1,
         "timing": 10.0
@@ -8108,6 +8020,162 @@
       ]
     },
     {
+      "id": "1A4Zk4NGkdod9SF",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-washington-district-of-columbia-05-11-2027/event/15006563D10D7CC8",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Lincoln Theatre",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-11T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-05-12T01:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1F7Z_pCA0SZd861",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-boston-massachusetts-05-04-2027/event/0100656385933F69",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Boch Center Shubert Theatre",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-04T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-05-04T23:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1F7Z_pCAPSZd8Fa",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-boston-massachusetts-05-05-2027/event/0100656385973F78",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Boch Center Shubert Theatre",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-05T23:30:00Z",
+      "onsale_start": "2026-11-13T15:00:00Z",
+      "onsale_end": "2027-05-05T23:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T15:00:00Z",
+          "end": "2026-11-13T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "k7vGF_pEbal-W",
       "name": "Raf",
       "url": "https://www.ticketmaster.com/raf-new-york-new-york-05-27-2027/event/00006569D826B87D",
@@ -8326,162 +8394,6 @@
       "reasons": [
         "small room (1,200 cap)",
         "est. 1.3-2.1x face"
-      ]
-    },
-    {
-      "id": "1A4Zk4NGkdod9SF",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-washington-district-of-columbia-05-11-2027/event/15006563D10D7CC8",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Lincoln Theatre",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-11T23:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-05-12T01:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1F7Z_pCA0SZd861",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-boston-massachusetts-05-04-2027/event/0100656385933F69",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Boch Center Shubert Theatre",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-04T23:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-05-04T23:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1F7Z_pCAPSZd8Fa",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-boston-massachusetts-05-05-2027/event/0100656385973F78",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Boch Center Shubert Theatre",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-05T23:30:00Z",
-      "onsale_start": "2026-11-13T15:00:00Z",
-      "onsale_end": "2027-05-05T23:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T15:00:00Z",
-          "end": "2026-11-13T03:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
       ]
     },
     {
@@ -12390,6 +12302,176 @@
       ]
     },
     {
+      "id": "vv1kvYvPbyGAuJd8k",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-chicago-illinois-04-26-2027/event/070065639D983406",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Chicago Theatre",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-27T00:30:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-27T01:30:00Z",
+      "presales": [
+        {
+          "name": "Verizon Shine Featured Venues",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2026-11-27T16:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        },
+        {
+          "name": "Chase Cardholder Preferred Tickets",
+          "start": "2026-11-13T16:00:00Z",
+          "end": "2027-04-27T01:30:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk4xGkeDHBvQ",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-minneapolis-minnesota-04-24-2027/event/06006562BBF3A05A",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "State Theatre",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-25T01:00:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-04-25T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_4DI5_-j",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-memphis-tennessee-05-18-2027/event/1B00655EE82D985C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The Orpheum Theatre Memphis",
+      "city": "Memphis",
+      "state": "TN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-19T00:30:00Z",
+      "onsale_start": "2026-11-13T16:00:00Z",
+      "onsale_end": "2027-05-19T00:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T16:00:00Z",
+          "end": "2026-11-13T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vv1A6Zk4NGkd9d6LZ",
       "name": "Melissa Etheridge - Rise Again 2027",
       "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-madison-wisconsin-04-03-2027/event/07006563D70C77C0",
@@ -12630,124 +12712,6 @@
       ]
     },
     {
-      "id": "vv1kvYvPbyGAuJd8k",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-chicago-illinois-04-26-2027/event/070065639D983406",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "The Chicago Theatre",
-      "city": "Chicago",
-      "state": "IL",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-27T00:30:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-27T01:30:00Z",
-      "presales": [
-        {
-          "name": "Verizon Shine Featured Venues",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2026-11-27T16:00:00Z",
-          "url": "",
-          "how": "For Verizon Shine Members"
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        },
-        {
-          "name": "Chase Cardholder Preferred Tickets",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2027-04-27T01:30:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AkZk4xGkeDHBvQ",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-minneapolis-minnesota-04-24-2027/event/06006562BBF3A05A",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "State Theatre",
-      "city": "Minneapolis",
-      "state": "MN",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-25T01:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-04-25T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vv178Z_4GkYyt74s",
       "name": "Marcy Playground & Wheatus",
       "url": "https://www.ticketmaster.com/marcy-playground-wheatus-chicago-illinois-04-01-2027/event/0400655C39A44571",
@@ -12832,58 +12796,6 @@
         "small room (2,000 cap)",
         "est. 1.3-2.1x face",
         "6 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_4DI5_-j",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-memphis-tennessee-05-18-2027/event/1B00655EE82D985C",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "The Orpheum Theatre Memphis",
-      "city": "Memphis",
-      "state": "TN",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-19T00:30:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-05-19T00:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
       ]
     },
     {
@@ -15124,7 +15036,7 @@
       "artists": [
         "Victoria Mon\u00e9t"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 20,
       "venue": "Paramount Theatre",
       "city": "Seattle",
       "state": "WA",
@@ -15147,7 +15059,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Victoria+Mon%C3%A9t",
       "score": 71,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 18.5,
         "scarcity": 17.7,
         "markup": 24.5,
         "timing": 10.0
@@ -16039,6 +15951,110 @@
       ]
     },
     {
+      "id": "vv1AaZk4xGkd26l0q",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-los-angeles-california-04-20-2027/event/09006562CF1EB91D",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Orpheum Theatre",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-21T02:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-04-21T04:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AaZk4xGkd8ehIU",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-los-angeles-california-04-21-2027/event/09006562D009BA36",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "Orpheum Theatre",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-22T02:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-04-22T04:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1iZ_pQK8eU8",
       "name": "JOYCE WRICE - THE MACHIKO TOUR",
       "url": "https://www.ticketmaster.com/joyce-wrice-the-machiko-tour-san-diego-california-02-27-2027/event/0B00656693402D90",
@@ -16128,6 +16144,110 @@
       ]
     },
     {
+      "id": "vvG1HZ_p2YsQLT",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-seattle-washington-04-13-2027/event/0F006563F0C5A7FF",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The 5th Avenue Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-14T02:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-04-14T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1HZ_p2YwnOA",
+      "name": "Conversations With Nick Cave",
+      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-seattle-washington-04-14-2027/event/0F006563F0CAA805",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Nick Cave"
+      ],
+      "artist_upcoming": 25,
+      "venue": "The 5th Avenue Theatre",
+      "city": "Seattle",
+      "state": "WA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-15T02:30:00Z",
+      "onsale_start": "2026-11-13T18:00:00Z",
+      "onsale_end": "2027-04-15T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-11T18:00:00Z",
+          "end": "2026-11-13T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.8,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vvG1HZ_p3_wpDn",
       "name": "Zach Top & The Red Clay Strays",
       "url": "https://www.ticketmaster.com/zach-top-the-red-clay-strays-george-washington-07-02-2027/event/0F00656499C96EEA",
@@ -16209,110 +16329,6 @@
       ]
     },
     {
-      "id": "vv1AaZk4xGkd26l0q",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-los-angeles-california-04-20-2027/event/09006562CF1EB91D",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Orpheum Theatre",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-21T02:30:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-04-21T04:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AaZk4xGkd8ehIU",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-los-angeles-california-04-21-2027/event/09006562D009BA36",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "Orpheum Theatre",
-      "city": "Los Angeles",
-      "state": "CA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-22T02:30:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-04-22T04:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vvG1HZ_p3PBEUu",
       "name": "An Alleged Evening with Conor Oberst",
       "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-seattle-washington-05-09-2027/event/0F006564A5EA7D8D",
@@ -16369,110 +16385,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1HZ_p2YsQLT",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-seattle-washington-04-13-2027/event/0F006563F0C5A7FF",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "The 5th Avenue Theatre",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-14T02:30:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-04-14T02:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1HZ_p2YwnOA",
-      "name": "Conversations With Nick Cave",
-      "url": "https://www.ticketmaster.com/conversations-with-nick-cave-seattle-washington-04-14-2027/event/0F006563F0CAA805",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Nick Cave"
-      ],
-      "artist_upcoming": 24,
-      "venue": "The 5th Avenue Theatre",
-      "city": "Seattle",
-      "state": "WA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-15T02:30:00Z",
-      "onsale_start": "2026-11-13T18:00:00Z",
-      "onsale_end": "2027-04-15T02:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T18:00:00Z",
-          "end": "2026-11-13T06:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Nick+Cave",
-      "score": 62,
-      "score_parts": {
-        "demand": 19.6,
-        "scarcity": 17.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "1 presale(s)"
       ]
     },
     {
@@ -20096,9 +20008,9 @@
       "state": "NY",
       "capacity": 16000,
       "capacity_source": "venue type",
-      "event_date": "2027-05-05T23:45:00Z",
+      "event_date": "2027-05-05T23:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-05-05T23:45:00Z",
+      "onsale_end": "2027-05-05T23:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -20510,14 +20422,14 @@
           "start": "2026-11-18T15:00:00Z",
           "end": "2026-11-20T03:00:00Z",
           "url": "",
-          "how": "VIP Package Presale"
+          "how": "The artist is offering VIP Packages for this event."
         },
         {
           "name": "VIP Package Onsale",
           "start": "2026-11-20T15:00:00Z",
           "end": "2027-04-27T21:00:00Z",
           "url": "",
-          "how": "VIP Package Onsale"
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -21023,7 +20935,7 @@
       "state": "SD",
       "capacity": 10000,
       "capacity_source": "venue type",
-      "event_date": "2027-04-22T00:45:00Z",
+      "event_date": "2027-04-22T00:30:00Z",
       "onsale_start": "2026-11-20T16:00:00Z",
       "onsale_end": "2027-04-22T02:45:00Z",
       "presales": [
