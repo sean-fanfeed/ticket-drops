@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-13T18:42:43Z",
-    "generated_local": "Fri 13 Nov, 11:42 AM",
+    "generated_utc": "2026-11-13T19:59:58Z",
+    "generated_local": "Fri 13 Nov, 12:59 PM",
     "scanned": 1301,
-    "surfaced": 305,
-    "new": 2,
+    "surfaced": 303,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -8295,7 +8295,7 @@
         "Royal Blood",
         "Bodega"
       ],
-      "artist_upcoming": 25,
+      "artist_upcoming": 27,
       "venue": "9:30 CLUB",
       "city": "Washington",
       "state": "DC",
@@ -8310,7 +8310,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Royal+Blood",
       "score": 62,
       "score_parts": {
-        "demand": 19.8,
+        "demand": 20.3,
         "scarcity": 20.7,
         "markup": 15.1,
         "timing": 6.0
@@ -12390,65 +12390,6 @@
       ]
     },
     {
-      "id": "vv1kbZ_p13G7XgCh",
-      "name": "An Alleged Evening with Conor Oberst",
-      "url": "https://www.ticketmaster.com/an-alleged-evening-with-conor-oberst-lawrence-kansas-02-19-2027/event/0600656292FB539B",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Conor Oberst"
-      ],
-      "artist_upcoming": 23,
-      "venue": "Liberty Hall",
-      "city": "Lawrence",
-      "state": "KS",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-02-20T02:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-02-20T04:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T15:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Local Presales",
-          "start": "2026-11-12T16:00:00Z",
-          "end": "2026-11-13T05:59:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Conor+Oberst",
-      "score": 64,
-      "score_parts": {
-        "demand": 19.3,
-        "scarcity": 19.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
-      ]
-    },
-    {
       "id": "vv1A6Zk4NGkd9d6LZ",
       "name": "Melissa Etheridge - Rise Again 2027",
       "url": "https://www.ticketmaster.com/melissa-etheridge-rise-again-2027-madison-wisconsin-04-03-2027/event/07006563D70C77C0",
@@ -13057,78 +12998,6 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.5-2.6x face",
-        "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_4NH2i6e",
-      "name": "Presley Regier-Sensitive to the room, sensitive to the sound: The Tour",
-      "url": "https://www.ticketmaster.com/presley-regiersensitive-to-the-room-sensitive-houston-texas-01-26-2027/event/3A006558FC3EC1C2",
-      "segment": "Music",
-      "genre": "Pop",
-      "artists": [
-        "Presley Regier"
-      ],
-      "artist_upcoming": 4,
-      "venue": "The Bronze Peacock at House of Blues Houston",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-01-27T01:00:00Z",
-      "onsale_start": "2026-11-13T16:00:00Z",
-      "onsale_end": "2027-01-27T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-10T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-13T16:00:00Z",
-          "end": "2026-12-30T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-11T16:00:00Z",
-          "end": "2026-11-13T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Presley+Regier",
-      "score": 62,
-      "score_parts": {
-        "demand": 9.8,
-        "scarcity": 18.2,
-        "markup": 24.5,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.65,
-        2.7
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.6-2.7x face",
         "4 presale(s)"
       ]
     },
@@ -18509,6 +18378,20 @@
           "end": "2027-02-12T03:00:00Z",
           "url": "",
           "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-17T15:00:00Z",
+          "end": "2026-11-19T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2027-03-07T03:00:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -18532,7 +18415,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -19577,6 +19460,20 @@
           "end": "2027-05-06T02:00:00Z",
           "url": "",
           "how": "T-Mobile\u00ae Concert Perks + Fast Lane"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-16T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-05-04T16:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -19600,7 +19497,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
-        "6 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -20280,9 +20177,9 @@
       "state": "MD",
       "capacity": 16000,
       "capacity_source": "venue type",
-      "event_date": "2027-05-07T23:45:00Z",
+      "event_date": "2027-05-07T23:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-05-08T01:45:00Z",
+      "onsale_end": "2027-05-08T01:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -20585,7 +20482,7 @@
       "capacity_source": "venue type",
       "event_date": "2027-05-04T23:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-05-05T01:45:00Z",
+      "onsale_end": "2027-05-05T01:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -20885,8 +20782,8 @@
         },
         {
           "name": "VIP Package Presale",
-          "start": "2026-04-16T15:00:00Z",
-          "end": "2026-04-20T03:00:00Z",
+          "start": "2026-11-16T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
           "url": "",
           "how": "The artist is offering VIP Packages for this event."
         },
@@ -20975,6 +20872,20 @@
           "end": "2027-03-30T03:00:00Z",
           "url": "",
           "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-16T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-04-22T17:00:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -20998,7 +20909,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
-        "5 presale(s)"
+        "7 presale(s)"
       ]
     },
     {
@@ -21426,9 +21337,9 @@
       "state": "OK",
       "capacity": 18203,
       "capacity_source": "exact",
-      "event_date": "2027-04-06T00:45:00Z",
+      "event_date": "2027-04-06T00:30:00Z",
       "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-04-06T02:45:00Z",
+      "onsale_end": "2027-04-06T02:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
@@ -21450,6 +21361,20 @@
           "end": "2026-11-20T04:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-03-29T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -21473,7 +21398,7 @@
       "reasons": [
         "56 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -21492,9 +21417,9 @@
       "state": "AR",
       "capacity": 16000,
       "capacity_source": "venue type",
-      "event_date": "2027-04-07T00:45:00Z",
+      "event_date": "2027-04-07T00:30:00Z",
       "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-04-07T01:45:00Z",
+      "onsale_end": "2027-04-07T01:30:00Z",
       "presales": [
         {
           "name": "Artist Presale",
