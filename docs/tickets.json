@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-14T13:47:35Z",
-    "generated_local": "Sat 14 Nov, 6:47 AM",
-    "scanned": 597,
+    "generated_utc": "2026-11-14T16:05:24Z",
+    "generated_local": "Sat 14 Nov, 9:05 AM",
+    "scanned": 599,
     "surfaced": 98,
-    "new": 6,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3882,12 +3882,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=The+Rock+Orchestra",
-      "score": 72,
+      "score": 75,
       "score_parts": {
         "demand": 28,
         "scarcity": 18.7,
         "markup": 18.2,
-        "timing": 7.0
+        "timing": 10.0
       },
       "confidence": "low",
       "on_watchlist": false,
@@ -7010,7 +7010,7 @@
       "artists": [
         "Noga Erez"
       ],
-      "artist_upcoming": 23,
+      "artist_upcoming": 25,
       "venue": "The Fillmore Minneapolis presented by Affinity Plus",
       "city": "Minneapolis",
       "state": "MN",
@@ -7073,9 +7073,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Noga+Erez",
-      "score": 63,
+      "score": 64,
       "score_parts": {
-        "demand": 19.3,
+        "demand": 19.8,
         "scarcity": 20.9,
         "markup": 16.1,
         "timing": 7.0
