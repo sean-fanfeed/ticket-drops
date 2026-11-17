@@ -1,9 +1,15 @@
-177 ticket drops scoring 60+ in the next 14 days.
+241 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   PeoplesBank Arena, Hartford CT
   On sale Sun 31 Dec, 11:00 PM (passed)
   Event Fri 18 Dec, 5:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  75 - WWE
+  War Memorial Auditorium-FL, Fort Lauderdale FL
+  On sale Mon 1 Jan, 11:00 AM (passed)
+  Event Sat 30 Jan, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
   64 - WWE, WWE Survivor Series
@@ -16,12 +22,6 @@
   Von Braun Center Propst Arena, Huntsville AL
   On sale Fri 21 Aug, 9:00 AM (passed)
   Event Thu 19 Nov, 6:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  74 - WWE
-  Lenovo Center, Raleigh NC
-  On sale Fri 11 Sep, 8:00 AM (passed)
-  Event Mon 16 Nov, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
   74 - WWE
