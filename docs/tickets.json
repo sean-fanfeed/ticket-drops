@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-17T19:59:33Z",
-    "generated_local": "Tue 17 Nov, 12:59 PM",
-    "scanned": 1260,
-    "surfaced": 280,
-    "new": 1,
+    "generated_utc": "2026-11-17T21:18:00Z",
+    "generated_local": "Tue 17 Nov, 2:18 PM",
+    "scanned": 1342,
+    "surfaced": 293,
+    "new": 13,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2781,7 +2781,7 @@
         "Monster Jam Freestyle Mania presented by Spin Master",
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Heritage Bank Center",
       "city": "Cincinnati",
       "state": "OH",
@@ -2839,7 +2839,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -2855,7 +2855,7 @@
         "Monster Jam Freestyle Mania presented by Spin Master",
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Heritage Bank Center",
       "city": "Cincinnati",
       "state": "OH",
@@ -2913,7 +2913,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -2929,7 +2929,7 @@
         "Monster Jam Freestyle Mania presented by Spin Master",
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Heritage Bank Center",
       "city": "Cincinnati",
       "state": "OH",
@@ -2987,7 +2987,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -3002,7 +3002,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Ford Center",
       "city": "Evansville",
       "state": "IN",
@@ -3074,7 +3074,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "6 presale(s)"
@@ -3089,7 +3089,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Ford Center",
       "city": "Evansville",
       "state": "IN",
@@ -3161,7 +3161,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "6 presale(s)"
@@ -3176,7 +3176,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Ford Center",
       "city": "Evansville",
       "state": "IN",
@@ -3248,7 +3248,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "6 presale(s)"
@@ -3263,7 +3263,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Huntington Bank Arena",
       "city": "Tupelo",
       "state": "MS",
@@ -3321,7 +3321,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -3336,7 +3336,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Huntington Bank Arena",
       "city": "Tupelo",
       "state": "MS",
@@ -3394,7 +3394,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -3409,7 +3409,7 @@
       "artists": [
         "Monster Jam"
       ],
-      "artist_upcoming": 251,
+      "artist_upcoming": 252,
       "venue": "Huntington Bank Arena",
       "city": "Tupelo",
       "state": "MS",
@@ -3467,7 +3467,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "251 upcoming dates (heavy routing)",
+        "252 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -3590,7 +3590,7 @@
       "artists": [
         "Club 90s"
       ],
-      "artist_upcoming": 11,
+      "artist_upcoming": 12,
       "venue": "House of Blues Las Vegas ",
       "city": "Las Vegas",
       "state": "NV",
@@ -3605,7 +3605,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
       "score": 64,
       "score_parts": {
-        "demand": 15.1,
+        "demand": 15.6,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 6.0
@@ -3928,6 +3928,49 @@
       "reasons": [
         "small room (550 cap)",
         "est. 1.3-2.1x face"
+      ]
+    },
+    {
+      "id": "vv1A6Zk4sGkexRdQ7",
+      "name": "2010s Night (ages 18+)",
+      "url": "https://www.ticketmaster.com/2010s-night-ages-18-madison-wisconsin-12-05-2026/event/07006571A2BC3684",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Club 90s"
+      ],
+      "artist_upcoming": 12,
+      "venue": "Majestic Theatre",
+      "city": "Madison",
+      "state": "WI",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-06T03:00:00Z",
+      "onsale_start": "2026-11-18T18:01:00Z",
+      "onsale_end": "2026-12-06T04:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
+      "score": 64,
+      "score_parts": {
+        "demand": 15.6,
+        "scarcity": 17.7,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.6-2.7x face"
       ]
     },
     {
@@ -6078,6 +6121,20 @@
           "end": "2026-11-20T03:00:00Z",
           "url": "https://www.citizensbank.com/about-us/our-company/corporate-sponsorships/citizens-live.aspx",
           "how": "Exclusive Presale for Citizens Bank Cardholders"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-07T03:55:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -6101,7 +6158,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -7346,7 +7403,7 @@
           "start": "2026-11-18T15:00:00Z",
           "end": "2026-11-20T14:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "Citi\u00ae Cardmember Presale",
@@ -7368,6 +7425,34 @@
           "end": "2026-11-20T14:00:00Z",
           "url": "https://www.livenation.com/allaccess",
           "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember VIP Packages",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-03T16:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -7391,7 +7476,7 @@
       "reasons": [
         "small room (1,150 cap)",
         "est. 1.4-2.3x face",
-        "4 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -9026,7 +9111,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 44,
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
@@ -9119,7 +9204,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 66,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 23.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -9133,7 +9218,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "44 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -9148,7 +9233,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 44,
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
@@ -9241,7 +9326,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 66,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 23.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -9255,10 +9340,240 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "44 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
+      ]
+    },
+    {
+      "id": "1AxZk4JGkdj4fT4",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-orlando-florida-07-17-2027/event/22006566DC554FD5",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Kia Center",
+      "city": "Orlando",
+      "state": "FL",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-17T17:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-07-17T18:30:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale Tickets"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "FOR THE FANS Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        },
+        {
+          "name": "Mastercard Collection Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-20T02:00:00Z",
+          "url": "",
+          "how": "Mastercard Collection Tickets"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-07-08T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-20T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 66,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "10 presale(s)"
+      ]
+    },
+    {
+      "id": "1AxZk4JGkdjpVT_",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-orlando-florida-07-17-2027/event/22006566DC5B4FD9",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Kia Center",
+      "city": "Orlando",
+      "state": "FL",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-17T23:30:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-07-18T00:30:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale Tickets"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "FOR THE FANS Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        },
+        {
+          "name": "Mastercard Collection Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-20T02:00:00Z",
+          "url": "",
+          "how": "Mastercard Collection Preferred Tickets"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-07-08T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-20T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 66,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "10 presale(s)"
       ]
     },
     {
@@ -9323,7 +9638,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 44,
       "venue": "Schottenstein Center",
       "city": "Columbus",
       "state": "OH",
@@ -9409,7 +9724,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 66,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 23.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -9423,7 +9738,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "44 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
@@ -9533,7 +9848,7 @@
       "artists": [
         "The Temptations"
       ],
-      "artist_upcoming": 27,
+      "artist_upcoming": 28,
       "venue": "State Theatre",
       "city": "Portland",
       "state": "ME",
@@ -9556,7 +9871,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=The+Temptations",
       "score": 66,
       "score_parts": {
-        "demand": 20.3,
+        "demand": 20.5,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -10822,7 +11137,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 44,
       "venue": "State Farm Arena",
       "city": "Atlanta",
       "state": "GA",
@@ -10875,7 +11190,7 @@
           "how": ""
         },
         {
-          "name": "Mastercard Collection Preferred Tickets",
+          "name": "Mastercard Collection Tickets",
           "start": "2026-11-20T15:00:00Z",
           "end": "2027-06-13T02:00:00Z",
           "url": "",
@@ -10915,7 +11230,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 64,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 23.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -10929,7 +11244,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -10944,7 +11259,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 44,
       "venue": "State Farm Arena",
       "city": "Atlanta",
       "state": "GA",
@@ -10997,7 +11312,7 @@
           "how": ""
         },
         {
-          "name": "Mastercard Collection Preferred Tickets",
+          "name": "Mastercard Collection Tickets",
           "start": "2026-11-20T15:00:00Z",
           "end": "2027-06-13T02:00:00Z",
           "url": "",
@@ -11037,7 +11352,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 64,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 23.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -11051,7 +11366,251 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "11 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk4PGkeDZz2s",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-pittsburgh-pennsylvania-07-03-2027/event/16006565BB0383F1",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "PPG Paints Arena",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-03T18:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-07-03T18:30:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "\"For The Fans\" Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-24T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-06T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Collection Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-06T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 64,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 7.9,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "11 presale(s)"
+      ]
+    },
+    {
+      "id": "1ApZk4PGkeDvI2g",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-pittsburgh-pennsylvania-07-03-2027/event/16006565BB0683F5",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "PPG Paints Arena",
+      "city": "Pittsburgh",
+      "state": "PA",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-03T23:30:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-07-04T00:00:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "\"For The Fans\" Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-24T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-06T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Collection Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-06T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 64,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 7.9,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -11066,7 +11625,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 44,
       "venue": "UBS Arena",
       "city": "Belmont Park",
       "state": "NY",
@@ -11119,7 +11678,7 @@
           "how": ""
         },
         {
-          "name": "Mastercard Collection Preferred Tickets",
+          "name": "Mastercard Collection Tickets",
           "start": "2026-11-20T15:00:00Z",
           "end": "2027-06-02T02:00:00Z",
           "url": "",
@@ -11138,7 +11697,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 64,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 23.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -11152,7 +11711,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "8 presale(s)"
@@ -11167,7 +11726,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 43,
+      "artist_upcoming": 44,
       "venue": "UBS Arena",
       "city": "Belmont Park",
       "state": "NY",
@@ -11220,7 +11779,7 @@
           "how": ""
         },
         {
-          "name": "Mastercard Collection Preferred Tickets",
+          "name": "Mastercard Collection Tickets",
           "start": "2026-11-20T15:00:00Z",
           "end": "2027-06-02T02:00:00Z",
           "url": "",
@@ -11239,7 +11798,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 64,
       "score_parts": {
-        "demand": 23.0,
+        "demand": 23.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -11253,7 +11812,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "43 upcoming dates (heavy routing)",
+        "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "8 presale(s)"
@@ -11332,6 +11891,128 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "1A4Zk40GkdLc1YP",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-baltimore-maryland-06-05-2027/event/15006564DFB4AC25",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "CFG Bank Arena",
+      "city": "Baltimore",
+      "state": "MD",
+      "capacity": 16000,
+      "capacity_source": "venue type",
+      "event_date": "2027-06-05T18:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-06-05T19:00:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-05-27T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard Collection Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-05-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-05-09T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 64,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 7.9,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "~16,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "11 presale(s)"
       ]
     },
     {
@@ -11873,6 +12554,20 @@
           "end": "2026-11-20T03:00:00Z",
           "url": "",
           "how": "Styx Fanclub"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-02-14T03:00:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -11897,7 +12592,7 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
-        "3 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -12049,8 +12744,8 @@
           "name": "Fan Club Presale",
           "start": "2026-11-18T15:00:00Z",
           "end": "2026-11-20T03:00:00Z",
-          "url": "",
-          "how": "TBD"
+          "url": "https://go.seated.com/tour-events/4f7841df-8e36-4ee8-bb90-3515ab39e246",
+          "how": "Fan Club"
         },
         {
           "name": "WYEP Presale",
@@ -12900,7 +13595,7 @@
       "artists": [
         "Hot Wheels Monster Trucks Live Color Bash"
       ],
-      "artist_upcoming": 78,
+      "artist_upcoming": 79,
       "venue": "Donald L. Tucker Civic Center",
       "city": "Tallahassee",
       "state": "FL",
@@ -12958,7 +13653,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "78 upcoming dates (heavy routing)",
+        "79 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -12973,7 +13668,7 @@
       "artists": [
         "Hot Wheels Monster Trucks Live Color Bash"
       ],
-      "artist_upcoming": 78,
+      "artist_upcoming": 79,
       "venue": "Donald L. Tucker Civic Center",
       "city": "Tallahassee",
       "state": "FL",
@@ -13031,7 +13726,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "78 upcoming dates (heavy routing)",
+        "79 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -13046,7 +13741,7 @@
       "artists": [
         "Hot Wheels Monster Trucks Live Color Bash"
       ],
-      "artist_upcoming": 78,
+      "artist_upcoming": 79,
       "venue": "Donald L. Tucker Civic Center",
       "city": "Tallahassee",
       "state": "FL",
@@ -13104,7 +13799,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "78 upcoming dates (heavy routing)",
+        "79 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
@@ -13196,7 +13891,8 @@
       "segment": "Music",
       "genre": "Rock",
       "artists": [
-        "Nathaniel Rateliff"
+        "Nathaniel Rateliff",
+        "Hannah Cohen"
       ],
       "artist_upcoming": 22,
       "venue": "Beacon Theatre",
@@ -13646,6 +14342,117 @@
       ]
     },
     {
+      "id": "vv17FZ_pGkSJk0Ub",
+      "name": "Jhen\u00e9 Aiko Presents: Ark to Agartha - A Westside Whimsy Experience",
+      "url": "https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-newark-new-jersey-04-02-2027/event/0200656CE61A4D98",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Jhene Aiko",
+        "H.E.R.",
+        "Swae Lee",
+        "Karri"
+      ],
+      "artist_upcoming": 42,
+      "venue": "Prudential Center",
+      "city": "Newark",
+      "state": "NJ",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-02T23:30:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-04-03T01:00:00Z",
+      "presales": [
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist."
+        },
+        {
+          "name": "Verizon Shine Presale Tickets",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Verizon Shine Members"
+        },
+        {
+          "name": "Verizon Shine Select Seats",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-03-06T04:00:00Z",
+          "url": "",
+          "how": "For Verizon Shine Members"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-18T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The tour is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-03-29T16:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Verizon Shine VIP Packages Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-18T18:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Global Poverty Project",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-02T18:00:00Z",
+          "url": "",
+          "how": "GPP"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Jhene+Aiko",
+      "score": 60,
+      "score_parts": {
+        "demand": 22.9,
+        "scarcity": 10.2,
+        "markup": 16.7,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.4,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "42 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.4-2.2x face",
+        "9 presale(s)"
+      ]
+    },
+    {
       "id": "G5eVZ_pDPJkpZ",
       "name": "Jhen\u00e9 Aiko Presents: Ark to Agartha - A Westside Whimsy Experience",
       "url": "https://www.ticketmaster.com/jhene-aiko-presents-ark-to-agartha-charlotte-north-carolina-04-07-2027/event/2D00656EE5986580",
@@ -13672,12 +14479,12 @@
           "start": "2026-11-18T19:00:00Z",
           "end": "2026-11-20T03:00:00Z",
           "url": "",
-          "how": "Artist Presale"
+          "how": "Exclusive Presale for Fans invited by the Artist."
         },
         {
           "name": "Verizon Shine Presale Tickets",
           "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-18T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
           "url": "",
           "how": "Exclusive Presale for Verizon Shine Members"
         },
@@ -13714,14 +14521,7 @@
           "start": "2026-11-18T19:00:00Z",
           "end": "2026-11-20T03:00:00Z",
           "url": "",
-          "how": ""
-        },
-        {
-          "name": "Debranded Platinum Onsale",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-04-08T01:30:00Z",
-          "url": "",
-          "how": ""
+          "how": "The tour is offering VIP Packages for this event."
         },
         {
           "name": "VIP Packages Onsale",
@@ -13753,7 +14553,7 @@
         "42 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.4-2.2x face",
-        "9 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -13781,7 +14581,7 @@
         {
           "name": "Verizon Shine Presale Tickets",
           "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-18T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
           "url": "",
           "how": "Exclusive Presale for Verizon Shine Members"
         },
@@ -14139,6 +14939,57 @@
         "small room (2,200 cap)",
         "~2,200 cap (from venue type)",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvfZ_pGkMP1WB6",
+      "name": "Teenage Fanclub",
+      "url": "https://www.ticketmaster.com/teenage-fanclub-washington-district-of-columbia-04-09-2027/event/1500656DE52BDE87",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Teenage Fanclub"
+      ],
+      "artist_upcoming": 9,
+      "venue": "9:30 CLUB",
+      "city": "Washington",
+      "state": "DC",
+      "capacity": 1200,
+      "capacity_source": "exact",
+      "event_date": "2027-04-10T02:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-04-10T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Teenage+Fanclub",
+      "score": 60,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "est. 1.3-2.1x face",
+        "1 presale(s)"
       ]
     },
     {
@@ -15866,58 +16717,6 @@
       ]
     },
     {
-      "id": "G5viZ_9dwQzX_",
-      "name": "Montana 700 - The Reminiscing Tour",
-      "url": "https://www.ticketmaster.com/montana-700-the-reminiscing-tour-memphis-tennessee-01-13-2027/event/1B006570F26B8F99",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "Montana 700"
-      ],
-      "artist_upcoming": 7,
-      "venue": "1884 Lounge",
-      "city": "Memphis",
-      "state": "TN",
-      "capacity": 500,
-      "capacity_source": "venue type",
-      "event_date": "2027-01-14T02:00:00Z",
-      "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-01-14T06:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T05:59:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Montana+700",
-      "score": 69,
-      "score_parts": {
-        "demand": 12.6,
-        "scarcity": 25.0,
-        "markup": 21.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (500 cap)",
-        "~500 cap (from venue type)",
-        "est. 1.5-2.5x face",
-        "1 presale(s)"
-      ]
-    },
-    {
       "id": "vv17bZ_pGkm394lJ",
       "name": "Alex Warren - Finding (More) Family On The Road",
       "url": "https://www.ticketmaster.com/alex-warren-finding-more-family-on-saint-louis-missouri-04-18-2027/event/0600656B925D5AE6",
@@ -16530,7 +17329,7 @@
           "start": "2026-11-18T16:00:00Z",
           "end": "2026-11-20T15:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "Citi\u00ae Cardmember Presale",
@@ -16552,6 +17351,34 @@
           "end": "2027-03-23T03:00:00Z",
           "url": "",
           "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember VIP Packages",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T15:00:00Z",
+          "url": "",
+          "how": "VIP Packages Presale"
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-04-15T17:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -16575,7 +17402,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
-        "4 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -16603,7 +17430,7 @@
           "start": "2026-11-18T16:00:00Z",
           "end": "2026-11-20T15:00:00Z",
           "url": "",
-          "how": ""
+          "how": "Exclusive Presale for Fans invited by the Artist"
         },
         {
           "name": "LIVE NATION PRESALE",
@@ -16625,6 +17452,34 @@
           "end": "2027-02-25T04:00:00Z",
           "url": "",
           "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember VIP Packages",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T15:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-03-20T17:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
         }
       ],
       "price_min": null,
@@ -16648,7 +17503,7 @@
       "reasons": [
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
-        "4 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -17617,6 +18472,241 @@
         "~1,500 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_pQm-6Ap",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-dallas-texas-07-20-2027/event/0C006566AE847156",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 20000,
+      "capacity_source": "exact",
+      "event_date": "2027-07-21T00:30:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-07-21T01:30:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AAC Insider Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "https://www.americanairlinescenter.com/connect-with-us/aac-insider",
+          "how": "Become an AAC Insider!"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-07-09T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-06-23T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Collection Tickets",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-06-23T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T08:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T08:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 63,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 6.8,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "est. 1.6-2.6x face",
+        "10 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_pQmD65i",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-dallas-texas-07-21-2027/event/0C006566AEEC72EC",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "American Airlines Center",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 20000,
+      "capacity_source": "exact",
+      "event_date": "2027-07-22T00:30:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-07-22T01:30:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:45:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "AAC Insider Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "https://www.americanairlinescenter.com/connect-with-us/aac-insider",
+          "how": "Become an AAC Insider!"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-07-09T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-06-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Collection Tickets",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-06-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 63,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 6.8,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "est. 1.6-2.6x face",
+        "11 presale(s)"
       ]
     },
     {
@@ -19302,6 +20392,243 @@
       ]
     },
     {
+      "id": "16_Zk4Jx3ZA8d8Ad",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-phoenix-arizona-07-24-2027/event/19006566892F2F42",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-25T02:30:00Z",
+      "onsale_start": "2026-11-20T17:00:00Z",
+      "onsale_end": "2027-07-25T04:30:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T17:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T17:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "\"For The Fans\" Presale"
+        },
+        {
+          "name": "Mortgage Matchup Center Presale",
+          "start": "2026-11-19T21:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Mortgage Matchup Center Presale"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T21:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T21:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T17:00:00Z",
+          "end": "2027-07-15T00:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T17:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T21:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T17:00:00Z",
+          "end": "2026-11-19T16:45:00Z",
+          "url": "",
+          "how": "Mastercard VIP Package Presale"
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T17:00:00Z",
+          "end": "2027-06-27T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Collection Tickets",
+          "start": "2026-11-20T17:00:00Z",
+          "end": "2027-06-27T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 66,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "11 presale(s)"
+      ]
+    },
+    {
+      "id": "16v0Z_pJ9G7lSu3",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-phoenix-arizona-07-24-2027/event/1900656997AF3352",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 44,
+      "venue": "Mortgage Matchup Center",
+      "city": "Phoenix",
+      "state": "AZ",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-07-24T21:00:00Z",
+      "onsale_start": "2026-11-20T17:00:00Z",
+      "onsale_end": "2027-07-24T23:00:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-18T17:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Mastercard Presale"
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T17:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "\"For The Fans\" Presale"
+        },
+        {
+          "name": "Mortgage Matchup Center Presale",
+          "start": "2026-11-19T21:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Mortgage Matchup Center Presale"
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T21:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T21:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T17:00:00Z",
+          "end": "2027-07-15T00:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T17:00:00Z",
+          "end": "2026-11-20T05:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "Mastercard VIP Package Presale",
+          "start": "2026-11-18T17:00:00Z",
+          "end": "2026-11-19T16:45:00Z",
+          "url": "",
+          "how": "Mastercard VIP Package Presale"
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T17:00:00Z",
+          "end": "2027-06-27T05:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Mastercard Collection Tickets",
+          "start": "2026-11-20T17:00:00Z",
+          "end": "2027-06-27T05:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 66,
+      "score_parts": {
+        "demand": 23.1,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "44 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "10 presale(s)"
+      ]
+    },
+    {
       "id": "1Av0Z_pGkwPL7sp",
       "name": "CHIODOS: ALL THE WORLD'S A STAGE",
       "url": "https://www.ticketmaster.com/chiodos-all-the-worlds-a-stage-tempe-arizona-03-21-2027/event/1900656CA57C4C56",
@@ -20671,6 +21998,13 @@
           "end": "2026-11-20T06:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T18:00:00Z",
+          "end": "2026-11-20T06:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
         }
       ],
       "price_min": null,
@@ -20694,7 +22028,7 @@
       "reasons": [
         "41 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
-        "1 presale(s)"
+        "2 presale(s)"
       ]
     },
     {
@@ -21519,6 +22853,124 @@
         "small room (500 cap)",
         "~500 cap (from venue type)",
         "est. 1.6-2.7x face"
+      ]
+    },
+    {
+      "id": "vv170Z_pGkMLH0aH",
+      "name": "Teenage Fanclub",
+      "url": "https://www.ticketmaster.com/teenage-fanclub-los-angeles-california-03-20-2027/event/0900656DDFF2427C",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Teenage Fanclub"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Teragram Ballroom",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-21T02:00:00Z",
+      "onsale_start": "2026-11-20T20:00:00Z",
+      "onsale_end": "2027-03-21T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T20:00:00Z",
+          "end": "2026-11-20T07:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T07:59:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Teenage+Fanclub",
+      "score": 60,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv16aZk4YJdZA2k7Ga",
+      "name": "Teenage Fanclub",
+      "url": "https://www.ticketmaster.com/teenage-fanclub-los-angeles-california-03-21-2027/event/09006570983E53B8",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Teenage Fanclub"
+      ],
+      "artist_upcoming": 9,
+      "venue": "Teragram Ballroom",
+      "city": "Los Angeles",
+      "state": "CA",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-22T02:00:00Z",
+      "onsale_start": "2026-11-20T20:00:00Z",
+      "onsale_end": "2027-03-22T04:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T20:00:00Z",
+          "end": "2026-11-20T07:59:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T07:59:00Z",
+          "url": "",
+          "how": "Venue Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Teenage+Fanclub",
+      "score": 60,
+      "score_parts": {
+        "demand": 14.0,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     }
   ]
