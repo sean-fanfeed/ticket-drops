@@ -1,6 +1,6 @@
 316 ticket drops scoring 60+ in the next 14 days.
 
-  70 - WWE
+  71 - WWE
   Akins Arena at The Classic Center, Athens GA
   On sale Sun 31 Dec, 11:00 PM (passed)
   Event Fri 27 Nov, 5:30 PM
@@ -24,13 +24,13 @@
   Event Sat 28 Nov, 3:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  74 - WWE, WWE Survivor Series
+  75 - WWE, WWE Survivor Series
   Von Braun Center Propst Arena, Huntsville AL
   On sale Fri 21 Aug, 9:00 AM (passed)
   Event Thu 19 Nov, 6:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  74 - WWE
+  75 - WWE, WWE Monday Night RAW
   Huntington Center, Toledo OH
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 7 Dec, 5:30 PM
@@ -42,7 +42,7 @@
   Event Fri 4 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  74 - WWE
+  75 - WWE
   Ford Center, Evansville IN
   On sale Fri 11 Sep, 9:00 AM (passed)
   Event Fri 20 Nov, 5:30 PM
@@ -66,7 +66,7 @@
   Event Sat 5 Dec, 8:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  74 - WWE Holiday Live Tour, WWE
+  75 - WWE Holiday Live Tour, WWE
   Upstate Medical University Arena at The Oncenter War Memorial, Syracuse NY
   On sale Fri 2 Oct, 8:00 AM (passed)
   Event Sun 27 Dec, 5:30 PM
