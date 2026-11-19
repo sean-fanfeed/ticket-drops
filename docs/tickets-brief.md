@@ -1,4 +1,4 @@
-324 ticket drops scoring 60+ in the next 14 days.
+325 ticket drops scoring 60+ in the next 14 days.
 
   71 - WWE
   Akins Arena at The Classic Center, Athens GA
