@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-19T18:38:13Z",
-    "generated_local": "Thu 19 Nov, 11:38 AM",
+    "generated_utc": "2026-11-19T19:36:31Z",
+    "generated_local": "Thu 19 Nov, 12:36 PM",
     "scanned": 1334,
     "surfaced": 322,
-    "new": 8,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -95,6 +95,50 @@
         "on your watchlist",
         "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
+        "est. 1.4-2.5x face"
+      ]
+    },
+    {
+      "id": "Z7r9jZ1AA7yF6",
+      "name": "WWE Presents Royal Rumble",
+      "url": "https://www.ticketmaster.com/event/Z7r9jZ1AA7yF6",
+      "segment": "Sports",
+      "genre": "Wrestling",
+      "artists": [
+        "WWE"
+      ],
+      "artist_upcoming": 44,
+      "venue": "State Farm Stadium",
+      "city": "Glendale",
+      "state": "AZ",
+      "capacity": 55000,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-06T22:30:00Z",
+      "onsale_start": "1900-01-01T06:00:00Z",
+      "onsale_end": "2027-02-06T22:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
+      "score": 62,
+      "score_parts": {
+        "demand": 35.1,
+        "scarcity": 1.8,
+        "markup": 19.3,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": true,
+      "resale_multiple": [
+        1.4,
+        2.45
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "on your watchlist",
+        "44 upcoming dates (heavy routing)",
+        "~55,000 cap (from venue type)",
         "est. 1.4-2.5x face"
       ]
     },
@@ -1286,6 +1330,13 @@
           "end": "2026-12-30T04:59:00Z",
           "url": "",
           "how": "TM Holiday Offer"
+        },
+        {
+          "name": "WWE Black Friday / Cyber Monday Offer",
+          "start": "2026-11-27T05:00:00Z",
+          "end": "2026-12-01T04:59:00Z",
+          "url": "",
+          "how": "WWE Black Friday / Cyber Monday Offer"
         }
       ],
       "price_min": null,
@@ -1311,7 +1362,7 @@
         "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "7 presale(s)"
+        "8 presale(s)"
       ]
     },
     {
@@ -4148,7 +4199,7 @@
       "artists": [
         "Club 90s"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "House of Blues Houston",
       "city": "Houston",
       "state": "TX",
@@ -4171,7 +4222,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
       "score": 70,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 10.0
@@ -4199,7 +4250,7 @@
       "artists": [
         "Club 90s"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "House of Blues Chicago",
       "city": "Chicago",
       "state": "IL",
@@ -4214,7 +4265,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
       "score": 66,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 18.2,
         "markup": 24.5,
         "timing": 6.0
@@ -4529,7 +4580,7 @@
       "artists": [
         "Club 90s"
       ],
-      "artist_upcoming": 15,
+      "artist_upcoming": 16,
       "venue": "Summit Music Hall",
       "city": "Denver",
       "state": "CO",
@@ -4552,7 +4603,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
       "score": 70,
       "score_parts": {
-        "demand": 16.9,
+        "demand": 17.2,
         "scarcity": 18.7,
         "markup": 24.5,
         "timing": 10.0
@@ -6158,66 +6209,6 @@
       "event_date": "2026-12-15T00:30:00Z",
       "onsale_start": "2026-11-20T15:00:00Z",
       "onsale_end": "2026-12-15T02:30:00Z",
-      "presales": [
-        {
-          "name": "WWE 2026 Presale",
-          "start": "2026-11-19T17:00:00Z",
-          "end": "2026-11-20T04:59:00Z",
-          "url": "",
-          "how": "WWE 2026 Presale"
-        },
-        {
-          "name": "Club WWE Members Offer",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T04:59:00Z",
-          "url": "",
-          "how": ""
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=WWE",
-      "score": 72,
-      "score_parts": {
-        "demand": 35.1,
-        "scarcity": 7.9,
-        "markup": 19.3,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": true,
-      "resale_multiple": [
-        1.4,
-        2.45
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "on your watchlist",
-        "44 upcoming dates (heavy routing)",
-        "~16,000 cap (from venue type)",
-        "est. 1.4-2.5x face",
-        "2 presale(s)"
-      ]
-    },
-    {
-      "id": "1AeFZ_pGkntUgAo",
-      "name": "WWE Worlds Collide",
-      "url": "https://www.ticketmaster.com/wwe-worlds-collide-kissimmee-florida-12-15-2026/event/2200656AA9DB5151",
-      "segment": "Sports",
-      "genre": "Wrestling",
-      "artists": [
-        "WWE"
-      ],
-      "artist_upcoming": 44,
-      "venue": "The Arena at ESPN Wide World of Sports",
-      "city": "Kissimmee",
-      "state": "FL",
-      "capacity": 16000,
-      "capacity_source": "venue type",
-      "event_date": "2026-12-16T00:30:00Z",
-      "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2026-12-16T02:30:00Z",
       "presales": [
         {
           "name": "WWE 2026 Presale",
@@ -8847,6 +8838,13 @@
       "onsale_end": "2027-06-16T01:30:00Z",
       "presales": [
         {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Spotify Presale"
+        },
+        {
           "name": "Ticketmaster Presale",
           "start": "2026-11-19T19:00:00Z",
           "end": "2026-11-20T03:00:00Z",
@@ -8869,6 +8867,13 @@
         },
         {
           "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
           "start": "2026-11-19T19:00:00Z",
           "end": "2026-11-20T03:00:00Z",
           "url": "",
@@ -8918,7 +8923,7 @@
         "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
-        "7 presale(s)"
+        "9 presale(s)"
       ]
     },
     {

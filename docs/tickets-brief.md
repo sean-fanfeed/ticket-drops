@@ -12,6 +12,12 @@
   Event Fri 18 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
+  62 - WWE
+  State Farm Stadium, Glendale AZ
+  On sale Sun 31 Dec, 11:00 PM (passed)
+  Event Sat 6 Feb, 3:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
   75 - WWE
   War Memorial Auditorium-FL, Fort Lauderdale FL
   On sale Mon 1 Jan, 11:00 AM (passed)
@@ -64,10 +70,4 @@
   Riverside Municipal Auditorium, Riverside CA
   On sale Wed 30 Sep, 11:00 AM (passed)
   Event Sat 5 Dec, 8:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  75 - WWE Holiday Live Tour, WWE
-  Upstate Medical University Arena at The Oncenter War Memorial, Syracuse NY
-  On sale Fri 2 Oct, 8:00 AM (passed)
-  Event Sun 27 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
