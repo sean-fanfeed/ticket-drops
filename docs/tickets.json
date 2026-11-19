@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-19T16:03:33Z",
-    "generated_local": "Thu 19 Nov, 9:03 AM",
-    "scanned": 1330,
-    "surfaced": 316,
-    "new": 7,
+    "generated_utc": "2026-11-19T18:38:13Z",
+    "generated_local": "Thu 19 Nov, 11:38 AM",
+    "scanned": 1334,
+    "surfaced": 322,
+    "new": 8,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3063,6 +3063,72 @@
       ]
     },
     {
+      "id": "vv1k7Z_pbvG7sogY",
+      "name": "Sam Fender: North America Tour '27",
+      "url": "https://www.ticketmaster.com/sam-fender-north-america-tour-27-boston-massachusetts-04-20-2027/event/0100656601C51D70",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Sam Fender"
+      ],
+      "artist_upcoming": 30,
+      "venue": "MGM Music Hall at Fenway",
+      "city": "Boston",
+      "state": "MA",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-21T00:00:00Z",
+      "onsale_start": "2026-11-19T15:00:00Z",
+      "onsale_end": "2027-04-21T01:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-17T15:00:00Z",
+          "end": "2026-11-19T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Discord Presale",
+          "start": "2026-11-17T17:00:00Z",
+          "end": "2026-11-19T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sam+Fender",
+      "score": 65,
+      "score_parts": {
+        "demand": 20.9,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "vv17OZ_pGkRgglug",
       "name": "Deftones - North American Tour 2027",
       "url": "https://www.ticketmaster.com/deftones-north-american-tour-2027-clarkston-michigan-06-08-2027/event/0800656BF5D6B375",
@@ -3149,72 +3215,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "6 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1k7Z_pbvG7sogY",
-      "name": "Sam Fender: North America Tour '27",
-      "url": "https://www.ticketmaster.com/sam-fender-north-america-tour-27-boston-massachusetts-04-20-2027/event/0100656601C51D70",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Sam Fender"
-      ],
-      "artist_upcoming": 29,
-      "venue": "MGM Music Hall at Fenway",
-      "city": "Boston",
-      "state": "MA",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-21T00:00:00Z",
-      "onsale_start": "2026-11-19T15:00:00Z",
-      "onsale_end": "2027-04-21T01:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-17T15:00:00Z",
-          "end": "2026-11-19T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Discord Presale",
-          "start": "2026-11-17T17:00:00Z",
-          "end": "2026-11-19T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-19T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Sam+Fender",
-      "score": 64,
-      "score_parts": {
-        "demand": 20.7,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -4140,6 +4140,99 @@
       ]
     },
     {
+      "id": "G5dIZ_96oq-cV",
+      "name": "Club 90's Presents Glee Night",
+      "url": "https://www.ticketmaster.com/club-90s-presents-glee-night-houston-texas-01-22-2027/event/3A006571D1761B74",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Club 90s"
+      ],
+      "artist_upcoming": 15,
+      "venue": "House of Blues Houston",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-23T02:00:00Z",
+      "onsale_start": "2026-11-19T18:00:00Z",
+      "onsale_end": "2027-01-23T04:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-19T18:01:00Z",
+          "end": "2026-12-26T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
+      "score": 70,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1FvZvPjZ-bZ7C577",
+      "name": "Club 90s Presents Glee Night",
+      "url": "https://www.ticketmaster.com/club-90s-presents-glee-night-chicago-illinois-01-17-2027/event/040065700858DA33",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Club 90s"
+      ],
+      "artist_upcoming": 15,
+      "venue": "House of Blues Chicago",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 2000,
+      "capacity_source": "exact",
+      "event_date": "2027-01-18T02:00:00Z",
+      "onsale_start": "2026-11-19T18:00:00Z",
+      "onsale_end": "2027-01-18T02:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
+      "score": 66,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 18.2,
+        "markup": 24.5,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,000 cap)",
+        "est. 1.6-2.7x face"
+      ]
+    },
+    {
       "id": "vvG1HZ_pmBC1YG",
       "name": "Sam Fender: North America Tour '27",
       "url": "https://www.ticketmaster.com/sam-fender-north-america-tour-27-seattle-washington-05-07-2027/event/0F00656BBA38AC0C",
@@ -4148,7 +4241,7 @@
       "artists": [
         "Sam Fender"
       ],
-      "artist_upcoming": 29,
+      "artist_upcoming": 30,
       "venue": "WAMU Theater",
       "city": "Seattle",
       "state": "WA",
@@ -4192,7 +4285,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Sam+Fender",
       "score": 64,
       "score_parts": {
-        "demand": 20.7,
+        "demand": 20.9,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -4425,6 +4518,102 @@
         "~16,000 cap (from venue type)",
         "est. 1.3-2.2x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5vzZ_91qcVYj",
+      "name": "Club 90s Presents Glee Night - 18+",
+      "url": "https://www.ticketmaster.com/club-90s-presents-glee-night-18-denver-colorado-01-09-2027/event/1E0065729DB74C1C",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "Club 90s"
+      ],
+      "artist_upcoming": 15,
+      "venue": "Summit Music Hall",
+      "city": "Denver",
+      "state": "CO",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-10T03:00:00Z",
+      "onsale_start": "2026-11-19T19:00:00Z",
+      "onsale_end": "2027-01-10T05:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-12-13T05:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Club+90s",
+      "score": 70,
+      "score_parts": {
+        "demand": 16.9,
+        "scarcity": 18.7,
+        "markup": 24.5,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.65,
+        2.7
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.6-2.7x face",
+        "1 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_9CS_Hme",
+      "name": "Hans Williams",
+      "url": "https://www.ticketmaster.com/hans-williams-new-york-new-york-01-29-2027/event/00006573B367CB82",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Hans Williams",
+        "Lyla George"
+      ],
+      "artist_upcoming": 31,
+      "venue": "Bowery Ballroom",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1200,
+      "capacity_source": "venue type",
+      "event_date": "2027-01-30T01:00:00Z",
+      "onsale_start": "2026-11-19T19:00:00Z",
+      "onsale_end": "2027-01-30T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Hans+Williams",
+      "score": 63,
+      "score_parts": {
+        "demand": 21.1,
+        "scarcity": 20.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,200 cap)",
+        "~1,200 cap (from venue type)",
+        "est. 1.3-2.1x face"
       ]
     },
     {
@@ -5873,7 +6062,7 @@
         "Sasha Keable",
         "EJ Ross"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 33,
       "venue": "Paradise Rock Club presented by Citizens",
       "city": "Boston",
       "state": "MA",
@@ -5931,7 +6120,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
       "score": 72,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 21.4,
         "scarcity": 22.7,
         "markup": 18.2,
         "timing": 10.0
@@ -6302,107 +6491,6 @@
       ]
     },
     {
-      "id": "1AvfZ_pGkwyG_Oh",
-      "name": "Sasha Keable - Act Right Tour",
-      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-silver-spring-maryland-04-07-2027/event/1500656CB931981B",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Sasha Keable",
-        "EJ Ross"
-      ],
-      "artist_upcoming": 34,
-      "venue": "The Fillmore Silver Spring",
-      "city": "Silver Spring",
-      "state": "MD",
-      "capacity": 1150,
-      "capacity_source": "exact",
-      "event_date": "2027-04-08T00:00:00Z",
-      "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-04-08T02:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-03-12T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist Presale VIP Packages",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-19T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Citi\u00ae Cardmember VIP Packages",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-19T14:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-04-03T16:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
-      "score": 71,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 20.9,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,150 cap)",
-        "est. 1.4-2.3x face",
-        "8 presale(s)"
-      ]
-    },
-    {
       "id": "k7vGF_pURcHEO",
       "name": "Kaitlin Butts: The Hello, Honky Tour",
       "url": "https://www.ticketmaster.com/kaitlin-butts-the-hello-honky-tour-new-york-new-york-03-09-2027/event/0000656DAFB7C9E0",
@@ -6552,7 +6640,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 47,
+      "artist_upcoming": 48,
       "venue": "Citizens House of Blues Boston",
       "city": "Boston",
       "state": "MA",
@@ -6589,7 +6677,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 70,
       "score_parts": {
-        "demand": 23.5,
+        "demand": 23.7,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -6603,7 +6691,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "47 upcoming dates (heavy routing)",
+        "48 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
         "3 presale(s)"
@@ -6618,7 +6706,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 47,
+      "artist_upcoming": 48,
       "venue": "Citizens House of Blues Boston",
       "city": "Boston",
       "state": "MA",
@@ -6655,7 +6743,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 70,
       "score_parts": {
-        "demand": 23.5,
+        "demand": 23.7,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -6669,10 +6757,111 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "47 upcoming dates (heavy routing)",
+        "48 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "1AvfZ_pGkwyG_Oh",
+      "name": "Sasha Keable - Act Right Tour",
+      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-silver-spring-maryland-04-07-2027/event/1500656CB931981B",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Sasha Keable",
+        "EJ Ross"
+      ],
+      "artist_upcoming": 33,
+      "venue": "The Fillmore Silver Spring",
+      "city": "Silver Spring",
+      "state": "MD",
+      "capacity": 1150,
+      "capacity_source": "exact",
+      "event_date": "2027-04-08T00:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-04-08T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-03-12T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember VIP Packages",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-03T16:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
+      "score": 70,
+      "score_parts": {
+        "demand": 21.4,
+        "scarcity": 20.9,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,150 cap)",
+        "est. 1.4-2.3x face",
+        "8 presale(s)"
       ]
     },
     {
@@ -6938,7 +7127,7 @@
         "Sasha Keable",
         "EJ Ross"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 33,
       "venue": "Saint Andrew's Hall",
       "city": "Detroit",
       "state": "MI",
@@ -7010,7 +7199,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
       "score": 69,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 21.4,
         "scarcity": 19.6,
         "markup": 18.2,
         "timing": 10.0
@@ -7837,108 +8026,6 @@
       ]
     },
     {
-      "id": "vvG1zZ_pUnmlds",
-      "name": "Sasha Keable - Act Right Tour",
-      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-atlanta-georgia-04-14-2027/event/0E00656DAABAB0F1",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Sasha Keable",
-        "EJ Ross"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Buckhead Theatre by SCANA Energy",
-      "city": "Atlanta",
-      "state": "GA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-15T00:00:00Z",
-      "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-04-15T02:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-03-18T03:59:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Cardmember VIP Packages Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-19T14:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "Artist Presale VIP Packages",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-19T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-04-10T16:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
-      "score": 68,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 17.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "8 presale(s)"
-      ]
-    },
-    {
       "id": "k7v1Ak4YZzZA2eGd5",
       "name": "asiris: The Summerside Final Lap Tour",
       "url": "https://www.ticketmaster.com/asiris-the-summerside-final-lap-tour-new-york-new-york-03-06-2027/event/00006570038E1B2A",
@@ -8064,108 +8151,6 @@
       ]
     },
     {
-      "id": "vv1AeZk4YGkdYl5bj",
-      "name": "Sasha Keable - Act Right Tour",
-      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-philadelphia-pennsylvania-04-06-2027/event/02006570F0ACB61C",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Sasha Keable",
-        "EJ Ross"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Theatre of Living Arts",
-      "city": "Philadelphia",
-      "state": "PA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-07T00:00:00Z",
-      "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-04-07T02:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-03-10T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist Presale VIP Packages",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-19T14:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T14:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-04-02T16:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Citi\u00ae Cardmember VIP Packages",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-19T14:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
-      "score": 68,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 17.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "8 presale(s)"
-      ]
-    },
-    {
       "id": "vv17fZ_pGkmUvBX2",
       "name": "Alex Warren - Finding (More) Family On The Road",
       "url": "https://www.ticketmaster.com/alex-warren-finding-more-family-on-noblesville-indiana-05-14-2027/event/0500656BB607AF8F",
@@ -8255,7 +8240,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
@@ -8348,7 +8333,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -8362,7 +8347,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -8377,7 +8362,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Prudential Center",
       "city": "Newark",
       "state": "NJ",
@@ -8470,7 +8455,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -8484,7 +8469,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -8499,7 +8484,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Spectrum Center",
       "city": "Charlotte",
       "state": "NC",
@@ -8592,7 +8577,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -8606,7 +8591,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -8621,7 +8606,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Kia Center",
       "city": "Orlando",
       "state": "FL",
@@ -8707,7 +8692,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -8721,7 +8706,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
@@ -8736,7 +8721,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Kia Center",
       "city": "Orlando",
       "state": "FL",
@@ -8822,7 +8807,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -8836,10 +8821,104 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AAZk4PGkdbznja",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-columbus-ohio-06-15-2027/event/05006565D8E2A709",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 52,
+      "venue": "Schottenstein Center",
+      "city": "Columbus",
+      "state": "OH",
+      "capacity": 10000,
+      "capacity_source": "venue type",
+      "event_date": "2027-06-15T23:30:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-06-16T01:30:00Z",
+      "presales": [
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Ticketmaster Presale"
+        },
+        {
+          "name": "Radio Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Radio Presale"
+        },
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T19:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-06-05T02:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-05-20T02:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "The Mastercard Collection",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-05-20T02:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 67,
+      "score_parts": {
+        "demand": 24.1,
+        "scarcity": 10.2,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "52 upcoming dates (heavy routing)",
+        "~10,000 cap (from venue type)",
+        "est. 1.6-2.6x face",
+        "7 presale(s)"
       ]
     },
     {
@@ -8851,7 +8930,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Schottenstein Center",
       "city": "Columbus",
       "state": "OH",
@@ -8937,7 +9016,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -8951,10 +9030,112 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1zZ_pUnmlds",
+      "name": "Sasha Keable - Act Right Tour",
+      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-atlanta-georgia-04-14-2027/event/0E00656DAABAB0F1",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Sasha Keable",
+        "EJ Ross"
+      ],
+      "artist_upcoming": 33,
+      "venue": "Buckhead Theatre by SCANA Energy",
+      "city": "Atlanta",
+      "state": "GA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-15T00:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-04-15T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-03-18T03:59:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Cardmember VIP Packages Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-10T16:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
+      "score": 67,
+      "score_parts": {
+        "demand": 21.4,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "8 presale(s)"
       ]
     },
     {
@@ -9007,6 +9188,108 @@
         "~2,200 cap (from venue type)",
         "est. 1.4-2.3x face",
         "1 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AeZk4YGkdYl5bj",
+      "name": "Sasha Keable - Act Right Tour",
+      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-philadelphia-pennsylvania-04-06-2027/event/02006570F0ACB61C",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Sasha Keable",
+        "EJ Ross"
+      ],
+      "artist_upcoming": 33,
+      "venue": "Theatre of Living Arts",
+      "city": "Philadelphia",
+      "state": "PA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-07T00:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-04-07T02:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-03-10T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-04-02T16:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Citi\u00ae Cardmember VIP Packages",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-19T14:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
+      "score": 67,
+      "score_parts": {
+        "demand": 21.4,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "8 presale(s)"
       ]
     },
     {
@@ -9335,7 +9618,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "State Farm Arena",
       "city": "Atlanta",
       "state": "GA",
@@ -9428,7 +9711,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -9442,7 +9725,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -9457,7 +9740,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "State Farm Arena",
       "city": "Atlanta",
       "state": "GA",
@@ -9550,7 +9833,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -9564,7 +9847,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -9660,7 +9943,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "PPG Paints Arena",
       "city": "Pittsburgh",
       "state": "PA",
@@ -9753,7 +10036,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -9767,7 +10050,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -9782,7 +10065,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "PPG Paints Arena",
       "city": "Pittsburgh",
       "state": "PA",
@@ -9875,7 +10158,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -9889,7 +10172,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -9985,7 +10268,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "UBS Arena",
       "city": "Belmont Park",
       "state": "NY",
@@ -10057,7 +10340,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -10071,7 +10354,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "8 presale(s)"
@@ -10086,7 +10369,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "UBS Arena",
       "city": "Belmont Park",
       "state": "NY",
@@ -10158,7 +10441,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -10172,7 +10455,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "8 presale(s)"
@@ -10295,11 +10578,11 @@
           "how": "Available exclusively to Live Nation All Access members"
         },
         {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "name": "Citi\u00ae Strata Elite Preferred Tickets",
           "start": "2026-11-20T15:00:00Z",
           "end": "2027-02-11T03:00:00Z",
           "url": "",
-          "how": "For Citi\u00ae Cardmembers"
+          "how": "For Citi\u00ae Strata Elite Cardmembers"
         }
       ],
       "price_min": null,
@@ -10417,7 +10700,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "CFG Bank Arena",
       "city": "Baltimore",
       "state": "MD",
@@ -10510,7 +10793,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -10524,7 +10807,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -10539,7 +10822,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "CFG Bank Arena",
       "city": "Baltimore",
       "state": "MD",
@@ -10632,7 +10915,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 65,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 7.9,
         "markup": 22.9,
         "timing": 10.0
@@ -10646,7 +10929,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -12248,7 +12531,7 @@
       "artists": [
         "DJ Shadow"
       ],
-      "artist_upcoming": 20,
+      "artist_upcoming": 22,
       "venue": "Citizens House of Blues Boston",
       "city": "Boston",
       "state": "MA",
@@ -12299,7 +12582,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
       "score": 63,
       "score_parts": {
-        "demand": 18.5,
+        "demand": 19.1,
         "scarcity": 18.2,
         "markup": 16.1,
         "timing": 10.0
@@ -12429,6 +12712,138 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
+      ]
+    },
+    {
+      "id": "vv17OZ_pGkXDUVmi",
+      "name": "BabyTron - THE IV TOUR",
+      "url": "https://www.ticketmaster.com/babytron-the-iv-tour-detroit-michigan-02-26-2027/event/0800656FBBDB4BAC",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "BabyTron"
+      ],
+      "artist_upcoming": 6,
+      "venue": "Saint Andrew's Hall",
+      "city": "Detroit",
+      "state": "MI",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-27T00:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-02-27T02:00:00Z",
+      "presales": [
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-19T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-02-24T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=BabyTron",
+      "score": 63,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 19.6,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "3 presale(s)"
+      ]
+    },
+    {
+      "id": "vv177Z_pGkSvImAW",
+      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
+      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-portland-maine-03-20-2027/event/0100656CC1A2E17D",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "DJ Shadow"
+      ],
+      "artist_upcoming": 22,
+      "venue": "State Theatre",
+      "city": "Portland",
+      "state": "ME",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-21T00:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-03-21T00:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-18T15:00:00Z",
+          "end": "2026-11-20T03:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-03-11T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.1,
+        "scarcity": 17.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "3 presale(s)"
       ]
     },
     {
@@ -13275,72 +13690,6 @@
       ]
     },
     {
-      "id": "vv177Z_pGkSvImAW",
-      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
-      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-portland-maine-03-20-2027/event/0100656CC1A2E17D",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "DJ Shadow"
-      ],
-      "artist_upcoming": 20,
-      "venue": "State Theatre",
-      "city": "Portland",
-      "state": "ME",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-21T00:00:00Z",
-      "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-03-21T00:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T03:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-20T15:00:00Z",
-          "end": "2027-03-11T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
-      "score": 62,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 17.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "3 presale(s)"
-      ]
-    },
-    {
       "id": "k7vGF_9ddVyE4",
       "name": "Montana 700: The Reminiscing Tour",
       "url": "https://www.ticketmaster.com/montana-700-the-reminiscing-tour-new-york-new-york-01-25-2027/event/00006570C3D399D5",
@@ -14021,6 +14370,58 @@
       ]
     },
     {
+      "id": "k7vGF_95GRbQw",
+      "name": "BabyTron - THE IV TOUR",
+      "url": "https://www.ticketmaster.com/babytron-the-iv-tour-new-york-new-york-02-23-2027/event/00006572CCBD86B2",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "BabyTron"
+      ],
+      "artist_upcoming": 6,
+      "venue": "Gramercy Theatre",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-02-24T00:00:00Z",
+      "onsale_start": "2026-11-20T15:00:00Z",
+      "onsale_end": "2027-02-24T02:00:00Z",
+      "presales": [
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-20T15:00:00Z",
+          "end": "2027-01-27T03:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=BabyTron",
+      "score": 61,
+      "score_parts": {
+        "demand": 11.8,
+        "scarcity": 17.7,
+        "markup": 21.4,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.5-2.5x face",
+        "1 presale(s)"
+      ]
+    },
+    {
       "id": "vv177Z_pGkS-PxMM",
       "name": "Racing Mount Pleasant",
       "url": "https://www.ticketmaster.com/racing-mount-pleasant-boston-massachusetts-04-20-2027/event/0100656CE1962DF7",
@@ -14210,66 +14611,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.5-2.6x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "1AvbZ_pGkUUrQPY",
-      "name": "Mod Sun: Don't Be A Poet Tour",
-      "url": "https://www.ticketmaster.com/mod-sun-dont-be-a-poet-pittsburgh-pennsylvania-03-01-2027/event/1600656DB679A970",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Mod Sun",
-        "Public Works"
-      ],
-      "artist_upcoming": 14,
-      "venue": "Spirit Hall",
-      "city": "Pittsburgh",
-      "state": "PA",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-02T00:00:00Z",
-      "onsale_start": "2026-11-20T15:00:00Z",
-      "onsale_end": "2027-03-02T02:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T15:00:00Z",
-          "end": "2026-11-20T03:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T15:00:00Z",
-          "end": "2026-11-20T03:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Mod+Sun",
-      "score": 61,
-      "score_parts": {
-        "demand": 16.5,
-        "scarcity": 19.6,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -16040,6 +16381,73 @@
       ]
     },
     {
+      "id": "G5dIZ_9doIzLG",
+      "name": "CHVRCHES LIVE 2027",
+      "url": "https://www.ticketmaster.com/chvrches-live-2027-houston-texas-04-09-2027/event/3A006570D1A387CC",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "CHVRCHES"
+      ],
+      "artist_upcoming": 48,
+      "venue": "White Oak Music Hall Lawn",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-10T00:00:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-04-10T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Local Presale"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
+      "score": 71,
+      "score_parts": {
+        "demand": 23.7,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "48 upcoming dates (heavy routing)",
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "3 presale(s)"
+      ]
+    },
+    {
       "id": "1Ae7Z_pGkM7exfB",
       "name": "Chase Matthew & Lauren Alaina: All My Exes Tour",
       "url": "https://www.ticketmaster.com/chase-matthew-lauren-alaina-all-my-waukee-iowa-01-28-2027/event/2100656DC40A253A",
@@ -16313,7 +16721,7 @@
       "artists": [
         "CHVRCHES"
       ],
-      "artist_upcoming": 47,
+      "artist_upcoming": 48,
       "venue": "House of Blues Dallas ",
       "city": "Dallas",
       "state": "TX",
@@ -16357,7 +16765,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
       "score": 70,
       "score_parts": {
-        "demand": 23.5,
+        "demand": 23.7,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -16371,77 +16779,10 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "47 upcoming dates (heavy routing)",
+        "48 upcoming dates (heavy routing)",
         "small room (2,000 cap)",
         "est. 1.4-2.3x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_9doIzLG",
-      "name": "CHVRCHES LIVE 2027",
-      "url": "https://www.ticketmaster.com/chvrches-live-2027-houston-texas-04-09-2027/event/3A006570D1A387CC",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "CHVRCHES"
-      ],
-      "artist_upcoming": 47,
-      "venue": "White Oak Music Hall Lawn",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-10T00:00:00Z",
-      "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-04-10T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-19T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Local Presale"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=CHVRCHES",
-      "score": 70,
-      "score_parts": {
-        "demand": 23.5,
-        "scarcity": 18.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "47 upcoming dates (heavy routing)",
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "3 presale(s)"
       ]
     },
     {
@@ -16932,7 +17273,7 @@
         "Sasha Keable",
         "EJ Ross"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 33,
       "venue": "House of Blues Houston",
       "city": "Houston",
       "state": "TX",
@@ -17004,7 +17345,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
       "score": 68,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 21.4,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -17114,7 +17455,7 @@
         "Sasha Keable",
         "EJ Ross"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 33,
       "venue": "House of Blues Chicago",
       "city": "Chicago",
       "state": "IL",
@@ -17186,7 +17527,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
       "score": 68,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 21.4,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -17215,7 +17556,7 @@
         "Sasha Keable",
         "EJ Ross"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 33,
       "venue": "House of Blues Dallas ",
       "city": "Dallas",
       "state": "TX",
@@ -17287,7 +17628,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
       "score": 68,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 21.4,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -17370,101 +17711,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.6-2.7x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv1AkZk4YGkeshMHF",
-      "name": "Sasha Keable - Act Right Tour",
-      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-minneapolis-minnesota-03-22-2027/event/06006570B16F7F08",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Sasha Keable",
-        "EJ Ross"
-      ],
-      "artist_upcoming": 34,
-      "venue": "Varsity Theater",
-      "city": "Minneapolis",
-      "state": "MN",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-22T22:30:00Z",
-      "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-03-23T00:30:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T15:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T15:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T16:00:00Z",
-          "end": "2026-11-20T15:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Artist Presale VIP Packages",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-19T15:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Fans invited by the Artist"
-        },
-        {
-          "name": "Citi\u00ae Cardmember VIP Packages",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-19T15:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Presale",
-          "start": "2026-11-19T16:00:00Z",
-          "end": "2026-11-20T15:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Packages Onsale",
-          "start": "2026-11-20T16:00:00Z",
-          "end": "2027-03-18T17:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
-      "score": 68,
-      "score_parts": {
-        "demand": 21.6,
-        "scarcity": 17.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "7 presale(s)"
       ]
     },
     {
@@ -17671,6 +17917,101 @@
         "small room (2,000 cap)",
         "est. 1.6-2.7x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "vv1AkZk4YGkeshMHF",
+      "name": "Sasha Keable - Act Right Tour",
+      "url": "https://www.ticketmaster.com/sasha-keable-act-right-tour-minneapolis-minnesota-03-22-2027/event/06006570B16F7F08",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Sasha Keable",
+        "EJ Ross"
+      ],
+      "artist_upcoming": 33,
+      "venue": "Varsity Theater",
+      "city": "Minneapolis",
+      "state": "MN",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-22T22:30:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-03-23T00:30:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T15:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T15:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T15:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        },
+        {
+          "name": "Artist Presale VIP Packages",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Fans invited by the Artist"
+        },
+        {
+          "name": "Citi\u00ae Cardmember VIP Packages",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-19T15:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Presale",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T15:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Packages Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-03-18T17:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
+      "score": 67,
+      "score_parts": {
+        "demand": 21.4,
+        "scarcity": 17.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "7 presale(s)"
       ]
     },
     {
@@ -18453,7 +18794,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "American Airlines Center",
       "city": "Dallas",
       "state": "TX",
@@ -18539,7 +18880,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 64,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 6.8,
         "markup": 22.9,
         "timing": 10.0
@@ -18553,7 +18894,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
       ]
@@ -18567,7 +18908,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "American Airlines Center",
       "city": "Dallas",
       "state": "TX",
@@ -18660,7 +19001,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 64,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 6.8,
         "markup": 22.9,
         "timing": 10.0
@@ -18674,7 +19015,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
       ]
@@ -18807,6 +19148,166 @@
       ]
     },
     {
+      "id": "G5dIZ_pUM1NAf",
+      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
+      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-houston-texas-05-07-2027/event/3A00656DB72A3154",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "DJ Shadow"
+      ],
+      "artist_upcoming": 22,
+      "venue": "White Oak Music Hall - Downstairs",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-08T00:00:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-05-08T03:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Pre Sale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Artist Pre Sale"
+        },
+        {
+          "name": "Venue Pre Sale",
+          "start": "2026-11-18T18:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Venue Pre Sale"
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-04-28T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
+      "score": 64,
+      "score_parts": {
+        "demand": 19.1,
+        "scarcity": 18.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
+      ]
+    },
+    {
+      "id": "vvG1YZ_pHYjizN",
+      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
+      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-dallas-texas-05-08-2027/event/0C00656F3072CE23",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "DJ Shadow"
+      ],
+      "artist_upcoming": 22,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-05-09T00:00:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-05-09T02:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-04-29T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-04-11T03:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        },
+        {
+          "name": "LIVE NATION PRESALE",
+          "start": "2026-11-19T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "https://www.livenation.com/allaccess",
+          "how": "Available exclusively to Live Nation All Access members"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
+      "score": 64,
+      "score_parts": {
+        "demand": 19.1,
+        "scarcity": 18.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "6 presale(s)"
+      ]
+    },
+    {
       "id": "vv1k8Z_pb3G7S3VY",
       "name": "KPop Demon Hunters Golden World Tour",
       "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chicago-illinois-06-19-2027/event/0400656612CD2D30",
@@ -18815,7 +19316,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "United Center",
       "city": "Chicago",
       "state": "IL",
@@ -18901,7 +19402,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 6.0,
         "markup": 22.9,
         "timing": 10.0
@@ -18915,7 +19416,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
       ]
@@ -18929,7 +19430,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "United Center",
       "city": "Chicago",
       "state": "IL",
@@ -19015,7 +19516,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 63,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 6.0,
         "markup": 22.9,
         "timing": 10.0
@@ -19029,9 +19530,116 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
+      ]
+    },
+    {
+      "id": "vv178Z_pGkRa4jVj",
+      "name": "KPop Demon Hunters Golden World Tour",
+      "url": "https://www.ticketmaster.com/kpop-demon-hunters-golden-world-tour-chicago-illinois-06-20-2027/event/0400656BC955CD1C",
+      "segment": "Music",
+      "genre": "Pop",
+      "artists": [
+        "KPop Demon Hunters"
+      ],
+      "artist_upcoming": 52,
+      "venue": "United Center",
+      "city": "Chicago",
+      "state": "IL",
+      "capacity": 23500,
+      "capacity_source": "exact",
+      "event_date": "2027-06-20T19:00:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-06-20T17:00:00Z",
+      "presales": [
+        {
+          "name": "Mastercard Presale Tickets",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "FOR THE FANS Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-06-15T22:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Mastercard World Legend",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-05-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "The Mastercard Collection",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-05-24T03:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Ticketmaster Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Spotify Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Radio/ Venue Presale",
+          "start": "2026-11-19T20:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": ""
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
+      "score": 63,
+      "score_parts": {
+        "demand": 24.1,
+        "scarcity": 6.0,
+        "markup": 22.9,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.6,
+        2.6
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "52 upcoming dates (heavy routing)",
+        "est. 1.6-2.6x face",
+        "9 presale(s)"
       ]
     },
     {
@@ -19285,79 +19893,6 @@
       ]
     },
     {
-      "id": "G5dIZ_pUM1NAf",
-      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
-      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-houston-texas-05-07-2027/event/3A00656DB72A3154",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "DJ Shadow"
-      ],
-      "artist_upcoming": 20,
-      "venue": "White Oak Music Hall - Downstairs",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-08T00:00:00Z",
-      "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-05-08T03:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Pre Sale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Artist Pre Sale"
-        },
-        {
-          "name": "Venue Pre Sale",
-          "start": "2026-11-18T18:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Venue Pre Sale"
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-20T16:00:00Z",
-          "end": "2027-04-28T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
-      "score": 63,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 18.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
-      ]
-    },
-    {
       "id": "vv17jZ_pGkmWmETT",
       "name": "Ben Rector & Friends with Jon McLaughlin and Josh Jenkins",
       "url": "https://www.ticketmaster.com/ben-rector-friends-with-jon-mclaughlin-madison-wisconsin-09-11-2027/event/0700656BBDBA7FFF",
@@ -19415,93 +19950,6 @@
         "~2,200 cap (from venue type)",
         "est. 1.3-2.1x face",
         "2 presale(s)"
-      ]
-    },
-    {
-      "id": "vvG1YZ_pHYjizN",
-      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
-      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-dallas-texas-05-08-2027/event/0C00656F3072CE23",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "DJ Shadow"
-      ],
-      "artist_upcoming": 20,
-      "venue": "The Echo Lounge & Music Hall",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-05-09T00:00:00Z",
-      "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-05-09T02:00:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-20T16:00:00Z",
-          "end": "2027-04-29T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        },
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Artist Presale"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-20T16:00:00Z",
-          "end": "2027-04-11T03:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
-      "score": 63,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 18.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "6 presale(s)"
       ]
     },
     {
@@ -19568,6 +20016,79 @@
         "small room (1,800 cap)",
         "~1,800 cap (from venue type)",
         "3 presale(s)"
+      ]
+    },
+    {
+      "id": "G5viZ_pwWDTQV",
+      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
+      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-new-orleans-louisiana-04-20-2027/event/1B00656CBDEFF6B4",
+      "segment": "Music",
+      "genre": "Dance/Electronic",
+      "artists": [
+        "DJ Shadow"
+      ],
+      "artist_upcoming": 22,
+      "venue": "The Joy Theater",
+      "city": "New Orleans",
+      "state": "LA",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-21T01:00:00Z",
+      "onsale_start": "2026-11-20T16:00:00Z",
+      "onsale_end": "2027-04-21T05:00:00Z",
+      "presales": [
+        {
+          "name": "Artist Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Artist Presale."
+        },
+        {
+          "name": "Venue Presale",
+          "start": "2026-11-18T18:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "Venue Presale."
+        },
+        {
+          "name": "VIP Package Presale",
+          "start": "2026-11-18T16:00:00Z",
+          "end": "2026-11-20T04:00:00Z",
+          "url": "",
+          "how": "The artist is offering VIP Packages for this event."
+        },
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T16:00:00Z",
+          "end": "2027-04-11T03:00:00Z",
+          "url": "",
+          "how": "For events with prior presales, availability may be limited."
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.1,
+        "scarcity": 17.7,
+        "markup": 16.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.2
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.3-2.2x face",
+        "4 presale(s)"
       ]
     },
     {
@@ -20041,79 +20562,6 @@
         "~1,800 cap (from venue type)",
         "est. 1.5-2.5x face",
         "1 presale(s)"
-      ]
-    },
-    {
-      "id": "G5viZ_pwWDTQV",
-      "name": "DJ Shadow Celebrates 30 Years of Endtroducing",
-      "url": "https://www.ticketmaster.com/dj-shadow-celebrates-30-years-of-new-orleans-louisiana-04-20-2027/event/1B00656CBDEFF6B4",
-      "segment": "Music",
-      "genre": "Dance/Electronic",
-      "artists": [
-        "DJ Shadow"
-      ],
-      "artist_upcoming": 20,
-      "venue": "The Joy Theater",
-      "city": "New Orleans",
-      "state": "LA",
-      "capacity": 2200,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-21T01:00:00Z",
-      "onsale_start": "2026-11-20T16:00:00Z",
-      "onsale_end": "2027-04-21T05:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Artist Presale."
-        },
-        {
-          "name": "Venue Presale",
-          "start": "2026-11-18T18:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "Venue Presale."
-        },
-        {
-          "name": "VIP Package Presale",
-          "start": "2026-11-18T16:00:00Z",
-          "end": "2026-11-20T04:00:00Z",
-          "url": "",
-          "how": "The artist is offering VIP Packages for this event."
-        },
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-20T16:00:00Z",
-          "end": "2027-04-11T03:00:00Z",
-          "url": "",
-          "how": "For events with prior presales, availability may be limited."
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=DJ+Shadow",
-      "score": 62,
-      "score_parts": {
-        "demand": 18.5,
-        "scarcity": 17.7,
-        "markup": 16.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.2
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,200 cap)",
-        "~2,200 cap (from venue type)",
-        "est. 1.3-2.2x face",
-        "4 presale(s)"
       ]
     },
     {
@@ -21265,7 +21713,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Mortgage Matchup Center",
       "city": "Phoenix",
       "state": "AZ",
@@ -21358,7 +21806,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -21372,7 +21820,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "11 presale(s)"
@@ -21387,7 +21835,7 @@
       "artists": [
         "KPop Demon Hunters"
       ],
-      "artist_upcoming": 50,
+      "artist_upcoming": 52,
       "venue": "Mortgage Matchup Center",
       "city": "Phoenix",
       "state": "AZ",
@@ -21473,7 +21921,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=KPop+Demon+Hunters",
       "score": 67,
       "score_parts": {
-        "demand": 23.9,
+        "demand": 24.1,
         "scarcity": 10.2,
         "markup": 22.9,
         "timing": 10.0
@@ -21487,7 +21935,7 @@
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "50 upcoming dates (heavy routing)",
+        "52 upcoming dates (heavy routing)",
         "~10,000 cap (from venue type)",
         "est. 1.6-2.6x face",
         "10 presale(s)"
@@ -22835,7 +23283,7 @@
         "Sasha Keable",
         "EJ Ross"
       ],
-      "artist_upcoming": 34,
+      "artist_upcoming": 33,
       "venue": "The Observatory North Park",
       "city": "San Diego",
       "state": "CA",
@@ -22907,7 +23355,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Sasha+Keable",
       "score": 71,
       "score_parts": {
-        "demand": 21.6,
+        "demand": 21.4,
         "scarcity": 21.6,
         "markup": 18.2,
         "timing": 10.0
@@ -23350,78 +23798,6 @@
         "small room (2,000 cap)",
         "est. 1.5-2.6x face",
         "3 presale(s)"
-      ]
-    },
-    {
-      "id": "vv170Z_pGkVKaTuH",
-      "name": "Southall - Hills and Valleys Tour",
-      "url": "https://www.ticketmaster.com/southall-hills-and-valleys-tour-anaheim-california-03-13-2027/event/0900656D1327F37C",
-      "segment": "Music",
-      "genre": "Country",
-      "artists": [
-        "Southall"
-      ],
-      "artist_upcoming": 14,
-      "venue": "The Parish at House of Blues Anaheim",
-      "city": "Anaheim",
-      "state": "CA",
-      "capacity": 2000,
-      "capacity_source": "exact",
-      "event_date": "2027-03-14T03:00:00Z",
-      "onsale_start": "2026-11-20T18:00:00Z",
-      "onsale_end": "2027-03-14T05:00:00Z",
-      "presales": [
-        {
-          "name": "Artist Presale",
-          "start": "2026-11-19T18:00:00Z",
-          "end": "2026-11-20T07:59:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "LIVE NATION PRESALE",
-          "start": "2026-11-19T18:00:00Z",
-          "end": "2026-11-20T07:59:00Z",
-          "url": "https://www.livenation.com/allaccess",
-          "how": "Available exclusively to Live Nation All Access members"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Presale",
-          "start": "2026-11-19T18:00:00Z",
-          "end": "2026-11-20T07:59:00Z",
-          "url": "",
-          "how": "Exclusive Presale for Citi\u00ae Cardmembers"
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-20T18:00:00Z",
-          "end": "2027-02-14T06:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Southall",
-      "score": 67,
-      "score_parts": {
-        "demand": 16.5,
-        "scarcity": 18.2,
-        "markup": 22.4,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.6
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (2,000 cap)",
-        "est. 1.5-2.6x face",
-        "4 presale(s)"
       ]
     },
     {
