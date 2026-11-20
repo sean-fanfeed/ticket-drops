@@ -30,7 +30,7 @@
   Event Sat 28 Nov, 3:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
-  75 - WWE
+  75 - WWE, WWE Monday Night RAW
   Huntington Center, Toledo OH
   On sale Fri 11 Sep, 8:00 AM (passed)
   Event Mon 7 Dec, 5:30 PM
