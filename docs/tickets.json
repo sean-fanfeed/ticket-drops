@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-20T19:14:44Z",
-    "generated_local": "Fri 20 Nov, 12:14 PM",
+    "generated_utc": "2026-11-20T20:42:21Z",
+    "generated_local": "Fri 20 Nov, 1:42 PM",
     "scanned": 1348,
     "surfaced": 347,
-    "new": 3,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -281,8 +281,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Monday Night RAW"
+        "WWE"
       ],
       "artist_upcoming": 44,
       "venue": "Huntington Center",
@@ -1255,20 +1254,6 @@
           "end": "2026-11-02T04:59:00Z",
           "url": "",
           "how": "Very Nice, Very Evil Ticket Treat"
-        },
-        {
-          "name": "TM Holiday Offer",
-          "start": "2026-11-27T05:00:00Z",
-          "end": "2026-12-30T04:59:00Z",
-          "url": "",
-          "how": "TM Holiday Offer"
-        },
-        {
-          "name": "WWE Black Friday / Cyber Monday Offer",
-          "start": "2026-11-27T05:00:00Z",
-          "end": "2026-12-01T04:59:00Z",
-          "url": "",
-          "how": "WWE Black Friday / Cyber Monday Offer"
         }
       ],
       "price_min": null,
@@ -1294,7 +1279,7 @@
         "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "8 presale(s)"
+        "6 presale(s)"
       ]
     },
     {
