@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-11-20T20:42:21Z",
-    "generated_local": "Fri 20 Nov, 1:42 PM",
-    "scanned": 1348,
+    "generated_utc": "2026-11-20T21:15:50Z",
+    "generated_local": "Fri 20 Nov, 2:15 PM",
+    "scanned": 1349,
     "surfaced": 347,
     "new": 0,
     "threshold": 60,
@@ -1165,6 +1165,13 @@
           "end": "2026-12-28T04:59:00Z",
           "url": "",
           "how": "TM Holiday Offer"
+        },
+        {
+          "name": "Black Friday Cyber Monday Offer",
+          "start": "2026-11-27T05:01:00Z",
+          "end": "2026-12-01T04:59:00Z",
+          "url": "",
+          "how": "Black Friday Cyber Monday Offer"
         }
       ],
       "price_min": null,
@@ -1190,7 +1197,7 @@
         "44 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "6 presale(s)"
+        "7 presale(s)"
       ]
     },
     {
@@ -22481,7 +22488,7 @@
       "artists": [
         "Mya"
       ],
-      "artist_upcoming": 12,
+      "artist_upcoming": 13,
       "venue": "House of Blues Cleveland",
       "city": "Cleveland",
       "state": "OH",
@@ -22504,7 +22511,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mya",
       "score": 62,
       "score_parts": {
-        "demand": 15.6,
+        "demand": 16.0,
         "scarcity": 18.2,
         "markup": 18.2,
         "timing": 10.0
@@ -22532,7 +22539,7 @@
       "artists": [
         "Mya"
       ],
-      "artist_upcoming": 12,
+      "artist_upcoming": 13,
       "venue": "Theatre of Living Arts",
       "city": "Philadelphia",
       "state": "PA",
@@ -22569,7 +22576,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Mya",
       "score": 62,
       "score_parts": {
-        "demand": 15.6,
+        "demand": 16.0,
         "scarcity": 17.7,
         "markup": 18.2,
         "timing": 10.0
@@ -25034,6 +25041,65 @@
       ]
     },
     {
+      "id": "vvG1YZ_9FqUw1a",
+      "name": "M\u00ddA",
+      "url": "https://www.ticketmaster.com/mya-dallas-texas-03-09-2027/event/0C0065721DDB2289",
+      "segment": "Music",
+      "genre": "R&B",
+      "artists": [
+        "Mya"
+      ],
+      "artist_upcoming": 13,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-10T01:00:00Z",
+      "onsale_start": "2026-11-20T18:00:00Z",
+      "onsale_end": "2027-03-10T03:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-20T18:00:00Z",
+          "end": "2027-03-03T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-20T18:00:00Z",
+          "end": "2027-02-10T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Mya",
+      "score": 63,
+      "score_parts": {
+        "demand": 16.0,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
+      ]
+    },
+    {
       "id": "vv1AaZk4sGkezQyjY",
       "name": "Rin: Dearest Diary Tour",
       "url": "https://www.ticketmaster.com/rin-dearest-diary-tour-los-angeles-california-01-17-2027/event/09006571B86B9730",
@@ -25074,65 +25140,6 @@
         "small room (1,200 cap)",
         "~1,200 cap (from venue type)",
         "est. 1.6-2.7x face"
-      ]
-    },
-    {
-      "id": "vvG1YZ_9FqUw1a",
-      "name": "M\u00ddA",
-      "url": "https://www.ticketmaster.com/mya-dallas-texas-03-09-2027/event/0C0065721DDB2289",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Mya"
-      ],
-      "artist_upcoming": 12,
-      "venue": "The Echo Lounge & Music Hall",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-10T01:00:00Z",
-      "onsale_start": "2026-11-20T18:00:00Z",
-      "onsale_end": "2027-03-10T03:00:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-20T18:00:00Z",
-          "end": "2027-03-03T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-20T18:00:00Z",
-          "end": "2027-02-10T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Mya",
-      "score": 62,
-      "score_parts": {
-        "demand": 15.6,
-        "scarcity": 18.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -25614,7 +25621,7 @@
       "artists": [
         "Mya"
       ],
-      "artist_upcoming": 12,
+      "artist_upcoming": 13,
       "venue": "The Observatory",
       "city": "Santa Ana",
       "state": "CA",
@@ -25627,9 +25634,9 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Mya",
-      "score": 61,
+      "score": 62,
       "score_parts": {
-        "demand": 15.6,
+        "demand": 16.0,
         "scarcity": 21.6,
         "markup": 18.2,
         "timing": 6.0
