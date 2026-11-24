@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-11-24T21:28:31Z",
-    "generated_local": "Tue 24 Nov, 2:28 PM",
-    "scanned": 802,
+    "generated_utc": "2026-11-24T22:44:19Z",
+    "generated_local": "Tue 24 Nov, 3:44 PM",
+    "scanned": 826,
     "surfaced": 50,
     "new": 0,
     "threshold": 60,
@@ -1190,6 +1190,13 @@
           "how": ""
         },
         {
+          "name": "Club WWE Members Offer",
+          "start": "2026-11-25T15:00:00Z",
+          "end": "2026-12-01T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
           "name": "VIP Package Presale",
           "start": "2026-10-01T14:00:00Z",
           "end": "2026-10-02T03:59:00Z",
@@ -1226,7 +1233,7 @@
         "on your watchlist",
         "42 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
