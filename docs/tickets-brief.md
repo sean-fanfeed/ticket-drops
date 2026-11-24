@@ -1,4 +1,4 @@
-38 ticket drops scoring 60+ in the next 14 days.
+50 ticket drops scoring 60+ in the next 14 days.
 
   70 - WWE
   Akins Arena at The Classic Center, Athens GA
@@ -43,12 +43,6 @@
   Face TBA - est. resale 1.4-2.45x face (low conf)
 
   72 - WWE
-  INTRUST Bank Arena, Wichita KS
-  On sale Fri 11 Sep, 9:00 AM (passed)
-  Event Mon 23 Nov, 3:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
-
-  72 - WWE
   Simmons Bank Arena, North Little Rock AR
   On sale Fri 11 Sep, 9:00 AM (passed)
   Event Mon 30 Nov, 5:30 PM
@@ -70,4 +64,10 @@
   Columbus Civic Center, Columbus GA
   On sale Fri 2 Oct, 8:00 AM (passed)
   Event Wed 30 Dec, 5:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  72 - WWE Holiday Live Tour, WWE
+  Mohegan Arena at Casey Plaza, Wilkes Barre PA
+  On sale Fri 2 Oct, 8:00 AM (passed)
+  Event Sat 26 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
