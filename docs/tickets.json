@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generated_utc": "2026-11-25T19:34:06Z",
-    "generated_local": "Wed 25 Nov, 12:34 PM",
-    "scanned": 596,
+    "generated_utc": "2026-11-25T20:37:22Z",
+    "generated_local": "Wed 25 Nov, 1:37 PM",
+    "scanned": 613,
     "surfaced": 52,
     "new": 0,
     "threshold": 60,
@@ -2359,8 +2359,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Friday Night SmackDown"
+        "WWE"
       ],
       "artist_upcoming": 42,
       "venue": "FedExForum",
