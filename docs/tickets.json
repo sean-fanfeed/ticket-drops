@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-25T17:37:04Z",
-    "generated_local": "Wed 25 Nov, 10:37 AM",
-    "scanned": 587,
+    "generated_utc": "2026-11-25T19:34:06Z",
+    "generated_local": "Wed 25 Nov, 12:34 PM",
+    "scanned": 596,
     "surfaced": 52,
-    "new": 3,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -3753,7 +3753,7 @@
       "artists": [
         "Emo Night Brooklyn"
       ],
-      "artist_upcoming": 13,
+      "artist_upcoming": 14,
       "venue": "Brighton Music Hall presented by Citizens",
       "city": "Boston",
       "state": "MA",
@@ -3783,7 +3783,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Emo+Night+Brooklyn",
       "score": 60,
       "score_parts": {
-        "demand": 16.0,
+        "demand": 16.5,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
