@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-24T23:04:41Z",
-    "generated_local": "Tue 24 Nov, 4:04 PM",
-    "scanned": 830,
-    "surfaced": 50,
-    "new": 0,
+    "generated_utc": "2026-11-25T17:37:04Z",
+    "generated_local": "Wed 25 Nov, 10:37 AM",
+    "scanned": 587,
+    "surfaced": 52,
+    "new": 3,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -388,6 +388,13 @@
           "end": "2026-11-28T03:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "Club WWE Members Offer",
+          "start": "2026-11-25T15:00:00Z",
+          "end": "2026-12-01T04:59:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -413,7 +420,7 @@
         "42 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "3 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -455,6 +462,13 @@
           "end": "2026-11-24T04:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "Club WWE Members Offer",
+          "start": "2026-11-25T16:00:00Z",
+          "end": "2026-12-01T00:30:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -480,7 +494,7 @@
         "42 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "3 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -840,6 +854,13 @@
           "how": "Cash in and Save Ticket Offer"
         },
         {
+          "name": "Club WWE Members Offer",
+          "start": "2026-11-25T15:00:00Z",
+          "end": "2026-12-01T04:59:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
           "name": "VIP Package Presale",
           "start": "2026-10-01T14:00:00Z",
           "end": "2026-10-02T02:00:00Z",
@@ -877,7 +898,7 @@
         "42 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "4 presale(s)"
+        "5 presale(s)"
       ]
     },
     {
@@ -1474,6 +1495,13 @@
           "end": "2026-12-23T04:00:00Z",
           "url": "",
           "how": ""
+        },
+        {
+          "name": "Club WWE Members Offer",
+          "start": "2026-11-25T16:00:00Z",
+          "end": "2026-12-01T05:59:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -1498,7 +1526,7 @@
         "on your watchlist",
         "42 upcoming dates (heavy routing)",
         "est. 1.4-2.5x face",
-        "3 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -1799,6 +1827,13 @@
           "end": "2026-12-11T03:00:00Z",
           "url": "",
           "how": "For events with prior presales, availability may be limited."
+        },
+        {
+          "name": "Club WWE Members Offer",
+          "start": "2026-11-25T15:00:00Z",
+          "end": "2026-12-01T04:59:00Z",
+          "url": "",
+          "how": ""
         }
       ],
       "price_min": null,
@@ -1824,7 +1859,7 @@
         "42 upcoming dates (heavy routing)",
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
-        "3 presale(s)"
+        "4 presale(s)"
       ]
     },
     {
@@ -2324,7 +2359,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Friday Night SmackDown"
       ],
       "artist_upcoming": 42,
       "venue": "FedExForum",
@@ -2877,45 +2913,146 @@
       ]
     },
     {
-      "id": "1A4Zk4zGkelu7J_",
-      "name": "Thievery Corporation",
-      "url": "https://www.ticketmaster.com/thievery-corporation-washington-district-of-columbia-12-21-2026/event/15006578AB344999",
+      "id": "vvG1YZ_9xxWNpK",
+      "name": "M\u00ddA",
+      "url": "https://www.ticketmaster.com/mya-dallas-texas-03-09-2027/event/0C006578A2F63593",
       "segment": "Music",
-      "genre": "Dance/Electronic",
+      "genre": "R&B",
       "artists": [
-        "Thievery Corporation"
+        "Mya"
       ],
-      "artist_upcoming": 16,
-      "venue": "9:30 CLUB",
-      "city": "Washington",
-      "state": "DC",
-      "capacity": 1200,
-      "capacity_source": "exact",
-      "event_date": "2026-12-22T01:00:00Z",
-      "onsale_start": "2026-11-24T19:00:00Z",
-      "onsale_end": "2026-12-22T03:00:00Z",
+      "artist_upcoming": 13,
+      "venue": "The Echo Lounge & Music Hall",
+      "city": "Dallas",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-10T01:00:00Z",
+      "onsale_start": "2026-11-25T16:00:00Z",
+      "onsale_end": "2027-03-10T03:00:00Z",
+      "presales": [
+        {
+          "name": "VIP Package Onsale",
+          "start": "2026-11-25T16:00:00Z",
+          "end": "2027-03-03T04:00:00Z",
+          "url": "",
+          "how": ""
+        },
+        {
+          "name": "Citi\u00ae Cardmember Preferred Tickets",
+          "start": "2026-11-25T16:00:00Z",
+          "end": "2027-02-10T04:00:00Z",
+          "url": "",
+          "how": "For Citi\u00ae Cardmembers"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Mya",
+      "score": 63,
+      "score_parts": {
+        "demand": 16.0,
+        "scarcity": 18.7,
+        "markup": 18.2,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.45,
+        2.3
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.4-2.3x face",
+        "2 presale(s)"
+      ]
+    },
+    {
+      "id": "k7vGF_9N8oB10",
+      "name": "The World Famous Harlem Gospel Choir - Christmas Show",
+      "url": "https://www.ticketmaster.com/the-world-famous-harlem-gospel-choir-new-york-new-york-12-26-2026/event/00006578D047A2A4",
+      "segment": "Music",
+      "genre": "Religious",
+      "artists": [
+        "Harlem Gospel Choir"
+      ],
+      "artist_upcoming": 37,
+      "venue": "Sony Hall",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-27T01:00:00Z",
+      "onsale_start": "2026-11-25T16:00:00Z",
+      "onsale_end": "2026-12-27T03:00:00Z",
       "presales": [],
       "price_min": null,
       "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Thievery+Corporation",
+      "seatgeek_url": "https://seatgeek.com/search?search=Harlem+Gospel+Choir",
       "score": 60,
       "score_parts": {
-        "demand": 17.2,
-        "scarcity": 20.7,
-        "markup": 16.1,
+        "demand": 22.1,
+        "scarcity": 19.6,
+        "markup": 12.0,
         "timing": 6.0
       },
       "confidence": "low",
       "on_watchlist": false,
       "resale_multiple": [
-        1.35,
-        2.2
+        1.25,
+        1.9
       ],
       "est_resale_min": null,
       "est_resale_max": null,
       "reasons": [
-        "small room (1,200 cap)",
-        "est. 1.3-2.2x face"
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)"
+      ]
+    },
+    {
+      "id": "k7vGF_9N83Q1J",
+      "name": "The World Famous Harlem Gospel Choir - Christmas Show",
+      "url": "https://www.ticketmaster.com/the-world-famous-harlem-gospel-choir-new-york-new-york-12-27-2026/event/00006578D049A2A6",
+      "segment": "Music",
+      "genre": "Religious",
+      "artists": [
+        "Harlem Gospel Choir"
+      ],
+      "artist_upcoming": 37,
+      "venue": "Sony Hall",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 1500,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-28T01:00:00Z",
+      "onsale_start": "2026-11-25T16:00:00Z",
+      "onsale_end": "2026-12-28T03:00:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Harlem+Gospel+Choir",
+      "score": 60,
+      "score_parts": {
+        "demand": 22.1,
+        "scarcity": 19.6,
+        "markup": 12.0,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.25,
+        1.9
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,500 cap)",
+        "~1,500 cap (from venue type)"
       ]
     },
     {
@@ -2927,7 +3064,7 @@
       "artists": [
         "Lisa Fischer"
       ],
-      "artist_upcoming": 18,
+      "artist_upcoming": 19,
       "venue": "Jimmy's Jazz and Blues Club",
       "city": "Portsmouth",
       "state": "NH",
@@ -2964,7 +3101,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Lisa+Fischer",
       "score": 66,
       "score_parts": {
-        "demand": 17.9,
+        "demand": 18.2,
         "scarcity": 22.7,
         "markup": 15.1,
         "timing": 10.0
@@ -2993,7 +3130,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -3037,7 +3174,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -3065,7 +3202,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -3109,7 +3246,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -3137,7 +3274,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -3181,7 +3318,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -3209,7 +3346,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -3253,7 +3390,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -3281,7 +3418,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -3325,7 +3462,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -3353,7 +3490,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "The Fillmore",
       "city": "San Francisco",
       "state": "CA",
@@ -3397,7 +3534,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 20.9,
         "markup": 15.1,
         "timing": 10.0
@@ -3425,7 +3562,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "White Oak Music Hall Lawn",
       "city": "Houston",
       "state": "TX",
@@ -3455,7 +3592,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 63,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
@@ -3484,7 +3621,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "Linda Ronstadt Music Hall",
       "city": "Tucson",
       "state": "AZ",
@@ -3528,7 +3665,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 63,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 18.7,
         "markup": 15.1,
         "timing": 10.0
@@ -3557,7 +3694,7 @@
       "artists": [
         "Wilco"
       ],
-      "artist_upcoming": 21,
+      "artist_upcoming": 23,
       "venue": "Taft Theatre",
       "city": "Cincinnati",
       "state": "OH",
@@ -3587,7 +3724,7 @@
       "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
       "score": 62,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 19.3,
         "scarcity": 17.7,
         "markup": 15.1,
         "timing": 10.0
@@ -3734,7 +3871,7 @@
       "artists": [
         "Sam Barber"
       ],
-      "artist_upcoming": 30,
+      "artist_upcoming": 31,
       "venue": "White Oak Music Hall Lawn",
       "city": "Houston",
       "state": "TX",
@@ -3776,12 +3913,12 @@
       "price_min": null,
       "price_max": null,
       "seatgeek_url": "https://seatgeek.com/search?search=Sam+Barber",
-      "score": 66,
+      "score": 69,
       "score_parts": {
-        "demand": 20.9,
+        "demand": 21.1,
         "scarcity": 18.7,
         "markup": 22.4,
-        "timing": 4.0
+        "timing": 7.0
       },
       "confidence": "low",
       "on_watchlist": false,
