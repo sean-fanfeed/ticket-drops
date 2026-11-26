@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-25T22:37:12Z",
-    "generated_local": "Wed 25 Nov, 3:37 PM",
-    "scanned": 625,
-    "surfaced": 52,
-    "new": 0,
+    "generated_utc": "2026-11-26T17:18:37Z",
+    "generated_local": "Thu 26 Nov, 10:18 AM",
+    "scanned": 536,
+    "surfaced": 50,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2912,149 +2912,6 @@
       ]
     },
     {
-      "id": "vvG1YZ_9xxWNpK",
-      "name": "M\u00ddA",
-      "url": "https://www.ticketmaster.com/mya-dallas-texas-03-09-2027/event/0C006578A2F63593",
-      "segment": "Music",
-      "genre": "R&B",
-      "artists": [
-        "Mya"
-      ],
-      "artist_upcoming": 13,
-      "venue": "The Echo Lounge & Music Hall",
-      "city": "Dallas",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-10T01:00:00Z",
-      "onsale_start": "2026-11-25T16:00:00Z",
-      "onsale_end": "2027-03-10T03:00:00Z",
-      "presales": [
-        {
-          "name": "VIP Package Onsale",
-          "start": "2026-11-25T16:00:00Z",
-          "end": "2027-03-03T04:00:00Z",
-          "url": "",
-          "how": ""
-        },
-        {
-          "name": "Citi\u00ae Cardmember Preferred Tickets",
-          "start": "2026-11-25T16:00:00Z",
-          "end": "2027-02-10T04:00:00Z",
-          "url": "",
-          "how": "For Citi\u00ae Cardmembers"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Mya",
-      "score": 63,
-      "score_parts": {
-        "demand": 16.0,
-        "scarcity": 18.7,
-        "markup": 18.2,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.45,
-        2.3
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.4-2.3x face",
-        "2 presale(s)"
-      ]
-    },
-    {
-      "id": "k7vGF_9N8oB10",
-      "name": "The World Famous Harlem Gospel Choir - Christmas Show",
-      "url": "https://www.ticketmaster.com/the-world-famous-harlem-gospel-choir-new-york-new-york-12-26-2026/event/00006578D047A2A4",
-      "segment": "Music",
-      "genre": "Religious",
-      "artists": [
-        "Harlem Gospel Choir"
-      ],
-      "artist_upcoming": 37,
-      "venue": "Sony Hall",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2026-12-27T01:00:00Z",
-      "onsale_start": "2026-11-25T16:00:00Z",
-      "onsale_end": "2026-12-27T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Harlem+Gospel+Choir",
-      "score": 60,
-      "score_parts": {
-        "demand": 22.1,
-        "scarcity": 19.6,
-        "markup": 12.0,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)"
-      ]
-    },
-    {
-      "id": "k7vGF_9N83Q1J",
-      "name": "The World Famous Harlem Gospel Choir - Christmas Show",
-      "url": "https://www.ticketmaster.com/the-world-famous-harlem-gospel-choir-new-york-new-york-12-27-2026/event/00006578D049A2A6",
-      "segment": "Music",
-      "genre": "Religious",
-      "artists": [
-        "Harlem Gospel Choir"
-      ],
-      "artist_upcoming": 37,
-      "venue": "Sony Hall",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 1500,
-      "capacity_source": "venue type",
-      "event_date": "2026-12-28T01:00:00Z",
-      "onsale_start": "2026-11-25T16:00:00Z",
-      "onsale_end": "2026-12-28T03:00:00Z",
-      "presales": [],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Harlem+Gospel+Choir",
-      "score": 60,
-      "score_parts": {
-        "demand": 22.1,
-        "scarcity": 19.6,
-        "markup": 12.0,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.25,
-        1.9
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,500 cap)",
-        "~1,500 cap (from venue type)"
-      ]
-    },
-    {
       "id": "vv1AvZk4MGkdbDqB7",
       "name": "Lisa Fischer",
       "url": "https://www.ticketmaster.com/lisa-fischer-portsmouth-new-hampshire-02-07-2027/event/01006577D8EDDE84",
@@ -3862,6 +3719,50 @@
       ]
     },
     {
+      "id": "1A9Zk4yGkdqRVEF",
+      "name": "MJ LIVE  Michael Jackson Tribute Concert",
+      "url": "https://www.ticketmaster.com/mj-live-michael-jackson-tribute-concert-las-vegas-nevada-12-06-2026/event/17006579DDBF49C8",
+      "segment": "Music",
+      "genre": "Undefined",
+      "artists": [
+        "MJ LIVE \u2013 Michael Jackson Tribute Concert"
+      ],
+      "artist_upcoming": 385,
+      "venue": "Saxe Theater at Planet Hollywood Inside the Miracle Mile Mall",
+      "city": "Las Vegas",
+      "state": "NV",
+      "capacity": 2200,
+      "capacity_source": "venue type",
+      "event_date": "2026-12-07T04:30:00Z",
+      "onsale_start": "2026-11-30T17:00:00Z",
+      "onsale_end": "2026-12-07T04:30:00Z",
+      "presales": [],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=MJ+LIVE+%E2%80%93+Michael+Jackson+Tribute+Concert",
+      "score": 67,
+      "score_parts": {
+        "demand": 28,
+        "scarcity": 17.7,
+        "markup": 15.1,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "385 upcoming dates (heavy routing)",
+        "small room (2,200 cap)",
+        "~2,200 cap (from venue type)",
+        "est. 1.4-2.1x face"
+      ]
+    },
+    {
       "id": "G5dIZ_9CSUqji",
       "name": "Sam Barber: The Outlier World Tour",
       "url": "https://www.ticketmaster.com/sam-barber-the-outlier-world-tour-houston-texas-05-16-2027/event/3A006573B3D9D72C",
@@ -3906,7 +3807,7 @@
           "start": "2026-12-01T16:00:00Z",
           "end": "2026-12-03T04:00:00Z",
           "url": "",
-          "how": "Exclusive Presale for American Express Cardholders"
+          "how": "Available for Card Members, while supplies last. Terms apply."
         }
       ],
       "price_min": null,
