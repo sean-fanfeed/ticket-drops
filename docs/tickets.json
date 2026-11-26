@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-26T19:15:30Z",
-    "generated_local": "Thu 26 Nov, 12:15 PM",
-    "scanned": 541,
-    "surfaced": 50,
-    "new": 0,
+    "generated_utc": "2026-11-26T20:29:59Z",
+    "generated_local": "Thu 26 Nov, 1:29 PM",
+    "scanned": 551,
+    "surfaced": 54,
+    "new": 4,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -2909,6 +2909,178 @@
         "~16,000 cap (from venue type)",
         "est. 1.4-2.5x face",
         "6 presale(s)"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1A4vSJK",
+      "name": "Talib Kweli & Friends with Live Band",
+      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15073993",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Talib Kweli"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Blue Note Jazz Club",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-17T02:30:00Z",
+      "onsale_start": "2026-11-26T14:45:00Z",
+      "onsale_end": "2027-03-17T02:30:00Z",
+      "presales": [],
+      "price_min": 49.57,
+      "price_max": 60.9,
+      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
+      "score": 69,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 22.7,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": 77,
+      "est_resale_max": 152,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.5-2.5x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1A4vSPS",
+      "name": "Talib Kweli & Friends with Live Band",
+      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15073973",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Talib Kweli"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Blue Note Jazz Club",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-17T00:00:00Z",
+      "onsale_start": "2026-11-26T14:45:00Z",
+      "onsale_end": "2027-03-17T00:00:00Z",
+      "presales": [],
+      "price_min": 49.57,
+      "price_max": 60.9,
+      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
+      "score": 69,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 22.7,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": 77,
+      "est_resale_max": 152,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.5-2.5x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1A4vSJd",
+      "name": "Talib Kweli & Friends with Live Band",
+      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15073983",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Talib Kweli"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Blue Note Jazz Club",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-18T02:30:00Z",
+      "onsale_start": "2026-11-26T14:45:00Z",
+      "onsale_end": "2027-03-18T02:30:00Z",
+      "presales": [],
+      "price_min": 49.57,
+      "price_max": 60.9,
+      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
+      "score": 69,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 22.7,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": 77,
+      "est_resale_max": 152,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.5-2.5x face"
+      ]
+    },
+    {
+      "id": "rZ7HnEZ1A4vVZd",
+      "name": "Talib Kweli & Friends with Live Band",
+      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15074003",
+      "segment": "Music",
+      "genre": "Hip-Hop/Rap",
+      "artists": [
+        "Talib Kweli"
+      ],
+      "artist_upcoming": 21,
+      "venue": "Blue Note Jazz Club",
+      "city": "New York",
+      "state": "NY",
+      "capacity": 800,
+      "capacity_source": "venue type",
+      "event_date": "2027-03-18T00:00:00Z",
+      "onsale_start": "2026-11-26T14:45:00Z",
+      "onsale_end": "2027-03-18T00:00:00Z",
+      "presales": [],
+      "price_min": 49.57,
+      "price_max": 60.9,
+      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
+      "score": 69,
+      "score_parts": {
+        "demand": 18.8,
+        "scarcity": 22.7,
+        "markup": 21.4,
+        "timing": 6.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.55,
+        2.5
+      ],
+      "est_resale_min": 77,
+      "est_resale_max": 152,
+      "reasons": [
+        "small room (800 cap)",
+        "~800 cap (from venue type)",
+        "est. 1.5-2.5x face"
       ]
     },
     {
