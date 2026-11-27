@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-26T22:25:20Z",
-    "generated_local": "Thu 26 Nov, 3:25 PM",
-    "scanned": 552,
-    "surfaced": 54,
-    "new": 0,
+    "generated_utc": "2026-11-27T16:58:41Z",
+    "generated_local": "Fri 27 Nov, 9:58 AM",
+    "scanned": 447,
+    "surfaced": 51,
+    "new": 1,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
@@ -281,7 +281,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Monday Night RAW"
       ],
       "artist_upcoming": 42,
       "venue": "Huntington Center",
@@ -1794,8 +1795,7 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE",
-        "WWE Holiday Live Tour"
+        "WWE"
       ],
       "artist_upcoming": 42,
       "venue": "CURE Insurance Arena",
@@ -2359,7 +2359,8 @@
       "segment": "Sports",
       "genre": "Wrestling",
       "artists": [
-        "WWE"
+        "WWE",
+        "WWE Friday Night SmackDown"
       ],
       "artist_upcoming": 42,
       "venue": "FedExForum",
@@ -2912,30 +2913,30 @@
       ]
     },
     {
-      "id": "rZ7HnEZ1A4vSJK",
-      "name": "Talib Kweli & Friends with Live Band",
-      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15073993",
+      "id": "rZ7HnEZ1A4vVGN",
+      "name": "Anuel",
+      "url": "https://www.ticketweb.com/event/anuel-liv-nightclub-miami-tickets/15074323",
       "segment": "Music",
       "genre": "Hip-Hop/Rap",
       "artists": [
-        "Talib Kweli"
+        "Anuel AA"
       ],
-      "artist_upcoming": 21,
-      "venue": "Blue Note Jazz Club",
-      "city": "New York",
-      "state": "NY",
+      "artist_upcoming": 10,
+      "venue": "LIV Nightclub Miami",
+      "city": "Miami Beach",
+      "state": "FL",
       "capacity": 800,
       "capacity_source": "venue type",
-      "event_date": "2027-03-17T02:30:00Z",
-      "onsale_start": "2026-11-26T14:45:00Z",
-      "onsale_end": "2027-03-17T02:30:00Z",
+      "event_date": "2026-11-28T04:30:00Z",
+      "onsale_start": "2026-11-27T13:33:00Z",
+      "onsale_end": "2026-11-28T04:30:00Z",
       "presales": [],
-      "price_min": 49.57,
-      "price_max": 60.9,
-      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
-      "score": 69,
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Anuel+AA",
+      "score": 65,
       "score_parts": {
-        "demand": 18.8,
+        "demand": 14.6,
         "scarcity": 22.7,
         "markup": 21.4,
         "timing": 6.0
@@ -2946,137 +2947,8 @@
         1.55,
         2.5
       ],
-      "est_resale_min": 77,
-      "est_resale_max": 152,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.5-2.5x face"
-      ]
-    },
-    {
-      "id": "rZ7HnEZ1A4vSPS",
-      "name": "Talib Kweli & Friends with Live Band",
-      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15073973",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "Talib Kweli"
-      ],
-      "artist_upcoming": 21,
-      "venue": "Blue Note Jazz Club",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-17T00:00:00Z",
-      "onsale_start": "2026-11-26T14:45:00Z",
-      "onsale_end": "2027-03-17T00:00:00Z",
-      "presales": [],
-      "price_min": 49.57,
-      "price_max": 60.9,
-      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
-      "score": 69,
-      "score_parts": {
-        "demand": 18.8,
-        "scarcity": 22.7,
-        "markup": 21.4,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": 77,
-      "est_resale_max": 152,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.5-2.5x face"
-      ]
-    },
-    {
-      "id": "rZ7HnEZ1A4vSJd",
-      "name": "Talib Kweli & Friends with Live Band",
-      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15073983",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "Talib Kweli"
-      ],
-      "artist_upcoming": 21,
-      "venue": "Blue Note Jazz Club",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-18T02:30:00Z",
-      "onsale_start": "2026-11-26T14:45:00Z",
-      "onsale_end": "2027-03-18T02:30:00Z",
-      "presales": [],
-      "price_min": 49.57,
-      "price_max": 60.9,
-      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
-      "score": 69,
-      "score_parts": {
-        "demand": 18.8,
-        "scarcity": 22.7,
-        "markup": 21.4,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": 77,
-      "est_resale_max": 152,
-      "reasons": [
-        "small room (800 cap)",
-        "~800 cap (from venue type)",
-        "est. 1.5-2.5x face"
-      ]
-    },
-    {
-      "id": "rZ7HnEZ1A4vVZd",
-      "name": "Talib Kweli & Friends with Live Band",
-      "url": "https://www.ticketweb.com/event/talib-kweli-friends-with-blue-note-jazz-club-tickets/15074003",
-      "segment": "Music",
-      "genre": "Hip-Hop/Rap",
-      "artists": [
-        "Talib Kweli"
-      ],
-      "artist_upcoming": 21,
-      "venue": "Blue Note Jazz Club",
-      "city": "New York",
-      "state": "NY",
-      "capacity": 800,
-      "capacity_source": "venue type",
-      "event_date": "2027-03-18T00:00:00Z",
-      "onsale_start": "2026-11-26T14:45:00Z",
-      "onsale_end": "2027-03-18T00:00:00Z",
-      "presales": [],
-      "price_min": 49.57,
-      "price_max": 60.9,
-      "seatgeek_url": "https://seatgeek.com/search?search=Talib+Kweli",
-      "score": 69,
-      "score_parts": {
-        "demand": 18.8,
-        "scarcity": 22.7,
-        "markup": 21.4,
-        "timing": 6.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.55,
-        2.5
-      ],
-      "est_resale_min": 77,
-      "est_resale_max": 152,
+      "est_resale_min": null,
+      "est_resale_max": null,
       "reasons": [
         "small room (800 cap)",
         "~800 cap (from venue type)",
@@ -3150,9 +3022,9 @@
       ]
     },
     {
-      "id": "G5vYZ_91UaoOK",
-      "name": "An Evening with Wilco - 5 Show Ticket",
-      "url": "https://www.ticketmaster.com/an-evening-with-wilco-5-show-san-francisco-california-05-09-2027/event/1C006572B6251813",
+      "id": "G5vYZ_91U6sOF",
+      "name": "An Evening with Wilco - Wilcoworld Tour 2027",
+      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-san-francisco-california-05-14-2027/event/1C006572B61F1808",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -3164,7 +3036,7 @@
       "state": "CA",
       "capacity": 1150,
       "capacity_source": "exact",
-      "event_date": "2027-05-09",
+      "event_date": "2027-05-15T03:00:00Z",
       "onsale_start": "2026-11-27T15:00:00Z",
       "onsale_end": "2027-05-15T05:00:00Z",
       "presales": [
@@ -3294,9 +3166,9 @@
       ]
     },
     {
-      "id": "G5vYZ_91U7oLu",
+      "id": "G5vYZ_91UksLi",
       "name": "An Evening with Wilco - Wilcoworld Tour 2027",
-      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-san-francisco-california-05-10-2027/event/1C006572B61117CD",
+      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-san-francisco-california-05-13-2027/event/1C006572B61B17EC",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -3308,9 +3180,9 @@
       "state": "CA",
       "capacity": 1150,
       "capacity_source": "exact",
-      "event_date": "2027-05-11T03:00:00Z",
+      "event_date": "2027-05-14T03:00:00Z",
       "onsale_start": "2026-11-27T15:00:00Z",
-      "onsale_end": "2027-05-11T05:00:00Z",
+      "onsale_end": "2027-05-14T05:00:00Z",
       "presales": [
         {
           "name": "Citi\u00ae Cardmember Presale",
@@ -3438,9 +3310,9 @@
       ]
     },
     {
-      "id": "G5vYZ_91UksLi",
+      "id": "G5vYZ_91U7oLu",
       "name": "An Evening with Wilco - Wilcoworld Tour 2027",
-      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-san-francisco-california-05-13-2027/event/1C006572B61B17EC",
+      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-san-francisco-california-05-10-2027/event/1C006572B61117CD",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -3452,9 +3324,9 @@
       "state": "CA",
       "capacity": 1150,
       "capacity_source": "exact",
-      "event_date": "2027-05-14T03:00:00Z",
+      "event_date": "2027-05-11T03:00:00Z",
       "onsale_start": "2026-11-27T15:00:00Z",
-      "onsale_end": "2027-05-14T05:00:00Z",
+      "onsale_end": "2027-05-11T05:00:00Z",
       "presales": [
         {
           "name": "Citi\u00ae Cardmember Presale",
@@ -3510,9 +3382,9 @@
       ]
     },
     {
-      "id": "G5vYZ_91U6sOF",
-      "name": "An Evening with Wilco - Wilcoworld Tour 2027",
-      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-san-francisco-california-05-14-2027/event/1C006572B61F1808",
+      "id": "G5vYZ_91UaoOK",
+      "name": "An Evening with Wilco - 5 Show Ticket",
+      "url": "https://www.ticketmaster.com/an-evening-with-wilco-5-show-san-francisco-california-05-09-2027/event/1C006572B6251813",
       "segment": "Music",
       "genre": "Rock",
       "artists": [
@@ -3524,7 +3396,7 @@
       "state": "CA",
       "capacity": 1150,
       "capacity_source": "exact",
-      "event_date": "2027-05-15T03:00:00Z",
+      "event_date": "2027-05-09",
       "onsale_start": "2026-11-27T15:00:00Z",
       "onsale_end": "2027-05-15T05:00:00Z",
       "presales": [
@@ -3579,65 +3451,6 @@
         "small room (1,150 cap)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
-      ]
-    },
-    {
-      "id": "G5dIZ_9250wQ2",
-      "name": "An Evening with Wilco: Wilcoworld Tour 2027",
-      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-houston-texas-04-23-2027/event/3A006573CB93268F",
-      "segment": "Music",
-      "genre": "Rock",
-      "artists": [
-        "Wilco"
-      ],
-      "artist_upcoming": 23,
-      "venue": "White Oak Music Hall Lawn",
-      "city": "Houston",
-      "state": "TX",
-      "capacity": 1800,
-      "capacity_source": "venue type",
-      "event_date": "2027-04-24T00:00:00Z",
-      "onsale_start": "2026-11-27T15:00:00Z",
-      "onsale_end": "2027-04-24T03:00:00Z",
-      "presales": [
-        {
-          "name": "Wilco Artist Presale",
-          "start": "2026-11-25T15:00:00Z",
-          "end": "2026-11-27T14:55:00Z",
-          "url": "",
-          "how": "Wilco Artist Presale"
-        },
-        {
-          "name": "Local Presale",
-          "start": "2026-11-26T16:00:00Z",
-          "end": "2026-11-27T14:55:00Z",
-          "url": "",
-          "how": "Local Presale"
-        }
-      ],
-      "price_min": null,
-      "price_max": null,
-      "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
-      "score": 63,
-      "score_parts": {
-        "demand": 19.3,
-        "scarcity": 18.7,
-        "markup": 15.1,
-        "timing": 10.0
-      },
-      "confidence": "low",
-      "on_watchlist": false,
-      "resale_multiple": [
-        1.35,
-        2.1
-      ],
-      "est_resale_min": null,
-      "est_resale_max": null,
-      "reasons": [
-        "small room (1,800 cap)",
-        "~1,800 cap (from venue type)",
-        "est. 1.3-2.1x face",
-        "2 presale(s)"
       ]
     },
     {
@@ -3711,6 +3524,65 @@
         "~1,800 cap (from venue type)",
         "est. 1.3-2.1x face",
         "4 presale(s)"
+      ]
+    },
+    {
+      "id": "G5dIZ_9250wQ2",
+      "name": "An Evening with Wilco: Wilcoworld Tour 2027",
+      "url": "https://www.ticketmaster.com/an-evening-with-wilco-wilcoworld-tour-houston-texas-04-23-2027/event/3A006573CB93268F",
+      "segment": "Music",
+      "genre": "Rock",
+      "artists": [
+        "Wilco"
+      ],
+      "artist_upcoming": 23,
+      "venue": "White Oak Music Hall Lawn",
+      "city": "Houston",
+      "state": "TX",
+      "capacity": 1800,
+      "capacity_source": "venue type",
+      "event_date": "2027-04-24T00:00:00Z",
+      "onsale_start": "2026-11-27T15:00:00Z",
+      "onsale_end": "2027-04-24T03:00:00Z",
+      "presales": [
+        {
+          "name": "Wilco Artist Presale",
+          "start": "2026-11-25T15:00:00Z",
+          "end": "2026-11-27T14:55:00Z",
+          "url": "",
+          "how": "Wilco Artist Presale"
+        },
+        {
+          "name": "Local Presale",
+          "start": "2026-11-26T16:00:00Z",
+          "end": "2026-11-27T14:55:00Z",
+          "url": "",
+          "how": "Local Presale"
+        }
+      ],
+      "price_min": null,
+      "price_max": null,
+      "seatgeek_url": "https://seatgeek.com/search?search=Wilco",
+      "score": 63,
+      "score_parts": {
+        "demand": 19.3,
+        "scarcity": 18.7,
+        "markup": 15.1,
+        "timing": 10.0
+      },
+      "confidence": "low",
+      "on_watchlist": false,
+      "resale_multiple": [
+        1.35,
+        2.1
+      ],
+      "est_resale_min": null,
+      "est_resale_max": null,
+      "reasons": [
+        "small room (1,800 cap)",
+        "~1,800 cap (from venue type)",
+        "est. 1.3-2.1x face",
+        "2 presale(s)"
       ]
     },
     {
