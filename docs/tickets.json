@@ -1,10 +1,10 @@
 {
   "meta": {
-    "generated_utc": "2026-11-27T16:58:41Z",
-    "generated_local": "Fri 27 Nov, 9:58 AM",
-    "scanned": 447,
+    "generated_utc": "2026-11-27T19:09:36Z",
+    "generated_local": "Fri 27 Nov, 12:09 PM",
+    "scanned": 486,
     "surfaced": 51,
-    "new": 1,
+    "new": 0,
     "threshold": 60,
     "days": 14,
     "seatgeek": false
