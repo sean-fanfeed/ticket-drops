@@ -1,10 +1,4 @@
-51 ticket drops scoring 60+ in the next 14 days.
-
-  70 - WWE
-  Akins Arena at The Classic Center, Athens GA
-  On sale Sun 31 Dec, 11:00 PM (passed)
-  Event Fri 27 Nov, 5:30 PM
-  Face TBA - est. resale 1.4-2.45x face (low conf)
+37 ticket drops scoring 60+ in the next 14 days.
 
   68 - WWE
   PeoplesBank Arena, Hartford CT
@@ -70,4 +64,10 @@
   Mohegan Arena at Casey Plaza, Wilkes Barre PA
   On sale Fri 2 Oct, 8:00 AM (passed)
   Event Sat 26 Dec, 5:30 PM
+  Face TBA - est. resale 1.4-2.45x face (low conf)
+
+  72 - WWE Holiday Live Tour, WWE
+  Hampton Coliseum, Hampton VA
+  On sale Fri 2 Oct, 8:00 AM (passed)
+  Event Sun 27 Dec, 5:30 PM
   Face TBA - est. resale 1.4-2.45x face (low conf)
